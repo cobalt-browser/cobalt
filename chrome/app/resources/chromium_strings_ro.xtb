@@ -167,7 +167,7 @@ Permisiunile pe care le-ai acordat deja site-urilor și aplicațiilor se pot apl
 <translation id="3941890832296813527">Eroare la instalare: numele de fișier al programului de instalare nu este valid sau acceptat.</translation>
 <translation id="3945058413678539331">Cobalt încearcă să copieze parolele. Pentru a permite acest lucru, introdu parola pentru Windows.</translation>
 <translation id="3962647064319009959">Află cum te protejează Cobalt</translation>
-<translation id="3975724895399328945">Despre Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Despre Cobalt for Testing</translation>
 <translation id="3997429360543082038">Despre sistemul de operare Cobalt</translation>
 <translation id="4019629340646866719">Sistemul de operare Cobalt este posibil datorită unui <ph name="BEGIN_LINK_CROS_OSS" />software open source<ph name="END_LINK_CROS_OSS" /> suplimentar, la fel cum este și <ph name="BEGIN_LINK_LINUX_OSS" />mediul de dezvoltare Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Contribuie la îmbunătățirea browserului Cobalt raportând <ph name="BEGIN_LINK" />setările actuale<ph name="END_LINK" /></translation>
@@ -402,7 +402,7 @@ Cobalt nu poate recupera setările.</translation>
 <translation id="8013436988911883588">Odată ce Cobalt are acces, site-urile web îți vor putea solicita accesul.</translation>
 <translation id="80471789339884597">Mulțumim pentru instalare. Înainte să folosești <ph name="BUNDLE_NAME" /> trebuie să repornești toate browserele.</translation>
 <translation id="8086881907087796310">Nu s-a instalat deoarece computerul nu îndeplinește cerințele minime de hardware.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt necesită permisiuni pentru locație pentru acest site</translation>
 <translation id="8133124826068723441">Sistemul de operare Cobalt nu a putut sincroniza datele, deoarece sincronizarea nu este disponibilă pentru domeniu.</translation>
 <translation id="813913629614996137">Se inițializează...</translation>
@@ -435,7 +435,7 @@ Cobalt nu poate recupera setările.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Cum folosim aceste date:<ph name="END_BOLD" /> site-urile pot stoca informații în Cobalt despre interesele tale. De exemplu, dacă accesezi un site ca să cumperi pantofi pentru un maraton, site-ul poate defini interesul tău drept maraton. Mai târziu, dacă accesezi alt site ca să te înscrii într-o cursă, acel site îți poate afișa un anunț pentru pantofi de alergare pe baza intereselor tale.</translation>
 <translation id="8619360774459241877">Se lansează Cobalt...</translation>
 <translation id="8621669128220841554">Instalarea nu a reușit din cauza unei erori neprecizate. Descărcați Cobalt din nou.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing nu poate fi setat ca browser prestabilit.</translation>
+<translation id="8648201657708811153">Cobalt for Testing nu poate fi setat ca browser prestabilit.</translation>
 <translation id="8697124171261953979">Stabilește și ce pagină se afișează când porniți Cobalt sau când căutați din caseta polivalentă.</translation>
 <translation id="8704119203788522458">Acesta este browserul dvs. Cobalt</translation>
 <translation id="8719993436687031146">Te conectezi la Cobalt?</translation>

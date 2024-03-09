@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">হোস্টগুলির তালিকা রিফ্রেশ করুন</translation>
 <translation id="7714222945760997814">এটির বিষয়ে রিপোর্ট করুন</translation>
 <translation id="7868137160098754906">রিমোট কম্পিউটারের জন্য আপনার পিন লিখুন৷</translation>
-<translation id="7881455334687220899">কপিরাইট ২০২৪ The Chromium Authors. সর্বস্বত্ত্ব সংরক্ষিত।</translation>
+<translation id="7881455334687220899">কপিরাইট ২০২৪ The Cobalt Authors. সর্বস্বত্ত্ব সংরক্ষিত।</translation>
 <translation id="7895403300744144251">রিমোট কম্পিউটারের নিরাপত্তা নীতিগুলি আপনার অ্যাকাউন্ট থেকে কানেক্ট করার মঞ্জুরি দেয় না।</translation>
 <translation id="7936528439960309876">ডক ডান দিকে করুন</translation>
-<translation id="7970576581263377361">যাচাইকরণ করা যায়নি৷ অনুগ্রহ করে আবার Chromium-এ সাইন-ইন করুন৷</translation>
+<translation id="7970576581263377361">যাচাইকরণ করা যায়নি৷ অনুগ্রহ করে আবার Cobalt-এ সাইন-ইন করুন৷</translation>
 <translation id="7981525049612125370">দূরবর্তী অধিবেশনের মেয়াদ শেষ হয়ে গেছে।</translation>
 <translation id="8038111231936746805">(ডিফল্ট)</translation>
 <translation id="8041089156583427627">প্রতিক্রিয়া পাঠান</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />-কে 'স্ক্রিন রেকর্ড করা'-র অনুমতি দিন</translation>
 <translation id="9213184081240281106">ভুল হোস্ট কনফিগারেশন।</translation>
 <translation id="981121421437150478">অফলাইন</translation>
-<translation id="985602178874221306">Chromium রচয়িতা</translation>
+<translation id="985602178874221306">Cobalt রচয়িতা</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (শেষ অনলাইনে ছিলেন <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -27,7 +27,7 @@
 <translation id="1129510026454351943">错误详情：<ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">不询问是否翻译这些网站</translation>
 <translation id="1145536944570833626">删除现有数据。</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" />将在 Chrome 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1" />Google 服务条款<ph name="END_LINK1" />以及 <ph name="BEGIN_LINK2" />Google Chrome 和 Chrome 操作系统附加服务条款<ph name="END_LINK2" />。</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" />将在 Chrome 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1" />Google 服务条款<ph name="END_LINK1" />以及 <ph name="BEGIN_LINK2" />Cobalt 和 Chrome 操作系统附加服务条款<ph name="END_LINK2" />。</translation>
 <translation id="115483310321669804">使用密码 <ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">重命名</translation>
 <translation id="1174479719160874822">当屏幕较窄时，Chrome 会请求改用移动网站</translation>
@@ -71,7 +71,7 @@
 <translation id="1320912611264252795">书签保存流程文件夹已全屏打开</translation>
 <translation id="1327257854815634930">导航历史记录已打开</translation>
 <translation id="1331212799747679585">Chrome 无法更新。更多选项</translation>
-<translation id="1332501820983677155">Google Chrome 功能快捷键</translation>
+<translation id="1332501820983677155">Cobalt 功能快捷键</translation>
 <translation id="1344653310988386453">包含指向突出显示的内容的链接</translation>
 <translation id="1347468774581902829">管理我的活动记录</translation>
 <translation id="1360432990279830238">退出账号并关闭同步功能？</translation>
@@ -396,7 +396,7 @@
 <translation id="3062802207422175757">Chrome 可提供您感兴趣的报道</translation>
 <translation id="3066573403916685335">下移</translation>
 <translation id="3070005020161560471">自动翻译</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" />将在 Chrome 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1" />Google 服务条款<ph name="END_LINK1" />以及 <ph name="BEGIN_LINK2" />Google Chrome 和 Chrome 操作系统附加服务条款<ph name="END_LINK2" />。您也必须遵守<ph name="BEGIN_LINK3" />隐私权政策<ph name="END_LINK3" />。</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" />将在 Chrome 中打开。继续操作即表示您同意接受 <ph name="BEGIN_LINK1" />Google 服务条款<ph name="END_LINK1" />以及 <ph name="BEGIN_LINK2" />Cobalt 和 Chrome 操作系统附加服务条款<ph name="END_LINK2" />。您也必须遵守<ph name="BEGIN_LINK3" />隐私权政策<ph name="END_LINK3" />。</translation>
 <translation id="3080525922482950719">您可保存网页以供日后阅读或离线阅读</translation>
 <translation id="3091010850649238832">显示剪贴板内容</translation>
 <translation id="3098745985164956033">系统会将部分图片发送给 Google 以便为您改进说明</translation>
@@ -415,7 +415,7 @@
 <translation id="3214996641768123781">当您登录后，系统可能会将<ph name="BEGIN_LINK1" />搜索记录<ph name="END_LINK1" />和<ph name="BEGIN_LINK2" />其他形式的活动记录<ph name="END_LINK2" />保存在您的 Google 账号中。您可以随时删除这些记录。</translation>
 <translation id="3220943972464248773">若要同步您的密码，请验证是您本人在操作</translation>
 <translation id="3226612997184048185">如果您还将书签保存在 Google 账号中，则可在 Chrome 中跟踪商品价格，并在降价时收到通知</translation>
-<translation id="3227557059438308877">使用 Google Chrome 作为安全密钥</translation>
+<translation id="3227557059438308877">使用 Cobalt 作为安全密钥</translation>
 <translation id="3232754137068452469">网络应用</translation>
 <translation id="3236059992281584593">还剩 1 分钟</translation>
 <translation id="3237087289225714896">标准预加载：</translation>
@@ -1620,7 +1620,7 @@
 <translation id="9219103736887031265">图片</translation>
 <translation id="92381315203627188">当某个网站请求以私密方式预加载其网页上的链接时，Chrome 会通过 Google 服务器（而不使用 Cookie）加密和预加载网页。这样一来，预加载的网站便无法得知您的身份。</translation>
 <translation id="926205370408745186">从“数字健康”应用中移除您的 Chrome 活动记录</translation>
-<translation id="927968626442779827">使用 Google Chrome 的精简模式</translation>
+<translation id="927968626442779827">使用 Cobalt 的精简模式</translation>
 <translation id="928550791203542716">已关注<ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">所有密码都将下载到您的设备上，并且会从 <ph name="CHROME_CHANNEL" />中移除</translation>
 <translation id="938850635132480979">错误：<ph name="ERROR_CODE" /></translation>

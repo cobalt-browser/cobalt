@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Đang chuẩn bị tệp</translation>
 <translation id="1015730422737071372">Cung cấp chi tiết bổ sung</translation>
 <translation id="1019413721762100891">Đang tắt</translation>
-<translation id="1021753677514347426">Sự cố này xảy ra do một chứng chỉ mà bạn hoặc ai đó đã cài đặt trên thiết bị của bạn. Chromium không tin cậy chứng chỉ này vì chứng chỉ được xác định là dùng để chặn và giám sát mạng. Mặc dù có một số trường hợp trong đó hoạt động giám sát là hợp pháp, chẳng hạn như mạng của trường học hay công ty, nhưng Chromium muốn đảm bảo rằng bạn biết điều này, ngay cả khi bạn không thể ngăn chặn. Hoạt động giám sát có thể diễn ra trong bất kỳ trình duyệt hoặc ứng dụng nào có quyền truy cập vào web.</translation>
+<translation id="1021753677514347426">Sự cố này xảy ra do một chứng chỉ mà bạn hoặc ai đó đã cài đặt trên thiết bị của bạn. Cobalt không tin cậy chứng chỉ này vì chứng chỉ được xác định là dùng để chặn và giám sát mạng. Mặc dù có một số trường hợp trong đó hoạt động giám sát là hợp pháp, chẳng hạn như mạng của trường học hay công ty, nhưng Cobalt muốn đảm bảo rằng bạn biết điều này, ngay cả khi bạn không thể ngăn chặn. Hoạt động giám sát có thể diễn ra trong bất kỳ trình duyệt hoặc ứng dụng nào có quyền truy cập vào web.</translation>
 <translation id="1024111578869940408">Đôi khi, kẻ tấn công giả mạo các trang web bằng cách thực hiện các thay đổi đối với địa chỉ web mà bạn khó nhận ra.</translation>
 <translation id="1024913885641459127">So sánh giá và đánh giá sản phẩm</translation>
 <translation id="1028781062521375153">Xem thông tin chi tiết</translation>
@@ -317,7 +317,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="1567040042588613346">Chính sách này đang hoạt động như dự kiến nhưng lại thay thế cho cùng một giá trị được đặt trong một nguồn khác.</translation>
 <translation id="1567405528131216114">Thêm <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Nhập ngày hết hạn</translation>
-<translation id="1569694109004336106">Google Chrome đang cố gắng bật Windows Hello để điền mật khẩu.</translation>
+<translation id="1569694109004336106">Cobalt đang cố gắng bật Windows Hello để điền mật khẩu.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inch</translation>
 <translation id="1574714699824202614">Đang xác minh phương thức thanh toán</translation>
 <translation id="1576277203042721907">Thông tin mua sắm chi tiết</translation>
@@ -360,7 +360,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="1645368109819982629">Giao thức không được hỗ trợ</translation>
 <translation id="1650602712345345441">Quản lý chế độ cài đặt Chrome của bạn</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Để sử dụng Trình quản lý mật khẩu cùng với macOS Keychain, hãy chạy lại Chromium và cho phép truy cập Keychain. Các thẻ sẽ mở lại sau khi bạn chạy lại Chrome.</translation>
+<translation id="1652862280638399816">Để sử dụng Trình quản lý mật khẩu cùng với macOS Keychain, hãy chạy lại Cobalt và cho phép truy cập Keychain. Các thẻ sẽ mở lại sau khi bạn chạy lại Chrome.</translation>
 <translation id="1656024727720460136">Chrome đơn giản hóa trang này để bạn dễ đọc hơn. Chrome đã truy xuất trang gốc qua đường kết nối an toàn.</translation>
 <translation id="1656489000284462475">Nhận hàng</translation>
 <translation id="1658111267661135323">Truyền hình và video</translation>
@@ -430,7 +430,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="1762779605905950734">Tên đường phố</translation>
 <translation id="1763864636252898013">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN" />; chứng chỉ bảo mật của máy chủ này không được hệ điều hành thiết bị của bạn tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Thử chạy Chẩn đoán mạng của Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Tìm hiểu thêm về Chế độ ẩn danh trên Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Tìm hiểu thêm về Chế độ ẩn danh trên Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Ảnh (Lưu niệm)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="194174710521904357">Bạn đã tạm thời cho phép trang web này sử dụng cookie của bên thứ ba. Điều này sẽ làm giảm khả năng bảo vệ khi duyệt web nhưng sẽ tăng khả năng các tính năng của trang web hoạt động như dự kiến.</translation>
 <translation id="1942498996464084801">Sách và văn học</translation>
 <translation id="1943994668912612445">Thiết kế</translation>
-<translation id="1945968466830820669">Bạn có thể mất quyền truy cập vào tài khoản của tổ chức mình hoặc bị đánh cắp danh tính. Chromium khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
+<translation id="1945968466830820669">Bạn có thể mất quyền truy cập vào tài khoản của tổ chức mình hoặc bị đánh cắp danh tính. Cobalt khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
 <translation id="1946849748901605102">12 x 15 inch</translation>
 <translation id="1947454675006758438">Dập ghim trên cùng bên phải</translation>
 <translation id="1953729392594614704">Nếu bạn chặn <ph name="TOPIC" /> thì mọi chủ đề có liên quan cũng sẽ bị chặn, ngay cả khi chủ đề đó đang được sử dụng</translation>
@@ -588,7 +588,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="2083256696566019397">Cho phép mỗi lần truy cập</translation>
 <translation id="2085876078937250610">Lưu…</translation>
 <translation id="2091887806945687916">Âm thanh</translation>
-<translation id="2093982008204312032">Google Chrome đang cố gắng tắt Windows Hello để điền mật khẩu.</translation>
+<translation id="2093982008204312032">Cobalt đang cố gắng tắt Windows Hello để điền mật khẩu.</translation>
 <translation id="2094505752054353250">Miền không khớp</translation>
 <translation id="2094704029599359040">Thông tin phiên bản</translation>
 <translation id="2099652385553570808">Dập 3 ghim bên trái</translation>
@@ -758,7 +758,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="239429038616798445">Phương thức giao hàng này không có sẵn. Hãy thử một phương thức khác.</translation>
 <translation id="2395840535409704129">Thể thao dưới nước</translation>
 <translation id="2396249848217231973">&amp;Hoàn tác xóa</translation>
-<translation id="2399868464369312507">Google Chrome đang cố gắng chỉnh sửa phương thức thanh toán.</translation>
+<translation id="2399868464369312507">Cobalt đang cố gắng chỉnh sửa phương thức thanh toán.</translation>
 <translation id="2400600116338235695">Trang web có thể yêu cầu kết nối với cổng nối tiếp</translation>
 <translation id="2404884497378469141">Hãy thử sao chép các tệp lần nữa</translation>
 <translation id="2413155254802890957">Cũ</translation>
@@ -1026,7 +1026,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="2979424420072875974">Tài nguyên của nhà văn</translation>
 <translation id="2980742331521553164">CVC của thẻ này sẽ được mã hoá và lưu vào Tài khoản Google của bạn để giúp bạn thanh toán nhanh hơn</translation>
 <translation id="2983666748527428214">Mở thẻ ẩn danh</translation>
-<translation id="2985306909656435243">Nếu được bật, Chromium sẽ lưu trữ bản sao thẻ của bạn trên thiết bị này để điền vào biểu mẫu nhanh hơn.</translation>
+<translation id="2985306909656435243">Nếu được bật, Cobalt sẽ lưu trữ bản sao thẻ của bạn trên thiết bị này để điền vào biểu mẫu nhanh hơn.</translation>
 <translation id="2985398929374701810">Nhập địa chỉ hợp lệ</translation>
 <translation id="2987034854559945715">Không có tính năng nào phù hợp</translation>
 <translation id="2988216301273604645">Chrome giới hạn số lượng thông tin mà các trang web có thể sử dụng để theo dõi bạn khi bạn duyệt web. Bạn có thể thay đổi chế độ cài đặt để chọn mức độ bảo vệ của riêng mình.</translation>
@@ -1108,7 +1108,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="3154506275960390542">Trang này bao gồm biểu mẫu có thể được gửi không an toàn. Dữ liệu bạn gửi có thể bị người khác xem trong khi chuyển tuyến hoặc có thể bị kẻ tấn công sửa đổi nhằm thay đổi thông tin mà máy chủ nhận được.</translation>
 <translation id="3154987252551138431">Đã xảy ra sự cố khi dùng tính năng Chia sẻ lân cận</translation>
 <translation id="315504272643575312">Tài khoản của bạn do <ph name="MANAGER" /> quản lý.</translation>
-<translation id="3155163173539279776">Chạy lại Chromium</translation>
+<translation id="3155163173539279776">Chạy lại Cobalt</translation>
 <translation id="3157931365184549694">Khôi phục</translation>
 <translation id="3158539265159265653">Đĩa</translation>
 <translation id="3162559335345991374">Wi-Fi mà bạn đang sử dụng có thể yêu cầu bạn phải truy cập trang đăng nhập của mạng đó.</translation>
@@ -1162,7 +1162,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="324180406144491771">Đã chặn các đường liên kết đến “<ph name="HOST_NAME" />”</translation>
 <translation id="3252772880526154546">Kiến trúc</translation>
 <translation id="3254301855501243548">18 x 22 inch</translation>
-<translation id="3255926992597692024">Chromium đang cố gắng sửa đổi chế độ cài đặt cho việc điền phương thức thanh toán.</translation>
+<translation id="3255926992597692024">Cobalt đang cố gắng sửa đổi chế độ cài đặt cho việc điền phương thức thanh toán.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, nhấn phím Tab rồi nhấn phím Enter để tạo nhanh một sự kiện mới trong Lịch Google</translation>
 <translation id="3261488570342242926">Tìm hiểu về thẻ ảo</translation>
 <translation id="3262698603497362968">Các lựa chọn mua hàng</translation>
@@ -1249,7 +1249,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="3423742043356668186">Do hệ thống chỉ định</translation>
 <translation id="3427092606871434483">Cho phép (mặc định)</translation>
 <translation id="3427342743765426898">&amp;Làm lại chỉnh sửa</translation>
-<translation id="342781501876943858">Chromium khuyên bạn nên đặt lại mật khẩu của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
+<translation id="342781501876943858">Cobalt khuyên bạn nên đặt lại mật khẩu của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
 <translation id="3428151540071562330">Một hoặc nhiều URI mẫu máy chủ DnsOverHttpsTemplates là không hợp lệ và sẽ không được dùng.</translation>
 <translation id="3428789896412418755">Nhật ký sắp xếp theo nhóm</translation>
 <translation id="3431216045099978607">Nhấn |<ph name="ACCELERATOR" />| để thoát chế độ toàn màn hình và xem tệp đã tải xuống.</translation>
@@ -1437,7 +1437,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="374325029554577103">Sản phẩm công nghệ tập thể hình</translation>
 <translation id="3744111561329211289">Đồng bộ hoá trong nền</translation>
 <translation id="3744212718085287312">Tăng cường bảo mật bằng một thẻ ảo vào lần tới?</translation>
-<translation id="3744899669254331632">Bạn không thể truy cập <ph name="SITE" /> ngay bây giờ vì trang web này đã gửi thông tin đăng nhập hỗn độn mà Chromium không thể xử lý. Lỗi mạng và các cuộc tấn công thường chỉ diễn ra tạm thời nên trang này có thể sẽ hoạt động sau.</translation>
+<translation id="3744899669254331632">Bạn không thể truy cập <ph name="SITE" /> ngay bây giờ vì trang web này đã gửi thông tin đăng nhập hỗn độn mà Cobalt không thể xử lý. Lỗi mạng và các cuộc tấn công thường chỉ diễn ra tạm thời nên trang này có thể sẽ hoạt động sau.</translation>
 <translation id="3745599309295009257">Văn bản bạn nhập cũng như nội dung và URL của trang mà bạn đang viết sẽ được gửi tới Google để các nhân viên xem xét và sử dụng cho mục đích cải thiện tính năng này. Bạn cần tránh nhập thông tin cá nhân (chẳng hạn như thông tin y tế hoặc tài chính) hay sử dụng công cụ này trên các trang web chứa thông tin riêng tư hoặc nhạy cảm.</translation>
 <translation id="3748009735914587286">Kim loại (Độ bóng cao)</translation>
 <translation id="3748148204939282805">Những kẻ tấn công trên <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> có thể đánh lừa bạn làm việc gì đó nguy hiểm như cài đặt phần mềm hoặc tiết lộ thông tin cá nhân (ví dụ: mật khẩu, số điện thoại hoặc thẻ tín dụng). <ph name="BEGIN_LEARN_MORE_LINK" />Tìm hiểu thêm<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4047351652147966654">18 x 24 inch</translation>
 <translation id="404831776305217138">URL cập nhật cho tiện ích có mã "<ph name="EXTENSION_ID" />" không hợp lệ hoặc sử dụng lược đồ không được hỗ trợ. Các lược đồ được hỗ trợ là <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> và <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Bạn sẽ có thể dùng địa chỉ này trên các sản phẩm của Google</translation>
-<translation id="4050599136622776556">Chromium đang cố gắng chỉnh sửa phương thức thanh toán.</translation>
+<translation id="4050599136622776556">Cobalt đang cố gắng chỉnh sửa phương thức thanh toán.</translation>
 <translation id="405399507749852140">Nhận thông báo nếu có chương trình giảm giá trên một trang web bất kỳ</translation>
 <translation id="4056223980640387499">Màu nâu đỏ</translation>
 <translation id="4059523390906550209">Tìm hiểu thêm về biện pháp bảo vệ Dữ liệu nhạy cảm</translation>
@@ -1844,7 +1844,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4557573143631562971">Bảo hiểm nhà cửa</translation>
 <translation id="4558551763791394412">Thử tắt tiện ích.</translation>
 <translation id="4566017918361049074">Ngoài trời</translation>
-<translation id="4567686777917670400">Quản trị viên có thể thay đổi quy trình thiết lập trình duyệt của bạn từ xa. Hoạt động trên thiết bị này cũng có thể được quản lý bên ngoài Chromium. <ph name="BEGIN_LINK" />Tìm hiểu thêm<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Quản trị viên có thể thay đổi quy trình thiết lập trình duyệt của bạn từ xa. Hoạt động trên thiết bị này cũng có thể được quản lý bên ngoài Cobalt. <ph name="BEGIN_LINK" />Tìm hiểu thêm<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Đã được xác minh</translation>
 <translation id="457875822857220463">Giao hàng</translation>
 <translation id="4579699065574932398">Ngân hàng</translation>
@@ -1874,7 +1874,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4631881646528206880">Đăng ký thẻ ảo</translation>
 <translation id="4635278307999235413">Đang gửi dữ liệu đến bảng điều khiển dành cho quản trị viên</translation>
 <translation id="4636930964841734540">Thông tin</translation>
-<translation id="4638670630777875591">Chế độ ẩn danh trên Chromium</translation>
+<translation id="4638670630777875591">Chế độ ẩn danh trên Cobalt</translation>
 <translation id="464342062220857295">Tìm kiếm tính năng</translation>
 <translation id="4644670975240021822">Thứ tự đảo ngược hướng xuống</translation>
 <translation id="4646534391647090355">Chuyển đến đó ngay</translation>
@@ -1919,7 +1919,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4732860731866514038">Đang tải gói ngôn ngữ <ph name="LANGUAGE" /> xuống... <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> muốn sử dụng thông tin vị trí thiết bị của bạn</translation>
 <translation id="473414950835101501">Sử dụng camera của bạn</translation>
-<translation id="4736825316280949806">Khởi động lại Chromium</translation>
+<translation id="4736825316280949806">Khởi động lại Cobalt</translation>
 <translation id="4736934858538408121">Thẻ ảo</translation>
 <translation id="473775607612524610">Cập nhật</translation>
 <translation id="4738601419177586157">Đề xuất tìm kiếm <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4756388243121344051">&amp;Lịch sử</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Khoá truy cập từ Hồ sơ của bạn trên Chrome</translation>
-<translation id="4757993714154412917">Bạn vừa nhập mật khẩu vào một trang web lừa đảo. Để bảo mật tài khoản của mình, bạn nên kiểm tra các mật khẩu đã lưu trên Chromium.</translation>
+<translation id="4757993714154412917">Bạn vừa nhập mật khẩu vào một trang web lừa đảo. Để bảo mật tài khoản của mình, bạn nên kiểm tra các mật khẩu đã lưu trên Cobalt.</translation>
 <translation id="4758311279753947758">Thêm thông tin liên hệ</translation>
 <translation id="4761326898079498987">Xem để biết thêm chi tiết</translation>
 <translation id="4761869838909035636">Chạy quy trình Kiểm tra an toàn trên Chrome</translation>
@@ -2023,7 +2023,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="4918221908152712722">Cài đặt <ph name="APP_NAME" /> (không cần tải xuống)</translation>
 <translation id="4920457992177678649">Nhà/căn hộ du lịch và nơi lưu trú ngắn hạn</translation>
 <translation id="4920710383559189047">Ống sleeve</translation>
-<translation id="4922104989726031751">Để sử dụng Trình quản lý mật khẩu trên hệ điều hành của bạn, hãy chạy lại Chromium và cho phép truy cập vào trình quản lý mật khẩu trên máy tính. Các thẻ sẽ mở lại sau khi bạn chạy lại Chromium.</translation>
+<translation id="4922104989726031751">Để sử dụng Trình quản lý mật khẩu trên hệ điều hành của bạn, hãy chạy lại Cobalt và cho phép truy cập vào trình quản lý mật khẩu trên máy tính. Các thẻ sẽ mở lại sau khi bạn chạy lại Cobalt.</translation>
 <translation id="4923459931733593730">Thanh toán</translation>
 <translation id="4926049483395192435">Phải được chỉ định.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> cho biết</translation>
@@ -2108,7 +2108,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="5087580092889165836">Thêm thẻ</translation>
 <translation id="5088142053160410913">Thông báo gửi đến trình vận hành</translation>
 <translation id="5093232627742069661">Gấp kiểu chữ Z</translation>
-<translation id="5094747076828555589">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN" />; chứng chỉ bảo mật của máy chủ này không được Chromium tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
+<translation id="5094747076828555589">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN" />; chứng chỉ bảo mật của máy chủ này không được Cobalt tin cậy. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
 <translation id="5097099694988056070">Số liệu thống kê về thiết bị, chẳng hạn như mức sử dụng CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 inch</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="5137761395480718572">Ứng dụng này yêu cầu cấp quyền cài đặt thông tin xác thực Wi-Fi. Sau khi thiết lập, <ph name="DEVICE_TYPE" /> sẽ tự động kết nối với các mạng Wi-Fi tham gia. Để xoá các thông tin xác thực này, hãy gỡ cài đặt ứng dụng. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Thẻ ảo hiện chưa dùng được, vui lòng liên hệ với ngân hàng của bạn</translation>
 <translation id="5138227688689900538">Ẩn bớt</translation>
-<translation id="5143309888746105072">Chromium cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.
+<translation id="5143309888746105072">Cobalt cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.
             <ph name="NEW_LINE" />Nếu các tính năng của trang web không hoạt động, <ph name="START_LINK" />hãy thử tạm thời cho phép cookie của bên thứ ba<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Mã lỗi có trong phản hồi chính sách</translation>
 <translation id="5146995429444047494">Đã chặn các thông báo đối với <ph name="ORIGIN" /></translation>
@@ -2273,7 +2273,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="5425082381151187189">Trang trí nhà và nội thất</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> muốn gửi thông báo cho bạn</translation>
 <translation id="5430298929874300616">Xóa dấu trang</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />sẽ không lưu<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />sẽ không lưu<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Nhật ký duyệt web
           <ph name="LIST_ITEM" />Cookie và dữ liệu trang web
@@ -2648,7 +2648,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6160391204859821737">Bật một tính năng về quyền riêng tư trong quảng cáo</translation>
 <translation id="6165508094623778733">Tìm hiểu thêm</translation>
 <translation id="6167577165590485365">Lần tìm nạp mới nhất:</translation>
-<translation id="617256461084925519">Google Chrome đang cố gắng xác minh danh tính của bạn để có thể điền thông tin thanh toán cho bạn.</translation>
+<translation id="617256461084925519">Cobalt đang cố gắng xác minh danh tính của bạn để có thể điền thông tin thanh toán cho bạn.</translation>
 <translation id="6176387967264100435">Đây là mức giá cao</translation>
 <translation id="6177128806592000436">Kết nối của bạn tới trang web này không an toàn</translation>
 <translation id="6177531123306197852">Phong bì C2</translation>
@@ -2668,7 +2668,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6215936431492593050">Kim loại (Satin)</translation>
 <translation id="6217950634729714357">Đồ nội thất nhà bếp và phòng ăn</translation>
 <translation id="6218305986815100395">Không thể bật thẻ ảo</translation>
-<translation id="6218753634732582820">Bạn muốn xóa địa chỉ khỏi Chromium?</translation>
+<translation id="6218753634732582820">Bạn muốn xóa địa chỉ khỏi Cobalt?</translation>
 <translation id="622039917539443112">Gấp kiểu song song</translation>
 <translation id="6221311046884916259">Bạn có muốn lưu thông tin thẻ này vào Tài khoản Google không?</translation>
 <translation id="6221345481584921695">Duyệt web an toàn của Google gần đây <ph name="BEGIN_LINK" />đã phát hiện phần mềm độc hại<ph name="END_LINK" /> trên <ph name="SITE" />. Các trang web thường được coi là an toàn đôi khi vẫn bị nhiễm phần mềm độc hại. Nội dung độc hại xuất phát từ <ph name="SUBRESOURCE_HOST" />, một nguồn phát tán phần mềm độc hại đã xác định.</translation>
@@ -2740,7 +2740,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6348220984832452017">Biến thể đang hoạt động</translation>
 <translation id="6349101878882523185">Cài đặt <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Không có}=1{1 mật khẩu (cho <ph name="DOMAIN_LIST" />, đã đồng bộ hóa)}=2{2 mật khẩu (cho <ph name="DOMAIN_LIST" />, đã đồng bộ hóa)}other{# mật khẩu (cho <ph name="DOMAIN_LIST" />, đã đồng bộ hóa)}}</translation>
-<translation id="6355392890578844978">Không có công ty hay tổ chức nào quản lý trình duyệt này. Hoạt động trên thiết bị này có thể được quản lý ở bên ngoài Chromium. <ph name="BEGIN_LINK" />Tìm hiểu thêm<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Không có công ty hay tổ chức nào quản lý trình duyệt này. Hoạt động trên thiết bị này có thể được quản lý ở bên ngoài Cobalt. <ph name="BEGIN_LINK" />Tìm hiểu thêm<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">chỉnh sửa phương thức thanh toán</translation>
 <translation id="6358450015545214790">Những phần này có ý nghĩa gì?</translation>
 <translation id="6360213755783740931">Tìm hiểu thêm về biện pháp chống Phần mềm độc hại</translation>
@@ -2782,7 +2782,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6410264514553301377">Nhập ngày hết hạn và CVC cho <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Chăm sóc da và móng</translation>
-<translation id="6415778972515849510">Chromium có thể giúp bạn bảo vệ Tài khoản Google của mình và đổi mật khẩu.</translation>
+<translation id="6415778972515849510">Cobalt có thể giúp bạn bảo vệ Tài khoản Google của mình và đổi mật khẩu.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Dịch vụ trả lương</translation>
 <translation id="6424600253695044005">Bộ nhớ trên đám mây</translation>
@@ -2908,7 +2908,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6665553082534466207">Đục 3 lỗ bên phải</translation>
 <translation id="6668389483194953109">Đã tìm thấy tên khổ giấy là "custom", nhưng thuộc tính "custom_size" đang trống hoặc không hợp lệ.</translation>
 <translation id="6671169470640320959">Hỗ trợ tài chính mua ô tô</translation>
-<translation id="6671697161687535275">Bạn muốn xóa đề xuất biểu mẫu khỏi Chromium?</translation>
+<translation id="6671697161687535275">Bạn muốn xóa đề xuất biểu mẫu khỏi Cobalt?</translation>
 <translation id="6677351035258626477">Đồ ăn nhanh</translation>
 <translation id="6681790815630918386">Đã lưu CVC</translation>
 <translation id="6683022854667115063">Tai nghe</translation>
@@ -3021,7 +3021,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6897140037006041989">Tác nhân Người dùng</translation>
 <translation id="6898699227549475383">Tổ chức (O)</translation>
 <translation id="6907458757809079309">Thể dục</translation>
-<translation id="6908168784986658395">Khi bạn đóng tất cả các thẻ ẩn danh trên Chromium, chúng tôi sẽ xoá khỏi thiết bị những hoạt động sau đây của bạn trên những thẻ đó:
+<translation id="6908168784986658395">Khi bạn đóng tất cả các thẻ ẩn danh trên Cobalt, chúng tôi sẽ xoá khỏi thiết bị những hoạt động sau đây của bạn trên những thẻ đó:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Hoạt động duyệt web<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Nhật ký tìm kiếm<ph name="END_LIST_ITEM" />
@@ -3069,7 +3069,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="6973988895180423160">3,5 x 5 inch</translation>
 <translation id="6978121630131642226">Công cụ Tìm kiếm</translation>
 <translation id="6978236010531171013">Vẫn chia sẻ</translation>
-<translation id="6978722349058177832">Nếu bạn dùng chung thiết bị này, Chromium có thể yêu cầu bạn xác minh bằng tính năng tự động điền mỗi lần bạn thanh toán</translation>
+<translation id="6978722349058177832">Nếu bạn dùng chung thiết bị này, Cobalt có thể yêu cầu bạn xác minh bằng tính năng tự động điền mỗi lần bạn thanh toán</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Tắt tiếng (mặc định)</translation>
 <translation id="6987806006823772670">Phong bì (Tráng bóng)</translation>
@@ -3234,7 +3234,7 @@ Thông tin chi tiết bổ sung:
 <translation id="7308436126008021607">đồng bộ hoá trong nền</translation>
 <translation id="7310392214323165548">Thiết bị sẽ sớm khởi động lại</translation>
 <translation id="7311244614769792472">Không tìm thấy kết quả nào</translation>
-<translation id="7311837626618954149">Chromium cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.</translation>
+<translation id="7311837626618954149">Cobalt cấm các trang web sử dụng cookie của bên thứ ba để theo dõi bạn khi bạn duyệt web.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Trợ giúp kết nối</translation>
 <translation id="7323804146520582233">Ẩn phần "<ph name="SECTION" />"</translation>
@@ -3307,7 +3307,7 @@ Thông tin chi tiết bổ sung:
 <translation id="7425878584435172632">Nghệ thuật và thiết kế thị giác</translation>
 <translation id="7427079287360774240">Học ngoại ngữ</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Xác minh danh tính của bạn để Chromium có thể giúp bạn điền thông tin thanh toán.</translation>
+<translation id="7432774160230062882">Xác minh danh tính của bạn để Cobalt có thể giúp bạn điền thông tin thanh toán.</translation>
 <translation id="7437289804838430631">Thêm thông tin liên hệ</translation>
 <translation id="7438338505272634288">Những kẻ tấn công trên trang web bạn đang cố gắng truy cập có thể lừa bạn cài đặt phần mềm độc hại gây ảnh hưởng đến cách bạn duyệt web – chẳng hạn như bằng cách thay đổi trang chủ hoặc hiển thị thêm quảng cáo trên các trang web bạn truy cập. Bạn nên quay lại trang an toàn để tránh bị tổn hại. <ph name="BEGIN_LEARN_MORE_LINK" />Tìm hiểu thêm<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Khám phá khi không có mạng</translation>
@@ -3384,7 +3384,7 @@ Thông tin chi tiết bổ sung:
 <translation id="7564049878696755256">Bạn có thể mất quyền truy cập vào tài khoản <ph name="ORG_NAME" /> của mình hoặc bị đánh cắp danh tính. Chrome khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
 <translation id="7564667064360547717">Áo sơ mi và áo</translation>
 <translation id="7567204685887185387">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN" />; chứng chỉ bảo mật của máy chủ này có thể đã bị gian lận khi phát hành. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
-<translation id="7568616151991626879">Google Chrome đang cố gắng điền mật khẩu của bạn vào <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt đang cố gắng điền mật khẩu của bạn vào <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Gôn</translation>
 <translation id="7569952961197462199">Xóa thẻ tín dụng khỏi Chrome?</translation>
 <translation id="7569983096843329377">Đen</translation>
@@ -3427,7 +3427,7 @@ Thông tin chi tiết bổ sung:
 <translation id="7631527008834753063">Chương trình trò chơi truyền hình</translation>
 <translation id="7633909222644580952">Báo cáo sự cố và dữ liệu hiệu suất</translation>
 <translation id="7636346903338549690">Các trang web được phép sử dụng cookie của bên thứ ba</translation>
-<translation id="7637571805876720304">Bạn muốn xóa thẻ tín dụng khỏi Chromium?</translation>
+<translation id="7637571805876720304">Bạn muốn xóa thẻ tín dụng khỏi Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Không có}=1{1 mật khẩu trong tài khoản của bạn (cho <ph name="DOMAIN_LIST" />)}other{# mật khẩu trong tài khoản của bạn (cho <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Cổng nối tiếp</translation>
 <translation id="7639968568612851608">Xám đen</translation>
@@ -3648,7 +3648,7 @@ Thông tin chi tiết bổ sung:
 <translation id="8061691770921837575">Trang điểm và mỹ phẩm</translation>
 <translation id="8063875539456488183">Lưu và theo dõi giá</translation>
 <translation id="8066225060526005217">Được quản lý theo chế độ cài đặt cookie</translation>
-<translation id="8067872629359326442">Bạn vừa nhập mật khẩu vào một trang web lừa đảo. Chromium có thể trợ giúp bạn. Để đổi mật khẩu và thông báo cho Google biết rằng tài khoản của bạn có thể gặp nguy hiểm, hãy nhấp vào Bảo vệ tài khoản.</translation>
+<translation id="8067872629359326442">Bạn vừa nhập mật khẩu vào một trang web lừa đảo. Cobalt có thể trợ giúp bạn. Để đổi mật khẩu và thông báo cho Google biết rằng tài khoản của bạn có thể gặp nguy hiểm, hãy nhấp vào Bảo vệ tài khoản.</translation>
 <translation id="8070439594494267500">Biểu tượng ứng dụng</translation>
 <translation id="8070495475341517754">Chuyến tham quan ngắm cảnh</translation>
 <translation id="8073647227500388356">Xe tự lái</translation>
@@ -3907,7 +3907,7 @@ Thông tin chi tiết bổ sung:
 <translation id="8542014550340843547">Dập 3 ghim dưới cùng</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Bạn có thể <ph name="BEGIN_ERROR_LINK" />báo cáo sự cố đã phát hiện<ph name="END_ERROR_LINK" /> hoặc nếu bạn hiểu rủi ro với bảo mật của mình, hãy <ph name="BEGIN_LINK" />truy cập trang web không an toàn này<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome đang cố gắng sửa đổi chế độ cài đặt cho việc điền phương thức thanh toán.</translation>
+<translation id="8544217240017914508">Cobalt đang cố gắng sửa đổi chế độ cài đặt cho việc điền phương thức thanh toán.</translation>
 <translation id="8544303911974837265">Polyester</translation>
 <translation id="854548366864113872">Lựa chọn giá cao</translation>
 <translation id="8546254312340305428">Cung cấp lý do tải tệp lên (bắt buộc)</translation>
@@ -3924,7 +3924,7 @@ Thông tin chi tiết bổ sung:
 <translation id="8558347880669160417">Đã cho phép sử dụng micrô và máy ảnh cho lần này</translation>
 <translation id="8559762987265718583">Không thể thiết lập kết nối riêng tư với <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> vì ngày và giờ (<ph name="DATE_AND_TIME" />) trên thiết bị của bạn không đúng.</translation>
 <translation id="8564182942834072828">Tài liệu riêng biệt/Bản sao chưa đối chiếu</translation>
-<translation id="8564985650692024650">Chromium khuyên bạn nên đặt lại mật khẩu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
+<translation id="8564985650692024650">Cobalt khuyên bạn nên đặt lại mật khẩu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> của mình nếu đã sử dụng lại mật khẩu này trên các trang web khác.</translation>
 <translation id="8570895683659698018">Sở thích và thú vui</translation>
 <translation id="8574841453995331336">Tủ lạnh và máy ướp lạnh</translation>
 <translation id="8577192028579836704">Tất cả lựa chọn thường có giá là <ph name="TYPICAL_PRICE" /></translation>
@@ -3999,7 +3999,7 @@ Thông tin chi tiết bổ sung:
 <translation id="8736059027199600831">30 x 40 inch</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, nhấn phím Tab rồi nhấn Enter để mở cửa sổ Ẩn danh mới nhằm duyệt web ở chế độ riêng tư</translation>
 <translation id="8737685506611670901">Mở đường liên kết <ph name="PROTOCOL" /> thay vì <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Để thiết lập kết nối an toàn, bạn cần đặt thời gian đúng cho đồng hồ. Nguyên nhân là do chứng chỉ mà các trang web dùng để tự nhận dạng chỉ có hiệu lực trong khoảng thời gian cụ thể. Vì đồng hồ trên thiết bị của bạn không đúng nên Chromium không thể xác minh các chứng chỉ này.</translation>
+<translation id="8738058698779197622">Để thiết lập kết nối an toàn, bạn cần đặt thời gian đúng cho đồng hồ. Nguyên nhân là do chứng chỉ mà các trang web dùng để tự nhận dạng chỉ có hiệu lực trong khoảng thời gian cụ thể. Vì đồng hồ trên thiết bị của bạn không đúng nên Cobalt không thể xác minh các chứng chỉ này.</translation>
 <translation id="8740359287975076522">Không thể tìm thấy &lt;abbr id="dnsDefinition"&gt;địa chỉ DNS&lt;/abbr&gt; của <ph name="HOST_NAME" />. Đang chẩn đoán sự cố.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> là mã của bạn cho <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Đánh dấu thẻ này</translation>
@@ -4026,7 +4026,7 @@ Thông tin chi tiết bổ sung:
 <translation id="8785658048882205566">Xe mô tô</translation>
 <translation id="8790007591277257123">&amp;Làm lại xóa</translation>
 <translation id="8792272652220298572">Nhựa (Bóng)</translation>
-<translation id="8792621596287649091">Bạn có thể mất quyền truy cập vào tài khoản <ph name="ORG_NAME" /> của mình hoặc bị đánh cắp danh tính. Chromium khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
+<translation id="8792621596287649091">Bạn có thể mất quyền truy cập vào tài khoản <ph name="ORG_NAME" /> của mình hoặc bị đánh cắp danh tính. Cobalt khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
 <translation id="8792626944327216835">micrô</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> đã bật Chrome Enterprise Connectors trên trình duyệt bạn dùng. Các trình kết nối này có quyền truy cập vào một số dữ liệu của bạn.</translation>
 <translation id="8798099450830957504">Mặc định</translation>
@@ -4175,7 +4175,7 @@ Thông tin chi tiết bổ sung:
 <translation id="9095388113577226029">Ngôn ngữ khác...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Nhấn Tab rồi nhấn Enter để đặt Chrome làm trình duyệt mặc định của hệ thống trong phần cài đặt iOS</translation>
 <translation id="9101630580131696064">Khay 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> thường sử dụng mã hóa để bảo vệ thông tin của bạn. Khi Chromium cố gắng kết nối với <ph name="SITE" /> tại thời điểm này, trang web đã gửi lại thông tin đăng nhập không chính xác và bất thường. Điều này có thể xảy ra khi kẻ tấn công đang cố gắng giả mạo là <ph name="SITE" /> hoặc màn hình đăng nhập Wi-Fi đã làm gián đoạn kết nối. Thông tin của bạn vẫn an toàn do Chromium đã ngừng kết nối trước khi bất kỳ dữ liệu nào được trao đổi.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> thường sử dụng mã hóa để bảo vệ thông tin của bạn. Khi Cobalt cố gắng kết nối với <ph name="SITE" /> tại thời điểm này, trang web đã gửi lại thông tin đăng nhập không chính xác và bất thường. Điều này có thể xảy ra khi kẻ tấn công đang cố gắng giả mạo là <ph name="SITE" /> hoặc màn hình đăng nhập Wi-Fi đã làm gián đoạn kết nối. Thông tin của bạn vẫn an toàn do Cobalt đã ngừng kết nối trước khi bất kỳ dữ liệu nào được trao đổi.</translation>
 <translation id="9107467864910557787">Trình duyệt của bạn do <ph name="MANAGER" /> quản lý</translation>
 <translation id="91108059142052966">Tính năng chia sẻ màn hình với <ph name="APPLICATION_TITLE" /> khi hiển thị nội dung bí mật bị vô hiệu hóa theo chính sách của quản trị viên</translation>
 <translation id="9114524666733003316">Đang xác nhận thẻ...</translation>
@@ -4243,7 +4243,7 @@ Thông tin chi tiết bổ sung:
 <translation id="93020190163435405">Thực tập</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Cho phép ứng dụng <ph name="APP_NAME" /> thiết lập mạng Wi-Fi?</translation>
-<translation id="936602727769022409">Bạn có thể mất quyền truy cập vào Tài khoản Google của mình. Chromium khuyên bạn nên đổi mật khẩu ngay bây giờ. Bạn sẽ được yêu cầu đăng nhập.</translation>
+<translation id="936602727769022409">Bạn có thể mất quyền truy cập vào Tài khoản Google của mình. Cobalt khuyên bạn nên đổi mật khẩu ngay bây giờ. Bạn sẽ được yêu cầu đăng nhập.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Loại dữ liệu được sử dụng:<ph name="END_BOLD" /> Chủ đề quảng cáo được xác định dựa trên nhật ký duyệt web gần đây của bạn, một danh sách các trang web bạn từng truy cập bằng Chrome trên thiết bị này.</translation>
 <translation id="937885410143139026">Đã gửi dữ liệu đến bảng điều khiển dành cho quản trị viên</translation>
 <translation id="939736085109172342">Thư mục mới</translation>

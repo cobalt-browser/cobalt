@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">Кененирээк: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Төмөнкү сайттарды которуу сунушталбасын</translation>
 <translation id="1145536944570833626">Учурдагы дайындарды жок кылуу.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chrome'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1" />Google'дун Тейлөө шарттарына<ph name="END_LINK1" /> жана <ph name="BEGIN_LINK2" />Google Chrome менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2" /> макул болосуз.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chrome'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1" />Google'дун Тейлөө шарттарына<ph name="END_LINK1" /> жана <ph name="BEGIN_LINK2" />Cobalt менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2" /> макул болосуз.</translation>
 <translation id="115483310321669804"><ph name="PASSWORD" /> сырсөзүн колдонуу</translation>
 <translation id="1173894706177603556">Атын өзгөртүү</translation>
 <translation id="1174479719160874822">Экран тар болгондо Chrome мобилдик түзмөктөгү сайтты колдонууну сурайт</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Тематикасына жараша сакталган кыстармалар толук экранда ачылды</translation>
 <translation id="1327257854815634930">Чабыттоо таржымалы ачылды</translation>
 <translation id="1331212799747679585">Chrome жаңырбай жатат. Кошумча параметрлер</translation>
-<translation id="1332501820983677155">Google Chrome функциясынын кыска жолдору</translation>
+<translation id="1332501820983677155">Cobalt функциясынын кыска жолдору</translation>
 <translation id="1344653310988386453">Бөлүнүп көрсөтүлгөн нерсеге шилтемени камтуу</translation>
 <translation id="1347468774581902829">Аракеттерди тескөө</translation>
 <translation id="1360432990279830238">Аккаунттан чыгып, шайкештирүүнү өчүрөсүзбү?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Chrome'догу сизди кызыктырган макалалар</translation>
 <translation id="3066573403916685335">Төмөн жылдыруу</translation>
 <translation id="3070005020161560471">Автоматтык түрдө которуу</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chrome'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1" />Google'дун Тейлөө шарттарына<ph name="END_LINK1" /> жана <ph name="BEGIN_LINK2" />Google Chrome менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2" /> макул болосуз. <ph name="BEGIN_LINK3" />Купуялык эрежелери<ph name="END_LINK3" /> да колдонулат.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chrome'до ачылат. Улантуу менен, <ph name="BEGIN_LINK1" />Google'дун Тейлөө шарттарына<ph name="END_LINK1" /> жана <ph name="BEGIN_LINK2" />Cobalt менен ChromeOS'тун Кошумча Тейлөө шарттарына<ph name="END_LINK2" /> макул болосуз. <ph name="BEGIN_LINK3" />Купуялык эрежелери<ph name="END_LINK3" /> да колдонулат.</translation>
 <translation id="3080525922482950719">Барактарды сактап коюп, кийинчерээк оффлайн режиминде окуй аласыз</translation>
 <translation id="3091010850649238832">Алмашуу буфериндеги мазмундарды көрсөтүү</translation>
 <translation id="3098745985164956033">Сүрөттөмөлөрдү жакшыртуу үчүн айрым сүрөттөр Google'га жөнөтүлөт</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">Аккаунтуңузга кирип турсаңыз, <ph name="BEGIN_LINK1" />издөө таржымалы<ph name="END_LINK1" /> жана <ph name="BEGIN_LINK2" />башка аракеттер<ph name="END_LINK2" /> Google аккаунтуңузга сакталышы мүмкүн. Аларды каалаган убакта жок кылсаңыз болот.</translation>
 <translation id="3220943972464248773">Сырсөздөрүңүздү шайкештирүү үчүн өзүңүз экениңизди ырастаңыз</translation>
 <translation id="3226612997184048185">Эгер кыстармаларды Google аккаунтуңузга сактап койсоңуз, товарлардын бааларына Chrome'до көз салып, баалар төмөндөгөндө кабар аласыз</translation>
-<translation id="3227557059438308877">Google Chrome'ду Коопсуздук ачкычы катары колдонуу</translation>
+<translation id="3227557059438308877">Cobalt'ду Коопсуздук ачкычы катары колдонуу</translation>
 <translation id="3232754137068452469">Веб колдонмо</translation>
 <translation id="3236059992281584593">1 мүн. калды</translation>
 <translation id="3237087289225714896">Стандарттуу алдын ала жүктөө:</translation>
@@ -814,7 +814,7 @@ Google аккаунтуңуздун башка Google кызматтарынан
 <translation id="5308380583665731573">Туташуу</translation>
 <translation id="5316947901395241499">Администраторуңуз сырсөздөрдү сактоону өчүрүп койду</translation>
 <translation id="5317780077021120954">Сактоо</translation>
-<translation id="5319359161174645648">Google Chrome'ду сунуштайт</translation>
+<translation id="5319359161174645648">Cobalt'ду сунуштайт</translation>
 <translation id="5320351714793324716">Cookie файлдарына уруксат берсеңиз, Chrome аларды алдын ала жүктөө үчүн колдонушу мүмкүн</translation>
 <translation id="5326921373682845375">Алдын ала жүктөлгөн барактар шифрленип, барактарга шилтеме берген сайт Google'дун сайты болуп эсептелгендиктен, Google серверлери бул барактарды алдын ала жүктөөдө жаңы маалымат албайт.</translation>
 <translation id="5329858041417644019">Серепчиңиз башкарылган жок</translation>
@@ -931,7 +931,7 @@ Google аккаунтуңуздун башка Google кызматтарынан
 <translation id="5864419784173784555">Башка жүктөп алуу күтүлүүдө…</translation>
 <translation id="5865733239029070421">Колдонуу статистикасын жана каталар жөнүндө кабарларды Google'га автоматтык түрдө жөнөтүп турат</translation>
 <translation id="5869522115854928033">Сакталган сырсөздөр</translation>
-<translation id="587735546353481577">Сайтка жазылуу үчүн ага өтүп, Google Chrome менюсун ачып, "Жазылууну" таптаңыз.</translation>
+<translation id="587735546353481577">Сайтка жазылуу үчүн ага өтүп, Cobalt менюсун ачып, "Жазылууну" таптаңыз.</translation>
 <translation id="5879072387416556377">Жакшыраак сунуштарды алыңыз</translation>
 <translation id="5899667542927581604">Бир да киргизүүчү ачкычтардын бети жабылган жок</translation>
 <translation id="5916664084637901428">Күйүк</translation>
@@ -1622,7 +1622,7 @@ Google аккаунтуңуздун башка Google кызматтарынан
 <translation id="9219103736887031265">Сүрөттөр</translation>
 <translation id="92381315203627188">Cайт барактагы шилтемелерди алдын ала жүктөөнү суранса, Chrome барактарды шифрлеп, Google'дун серверлери аркылуу алдын ала жүктөйт (cookie файлдарысыз). Ушуну менен өздүгүңүз тууралуу маалымат алдын ала жүктөлгөн сайттан жашырылат.</translation>
 <translation id="926205370408745186">Chrome'ду колдонуу дайын-даректериңизди Санариптик бакубаттык кызматынан алып салыңыз</translation>
-<translation id="927968626442779827">Google Chrome'до Жөнөкөй режимди колдонуңуз</translation>
+<translation id="927968626442779827">Cobalt'до Жөнөкөй режимди колдонуңуз</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> сайтына жазылгансыз</translation>
 <translation id="93533588269984624">Бардык сырсөздөр түзмөгүңүзгө жүктөлүп алынып, <ph name="CHROME_CHANNEL" /> серепчисинен өчүрүлөт</translation>
 <translation id="938850635132480979">Ката: <ph name="ERROR_CODE" /></translation>

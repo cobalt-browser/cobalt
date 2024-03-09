@@ -890,7 +890,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="1651008383952180276">Devi inserire la stessa passphrase due volte</translation>
 <translation id="1651609627703324721">Questa scheda mostra contenuti VR su un visore</translation>
 <translation id="1652326691684645429">Attiva Condivisione nelle vicinanze</translation>
-<translation id="1652862280638399816">Per usare Gestore delle password con il Portachiavi di macOS, riavvia Chromium e consenti l'accesso al Portachiavi. Le schede verranno riaperte dopo il riavvio.</translation>
+<translation id="1652862280638399816">Per usare Gestore delle password con il Portachiavi di macOS, riavvia Cobalt e consenti l'accesso al Portachiavi. Le schede verranno riaperte dopo il riavvio.</translation>
 <translation id="1653958716132599769">Raggruppa le schede correlate</translation>
 <translation id="1654580009054503925">Non autorizzate a mostrare richieste</translation>
 <translation id="1656528038316521561">Opacità sfondo</translation>
@@ -1167,7 +1167,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse all
 <translation id="186594096341696655">Riduci frequenza</translation>
 <translation id="186612162884103683">L'estensione "<ph name="EXTENSION" />" può leggere e scrivere file di immagini, video e audio nelle posizioni selezionate.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> è pronto a completare l'installazione</translation>
-<translation id="1868553836791672080">Il controllo delle password non è disponibile in Chromium</translation>
+<translation id="1868553836791672080">Il controllo delle password non è disponibile in Cobalt</translation>
 <translation id="1868617395637139709">Utilizza la posizione del dispositivo per i servizi Android e le app.</translation>
 <translation id="1869433484041798909">Pulsante Preferito</translation>
 <translation id="1871098866036088250">Apri nel browser Chrome</translation>
@@ -1933,7 +1933,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="2434449159125086437">Impossibile configurare la stampante. Verifica la configurazione e riprova.</translation>
 <translation id="2434758125294431199">Seleziona chi può condividere file con te</translation>
 <translation id="2434915728183570229">Ora puoi visualizzare le app del tuo telefono</translation>
-<translation id="2435137177546457207">Termini aggiuntivi di Google Chrome e ChromeOS Flex</translation>
+<translation id="2435137177546457207">Termini aggiuntivi di Cobalt e ChromeOS Flex</translation>
 <translation id="2435248616906486374">Rete scollegata</translation>
 <translation id="2435457462613246316">Mostra password</translation>
 <translation id="2436385001956947090">Copia &amp;link</translation>
@@ -2795,7 +2795,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3083998949001524405">Autorizzati a utilizzare i cookie di terze parti</translation>
 <translation id="3084121729444215602">L'amministratore ha bloccato <ph name="EXTENSION_NAME" /></translation>
 <translation id="3084548735795614657">Trascina per installare</translation>
-<translation id="3084771660770137092">Google Chrome ha esaurito la memoria o il processo relativo alla pagina web è stato chiuso per qualche altro motivo. Per continuare, ricarica la pagina o aprine un'altra.</translation>
+<translation id="3084771660770137092">Cobalt ha esaurito la memoria o il processo relativo alla pagina web è stato chiuso per qualche altro motivo. Per continuare, ricarica la pagina o aprine un'altra.</translation>
 <translation id="3085412380278336437">Il sito può usare la videocamera</translation>
 <translation id="3085431803365340433">Impossibile aggiornare il browser Chrome</translation>
 <translation id="3088052000289932193">Il sito usa un dispositivo MIDI</translation>
@@ -2870,7 +2870,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3151562827395986343">Cancella i cookie e la cronologia di navigazione, svuota la cache e altro</translation>
 <translation id="3151786313568798007">Orientamento</translation>
 <translation id="3152356229013609796">Visualizza, ignora e rispondi alle notifiche del tuo telefono</translation>
-<translation id="3155163173539279776">Riavvia Chromium</translation>
+<translation id="3155163173539279776">Riavvia Cobalt</translation>
 <translation id="3157387275655328056">Aggiungi all'elenco di lettura</translation>
 <translation id="3157931365184549694">Ripristina</translation>
 <translation id="3158033540161634471">Imposta la tua impronta</translation>
@@ -3701,7 +3701,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3798632811625902122">Il dispositivo Bluetooth <ph name="DEVICE" /> chiede l'autorizzazione per essere accoppiato.</translation>
 <translation id="3798670284305777884">Altoparlante (interno)</translation>
 <translation id="3799128412641261490">Impostazioni Switch Access</translation>
-<translation id="3800828618615365228">Termini aggiuntivi di Google Chrome e ChromeOS</translation>
+<translation id="3800828618615365228">Termini aggiuntivi di Cobalt e ChromeOS</translation>
 <translation id="3802486193901166966">Questa estensione non richiede autorizzazioni speciali e non ha accesso a siti aggiuntivi</translation>
 <translation id="380329542618494757">Nome</translation>
 <translation id="3803345858388753269">Qualità video</translation>
@@ -3722,7 +3722,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="3810973564298564668">Gestisci</translation>
 <translation id="381202950560906753">Aggiungine un'altra</translation>
 <translation id="3812525830114410218">Certificato non valido</translation>
-<translation id="3813296892522778813">Visita la <ph name="BEGIN_LINK_CHROMIUM" />guida di Google Chrome<ph name="END_LINK_CHROMIUM" /> se non riesci a trovare quello che cerchi</translation>
+<translation id="3813296892522778813">Visita la <ph name="BEGIN_LINK_CHROMIUM" />guida di Cobalt<ph name="END_LINK_CHROMIUM" /> se non riesci a trovare quello che cerchi</translation>
 <translation id="3813358687923336574">Lingua utilizzata per la traduzione di pagine e Risposte rapide</translation>
 <translation id="3813458570141926987">Elenco di argomenti stimati da Chrome in base alla tua cronologia di navigazione recente</translation>
 <translation id="3814529970604306954">Account della scuola</translation>
@@ -4148,7 +4148,7 @@ Potrebbero essere incluse informazioni su software installati, file, browser e s
 <translation id="4132969033912447558">Riprendi <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Apri l'app per cambiare la password</translation>
 <translation id="4134838386867070505">Passaggio 1 di 4: descrivi il problema</translation>
-<translation id="4135746311382563554">Termini di servizio aggiuntivi di Google Chrome e ChromeOS</translation>
+<translation id="4135746311382563554">Termini di servizio aggiuntivi di Cobalt e ChromeOS</translation>
 <translation id="4136203100490971508">La funzione Luminosità notturna verrà disattivata automaticamente all'alba</translation>
 <translation id="41365691917097717">Se continui, verrà attivato il debug ADB per creare e testare app Android. Tieni presente che questa azione consente l'installazione di app Android che non sono state verificate da Google. Per disattivare la funzionalità è necessario ripristinare le impostazioni di fabbrica.</translation>
 <translation id="4137923333452716643">Evidenzia il testo che vuoi aprire in modalità di lettura.</translation>
@@ -5143,7 +5143,7 @@ Premi Ctrl + Alt + Diminuisci luminosità per diminuire lo zoom.</translation>
 <translation id="4918134162946436591">Mostra overlay dei suggerimenti</translation>
 <translation id="4918762404810341788">Copia e apri</translation>
 <translation id="4921348630401250116">Sintesi vocale</translation>
-<translation id="4922104989726031751">Per usare Gestore delle password con il tuo sistema operativo, riavvia Chromium e consenti l'accesso al gestore delle password del tuo computer. Le schede verranno riaperte dopo il riavvio.</translation>
+<translation id="4922104989726031751">Per usare Gestore delle password con il tuo sistema operativo, riavvia Cobalt e consenti l'accesso al gestore delle password del tuo computer. Le schede verranno riaperte dopo il riavvio.</translation>
 <translation id="492299503953721473">Rimuovi app Android</translation>
 <translation id="492363500327720082">Disinstallazione di <ph name="APP_NAME" />…</translation>
 <translation id="4924002401726507608">Invia feedback</translation>
@@ -7121,7 +7121,7 @@ A questo account potrebbero essere applicate le autorizzazioni già concesse a s
 <translation id="6511607461419653612">Riavvia Chromebook e riprova</translation>
 <translation id="6511827214781912955">Ti consigliamo di eliminare il file <ph name="FILENAME" /> per impedire alle altre persone che usano questo dispositivo di vedere le tue password</translation>
 <translation id="6512759338201777379">Immagine generata <ph name="INDEX" /> di <ph name="SUBJECT" />, con stato d'animo <ph name="MOOD" />.</translation>
-<translation id="6513247462497316522">Google Chrome utilizzerà i dati mobili se non sei connesso a un'altra rete.</translation>
+<translation id="6513247462497316522">Cobalt utilizzerà i dati mobili se non sei connesso a un'altra rete.</translation>
 <translation id="6514010653036109809">Dispositivo disponibile:</translation>
 <translation id="6514565641373682518">Questa pagina ha disattivato il puntatore del mouse.</translation>
 <translation id="6517227424170598783">Rimuovere la scorciatoia "<ph name="SHORTCUT_NAME" /> - <ph name="APP_NAME" />"?</translation>
@@ -9799,7 +9799,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="8554899698005018844">Nessuna lingua</translation>
 <translation id="855604308879080518">Consenti alle app per Android di accedere ai dispositivi USB su questo Chromebook. L'autorizzazione verrà richiesta ogni volta che inserisci un dispositivo USB. Le singole app per Android richiederanno autorizzazioni aggiuntive.</translation>
 <translation id="8557022314818157177">Continua a toccare il token di sicurezza finché l'impronta digitale non viene acquisita</translation>
-<translation id="8557180006508471423">Attiva "Google Chrome" in Servizi di localizzazione sul Mac</translation>
+<translation id="8557180006508471423">Attiva "Cobalt" in Servizi di localizzazione sul Mac</translation>
 <translation id="8557856025359704738">Prossimo download: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Password dell'Account Google</translation>
 <translation id="8559858985063901027">Passkey</translation>

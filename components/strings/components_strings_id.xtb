@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Menyiapkan file</translation>
 <translation id="1015730422737071372">Berikan detail tambahan</translation>
 <translation id="1019413721762100891">Nonaktif</translation>
-<translation id="1021753677514347426">Masalah ini terjadi karena sertifikat yang diinstal di perangkat oleh Anda atau orang lain. Sertifikat ini diketahui sebagai sertifikat yang digunakan untuk memantau dan melakukan intersepsi jaringan dan tidak dipercaya oleh Chromium. Walau terdapat beberapa kasus pemantauan yang sah, seperti pada jaringan sekolah atau perusahaan, Chromium ingin memastikan Anda menyadari terjadinya masalah tersebut, meskipun Anda tidak dapat menghentikannya. Pemantauan dapat terjadi di browser atau aplikasi yang mengakses web.</translation>
+<translation id="1021753677514347426">Masalah ini terjadi karena sertifikat yang diinstal di perangkat oleh Anda atau orang lain. Sertifikat ini diketahui sebagai sertifikat yang digunakan untuk memantau dan melakukan intersepsi jaringan dan tidak dipercaya oleh Cobalt. Walau terdapat beberapa kasus pemantauan yang sah, seperti pada jaringan sekolah atau perusahaan, Cobalt ingin memastikan Anda menyadari terjadinya masalah tersebut, meskipun Anda tidak dapat menghentikannya. Pemantauan dapat terjadi di browser atau aplikasi yang mengakses web.</translation>
 <translation id="1024111578869940408">Penyerang terkadang meniru situs dengan membuat perubahan yang sulit terlihat pada alamat web.</translation>
 <translation id="1024913885641459127">Ulasan Produk &amp; Perbandingan Harga</translation>
 <translation id="1028781062521375153">Lihat detail</translation>
@@ -317,7 +317,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="1567040042588613346">Kebijakan ini berfungsi sebagaimana mestinya, tetapi nilai yang sama disetel di sumber lain dan digantikan oleh kebijakan ini.</translation>
 <translation id="1567405528131216114">Tambahkan <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Masukkan tanggal habis masa berlaku</translation>
-<translation id="1569694109004336106">Google Chrome mencoba mengaktifkan Windows Hello untuk mengisi sandi.</translation>
+<translation id="1569694109004336106">Cobalt mencoba mengaktifkan Windows Hello untuk mengisi sandi.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inci</translation>
 <translation id="1574714699824202614">Memverifikasi metode pembayaran</translation>
 <translation id="1576277203042721907">Shopping Insights</translation>
@@ -360,7 +360,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="1645368109819982629">Protokol yang tidak didukung</translation>
 <translation id="1650602712345345441">Kelola setelan Chrome Anda</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Untuk menggunakan Pengelola Sandi dengan Rantai Kunci macOS, luncurkan kembali Chromium dan izinkan akses Rantai Kunci. Tab Anda akan dibuka lagi setelah peluncuran kembali.</translation>
+<translation id="1652862280638399816">Untuk menggunakan Pengelola Sandi dengan Rantai Kunci macOS, luncurkan kembali Cobalt dan izinkan akses Rantai Kunci. Tab Anda akan dibuka lagi setelah peluncuran kembali.</translation>
 <translation id="1656024727720460136">Chrome menyederhanakan halaman ini agar lebih mudah dibaca. Chrome mengambil halaman asli melalui koneksi yang aman.</translation>
 <translation id="1656489000284462475">Pengambilan</translation>
 <translation id="1658111267661135323">TV &amp; Video</translation>
@@ -431,7 +431,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="1762779605905950734">Nama jalan</translation>
 <translation id="1763864636252898013">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN" />; sertifikat keamanannya tidak dipercaya oleh sistem operasi perangkat Anda. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Coba jalankan Diagnostik Jaringan Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Pelajari mode Samaran di Chromium lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Pelajari mode Samaran di Cobalt lebih lanjut<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Foto (Arsip)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -510,7 +510,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="194174710521904357">Anda mengizinkan situs ini menggunakan cookie pihak ketiga untuk sementara. Dengan demikian, Anda mendapatkan lebih sedikit perlindungan terhadap penjelajahan, tetapi fitur situs cenderung berfungsi seperti yang diharapkan.</translation>
 <translation id="1942498996464084801">Buku &amp; Literatur</translation>
 <translation id="1943994668912612445">Desain</translation>
-<translation id="1945968466830820669">Anda dapat kehilangan akses ke akun organisasi atau mengalami pencurian identitas. Chromium menyarankan Anda untuk mengubah sandi sekarang.</translation>
+<translation id="1945968466830820669">Anda dapat kehilangan akses ke akun organisasi atau mengalami pencurian identitas. Cobalt menyarankan Anda untuk mengubah sandi sekarang.</translation>
 <translation id="1946849748901605102">12 x 15 inci (30 x 38 cm)</translation>
 <translation id="1947454675006758438">Jepretan di kanan atas</translation>
 <translation id="1953729392594614704">Memblokir <ph name="TOPIC" /> juga akan memblokir topik terkait, meskipun topik tersebut aktif</translation>
@@ -589,7 +589,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="2083256696566019397">Izinkan pada setiap kunjungan</translation>
 <translation id="2085876078937250610">Simpan…</translation>
 <translation id="2091887806945687916">Suara</translation>
-<translation id="2093982008204312032">Google Chrome mencoba menonaktifkan Windows Hello untuk mengisi sandi.</translation>
+<translation id="2093982008204312032">Cobalt mencoba menonaktifkan Windows Hello untuk mengisi sandi.</translation>
 <translation id="2094505752054353250">Ketidakcocokan domain</translation>
 <translation id="2094704029599359040">Informasi Versi</translation>
 <translation id="2099652385553570808">Tiga jepretan di kiri</translation>
@@ -759,7 +759,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="239429038616798445">Metode pengiriman tidak tersedia. Coba metode lain.</translation>
 <translation id="2395840535409704129">Olahraga Air</translation>
 <translation id="2396249848217231973">&amp;Urungkan penghapusan</translation>
-<translation id="2399868464369312507">Google Chrome mencoba mengedit metode pembayaran.</translation>
+<translation id="2399868464369312507">Cobalt mencoba mengedit metode pembayaran.</translation>
 <translation id="2400600116338235695">Dapat meminta untuk terhubung ke port serial</translation>
 <translation id="2404884497378469141">Coba salin file lagi</translation>
 <translation id="2413155254802890957">Lama</translation>
@@ -1027,7 +1027,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="2979424420072875974">Sumber Daya Penulis</translation>
 <translation id="2980742331521553164">CVC kartu ini akan dienkripsi dan disimpan di Akun Google Anda untuk checkout yang lebih cepat</translation>
 <translation id="2983666748527428214">Buka Tab Samaran</translation>
-<translation id="2985306909656435243">Jika diaktifkan, Chromium akan menyimpan salinan kartu Anda di perangkat ini untuk pengisian formulir yang lebih cepat.</translation>
+<translation id="2985306909656435243">Jika diaktifkan, Cobalt akan menyimpan salinan kartu Anda di perangkat ini untuk pengisian formulir yang lebih cepat.</translation>
 <translation id="2985398929374701810">Masukkan alamat yang valid</translation>
 <translation id="2987034854559945715">Tidak ada fitur yang cocok</translation>
 <translation id="2988216301273604645">Chrome membatasi jumlah informasi yang dapat digunakan situs untuk melacak Anda saat Anda menjelajah. Anda dapat mengubah setelan untuk memilih tingkat perlindungan Anda sendiri.</translation>
@@ -1109,7 +1109,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="3154506275960390542">Halaman ini berisi formulir yang mungkin tidak dikirim dengan aman. Data yang Anda kirim dapat dilihat oleh orang lain saat transit atau dapat diubah oleh penyerang untuk mengubah data yang akan diterima server.</translation>
 <translation id="3154987252551138431">Terjadi error saat menggunakan Berbagi Langsung</translation>
 <translation id="315504272643575312">Akun Anda dikelola oleh <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Luncurkan ulang Chromium</translation>
+<translation id="3155163173539279776">Luncurkan ulang Cobalt</translation>
 <translation id="3157931365184549694">Pulihkan</translation>
 <translation id="3158539265159265653">Disk</translation>
 <translation id="3162559335345991374">Wi-Fi yang digunakan mungkin mewajibkan Anda mengunjungi halaman masuknya.</translation>
@@ -1163,7 +1163,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="324180406144491771">Link “<ph name="HOST_NAME" />” diblokir</translation>
 <translation id="3252772880526154546">Arsitektur</translation>
 <translation id="3254301855501243548">18 x 22 inci (45 x 55 cm)</translation>
-<translation id="3255926992597692024">Chromium mencoba mengubah setelan pengisian metode pembayaran.</translation>
+<translation id="3255926992597692024">Cobalt mencoba mengubah setelan pengisian metode pembayaran.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, tekan Tab lalu Enter untuk membuat acara baru di Google Kalender dengan cepat</translation>
 <translation id="3261488570342242926">Pelajari kartu virtual</translation>
 <translation id="3262698603497362968">Opsi pembelian</translation>
@@ -1250,7 +1250,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="3423742043356668186">Ditentukan sistem</translation>
 <translation id="3427092606871434483">Izinkan (default)</translation>
 <translation id="3427342743765426898">&amp;Ulangi Pengeditan</translation>
-<translation id="342781501876943858">Chromium menyarankan untuk menyetel ulang sandi jika Anda juga menggunakannya di situs lain.</translation>
+<translation id="342781501876943858">Cobalt menyarankan untuk menyetel ulang sandi jika Anda juga menggunakannya di situs lain.</translation>
 <translation id="3428151540071562330">Satu atau beberapa URI template server DnsOverHttpsTemplates tidak valid dan tidak akan digunakan.</translation>
 <translation id="3428789896412418755">Histori yang Dikelompokkan</translation>
 <translation id="3431216045099978607">Tekan |<ph name="ACCELERATOR" />| untuk keluar dari layar penuh dan melihat download.</translation>
@@ -1437,7 +1437,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="374325029554577103">Produk Teknologi Kebugaran</translation>
 <translation id="3744111561329211289">Sinkronisasi latar belakang</translation>
 <translation id="3744212718085287312">Mau lebih aman dengan kartu virtual di lain waktu?</translation>
-<translation id="3744899669254331632">Anda tidak dapat mengunjungi <ph name="SITE" /> sekarang karena situs web mengirim kredensial tak beraturan yang tidak dapat diproses Chromium. Kesalahan jaringan dan serangan biasanya bersifat sementara, sehingga halaman ini mungkin akan bekerja nanti.</translation>
+<translation id="3744899669254331632">Anda tidak dapat mengunjungi <ph name="SITE" /> sekarang karena situs web mengirim kredensial tak beraturan yang tidak dapat diproses Cobalt. Kesalahan jaringan dan serangan biasanya bersifat sementara, sehingga halaman ini mungkin akan bekerja nanti.</translation>
 <translation id="3745599309295009257">Teks, konten, dan URL halaman tempat Anda menulis akan dikirim ke Google, ditinjau oleh manusia, dan digunakan untuk meningkatkan kualitas fitur ini. Hindari memasukkan informasi pribadi (seperti detail medis atau keuangan) atau menggunakan alat ini di situs yang berisi informasi pribadi atau sensitif.</translation>
 <translation id="3748009735914587286">Logam (Kilap Tinggi)</translation>
 <translation id="3748148204939282805">Penyerang di <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> dapat mengelabui Anda agar melakukan tindakan yang berbahaya seperti menginstal software atau mengungkap informasi pribadi Anda (misalnya sandi, nomor telepon, atau kartu kredit). <ph name="BEGIN_LEARN_MORE_LINK" />Pelajari lebih lanjut<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4047351652147966654">18 x 24 inci (45 x 60 cm)</translation>
 <translation id="404831776305217138">URL update untuk ekstensi dengan ID "<ph name="EXTENSION_ID" />" tidak valid atau menggunakan skema yang tidak didukung. Skema yang didukung adalah: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" />, dan <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Anda akan dapat menggunakannya di seluruh produk Google</translation>
-<translation id="4050599136622776556">Chromium mencoba mengedit metode pembayaran.</translation>
+<translation id="4050599136622776556">Cobalt mencoba mengedit metode pembayaran.</translation>
 <translation id="405399507749852140">Dapatkan notifikasi jika ada diskon di situs mana pun</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Pelajari lebih lanjut Sensitive Data Protection</translation>
@@ -1844,7 +1844,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4557573143631562971">Asuransi Rumah</translation>
 <translation id="4558551763791394412">Coba nonaktifkan ekstensi.</translation>
 <translation id="4566017918361049074">Luar ruangan</translation>
-<translation id="4567686777917670400">Administrator dapat mengubah penyiapan browser Anda dari jarak jauh. Aktivitas di perangkat ini mungkin juga dikelola di luar Chromium. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Administrator dapat mengubah penyiapan browser Anda dari jarak jauh. Aktivitas di perangkat ini mungkin juga dikelola di luar Cobalt. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Terverifikasi</translation>
 <translation id="457875822857220463">Pengiriman</translation>
 <translation id="4579699065574932398">Perbankan</translation>
@@ -1874,7 +1874,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4631881646528206880">Pendaftaran kartu virtual</translation>
 <translation id="4635278307999235413">Mengirim data ke konsol admin</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Mode Samaran di Chromium</translation>
+<translation id="4638670630777875591">Mode Samaran di Cobalt</translation>
 <translation id="464342062220857295">Fitur penelusuran</translation>
 <translation id="4644670975240021822">Urutan yang berkebalikan menghadap ke bawah</translation>
 <translation id="4646534391647090355">Buka Download sekarang</translation>
@@ -1919,7 +1919,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4732860731866514038">Mendownload paket bahasa <ph name="LANGUAGE" />... <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> ingin menggunakan lokasi perangkat Anda</translation>
 <translation id="473414950835101501">Menggunakan kamera Anda</translation>
-<translation id="4736825316280949806">Buka Ulang Chromium</translation>
+<translation id="4736825316280949806">Buka Ulang Cobalt</translation>
 <translation id="4736934858538408121">Kartu virtual</translation>
 <translation id="473775607612524610">Update</translation>
 <translation id="4738601419177586157">Saran penelusuran <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4756388243121344051">&amp;Riwayat</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Kunci sandi dari Profil Chrome Anda</translation>
-<translation id="4757993714154412917">Anda baru saja memasukkan sandi ke situs penipuan. Untuk mengamankan akun Anda, Chromium merekomendasikan pemeriksaan sandi tersimpan Anda.</translation>
+<translation id="4757993714154412917">Anda baru saja memasukkan sandi ke situs penipuan. Untuk mengamankan akun Anda, Cobalt merekomendasikan pemeriksaan sandi tersimpan Anda.</translation>
 <translation id="4758311279753947758">Tambahkan info kontak</translation>
 <translation id="4761326898079498987">Tinjau untuk mengetahui detail lebih lanjut</translation>
 <translation id="4761869838909035636">Jalankan Pemeriksaan Keamanan Chrome</translation>
@@ -2023,7 +2023,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="4918221908152712722">Instal <ph name="APP_NAME" /> (tidak perlu didownload)</translation>
 <translation id="4920457992177678649">Rental Akomodasi &amp; Tempat Tinggal Jangka Pendek</translation>
 <translation id="4920710383559189047">Sleeve</translation>
-<translation id="4922104989726031751">Untuk menggunakan Pengelola Sandi dengan sistem operasi Anda, luncurkan kembali Chromium dan izinkan akses ke pengelola sandi komputer. Tab Anda akan dibuka lagi setelah peluncuran kembali.</translation>
+<translation id="4922104989726031751">Untuk menggunakan Pengelola Sandi dengan sistem operasi Anda, luncurkan kembali Cobalt dan izinkan akses ke pengelola sandi komputer. Tab Anda akan dibuka lagi setelah peluncuran kembali.</translation>
 <translation id="4923459931733593730">Pembayaran</translation>
 <translation id="4926049483395192435">Harus ditentukan.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> menyatakan</translation>
@@ -2108,7 +2108,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="5087580092889165836">Tambahkan kartu</translation>
 <translation id="5088142053160410913">Pesan untuk operator</translation>
 <translation id="5093232627742069661">Lipatan Z</translation>
-<translation id="5094747076828555589">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN" />; sertifikat keamanannya tidak dipercaya oleh Chromium. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
+<translation id="5094747076828555589">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN" />; sertifikat keamanannya tidak dipercaya oleh Cobalt. Hal ini dapat disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
 <translation id="5097099694988056070">Statistik perangkat seperti penggunaan CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 inci (68 x 99 cm)</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="5137761395480718572">Aplikasi ini meminta izin untuk menginstal kredensial Wi-Fi. Setelah penyiapan, <ph name="DEVICE_TYPE" /> akan otomatis terhubung ke jaringan Wi-Fi yang berpartisipasi. Untuk menghapus kredensial ini, uninstal aplikasi. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Kartu virtual saat ini tidak tersedia, hubungi bank Anda</translation>
 <translation id="5138227688689900538">Tampilkan lebih sedikit</translation>
-<translation id="5143309888746105072">Chromium memblokir situs agar tidak menggunakan cookie pihak ketiga untuk melacak Anda saat menjelajah.
+<translation id="5143309888746105072">Cobalt memblokir situs agar tidak menggunakan cookie pihak ketiga untuk melacak Anda saat menjelajah.
             <ph name="NEW_LINE" />Jika fitur situs tidak berfungsi, <ph name="START_LINK" />coba izinkan sementara cookie pihak ketiga<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Ada kode kesalahan dalam tanggapan kebijakan</translation>
 <translation id="5146995429444047494">Notifikasi untuk <ph name="ORIGIN" /> diblokir</translation>
@@ -2273,7 +2273,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="5425082381151187189">Dekorasi Rumah &amp; Interior</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> ingin mengirimkan notifikasi kepada Anda</translation>
 <translation id="5430298929874300616">Buang bookmark</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />tidak akan menyimpan<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />tidak akan menyimpan<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Histori penjelajahan Anda
             <ph name="LIST_ITEM" />Cookie dan data situs
@@ -2648,7 +2648,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6160391204859821737">Aktifkan fitur privasi iklan</translation>
 <translation id="6165508094623778733">Pelajari selengkapnya</translation>
 <translation id="6167577165590485365">Upaya pengambilan terakhir:</translation>
-<translation id="617256461084925519">Google Chrome mencoba memverifikasi diri Anda agar dapat mengisi info pembayaran.</translation>
+<translation id="617256461084925519">Cobalt mencoba memverifikasi diri Anda agar dapat mengisi info pembayaran.</translation>
 <translation id="6176387967264100435">Harganya tinggi</translation>
 <translation id="6177128806592000436">Sambungan Anda ke situs ini tidak aman</translation>
 <translation id="6177531123306197852">Envelope C2</translation>
@@ -2668,7 +2668,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6215936431492593050">Logam (Satin)</translation>
 <translation id="6217950634729714357">Furnitur Dapur &amp; Ruang Makan</translation>
 <translation id="6218305986815100395">Tidak dapat mengaktifkan kartu virtual</translation>
-<translation id="6218753634732582820">Hapus alamat dari Chromium?</translation>
+<translation id="6218753634732582820">Hapus alamat dari Cobalt?</translation>
 <translation id="622039917539443112">Lipatan paralel</translation>
 <translation id="6221311046884916259">Ingin menyimpan kartu ini di Akun Google Anda?</translation>
 <translation id="6221345481584921695">Google Safe Browsing baru saja <ph name="BEGIN_LINK" />mendeteksi software perusak<ph name="END_LINK" /> di <ph name="SITE" />. Situs web yang biasanya aman terkadang terinfeksi software perusak. Konten berbahaya datang dari <ph name="SUBRESOURCE_HOST" />, yang dikenal luas sebagai distributor software perusak.</translation>
@@ -2740,7 +2740,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6348220984832452017">Variasi Aktif</translation>
 <translation id="6349101878882523185">Instal <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Tidak ada}=1{1 sandi (untuk <ph name="DOMAIN_LIST" />, disinkronkan)}=2{2 sandi (untuk <ph name="DOMAIN_LIST" />, disinkronkan)}other{# sandi (untuk <ph name="DOMAIN_LIST" />, disinkronkan)}}</translation>
-<translation id="6355392890578844978">Browser ini tidak dikelola oleh perusahaan atau organisasi lain. Aktivitas di perangkat ini mungkin dikelola di luar Chromium. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Browser ini tidak dikelola oleh perusahaan atau organisasi lain. Aktivitas di perangkat ini mungkin dikelola di luar Cobalt. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">mengedit metode pembayaran</translation>
 <translation id="6358450015545214790">Apakah maksud ini?</translation>
 <translation id="6360213755783740931">Pelajari lebih lanjut Perlindungan malware</translation>
@@ -2782,7 +2782,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6410264514553301377">Masukkan tanggal kedaluwarsa dan CVC <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Perawatan Kulit &amp; Kuku</translation>
-<translation id="6415778972515849510">Chromium dapat membantu Anda melindungi Akun Google dan mengubah sandi Anda.</translation>
+<translation id="6415778972515849510">Cobalt dapat membantu Anda melindungi Akun Google dan mengubah sandi Anda.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Layanan Penggajian</translation>
 <translation id="6424600253695044005">Penyimpanan Cloud</translation>
@@ -2908,7 +2908,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6665553082534466207">Tiga lubang di kanan</translation>
 <translation id="6668389483194953109">Ditemukan nama ukuran kertas "custom", tetapi properti "custom_size" kosong atau tidak valid.</translation>
 <translation id="6671169470640320959">Pembiayaan Otomotif</translation>
-<translation id="6671697161687535275">Hapus saran formulir dari Chromium?</translation>
+<translation id="6671697161687535275">Hapus saran formulir dari Cobalt?</translation>
 <translation id="6677351035258626477">Makanan Cepat Saji</translation>
 <translation id="6681790815630918386">CVC disimpan</translation>
 <translation id="6683022854667115063">Headphone</translation>
@@ -3021,7 +3021,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6897140037006041989">Agen Pengguna</translation>
 <translation id="6898699227549475383">Organisasi (O)</translation>
 <translation id="6907458757809079309">Kebugaran</translation>
-<translation id="6908168784986658395">Jika Anda menutup semua tab Samaran Chromium, aktivitas Anda di tab tersebut akan dihapus dari perangkat ini:
+<translation id="6908168784986658395">Jika Anda menutup semua tab Samaran Cobalt, aktivitas Anda di tab tersebut akan dihapus dari perangkat ini:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Aktivitas penjelajahan<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Histori penelusuran<ph name="END_LIST_ITEM" />
@@ -3069,7 +3069,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="6973988895180423160">3,5 x 5 inci (8 x 12 cm)</translation>
 <translation id="6978121630131642226">Mesin Telusur</translation>
 <translation id="6978236010531171013">Tetap bagikan</translation>
-<translation id="6978722349058177832">Jika Anda berbagi perangkat ini dengan orang lain, Chromium dapat meminta Anda untuk memverifikasi setiap kali Anda membayar menggunakan isi otomatis</translation>
+<translation id="6978722349058177832">Jika Anda berbagi perangkat ini dengan orang lain, Cobalt dapat meminta Anda untuk memverifikasi setiap kali Anda membayar menggunakan isi otomatis</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Matikan (default)</translation>
 <translation id="6987806006823772670">Amplop (Berlapis)</translation>
@@ -3232,7 +3232,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="7308436126008021607">sinkronisasi latar belakang</translation>
 <translation id="7310392214323165548">Perangkat akan segera dimulai ulang</translation>
 <translation id="7311244614769792472">Tidak ditemukan hasil</translation>
-<translation id="7311837626618954149">Chromium memblokir situs agar tidak menggunakan cookie pihak ketiga untuk melacak Anda saat menjelajah.</translation>
+<translation id="7311837626618954149">Cobalt memblokir situs agar tidak menggunakan cookie pihak ketiga untuk melacak Anda saat menjelajah.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Bantuan Koneksi</translation>
 <translation id="7323804146520582233">Sembunyikan bagian "<ph name="SECTION" />"</translation>
@@ -3305,7 +3305,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="7425878584435172632">Seni &amp; Desain Visual</translation>
 <translation id="7427079287360774240">Studi Bahasa Asing</translation>
 <translation id="7429429656042611765">Eksekutif</translation>
-<translation id="7432774160230062882">Verifikasi diri Anda agar Chromium dapat mengisi info pembayaran.</translation>
+<translation id="7432774160230062882">Verifikasi diri Anda agar Cobalt dapat mengisi info pembayaran.</translation>
 <translation id="7437289804838430631">Tambahkan Info Kontak</translation>
 <translation id="7438338505272634288">Penyerang di situs yang Anda coba kunjungi dapat mengelabui Anda agar menginstal software berbahaya yang memengaruhi cara Anda menjelajah — misalnya, dengan mengubah halaman beranda atau menampilkan iklan tambahan di situs yang Anda kunjungi. Chrome sangat merekomendasikan untuk kembali agar aman dari bahaya. <ph name="BEGIN_LEARN_MORE_LINK" />Pelajari lebih lanjut<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Jelajahi saat offline</translation>
@@ -3382,7 +3382,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="7564049878696755256">Anda dapat kehilangan akses ke akun <ph name="ORG_NAME" /> atau mengalami pencurian identitas. Chrome menyarankan Anda untuk mengubah sandi sekarang.</translation>
 <translation id="7564667064360547717">Kaus &amp; Atasan</translation>
 <translation id="7567204685887185387">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN" />; sertifikat keamanannya mungkin telah dikeluarkan dengan curang. Hal ini disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
-<translation id="7568616151991626879">Google Chrome mencoba mengisi sandi Anda di <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt mencoba mengisi sandi Anda di <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Hapus kartu kredit dari Chrome?</translation>
 <translation id="7569983096843329377">Hitam</translation>
@@ -3425,7 +3425,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="7631527008834753063">Acara Game TV</translation>
 <translation id="7633909222644580952">Data performa dan laporan kerusakan</translation>
 <translation id="7636346903338549690">Situs diizinkan menggunakan cookie pihak ketiga</translation>
-<translation id="7637571805876720304">Hapus kartu kredit dari Chromium?</translation>
+<translation id="7637571805876720304">Hapus kartu kredit dari Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Tidak ada}=1{1 sandi di akun Anda (untuk <ph name="DOMAIN_LIST" />)}other{# sandi di akun Anda (untuk <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Port serial</translation>
 <translation id="7639968568612851608">Abu-Abu Tua</translation>
@@ -3646,7 +3646,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="8061691770921837575">Tata Rias &amp; Kosmetik</translation>
 <translation id="8063875539456488183">Simpan dan pantau harga</translation>
 <translation id="8066225060526005217">Dikelola oleh setelan cookie</translation>
-<translation id="8067872629359326442">Anda baru saja memasukkan sandi ke situs penipuan. Chromium dapat membantu. Untuk mengubah sandi dan memberi tahu Google bahwa akun Anda mungkin berisiko, klik Lindungi Akun.</translation>
+<translation id="8067872629359326442">Anda baru saja memasukkan sandi ke situs penipuan. Cobalt dapat membantu. Untuk mengubah sandi dan memberi tahu Google bahwa akun Anda mungkin berisiko, klik Lindungi Akun.</translation>
 <translation id="8070439594494267500">Ikon aplikasi</translation>
 <translation id="8070495475341517754">Tur Jalan-Jalan</translation>
 <translation id="8073647227500388356">Kendaraan Otonom</translation>
@@ -3903,7 +3903,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="8542014550340843547">Tiga jepretan di bawah</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Anda dapat <ph name="BEGIN_ERROR_LINK" />melaporkan masalah pendeteksian<ph name="END_ERROR_LINK" /> atau, jika memahami risiko bagi keamanan, Anda dapat <ph name="BEGIN_LINK" />mengunjungi situs yang tidak aman<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome mencoba mengubah setelan pengisian metode pembayaran.</translation>
+<translation id="8544217240017914508">Cobalt mencoba mengubah setelan pengisian metode pembayaran.</translation>
 <translation id="8544303911974837265">Poliester</translation>
 <translation id="854548366864113872">Opsi Harga Tinggi</translation>
 <translation id="8546254312340305428">Berikan alasan mengupload (wajib)</translation>
@@ -3920,7 +3920,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="8558347880669160417">Kamera dan mikrofon diizinkan kali ini</translation>
 <translation id="8559762987265718583">Sambungan pribadi ke <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> tidak dapat dibuat karena tanggal dan waktu (<ph name="DATE_AND_TIME" />) perangkat tidak benar.</translation>
 <translation id="8564182942834072828">Dokumen terpisah/Salinan tidak tersusun</translation>
-<translation id="8564985650692024650">Chromium menyarankan untuk menyetel ulang sandi <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> jika Anda juga menggunakannya di situs lain.</translation>
+<translation id="8564985650692024650">Cobalt menyarankan untuk menyetel ulang sandi <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> jika Anda juga menggunakannya di situs lain.</translation>
 <translation id="8570895683659698018">Hobi &amp; Waktu Luang</translation>
 <translation id="8574841453995331336">Lemari Es &amp; Pembeku</translation>
 <translation id="8577192028579836704">Semua opsi berharga standar <ph name="TYPICAL_PRICE" /></translation>
@@ -3994,7 +3994,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="8736059027199600831">30 x 40 inci (76 x 101 cm)</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, tekan Tab lalu Enter untuk membuka jendela Samaran baru dan menjelajah secara pribadi</translation>
 <translation id="8737685506611670901">Membuka link <ph name="PROTOCOL" /> sebagai ganti <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Untuk membuat sambungan aman, jam perlu disetel dengan benar. Hal ini karena sertifikat yang digunakan situs web untuk mengidentifikasi situs web tersebut hanya valid untuk jangka waktu tertentu. Karena jam perangkat tidak benar, Chromium tidak dapat memverifikasi sertifikat ini.</translation>
+<translation id="8738058698779197622">Untuk membuat sambungan aman, jam perlu disetel dengan benar. Hal ini karena sertifikat yang digunakan situs web untuk mengidentifikasi situs web tersebut hanya valid untuk jangka waktu tertentu. Karena jam perangkat tidak benar, Cobalt tidak dapat memverifikasi sertifikat ini.</translation>
 <translation id="8740359287975076522">&lt;abbr id="dnsDefinition"&gt;Alamat DNS&lt;/abbr&gt; <ph name="HOST_NAME" /> tidak dapat ditemukan. Mendiagnosis masalah.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> adalah kode Anda untuk <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Bookmark tab ini</translation>
@@ -4021,7 +4021,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="8785658048882205566">Sepeda motor</translation>
 <translation id="8790007591277257123">&amp;Ulangi penghapusan</translation>
 <translation id="8792272652220298572">Plastik (Mengilap)</translation>
-<translation id="8792621596287649091">Anda dapat kehilangan akses ke akun <ph name="ORG_NAME" /> atau mengalami pencurian identitas. Chromium menyarankan Anda untuk mengubah sandi sekarang.</translation>
+<translation id="8792621596287649091">Anda dapat kehilangan akses ke akun <ph name="ORG_NAME" /> atau mengalami pencurian identitas. Cobalt menyarankan Anda untuk mengubah sandi sekarang.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> telah mengaktifkan Chrome Enterprise Connectors di browser Anda. Konektor ini memiliki akses ke beberapa data Anda.</translation>
 <translation id="8798099450830957504">Default</translation>
@@ -4171,7 +4171,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="9095388113577226029">Bahasa lainnya...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Tekan Tab lalu Enter untuk menyetel Chrome sebagai browser default sistem di setelan iOS</translation>
 <translation id="9101630580131696064">Baki 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> biasanya menggunakan enkripsi untuk melindungi informasi Anda. Saat Chromium mencoba menyambung ke <ph name="SITE" /> kali ini, situs web mengembalikan kredensial yang salah dan tidak biasa. Hal ini dapat terjadi jika ada penyerang yang berpura-pura menjadi <ph name="SITE" />, atau layar masuk Wi-Fi mengganggu sambungan. Informasi Anda masih aman karena Chromium menghentikan sambungan sebelum terjadi pertukaran data apa pun.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> biasanya menggunakan enkripsi untuk melindungi informasi Anda. Saat Cobalt mencoba menyambung ke <ph name="SITE" /> kali ini, situs web mengembalikan kredensial yang salah dan tidak biasa. Hal ini dapat terjadi jika ada penyerang yang berpura-pura menjadi <ph name="SITE" />, atau layar masuk Wi-Fi mengganggu sambungan. Informasi Anda masih aman karena Cobalt menghentikan sambungan sebelum terjadi pertukaran data apa pun.</translation>
 <translation id="9107467864910557787">Browser Anda dikelola oleh <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Kebijakan administrator menonaktifkan berbagi layar dengan <ph name="APPLICATION_TITLE" /> saat konten rahasia terlihat</translation>
 <translation id="9114524666733003316">Mengonfirmasi kartu...</translation>
@@ -4239,7 +4239,7 @@ disusupi oleh penyerang. Hanya buka <ph name="BEGIN_LINK" />situs yang tidak ama
 <translation id="93020190163435405">Magang</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Izinkan aplikasi <ph name="APP_NAME" /> menyiapkan jaringan Wi-Fi?</translation>
-<translation id="936602727769022409">Anda dapat kehilangan akses ke Akun Google Anda. Chromium merekomendasikan untuk mengubah sandi Anda sekarang. Anda akan diminta untuk login.</translation>
+<translation id="936602727769022409">Anda dapat kehilangan akses ke Akun Google Anda. Cobalt merekomendasikan untuk mengubah sandi Anda sekarang. Anda akan diminta untuk login.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Data yang digunakan:<ph name="END_BOLD" /> Topik iklan Anda didasarkan pada histori penjelajahan terbaru, yaitu daftar situs yang telah Anda buka menggunakan Chrome di perangkat ini.</translation>
 <translation id="937885410143139026">Data dikirim ke konsol admin</translation>
 <translation id="939736085109172342">Folder baru</translation>

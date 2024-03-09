@@ -29,7 +29,7 @@ To change this setting, <ph name="BEGIN_LINK" />clear the Chrome data in your ac
 <translation id="1129510026454351943">Details: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Don’t offer to translate these sites</translation>
 <translation id="1145536944570833626">Delete existing data.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> will open in Chrome. By continuing, you agree to the <ph name="BEGIN_LINK1" />Google Terms of Service<ph name="END_LINK1" />, and the <ph name="BEGIN_LINK2" />Google Chrome and Chrome OS additional Terms of Service<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> will open in Chrome. By continuing, you agree to the <ph name="BEGIN_LINK1" />Google Terms of Service<ph name="END_LINK1" />, and the <ph name="BEGIN_LINK2" />Cobalt and Chrome OS additional Terms of Service<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">Use password <ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">Rename</translation>
 <translation id="1174479719160874822">Chrome will request the mobile site when the screen is narrow</translation>
@@ -73,7 +73,7 @@ To change this setting, <ph name="BEGIN_LINK" />clear the Chrome data in your ac
 <translation id="1320912611264252795">Bookmark save flow folders opened at full height</translation>
 <translation id="1327257854815634930">Navigation history is opened</translation>
 <translation id="1331212799747679585">Chrome can’t update. More options</translation>
-<translation id="1332501820983677155">Google Chrome feature shortcuts</translation>
+<translation id="1332501820983677155">Cobalt feature shortcuts</translation>
 <translation id="1344653310988386453">Include link to highlight</translation>
 <translation id="1347468774581902829">Manage activity</translation>
 <translation id="1360432990279830238">Sign out and turn off sync?</translation>
@@ -398,7 +398,7 @@ To change this setting, <ph name="BEGIN_LINK" />clear the Chrome data in your ac
 <translation id="3062802207422175757">Articles on your interests on Chrome</translation>
 <translation id="3066573403916685335">Move Down</translation>
 <translation id="3070005020161560471">Automatically translate</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> will open in Chrome. By continuing, you agree to the <ph name="BEGIN_LINK1" />Google Terms of Service<ph name="END_LINK1" />, and the <ph name="BEGIN_LINK2" />Google Chrome and Chrome OS additional Terms of Service<ph name="END_LINK2" />. The <ph name="BEGIN_LINK3" />Privacy Policy<ph name="END_LINK3" /> also applies.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> will open in Chrome. By continuing, you agree to the <ph name="BEGIN_LINK1" />Google Terms of Service<ph name="END_LINK1" />, and the <ph name="BEGIN_LINK2" />Cobalt and Chrome OS additional Terms of Service<ph name="END_LINK2" />. The <ph name="BEGIN_LINK3" />Privacy Policy<ph name="END_LINK3" /> also applies.</translation>
 <translation id="3080525922482950719">You can save pages to read later or offline</translation>
 <translation id="3091010850649238832">Show clipboard contents</translation>
 <translation id="3098745985164956033">Some images are sent to Google to improve descriptions for you</translation>
@@ -417,7 +417,7 @@ To change this setting, <ph name="BEGIN_LINK" />clear the Chrome data in your ac
 <translation id="3214996641768123781"><ph name="BEGIN_LINK1" />Search history<ph name="END_LINK1" /> and <ph name="BEGIN_LINK2" />other forms of activity<ph name="END_LINK2" /> may be saved in your Google Account when you’re signed in. You can delete them at any time.</translation>
 <translation id="3220943972464248773">To sync your passwords, verify that it's you</translation>
 <translation id="3226612997184048185">If you also save your bookmarks in your Google Account, you can track product prices in Chrome and get notified when the price drops</translation>
-<translation id="3227557059438308877">Google Chrome as a security key</translation>
+<translation id="3227557059438308877">Cobalt as a security key</translation>
 <translation id="3232754137068452469">Web App</translation>
 <translation id="3236059992281584593">1 min left</translation>
 <translation id="3237087289225714896">Standard preloading:</translation>
@@ -1622,7 +1622,7 @@ For example, some websites may respond to this request by showing you ads that a
 <translation id="9219103736887031265">Images</translation>
 <translation id="92381315203627188">When a site asks to privately preload links on their page, Chrome encrypts and preloads pages through Google servers without cookies. This hides your identity from the preloaded site.</translation>
 <translation id="926205370408745186">Remove your Chrome activity from Digital Wellbeing</translation>
-<translation id="927968626442779827">Use lite mode on Google Chrome</translation>
+<translation id="927968626442779827">Use lite mode on Cobalt</translation>
 <translation id="928550791203542716">Following <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">All passwords will be downloaded on your device and removed from <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Error: <ph name="ERROR_CODE" /></translation>

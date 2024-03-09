@@ -169,7 +169,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="3941890832296813527">Installationsfel: Installationens filnamn är ogiltigt eller stöds inte.</translation>
 <translation id="3945058413678539331">Skriv ditt Windows-lösenord om du tillåter att lösenorden i Cobalt kopieras.</translation>
 <translation id="3962647064319009959">Läs mer om hur du skyddas i Cobalt</translation>
-<translation id="3975724895399328945">Om &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Om &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Om Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS fungerar tack vare ytterligare <ph name="BEGIN_LINK_CROS_OSS" />program med öppen källkod<ph name="END_LINK_CROS_OSS" />, liksom <ph name="BEGIN_LINK_LINUX_OSS" />utvecklingsmiljön för Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Hjälp oss att förbättra Cobalt genom att rapportera dina <ph name="BEGIN_LINK" />aktuella inställningar<ph name="END_LINK" /></translation>
@@ -405,7 +405,7 @@ Cobalt kan inte återställa dina inställningar.</translation>
 <translation id="8013436988911883588">När du har gett Cobalt åtkomst kan webbplatser begära att få åtkomst.</translation>
 <translation id="80471789339884597">Tack för att du installerat programmet. Du måste starta om alla webbläsare innan du använder <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Installationen misslyckades eftersom datorn inte uppfyller minimikraven för maskinvara.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Du behöver ge Cobalt platsbehörighet för den här webbplatsen</translation>
 <translation id="8133124826068723441">Det gick inte att synkronisera data med Cobalt OS eftersom synkronisering inte är tillgängligt för domänen.</translation>
 <translation id="813913629614996137">Initierar …</translation>
@@ -438,7 +438,7 @@ Cobalt kan inte återställa dina inställningar.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Så här använder vi denna data:<ph name="END_BOLD" /> Webbplatser kan lagra information om dina intressen i Cobalt. Om du till exempel besöker en webbplats för att köpa skor till ett maraton kanske webbplatsen anger att du är intresserad av att springa maraton. Om du sedan besöker en annan webbplats för att registrera dig för ett lopp kan webbplatsen visa en annons för löparskor utifrån dina intressen.</translation>
 <translation id="8619360774459241877">Cobalt startas …</translation>
 <translation id="8621669128220841554">Installationen misslyckades på grund av ett okänt fel. Ladda ned Cobalt igen.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing kan inte användas som standardwebbläsare.</translation>
+<translation id="8648201657708811153">Cobalt for Testing kan inte användas som standardwebbläsare.</translation>
 <translation id="8697124171261953979">Det styr också vilken sida som visas när du startar Cobalt eller söker i adressfältet.</translation>
 <translation id="8704119203788522458">Det här är Cobalt</translation>
 <translation id="8719993436687031146">Vill du logga in i Cobalt?</translation>

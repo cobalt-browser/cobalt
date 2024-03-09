@@ -167,7 +167,7 @@ Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti
 <translation id="3941890832296813527">Pogreška pri instalaciji: naziv datoteke programa za instalaciju nije važeći ili nije podržan.</translation>
 <translation id="3945058413678539331">Cobalt pokušava kopirati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
 <translation id="3962647064319009959">Saznajte kako vas Cobalt štiti</translation>
-<translation id="3975724895399328945">O verziji &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">O verziji &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">O Cobalt OS-u</translation>
 <translation id="4019629340646866719">Cobalt OS omogućen je dodatnim <ph name="BEGIN_LINK_CROS_OSS" />softverom utemeljenim na otvorenom izvornom kodu<ph name="END_LINK_CROS_OSS" />, isto kao i <ph name="BEGIN_LINK_LINUX_OSS" />razvojnim okruženjem Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Pomognite poboljšati Cobalt tako što ćete prijaviti <ph name="BEGIN_LINK" />trenutačne postavke<ph name="END_LINK" /></translation>
@@ -403,7 +403,7 @@ Cobalt ne može oporaviti vaše postavke.</translation>
 <translation id="8013436988911883588">Kada Cobalt dobije pristup, web-lokacije će vas moći tražiti pristup.</translation>
 <translation id="80471789339884597">Zahvaljujemo što ste izvršili instaliranje. Da biste mogli koristiti <ph name="BUNDLE_NAME" />, morate ponovno pokrenuti sve preglednike.</translation>
 <translation id="8086881907087796310">Instalacija nije uspjela jer vaše računalo ne zadovoljava minimalne zahtjeve za hardver.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt treba dopuštenje za lokaciju za ovu web-lokaciju</translation>
 <translation id="8133124826068723441">Cobalt OS nije mogao sinkronizirati vaše podatke jer sinkronizacija nije dostupna za vašu domenu.</translation>
 <translation id="813913629614996137">Pokretanje...</translation>
@@ -436,7 +436,7 @@ Cobalt ne može oporaviti vaše postavke.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kako upotrebljavamo te podatke<ph name="END_BOLD" />: web-lokacije mogu pohraniti informacije o vašim interesima u Cobalt. Na primjer, ako posjetite neku web-lokaciju da biste kupili tenisice za maraton, ta web-lokacija može definirati vaš interes kao trčanje maratona. Ako poslije posjetite neku drugu web-lokaciju da biste se registrirali za utrku, ta vam web-lokacija može prikazati oglas za tenisice za trčanje na temelju vaših interesa.</translation>
 <translation id="8619360774459241877">Pokretanje Chromiuma...</translation>
 <translation id="8621669128220841554">Instalacija nije uspjela zbog nepoznate pogreške. Ponovo preuzmite Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing ne može biti vaš zadani preglednik.</translation>
+<translation id="8648201657708811153">Cobalt for Testing ne može biti vaš zadani preglednik.</translation>
 <translation id="8697124171261953979">Upravlja i time koja se stranica prikazuje prilikom pokretanja Chromiuma ili pretraživanja putem višenamjenskog okvira.</translation>
 <translation id="8704119203788522458">To je vaš Cobalt</translation>
 <translation id="8719993436687031146">Želite li se prijaviti na Cobalt?</translation>

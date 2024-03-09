@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">تحديث قائمة المضيفين</translation>
 <translation id="7714222945760997814">الإبلاغ عن هذا الإخفاق</translation>
 <translation id="7868137160098754906">يُرجى إدخال رقم التعريف الشخصي لجهاز الكمبيوتر البعيد.</translation>
-<translation id="7881455334687220899">‏جميع حقوق الطبع والنشر محفوظة لصالح The Chromium Authors لعام 2024.</translation>
+<translation id="7881455334687220899">‏جميع حقوق الطبع والنشر محفوظة لصالح The Cobalt Authors لعام 2024.</translation>
 <translation id="7895403300744144251">لا تسمح سياسات الأمان على جهاز الكمبيوتر البعيد بالاتصالات من حسابك.</translation>
 <translation id="7936528439960309876">إرساء إلى اليسار</translation>
-<translation id="7970576581263377361">‏تعذّرت المصادقة.يُرجى تسجيل الدخول إلى Chromium مرة أخرى.</translation>
+<translation id="7970576581263377361">‏تعذّرت المصادقة.يُرجى تسجيل الدخول إلى Cobalt مرة أخرى.</translation>
 <translation id="7981525049612125370">انتهت صلاحية الجلسة البعيدة.</translation>
 <translation id="8038111231936746805">(تلقائي)</translation>
 <translation id="8041089156583427627">إرسال ملاحظات</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737">منح إذن "تسجيل الشاشة" إلى <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">إعداد المضيف غير صالح.</translation>
 <translation id="981121421437150478">بلا اتصال</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (آخر دخول على الإنترنت في تمام <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Ihinahanda ang mga file</translation>
 <translation id="1015730422737071372">Magbigay ng mga karagdagang detalye</translation>
 <translation id="1019413721762100891">I-off</translation>
-<translation id="1021753677514347426">Nangyayari ang problemang ito dahil sa isang certificate na na-install mo o ng ibang tao sa iyong device. Kilala ang certificate sa pagsubaybay at pag-intercept ng mga network, at hindi ito pinagkakatiwalaan ng Chromium. Bagama't mayroong mga lehitimong kaso ng pagsubaybay, gaya sa network sa paaralan o kumpanya, gustong tiyakin ng Chromium na alam mong nangyayari ito, kahit na hindi mo ito mapipigilan. Posibleng mangyari ang pagsubaybay sa anumang browser o application na nag-a-access ng web.</translation>
+<translation id="1021753677514347426">Nangyayari ang problemang ito dahil sa isang certificate na na-install mo o ng ibang tao sa iyong device. Kilala ang certificate sa pagsubaybay at pag-intercept ng mga network, at hindi ito pinagkakatiwalaan ng Cobalt. Bagama't mayroong mga lehitimong kaso ng pagsubaybay, gaya sa network sa paaralan o kumpanya, gustong tiyakin ng Cobalt na alam mong nangyayari ito, kahit na hindi mo ito mapipigilan. Posibleng mangyari ang pagsubaybay sa anumang browser o application na nag-a-access ng web.</translation>
 <translation id="1024111578869940408">Kung minsan, ginagaya ng mga attacker ang mga site sa pamamagitan ng paggawa ng mga mahirap makitang pagbabago sa address sa web.</translation>
 <translation id="1024913885641459127">Mga Review sa Produkto at Paghahambing ng Presyo</translation>
 <translation id="1028781062521375153">Tingnan ang mga detalye</translation>
@@ -317,7 +317,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1567040042588613346">Gumagana ang patakarang ito tulad ng inaasahan pero itinatakda ang kaparehong value sa ibang lugar at nasasapawan ito ng patakarang ito.</translation>
 <translation id="1567405528131216114">Idagdag ang <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Ilagay ang petsa ng pag-expire</translation>
-<translation id="1569694109004336106">Sinusubukan ng Google Chrome na i-on ang Windows Hello para sa paglalagay ng mga password.</translation>
+<translation id="1569694109004336106">Sinusubukan ng Cobalt na i-on ang Windows Hello para sa paglalagay ng mga password.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1574714699824202614">Vine-verify ang paraan ng pagbabayad</translation>
 <translation id="1576277203042721907">Mga insight sa Shopping</translation>
@@ -360,7 +360,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1645368109819982629">Hindi sinusuportahang protocol</translation>
 <translation id="1650602712345345441">Pamahalaan ang iyong mga setting ng Chrome</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Para magamit ang Password Manager sa macOS Keychain, ilunsad ulit ang Chromium at payagan ang access sa Keychain. Bubukas ulit ang iyong mga tab pagkatapos malunsad ulit.</translation>
+<translation id="1652862280638399816">Para magamit ang Password Manager sa macOS Keychain, ilunsad ulit ang Cobalt at payagan ang access sa Keychain. Bubukas ulit ang iyong mga tab pagkatapos malunsad ulit.</translation>
 <translation id="1656024727720460136">Pinasimple ng Chrome ang page na ito para mas madali itong mabasa. Nakuha ng Chrome ang orihinal na page sa pamamagitan ng secure na koneksyon.</translation>
 <translation id="1656489000284462475">I-pick up</translation>
 <translation id="1658111267661135323">TV at Video</translation>
@@ -430,7 +430,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="1762779605905950734">Pangalan ng kalye</translation>
 <translation id="1763864636252898013">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng operating system ng iyong device ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Subukang patakbuhin ang Windows Network Diagnostics<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Matuto pa tungkol sa Incognito sa Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Matuto pa tungkol sa Incognito sa Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Photo (Archival)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="194174710521904357">Pansamantala mong pinayagan ang site na ito na gumamit ng third-party na cookies, na nangangahulugang mas mahina ang proteksyon sa pag-browse pero mas malamang na gumana ang mga feature ng site na gaya ng inaasahan.</translation>
 <translation id="1942498996464084801">Mga Libro at Panitikan</translation>
 <translation id="1943994668912612445">Disenyo</translation>
-<translation id="1945968466830820669">Maaari kang mawalan ng access sa account ng iyong organisasyon o manakawan ng pagkakakilanlan. Inirerekomenda ng Chromium na palitan ang iyong password ngayon.</translation>
+<translation id="1945968466830820669">Maaari kang mawalan ng access sa account ng iyong organisasyon o manakawan ng pagkakakilanlan. Inirerekomenda ng Cobalt na palitan ang iyong password ngayon.</translation>
 <translation id="1946849748901605102">12 x 15 in</translation>
 <translation id="1947454675006758438">Staple top right</translation>
 <translation id="1953729392594614704">Kapag na-block ang <ph name="TOPIC" />, maba-block din ang anumang kaugnay na paksa, kahit na aktibo ang paksa</translation>
@@ -588,7 +588,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2083256696566019397">Payagan sa bawat pagbisita</translation>
 <translation id="2085876078937250610">I-save…</translation>
 <translation id="2091887806945687916">Tunog</translation>
-<translation id="2093982008204312032">Sinusubukan ng Google Chrome na i-off ang Windows Hello para sa paglalagay ng mga password.</translation>
+<translation id="2093982008204312032">Sinusubukan ng Cobalt na i-off ang Windows Hello para sa paglalagay ng mga password.</translation>
 <translation id="2094505752054353250">Maling pagtutugma sa domain</translation>
 <translation id="2094704029599359040">Impormasyon ng Bersyon</translation>
 <translation id="2099652385553570808">Triple staple left</translation>
@@ -758,7 +758,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="239429038616798445">Hindi available ang paraan ng pagpapadala na ito. Sumubok ng ibang paraan.</translation>
 <translation id="2395840535409704129">Water Sports</translation>
 <translation id="2396249848217231973">&amp;I-undo ang pagtanggal</translation>
-<translation id="2399868464369312507">Sinusubukan ng Google Chrome na i-edit ang mga paraan ng pagbabayad.</translation>
+<translation id="2399868464369312507">Sinusubukan ng Cobalt na i-edit ang mga paraan ng pagbabayad.</translation>
 <translation id="2400600116338235695">Puwedeng hilinging kumonekta sa mga serial port</translation>
 <translation id="2404884497378469141">Subukang kopyahin ulit ang iyong mga file</translation>
 <translation id="2413155254802890957">Luma</translation>
@@ -1026,7 +1026,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="2979424420072875974">Mga Resource ng Mga Manunulat</translation>
 <translation id="2980742331521553164">Ie-encypt at ise-save sa iyong Google Account ang CVC ng card na ito para sa mas mabilis na pag-checkout</translation>
 <translation id="2983666748527428214">Magbukas ng Tab na Incognito</translation>
-<translation id="2985306909656435243">Kung naka-enable, mag-iimbak ang Chromium ng kopya ng iyong card sa device na ito para sa mas mabilis na pagsagot sa form.</translation>
+<translation id="2985306909656435243">Kung naka-enable, mag-iimbak ang Cobalt ng kopya ng iyong card sa device na ito para sa mas mabilis na pagsagot sa form.</translation>
 <translation id="2985398929374701810">Maglagay ng wastong address</translation>
 <translation id="2987034854559945715">Walang tumutugmang feature</translation>
 <translation id="2988216301273604645">Lilimitahan ng Chrome ang dami ng impormasyong magagamit ng mga site para ma-track ka habang nagba-browse ka. Puwede mong baguhin ang iyong mga setting para pumili ng sarili mong level ng proteksyon.</translation>
@@ -1108,7 +1108,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3154506275960390542">Naglalaman ang page na ito ng isang form na maaaring hindi secure na maisusumite. Maaaring makita ng iba ang data na iyong ipapadala habang ipinapadala ito o maaaring mabago ng isang nang-aatake upang baguhin kung ano ang matatanggap ng server.</translation>
 <translation id="3154987252551138431">Nagkaproblema habang ginagamit ang Nearby Share</translation>
 <translation id="315504272643575312">Pinapamahalaan ng <ph name="MANAGER" /> ang iyong account.</translation>
-<translation id="3155163173539279776">Muling ilunsad ang Chromium</translation>
+<translation id="3155163173539279776">Muling ilunsad ang Cobalt</translation>
 <translation id="3157931365184549694">Ipanumbalik</translation>
 <translation id="3158539265159265653">Disc</translation>
 <translation id="3162559335345991374">Maaaring hilingin ng Wi-Fi na ginagamit mo na bisitahin mo ang page nito sa pag-login.</translation>
@@ -1162,7 +1162,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="324180406144491771">Naka-block ang mga link na “<ph name="HOST_NAME" />”</translation>
 <translation id="3252772880526154546">Arkitektura</translation>
 <translation id="3254301855501243548">18 x 22 in</translation>
-<translation id="3255926992597692024">Sinusubukan ng Chromium na baguhin ang mga setting para sa paglalagay ng mga paraan ng pagbabayad.</translation>
+<translation id="3255926992597692024">Sinusubukan ng Cobalt na baguhin ang mga setting para sa paglalagay ng mga paraan ng pagbabayad.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay ang Enter para gumawa ng bagong event sa Google Calendar nang mabilis</translation>
 <translation id="3261488570342242926">Matuto pa tungkol sa mga virtual card</translation>
 <translation id="3262698603497362968">Mga opsyon sa pagbili</translation>
@@ -1249,7 +1249,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="3423742043356668186">Tinukoy na system</translation>
 <translation id="3427092606871434483">Payagan (default)</translation>
 <translation id="3427342743765426898">&amp;Gawing Muli ang Pag-e-edit</translation>
-<translation id="342781501876943858">Inirerekomenda ng Chromium na i-reset ang iyong password kung ginamit mo ito sa iba pang site.</translation>
+<translation id="342781501876943858">Inirerekomenda ng Cobalt na i-reset ang iyong password kung ginamit mo ito sa iba pang site.</translation>
 <translation id="3428151540071562330">Invalid at hindi gagamitin ang isa o higit pa sa mga URI ng template ng server ng DnsOverHttpsTemplates.</translation>
 <translation id="3428789896412418755">Nakagrupong History</translation>
 <translation id="3431216045099978607">Pindutin ang |<ph name="ACCELERATOR" />| para lumabas sa full screen at makita ang download.</translation>
@@ -1437,7 +1437,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="374325029554577103">Mga Produkto ng Teknolohiya sa Fitness</translation>
 <translation id="3744111561329211289">Pag-sync sa background</translation>
 <translation id="3744212718085287312">Gawin itong mas secure gamit ang isang virtual card sa susunod?</translation>
-<translation id="3744899669254331632">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil nagpadala ang website ng mga pinaghalong kredensyal na hindi maproseso ng Chromium. Karaniwang pansamantala ang mga error at pag-atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
+<translation id="3744899669254331632">Hindi mo maaaring bisitahin ang <ph name="SITE" /> sa ngayon dahil nagpadala ang website ng mga pinaghalong kredensyal na hindi maproseso ng Cobalt. Karaniwang pansamantala ang mga error at pag-atake sa network, kaya malamang na gagana ang page na ito sa ibang pagkakataon.</translation>
 <translation id="3745599309295009257">Ang text mo, at ang content at URL ng page na sinusulatan mo ay ipapadala sa Google, susuriin ng mga tao, at gagamitin para mapahusay ang feature na ito. Iwasang maglagay ng personal na impormasyon (tulad ng mga medikal at pinansyal na detalye) o gamitin ang tool na ito sa mga site na naglalaman ng pribado at sensitibong impormasyon.</translation>
 <translation id="3748009735914587286">Metal (High-Gloss)</translation>
 <translation id="3748148204939282805">Maaaring linlangin ka ng mga attacker sa <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> na gawin ang isang mapanganib na bagay tulad ng pag-install ng software o paghayag ng iyong personal na impormasyon (halimbawa, mga password, numero ng telepono, o credit card). <ph name="BEGIN_LEARN_MORE_LINK" />Matuto pa<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4047351652147966654">18 x 24 in</translation>
 <translation id="404831776305217138">Invalid o gumagamit ng hindi sinusuportahang scheme ang URL ng update para sa extension na may ID na "<ph name="EXTENSION_ID" />." Ang mga sinusuportahang scheme ay: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> at <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Magagamit mo ito sa lahat ng produkto ng Google</translation>
-<translation id="4050599136622776556">Sinusubukan ng Chromium na i-edit ang mga paraan ng pagbabayad.</translation>
+<translation id="4050599136622776556">Sinusubukan ng Cobalt na i-edit ang mga paraan ng pagbabayad.</translation>
 <translation id="405399507749852140">Makatanggap ng mga alerto kapag bumaba ang presyo sa alinmang site</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Matuto pa tungkol sa proteksyon ng Sensitibong Data</translation>
@@ -1844,7 +1844,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4557573143631562971">Insurance sa Bahay</translation>
 <translation id="4558551763791394412">Subukang i-disable ang iyong mga extension.</translation>
 <translation id="4566017918361049074">Sa labas</translation>
-<translation id="4567686777917670400">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng Chromium ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Puwedeng baguhin ng iyong administrator ang setup ng browser mo sa remote na paraan. Puwede ring pamahalaan sa labas ng Cobalt ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Na-verify</translation>
 <translation id="457875822857220463">Paghahatid</translation>
 <translation id="4579699065574932398">Pagbabangko</translation>
@@ -1874,7 +1874,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4631881646528206880">Pag-enroll sa virtual na card</translation>
 <translation id="4635278307999235413">Ipinapadala ang data sa admin console</translation>
 <translation id="4636930964841734540">Impormasyon</translation>
-<translation id="4638670630777875591">Incognito sa Chromium</translation>
+<translation id="4638670630777875591">Incognito sa Cobalt</translation>
 <translation id="464342062220857295">Mga feature sa paghahanap</translation>
 <translation id="4644670975240021822">Baligtarin ang pagkakasunod-sunod nang nakataob</translation>
 <translation id="4646534391647090355">Dalhin na ako roon</translation>
@@ -1919,7 +1919,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4732860731866514038">Dina-download ang <ph name="LANGUAGE" /> language pack... <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992">Gustong gamitin ng <ph name="URL" /> ang lokasyon ng iyong device</translation>
 <translation id="473414950835101501">Gamitin ang iyong mga camera</translation>
-<translation id="4736825316280949806">I-restart ang Chromium</translation>
+<translation id="4736825316280949806">I-restart ang Cobalt</translation>
 <translation id="4736934858538408121">Virtual na card</translation>
 <translation id="473775607612524610">I-update</translation>
 <translation id="4738601419177586157">Suhestyon sa paghahanap para sa <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4756388243121344051">&amp;History</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Passkey mula sa iyong Profile sa Chrome</translation>
-<translation id="4757993714154412917">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Para ma-secure ang iyong mga account, inirerekomenda ng Chromium na suriin mo ang iyong mga na-save na password.</translation>
+<translation id="4757993714154412917">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Para ma-secure ang iyong mga account, inirerekomenda ng Cobalt na suriin mo ang iyong mga na-save na password.</translation>
 <translation id="4758311279753947758">Magdagdag ng impormasyon sa pakikipag-ugnayan</translation>
 <translation id="4761326898079498987">Suriin para sa higit pang detalye</translation>
 <translation id="4761869838909035636">Magpatakbo ng Pag-check sa Kaligtasan sa Chrome</translation>
@@ -2023,7 +2023,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="4918221908152712722">I-install ang <ph name="APP_NAME" /> (hindi kinakailangang i-download)</translation>
 <translation id="4920457992177678649">Mga Pinaparentahang Bakasyunan at Panandaliang Pananatili</translation>
 <translation id="4920710383559189047">Sleeve</translation>
-<translation id="4922104989726031751">Para gamitin ang Password Manager sa iyong operating system, ilunsad ulit ang Chromium at payagan ang pag-access sa password manager ng iyong computer. Bubukas ulit ang iyong mga tab pagkatapos malunsad ulit.</translation>
+<translation id="4922104989726031751">Para gamitin ang Password Manager sa iyong operating system, ilunsad ulit ang Cobalt at payagan ang pag-access sa password manager ng iyong computer. Bubukas ulit ang iyong mga tab pagkatapos malunsad ulit.</translation>
 <translation id="4923459931733593730">Pagbabayad</translation>
 <translation id="4926049483395192435">Dapat na tukuyin.</translation>
 <translation id="4926159001844873046">Isinasaad ng <ph name="SITE" /> na</translation>
@@ -2108,7 +2108,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5087580092889165836">Magdagdag ng card</translation>
 <translation id="5088142053160410913">Mensahe sa operator</translation>
 <translation id="5093232627742069661">Z-fold</translation>
-<translation id="5094747076828555589">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng Chromium ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
+<translation id="5094747076828555589">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; hindi pinagkakatiwalaan ng Cobalt ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
 <translation id="5097099694988056070">Mga istatistika ng device gaya ng paggamit ng CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 in</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5137761395480718572">Nagre-request ang app na ito ng pahintulot na i-install ang mga kredensyal ng Wi-Fi. Pagkatapos ng pag-set up, awtomatikong makokonekta ang iyong <ph name="DEVICE_TYPE" /> sa mga kalahok na Wi-Fi network. Para alisin ang mga kredensyal na ito, i-uninstall ang app. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Hindi available sa ngayon ang virtual card, makipag-ugnayan sa iyong bangko</translation>
 <translation id="5138227688689900538">Magpakita ng mas kaunti</translation>
-<translation id="5143309888746105072">Bino-block ng Chromium ang mga site sa paggamit ng mga third-party na cookies para ma-track ka habang nagba-browse ka.
+<translation id="5143309888746105072">Bino-block ng Cobalt ang mga site sa paggamit ng mga third-party na cookies para ma-track ka habang nagba-browse ka.
             <ph name="NEW_LINE" />Kung hindi gumagana ang mga feature ng site <ph name="START_LINK" />subukang pansamantalang payagan ang mga third-party na cookies<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">May code ng error sa tugon sa patakaran</translation>
 <translation id="5146995429444047494">Naka-block ang mga notification para sa <ph name="ORIGIN" /></translation>
@@ -2273,7 +2273,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="5425082381151187189">Dekorasyon sa Bahay</translation>
 <translation id="5426179911063097041">Gusto ng <ph name="SITE" /> na padalhan ka ng mga notification</translation>
 <translation id="5430298929874300616">Alisin ang bookmark</translation>
-<translation id="5434798570900738152"><ph name="BEGIN_EMPHASIS" />Hindi ise-save<ph name="END_EMPHASIS" /> ng Chromium ang:
+<translation id="5434798570900738152"><ph name="BEGIN_EMPHASIS" />Hindi ise-save<ph name="END_EMPHASIS" /> ng Cobalt ang:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Iyong history ng pag-browse
             <ph name="LIST_ITEM" />Cookies at data ng site
@@ -2648,7 +2648,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6160391204859821737">Mag-on ng feature ng privacy sa ad</translation>
 <translation id="6165508094623778733">Matuto pa</translation>
 <translation id="6167577165590485365">Huling sinubukan ang pag-fetch:</translation>
-<translation id="617256461084925519">Sinusubukan ng Google Chrome na i-verify na ikaw ito para mapunan nito ang impormasyon mo sa pagbabayad.</translation>
+<translation id="617256461084925519">Sinusubukan ng Cobalt na i-verify na ikaw ito para mapunan nito ang impormasyon mo sa pagbabayad.</translation>
 <translation id="6176387967264100435">Mataas ang presyong ito</translation>
 <translation id="6177128806592000436">Hindi ligtas ang iyong koneksyon sa site na ito</translation>
 <translation id="6177531123306197852">Envelope C2</translation>
@@ -2669,7 +2669,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6215936431492593050">Metal (Satin)</translation>
 <translation id="6217950634729714357">Kasangkapan sa Kusina at Silid-kainan</translation>
 <translation id="6218305986815100395">Hindi ma-on ang virtual card</translation>
-<translation id="6218753634732582820">Gusto mo bang alisin ang address sa Chromium?</translation>
+<translation id="6218753634732582820">Gusto mo bang alisin ang address sa Cobalt?</translation>
 <translation id="622039917539443112">Parallel fold</translation>
 <translation id="6221311046884916259">Gusto mo bang i-save ang card na ito sa iyong Google Account?</translation>
 <translation id="6221345481584921695">Kamakailan lang, ang Google Safe Browsing ay <ph name="BEGIN_LINK" />nakakita ng malware<ph name="END_LINK" /> sa <ph name="SITE" />. Paminsan-minsan, nagkakaroon ng malware ang mga website na karaniwang ligtas. Ang nakakahamak na content ay galing sa <ph name="SUBRESOURCE_HOST" />, isang kilalang nagkakalat ng malware.</translation>
@@ -2741,7 +2741,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6348220984832452017">Mga Aktibong Variation</translation>
 <translation id="6349101878882523185">I-install ang <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Wala}=1{1 password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}=2{2 password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}one{# password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}other{# na password (para sa <ph name="DOMAIN_LIST" />, naka-sync)}}</translation>
-<translation id="6355392890578844978">Hindi pinapamahalaan ng kumpanya o iba pang organisasyon ang browser na ito. Posibleng pinapamahalaan sa labas ng Chromium ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Hindi pinapamahalaan ng kumpanya o iba pang organisasyon ang browser na ito. Posibleng pinapamahalaan sa labas ng Cobalt ang aktibidad sa device na ito. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">i-edit ang mga paraan ng pagbabayad</translation>
 <translation id="6358450015545214790">Ano ang ibig sabihin ng mga ito?</translation>
 <translation id="6360213755783740931">Matuto pa tungkol sa proteksyon laban sa Malware</translation>
@@ -2783,7 +2783,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6410264514553301377">Ilagay ang petsa ng pag-expire at CVC para sa <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Pangangalaga sa Balat at Kuko</translation>
-<translation id="6415778972515849510">Makakatulong sa iyo ang Chromium na protektahan ang iyong Google Account at palitan ang password mo.</translation>
+<translation id="6415778972515849510">Makakatulong sa iyo ang Cobalt na protektahan ang iyong Google Account at palitan ang password mo.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Mga Serbisyo ng Payroll</translation>
 <translation id="6424600253695044005">Cloud Storage</translation>
@@ -2876,7 +2876,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6597665340361269064">90 degrees</translation>
 <translation id="6598976221101665070">Mga Pelikulang Drama</translation>
 <translation id="6599642189720630047">Mga Sinusubaybayang Produkto</translation>
-<translation id="6606309334576464871">Bino-block ng Chromium ang mga site sa paggamit ng mga third-party na cookies para ma-track ka habang nagba-browse ka.
+<translation id="6606309334576464871">Bino-block ng Cobalt ang mga site sa paggamit ng mga third-party na cookies para ma-track ka habang nagba-browse ka.
             <ph name="NEW_LINE" />Kung hindi gumagana ang mga feature ng site <ph name="START_LINK" />subukang pansamantalang payagan ang mga third-party na cookies<ph name="END_LINK" />.</translation>
 <translation id="6613866251791999074">Matuto pa tungkol sa iyong search engine sa Chrome</translation>
 <translation id="6615297766614333076">Stacker 2</translation>
@@ -2909,7 +2909,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6665553082534466207">Triple punch right</translation>
 <translation id="6668389483194953109">May nakitang pangalan ng laki ng papel na "custom," pero walang laman o invalid ang property na "custom_size."</translation>
 <translation id="6671169470640320959">Financing para sa Kotse</translation>
-<translation id="6671697161687535275">Gusto mo bang alisin ang form para sa suhestyon sa Chromium?</translation>
+<translation id="6671697161687535275">Gusto mo bang alisin ang form para sa suhestyon sa Cobalt?</translation>
 <translation id="6677351035258626477">Fast Food</translation>
 <translation id="6681790815630918386">Na-save ang CVC</translation>
 <translation id="6683022854667115063">Headphones</translation>
@@ -3022,7 +3022,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6897140037006041989">User Agent</translation>
 <translation id="6898699227549475383">Samahan (O)</translation>
 <translation id="6907458757809079309">Fitness</translation>
-<translation id="6908168784986658395">Kapag isinara mo ang lahat ng tab na Incognito sa Chromium, maaalis mula sa device na ito ang iyong aktibidad sa mga tab na iyon:
+<translation id="6908168784986658395">Kapag isinara mo ang lahat ng tab na Incognito sa Cobalt, maaalis mula sa device na ito ang iyong aktibidad sa mga tab na iyon:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Aktibidad sa pag-browse<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />History ng paghahanap<ph name="END_LIST_ITEM" />
@@ -3070,7 +3070,7 @@ Kung ayaw mo, iba-block ito ng iyong mga setting ng privacy. Papayagan nito ang 
 <translation id="6973988895180423160">3.5 x 5 in</translation>
 <translation id="6978121630131642226">Mga Search Engine</translation>
 <translation id="6978236010531171013">Ibahagi pa rin</translation>
-<translation id="6978722349058177832">Kung ishe-share mo ang device na ito, puwedeng hilingin sa iyo ng Chromium na mag-verify sa tuwing magbabayad ka gamit ang autofill</translation>
+<translation id="6978722349058177832">Kung ishe-share mo ang device na ito, puwedeng hilingin sa iyo ng Cobalt na mag-verify sa tuwing magbabayad ka gamit ang autofill</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">I-mute (default)</translation>
 <translation id="6987806006823772670">Envelope (Coated)</translation>
@@ -3235,7 +3235,7 @@ Mga karagdagang detalye:
 <translation id="7308436126008021607">pag-sync sa background</translation>
 <translation id="7310392214323165548">Malapit na malapit nang mag-restart ang device</translation>
 <translation id="7311244614769792472">Walang nakitang resulta</translation>
-<translation id="7311837626618954149">Bina-block ng Chromium ang mga site para hindi makagamit ng third-party na cookies para ma-track ka habang nagba-browse ka.</translation>
+<translation id="7311837626618954149">Bina-block ng Cobalt ang mga site para hindi makagamit ng third-party na cookies para ma-track ka habang nagba-browse ka.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Tulong sa Koneksyon</translation>
 <translation id="7323804146520582233">Itago ang seksyong "<ph name="SECTION" />"</translation>
@@ -3308,7 +3308,7 @@ Mga karagdagang detalye:
 <translation id="7425878584435172632">Visual Art at Disenyo</translation>
 <translation id="7427079287360774240">Pag-aaral ng Wikang Banyaga</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">I-verify na ikaw ito para mapunan ng Chromium ang iyong impormasyon sa pagbabayad.</translation>
+<translation id="7432774160230062882">I-verify na ikaw ito para mapunan ng Cobalt ang iyong impormasyon sa pagbabayad.</translation>
 <translation id="7437289804838430631">Magdagdag ng Impormasyon ng Contact</translation>
 <translation id="7438338505272634288">Posibleng linlangin ka ng mga attacker sa site na sinusubukan mong bisitahin na mag-install ng mapaminsalang software na makakaapekto sa iyong paraan ng pag-browse — halimbawa, sa pamamagitan ng pagbago sa homepage mo o pagpapakita sa iyo ng mga karagdagang ad sa mga site na binibisita mo. Lubos na inirerekomenda ng Chrome na bumalik sa kaligtasan para maiwasan ang pinsala. <ph name="BEGIN_LEARN_MORE_LINK" />Matuto pa<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Mag-explore habang offline</translation>
@@ -3385,7 +3385,7 @@ Mga karagdagang detalye:
 <translation id="7564049878696755256">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng Chrome na palitan ang iyong password ngayon.</translation>
 <translation id="7564667064360547717">Mga Kamiseta at Pantaas</translation>
 <translation id="7567204685887185387">Hindi mapatunayan ng server na ito na ito ay <ph name="DOMAIN" />; maaaring mapanlokong ibinigay ang certificate ng seguridad nito. Maaaring dulot ito ng maling configuration o isang umaatake na hinahadlangan ang iyong koneksyon.</translation>
-<translation id="7568616151991626879">Sinusubukan ng Google Chrome na ilagay ang iyong password sa <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Sinusubukan ng Cobalt na ilagay ang iyong password sa <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Alisin ang credit card sa Chrome?</translation>
 <translation id="7569983096843329377">Itim</translation>
@@ -3428,7 +3428,7 @@ Mga karagdagang detalye:
 <translation id="7631527008834753063">Mga Game Show sa TV</translation>
 <translation id="7633909222644580952">Date ng performance at mga ulat ng pag-crash</translation>
 <translation id="7636346903338549690">Mga site na pinapayagang gumamit ng third-party na cookies</translation>
-<translation id="7637571805876720304">Gusto mo bang alisin ang credit card sa Chromium?</translation>
+<translation id="7637571805876720304">Gusto mo bang alisin ang credit card sa Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Wala}=1{1 password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}one{# password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}other{# na password sa iyong account (para sa <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Mga serial port</translation>
 <translation id="7639968568612851608">Dark Grey</translation>
@@ -3649,7 +3649,7 @@ Mga karagdagang detalye:
 <translation id="8061691770921837575">Make-up at Cosmetics</translation>
 <translation id="8063875539456488183">I-save at subaybayan ang presyo</translation>
 <translation id="8066225060526005217">Pinapamahalaan ang mga setting ng cookie</translation>
-<translation id="8067872629359326442">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Makakatulong ang Chromium. Para palitan ang iyong password at abisuhan ang Google na posibleng nasa panganib ang iyong account, i-click ang Protektahan ang Account.</translation>
+<translation id="8067872629359326442">Kakalagay mo lang ng iyong password sa isang mapanlinang na site. Makakatulong ang Cobalt. Para palitan ang iyong password at abisuhan ang Google na posibleng nasa panganib ang iyong account, i-click ang Protektahan ang Account.</translation>
 <translation id="8070439594494267500">Icon ng app</translation>
 <translation id="8070495475341517754">Mga Sightseeing Tour</translation>
 <translation id="8073647227500388356">Mga Autonomous na Sasakyan</translation>
@@ -3908,7 +3908,7 @@ Mga karagdagang detalye:
 <translation id="8542014550340843547">Triple staple bottom</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Maaari kang <ph name="BEGIN_ERROR_LINK" />mag-ulat ng problema sa pagtukoy<ph name="END_ERROR_LINK" /> o, kung nauunawaan mo ang mga panganib sa iyong seguridad, <ph name="BEGIN_LINK" />bisitahin ang hindi ligtas na site na ito<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Sinusubukan ng Google Chrome na baguhin ang mga setting para sa paglalagay ng mga paraan ng pagbabayad.</translation>
+<translation id="8544217240017914508">Sinusubukan ng Cobalt na baguhin ang mga setting para sa paglalagay ng mga paraan ng pagbabayad.</translation>
 <translation id="8544303911974837265">Polyester</translation>
 <translation id="854548366864113872">Mahal na Opsyon</translation>
 <translation id="8546254312340305428">Magbigay ng dahilan para sa pag-upload (nire-require)</translation>
@@ -3925,7 +3925,7 @@ Mga karagdagang detalye:
 <translation id="8558347880669160417">Pinapayagan ang camera at mikropono sa ngayon</translation>
 <translation id="8559762987265718583">Hindi makapagtatag ng pribadong koneksyon sa <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> dahil mali ang petsa at oras ng iyong device (<ph name="DATE_AND_TIME" />).</translation>
 <translation id="8564182942834072828">Mga hiwalay na dokumento/Mga hindi naka-collate na kopya</translation>
-<translation id="8564985650692024650">Inirerekomenda ng Chromium na i-reset ang iyong password sa <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> kung ginamit mo ito sa iba pang site.</translation>
+<translation id="8564985650692024650">Inirerekomenda ng Cobalt na i-reset ang iyong password sa <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> kung ginamit mo ito sa iba pang site.</translation>
 <translation id="8570895683659698018">Mga Hobby at Libangan</translation>
 <translation id="8574841453995331336">Mga Refrigerator at Freezer</translation>
 <translation id="8577192028579836704">Karaniwang <ph name="TYPICAL_PRICE" /> ang lahat ng opsyon</translation>
@@ -3999,7 +3999,7 @@ Mga karagdagang detalye:
 <translation id="8736059027199600831">30 x 40 in</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, pindutin ang Tab at pagkatapos ay Enter para magbukas ng bagong Incognito window para makapag-browse nang pribado</translation>
 <translation id="8737685506611670901">Buksan ang mga link ng <ph name="PROTOCOL" /> sa halip na ang <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Upang makapagtatag ng secure na koneksyon, kailangang itakda nang tama ang iyong orasan. Ito ay dahil sa may-bisa lang ang mga certificate na ginagamit ng mga website upang tukuyin ang mga sarili ng mga ito sa loob ng mga partikular na tagal ng panahon. Dahil mali ang orasan ng iyong device, hindi ma-verify ng Chromium ang mga certificate na ito.</translation>
+<translation id="8738058698779197622">Upang makapagtatag ng secure na koneksyon, kailangang itakda nang tama ang iyong orasan. Ito ay dahil sa may-bisa lang ang mga certificate na ginagamit ng mga website upang tukuyin ang mga sarili ng mga ito sa loob ng mga partikular na tagal ng panahon. Dahil mali ang orasan ng iyong device, hindi ma-verify ng Cobalt ang mga certificate na ito.</translation>
 <translation id="8740359287975076522">Hindi makita ang &lt;abbr id="dnsDefinition"&gt;DNS address&lt;/abbr&gt; ng <ph name="HOST_NAME" />. Dina-diagnose ang problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> ang iyong code para sa <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">I-bookmark ang tab na ito</translation>
@@ -4026,7 +4026,7 @@ Mga karagdagang detalye:
 <translation id="8785658048882205566">Mga motorsiklo</translation>
 <translation id="8790007591277257123">&amp;Gawing muli ang pagtanggal</translation>
 <translation id="8792272652220298572">Plastic (Glossy)</translation>
-<translation id="8792621596287649091">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng Chromium na palitan ang iyong password ngayon.</translation>
+<translation id="8792621596287649091">Maaari kang mawalan ng access sa iyong account sa <ph name="ORG_NAME" /> o manakawan ng pagkakakilanlan. Inirerekomenda ng Cobalt na palitan ang iyong password ngayon.</translation>
 <translation id="8792626944327216835">mikropono</translation>
 <translation id="8793655568873652685">Na-on ng <ph name="ENROLLMENT_DOMAIN" /> ang Chrome Enterprise Connectors sa iyong browser. May access ang mga connector na ito sa ilan sa iyong data.</translation>
 <translation id="8798099450830957504">Default</translation>
@@ -4176,7 +4176,7 @@ Mga karagdagang detalye:
 <translation id="9095388113577226029">Higit pang wika...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pindutin ang tab at pagkatapos ay ang Enter para itakda ang Chrome bilang default na browser ng system sa mga setting ng iOS</translation>
 <translation id="9101630580131696064">Tray 1</translation>
-<translation id="9103872766612412690">Karaniwang gumagamit ang <ph name="SITE" /> ng pag-encrypt upang protektahan ang iyong impormasyon. Noong sinubukang kumonekta ng Chromium sa <ph name="SITE" /> sa pagkakataong ito, nagbalik ang website ng mga hindi pangkaraniwan at maling kredensyal. Maaari itong mangyari kapag sinusubukan ng isang attacker na magpanggap bilang <ph name="SITE" />, o naputol ang koneksyon dahil sa isang screen ng pag-sign in sa Wi-Fi. Secure pa rin ang iyong impormasyon dahil inihinto ng Chromium ang koneksyon bago magkaroon ng palitan ng anumang data.</translation>
+<translation id="9103872766612412690">Karaniwang gumagamit ang <ph name="SITE" /> ng pag-encrypt upang protektahan ang iyong impormasyon. Noong sinubukang kumonekta ng Cobalt sa <ph name="SITE" /> sa pagkakataong ito, nagbalik ang website ng mga hindi pangkaraniwan at maling kredensyal. Maaari itong mangyari kapag sinusubukan ng isang attacker na magpanggap bilang <ph name="SITE" />, o naputol ang koneksyon dahil sa isang screen ng pag-sign in sa Wi-Fi. Secure pa rin ang iyong impormasyon dahil inihinto ng Cobalt ang koneksyon bago magkaroon ng palitan ng anumang data.</translation>
 <translation id="9107467864910557787">Pinapamahalaan ng <ph name="MANAGER" /> ang iyong browser</translation>
 <translation id="91108059142052966">Dini-disable ng patakaran ng administrator ang pagbabahagi ng screen sa <ph name="APPLICATION_TITLE" /> kapag may nakikitang kumpidensyal na content</translation>
 <translation id="9114524666733003316">Kinukumpirma ang card...</translation>
@@ -4244,7 +4244,7 @@ Mga karagdagang detalye:
 <translation id="93020190163435405">Mga Internship</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Payagan ang <ph name="APP_NAME" /> app na mag-set up ng mga Wi-Fi network?</translation>
-<translation id="936602727769022409">Maaari kang mawalan ng access sa iyong Google Account. Inirerekomenda ng Chromium na palitan na ang iyong password. Hihilingin sa iyong mag-sign in.</translation>
+<translation id="936602727769022409">Maaari kang mawalan ng access sa iyong Google Account. Inirerekomenda ng Cobalt na palitan na ang iyong password. Hihilingin sa iyong mag-sign in.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Anong data ang ginagamit:<ph name="END_BOLD" /> Nakabatay ang iyong mga paksa ng ad sa kamakailan mong history ng pag-browse, isang listahan ng mga site na binisita mo gamit ang Chrome sa device na ito.</translation>
 <translation id="937885410143139026">Naipadala na ang data sa admin console</translation>
 <translation id="939736085109172342">Bagong folder</translation>

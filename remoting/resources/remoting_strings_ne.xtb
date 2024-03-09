@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">होस्टहरूको सूची ताजा गर्नुहोस्</translation>
 <translation id="7714222945760997814">यसको रिपोर्ट गर्नुहोस्</translation>
 <translation id="7868137160098754906">दूर कम्प्युटरको लागि कृपया तपाइँको पिन प्रविष्टि गर्नुहोस्।</translation>
-<translation id="7881455334687220899">कपिराइट २०२४ The Chromium Authors। सर्वाधिकार सुरक्षित।</translation>
+<translation id="7881455334687220899">कपिराइट २०२४ The Cobalt Authors। सर्वाधिकार सुरक्षित।</translation>
 <translation id="7895403300744144251">दूरवर्ती कम्प्युटरको सुरक्षा नीतिले तपाईँको खाताका जडानहरूलाई अनुमति दिँदैन।</translation>
 <translation id="7936528439960309876">दायाँतिर डक गर्नुहोस्</translation>
-<translation id="7970576581263377361">प्रमाणीकरण विफल भयो। कृपया फेरि Chromium मा साइन इन गर्नुहोस्।</translation>
+<translation id="7970576581263377361">प्रमाणीकरण विफल भयो। कृपया फेरि Cobalt मा साइन इन गर्नुहोस्।</translation>
 <translation id="7981525049612125370">रिमोट सत्रको म्याद समाप्त भएको छ।</translation>
 <translation id="8038111231936746805">(डिफल्ट)</translation>
 <translation id="8041089156583427627">प्रतिक्रिया पठाउनुहोस्।</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> लाई 'स्क्रिन रेकर्ड गर्ने' अनुमति दिनुहोस्</translation>
 <translation id="9213184081240281106">अमान्य होस्ट कन्फिगुरेसन।</translation>
 <translation id="981121421437150478">अफलाइन</translation>
-<translation id="985602178874221306">Chromium लेखकहरू</translation>
+<translation id="985602178874221306">Cobalt लेखकहरू</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (अन्तिम अनलाइन <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

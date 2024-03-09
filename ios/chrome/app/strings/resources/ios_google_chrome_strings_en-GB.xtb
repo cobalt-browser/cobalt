@@ -50,7 +50,7 @@ Things to consider:
 <translation id="1917964099031477364">This account and any unsaved data will be removed from Chrome and other Google apps on this device.</translation>
 <translation id="1965935827552890526">Finish what you were doing in your other open Chrome window.</translation>
 <translation id="1987779152850321833">Complete these suggested actions below to get the most out of Chrome.</translation>
-<translation id="2056123005618757196">Get more done with a simple, secure and faster-than-ever Google Chrome.</translation>
+<translation id="2056123005618757196">Get more done with a simple, secure and faster-than-ever Cobalt.</translation>
 <translation id="2120238739383482109">Opens the Chrome bookmarks.</translation>
 <translation id="2147651015520127414">Chrome verified that <ph name="ISSUER" /> issued this website's certificate.</translation>
 <translation id="2155145621546387786">Share Chrome</translation>
@@ -70,7 +70,7 @@ Things to consider:
 <translation id="2561231791489583059">Use Chrome as your default browser to stay protected from dangerous sites and keep your passwords safe</translation>
 <translation id="2574249610672786438">To see your tabs from wherever you use Chrome, sign in on all of your devices</translation>
 <translation id="2576431527583832481">Chrome just got better! A new version is available.</translation>
-<translation id="257708665678654955">Would you like Google Chrome to offer to translate <ph name="LANGUAGE_NAME" /> pages from this site next time?</translation>
+<translation id="257708665678654955">Would you like Cobalt to offer to translate <ph name="LANGUAGE_NAME" /> pages from this site next time?</translation>
 <translation id="2650286135394207535">Let Chrome help you track your packages</translation>
 <translation id="2671426118752779020">You can use the passwords that you saved to Google Password Manager in other apps on your iPhone.</translation>
 <translation id="2689064829982324496">To sign out of your Google Account on all websites, <ph name="BEGIN_LINK" />sign out of Chrome<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="3030414234702425231">Because you're signing out of an account managed by <ph name="SIGNOUT_MANAGED_DOMAIN" />, your Chrome data will be deleted from this device. Your data will remain in your Google Account.</translation>
 <translation id="309672519329227863">Access your Chrome passwords and more across other apps.</translation>
 <translation id="3146109040683991651">Set Chrome as default browser</translation>
-<translation id="3167189358072330585">Your account does not work on Google Chrome. Please contact your domain administrator or use a regular Google Account to sign in.</translation>
-<translation id="3173834708294760622">Google Chrome page</translation>
+<translation id="3167189358072330585">Your account does not work on Cobalt. Please contact your domain administrator or use a regular Google Account to sign in.</translation>
+<translation id="3173834708294760622">Cobalt page</translation>
 <translation id="322254490661677575">To use and save Chrome data in your Google Account, enter your passphrase.</translation>
 <translation id="3282568296779691940">Sign in to Chrome</translation>
 <translation id="3340938510625667914">Chrome Actions</translation>
@@ -109,11 +109,11 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="3646736009628185125">Your family member can't receive passwords right now. Ask them to update Chrome and sync their passwords. <ph name="BEGIN_LINK" />Learn more<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">This means that Chrome will request the mobile site every time.</translation>
 <translation id="3720541637541300822">Lock incognito tabs when you close Chrome</translation>
-<translation id="3740397331642243698">Opens the inputted URLs in Google Chrome in Incognito.</translation>
+<translation id="3740397331642243698">Opens the inputted URLs in Cobalt in Incognito.</translation>
 <translation id="3741995255368156336">Opens the Chrome reading list.</translation>
 <translation id="3744018071945602754">Manage Passwords in Chrome</translation>
 <translation id="3827545470516145620">You're getting standard security protection on this device</translation>
-<translation id="384394811301901750">Google Chrome can't use your camera at the moment.</translation>
+<translation id="384394811301901750">Cobalt can't use your camera at the moment.</translation>
 <translation id="3863841106411295595">Adds the inputted URLs to your reading list in Chrome.</translation>
 <translation id="387280738075653372">Download Chrome here.</translation>
 <translation id="3901001113120561395">Get the most out of Chrome.</translation>
@@ -121,7 +121,7 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="3967382818307165056">Manage Payment Methods in Chrome</translation>
 <translation id="3980220367029651214">You are switching sync accounts from <ph name="USER_EMAIL1" /> to <ph name="USER_EMAIL2" />. Your existing Chrome data is managed by <ph name="DOMAIN" />. This will delete your data from this device, but your data will remain in <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Your organisation requires you to stay signed out of Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.</translation>
+<translation id="3988789688219830639">Cobalt does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.</translation>
 <translation id="4064699917955374540">To use and save Chrome data in your Google Account, verify that it's you.</translation>
 <translation id="4067858366537947361">Open Chrome Incognito Tab</translation>
 <translation id="4093042601582616698">Make Chrome your default browser?</translation>
@@ -156,7 +156,7 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="5190139289262548459">Your organisation, <ph name="DOMAIN" />, manages the account you're signed in to and how Chrome is used.</translation>
 <translation id="5256908199795498284">Chrome will detect package tracking numbers on sites you visit and show you package updates on the New Tab page. Your data will be shared with Google to provide this feature and to improve Shopping for everyone.</translation>
 <translation id="5278862365980079760">Lock your Incognito tabs when you leave Chrome or switch to a different app.</translation>
-<translation id="5389212809648216794">Google Chrome can't use your camera because it's in use by another application</translation>
+<translation id="5389212809648216794">Cobalt can't use your camera because it's in use by another application</translation>
 <translation id="5395376160638294582">Make sure that you can always use the Chrome data in your Google Account</translation>
 <translation id="5439191312780166229">Warns you about dangerous sites, even ones that Google didn't know about before, by analysing more data from sites than standard protection. You can choose to skip Chrome warnings.</translation>
 <translation id="5442013002200339429">If you hide '<ph name="MODULE_NAME" />, Chrome will no longer auto-track your future packages and will delete all your past package tracking data.</translation>
@@ -168,8 +168,8 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="5552137475244467770">Chrome periodically checks your passwords against lists that have been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.</translation>
 <translation id="5554520618550346933">When you use a password, Chrome warns you if it has been published online. When doing this, your passwords and usernames are encrypted, so they can’t be read by anyone, including Google.</translation>
 <translation id="5601180634394228718">For more settings that use data to improve your Chrome experience, go to <ph name="BEGIN_LINK" />Google services<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Open Settings &gt; Privacy &gt; Camera &gt; Google Chrome and turn on the camera.</translation>
-<translation id="5642200033778930880">Google Chrome can't use your camera in Split View mode</translation>
+<translation id="5639704535586432836">Open Settings &gt; Privacy &gt; Camera &gt; Cobalt and turn on the camera.</translation>
+<translation id="5642200033778930880">Cobalt can't use your camera in Split View mode</translation>
 <translation id="5661521615548540542">Google Password Manager couldn't check all passwords. Try again later.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Now showing 1 Chrome window}other{Now showing {count} Chrome windows}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
 <translation id="7056826488869329999">Opens and Runs Safety Check in Chrome.</translation>
 <translation id="7059914902409643750">Make Chrome your own</translation>
 <translation id="7124339256045485976">Keep Chrome up to date</translation>
-<translation id="7161390184744336561">Google Chrome is out of date</translation>
-<translation id="7165736900384873061">Start Using Google Chrome QR Scanner</translation>
+<translation id="7161390184744336561">Cobalt is out of date</translation>
+<translation id="7165736900384873061">Start Using Cobalt QR Scanner</translation>
 <translation id="7175129790242719365">Chrome tip: Sign in to Chrome</translation>
 <translation id="7187993566681480880">Keeps you safe on Chrome and may be used to improve your security in other Google apps when you are signed in.</translation>
 <translation id="7200524487407690471">Chrome automatically runs Safety Check every day to keep you safe from data breaches, unsafe websites and more. You can find more about Safety Check in Settings.</translation>
@@ -233,7 +233,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
 <translation id="7304491752269485262">Chrome autofill expanded view</translation>
 <translation id="7349129508108954623">Allow Chrome to use Google Maps to give you directions and local info on detected addresses.</translation>
 <translation id="7394108421562933108">Maps in Chrome</translation>
-<translation id="7400722733683201933">About Google Chrome</translation>
+<translation id="7400722733683201933">About Cobalt</translation>
 <translation id="7466693328838535498">In the Search Widgets box, enter Chrome</translation>
 <translation id="746684838091935575">3. Select Chrome</translation>
 <translation id="7492574581995589075">Your organisation turned off the ability to use and save Chrome data in your Google Account. New bookmarks, passwords and more will be saved only to this device.</translation>
@@ -249,7 +249,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
 <translation id="7780154209050837198">To get the most out of Chrome, sign in to Chrome with your Google Account.</translation>
 <translation id="778855399387580014">Start a search in a new Chrome tab.</translation>
 <translation id="7792140019572081272">Chrome keeps your sensitive data secure with Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome is up to date</translation>
+<translation id="7855730255114109580">Cobalt is up to date</translation>
 <translation id="7897703007638178753">See Chrome Recent Tabs</translation>
 <translation id="7925119591961387184">Select "Chrome."</translation>
 <translation id="7933491483529363150">Open my latest tab in Chrome.</translation>
@@ -280,13 +280,13 @@ Your data was encrypted with your passphrase on <ph name="TIME" />. Enter it to 
   1. Open settings
   2. Tap the default browser app
   3. Select Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">You can now use Chrome any time that you browse or tap links in messages, documents and other apps.</translation>
 <translation id="8577978202917232774">Suggestions are based on your browsing activity on your other devices. To get suggestions, sign in to Chrome on all your devices.</translation>
 <translation id="8587647598504233556">Tap "Chrome" then "Default Browser App."</translation>
 <translation id="8603022514504485810">Google Password Manager couldn't check all passwords. Try again tomorrow or <ph name="BEGIN_LINK" />check passwords in your Google Account.<ph name="END_LINK" /></translation>
 <translation id="8727043961453758442">Get the most out of Chrome</translation>
-<translation id="8736550665979974340">Stay safe with Google Chrome</translation>
+<translation id="8736550665979974340">Stay safe with Cobalt</translation>
 <translation id="8760668027640688122">Open New Tab in Chrome</translation>
 <translation id="8765470054473112089">When you type in the address bar or search box, Chrome sends what you type to your default search engine to get better suggestions. This is off in Incognito.</translation>
 <translation id="8772179140489533211">Shows prompts to sign in to Chrome.</translation>

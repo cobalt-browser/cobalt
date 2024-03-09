@@ -167,7 +167,7 @@ Kebenaran yang telah anda berikan kepada laman web dan apl mungkin dikenakan pad
 <translation id="3941890832296813527">Ralat pemasangan: Nama fail pemasang tidak sah atau tidak disokong.</translation>
 <translation id="3945058413678539331">Cobalt cuba menyalin kata laluan. Taip kata laluan Windows anda untuk membenarkan penyalinan.</translation>
 <translation id="3962647064319009959">Ketahui tentang cara Cobalt memastikan anda selamat</translation>
-<translation id="3975724895399328945">Perihal &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Perihal &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Perihal Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS menjadi kenyataan dengan <ph name="BEGIN_LINK_CROS_OSS" />perisian sumber terbuka<ph name="END_LINK_CROS_OSS" /> tambahan, sebagaimana <ph name="BEGIN_LINK_LINUX_OSS" />persekitaran pembangunan Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Bantu jadikan Cobalt lebih baik dengan melaporkan <ph name="BEGIN_LINK" />tetapan semasa<ph name="END_LINK" /></translation>
@@ -403,7 +403,7 @@ Cobalt tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="8013436988911883588">Sebaik sahaja Cobalt mendapat akses, laman web akan dapat meminta akses daripada anda.</translation>
 <translation id="80471789339884597">Terima kasih kerana memasang. Anda perlu memulakan semula semua penyemak imbas anda sebelum menggunakan <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Pemasangan gagal kerana komputer anda tidak menepati keperluan perkakasan minimum.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt memerlukan kebenaran lokasi untuk laman ini</translation>
 <translation id="8133124826068723441">Cobalt OS tidak dapat menyegerakkan data anda kerana Segerak tidak tersedia untuk domain anda.</translation>
 <translation id="813913629614996137">Memulakan...</translation>
@@ -436,7 +436,7 @@ Cobalt tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Laman boleh menyimpan maklumat tentang minat anda menggunakan Cobalt. Contohnya, jika anda melawat laman untuk membeli kasut untuk maraton, laman tersebut mungkin mentakrifkan minat anda sebagai larian maraton. Kemudian, jika anda melawati laman lain untuk mendaftar perlumbaan, laman tersebut boleh memaparkan kepada anda iklan kasut untuk berlari berdasarkan minat anda.</translation>
 <translation id="8619360774459241877">Melancarkan Cobalt...</translation>
 <translation id="8621669128220841554">Pemasangan gagal disebabkan ralat yang tidak dinyatakan. Sila muat turun semula Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing tidak boleh dijadikan penyemak imbas lalai anda.</translation>
+<translation id="8648201657708811153">Cobalt for Testing tidak boleh dijadikan penyemak imbas lalai anda.</translation>
 <translation id="8697124171261953979">Sambungan turut mengawal halaman yang ditunjukkan apabila anda memulakan Cobalt atau membuat carian dari Kotak Omni.</translation>
 <translation id="8704119203788522458">Ini Cobalt anda</translation>
 <translation id="8719993436687031146">Log masuk ke Cobalt?</translation>

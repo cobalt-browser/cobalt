@@ -847,7 +847,7 @@ Das Feld „<ph name="PROXY_SERVER_MODE_PROXY_SETTINGS_FIELD" />“ wurde zuguns
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" /> – die Felder „<ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" />“ und „<ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />“ werden verwendet.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" /> – die Felder „<ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />“, „<ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" />“ und „<ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />“ werden verwendet.
 
-      Hinweis: Ausführliche Beispiele findest du in den Chromium-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
+      Hinweis: Ausführliche Beispiele findest du in den Cobalt-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
 <translation id="1700811900332333712">Powerwash-Anfrage durch Gerät zulassen</translation>
 <translation id="1705215165572785706">Tasten der obersten Reihe als Medientasten nutzen (Nutzer kann dies ändern)</translation>
 <translation id="1708496595873025510">Beschränkung für Abruf des Varianten-Seeds festlegen</translation>
@@ -943,7 +943,7 @@ Unter <ph name="MS_WIN_NAME" /> steht diese Richtlinie nur bei Instanzen zur Ver
 
        Konfiguriere diese Richtlinie nicht, wenn du dich für eine andere Methode zur Festlegung der Proxyrichtlinien entschieden hast.
 
-       Hinweis: Ausführliche Beispiele findest du in den Chromium-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
+       Hinweis: Ausführliche Beispiele findest du in den Cobalt-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
 <translation id="1767673020408652620">App-Empfehlungen bei Nullstatus des Suchfelds aktivieren</translation>
 <translation id="1768225118528727376">Berechtigung für die Fensterverwaltung auf diesen Websites zulassen</translation>
 <translation id="1770071413238151235">12-Stunden-Format</translation>
@@ -1151,7 +1151,7 @@ Ist die Richtlinie deaktiviert, schließt <ph name="PRODUCT_NAME" /> den Tab nac
      </translation>
 <translation id="1919802376548418720">Mit der KDC-Richtlinie können Anmeldedaten delegiert werden.</translation>
 <translation id="1920046221095339924">Verwaltete Sitzung auf Gerät zulassen</translation>
-<translation id="1920772397574801429">Wenn die Richtlinie konfiguriert ist, werden die Typen von Konten festgelegt, die von der Android-Authentifizierungs-App angegeben werden, die die Authentifizierung durch <ph name="HTTP_NEGOTIATE" /> unterstützt, z. B. die Kerberos-Authentifizierung. Diese Informationen sollten vom Anbieter der Authentifizierungs-App bereitgestellt werden. Weitere Informationen findest du in den Chromium-Projekten unter https://goo.gl/hajyfN.
+<translation id="1920772397574801429">Wenn die Richtlinie konfiguriert ist, werden die Typen von Konten festgelegt, die von der Android-Authentifizierungs-App angegeben werden, die die Authentifizierung durch <ph name="HTTP_NEGOTIATE" /> unterstützt, z. B. die Kerberos-Authentifizierung. Diese Informationen sollten vom Anbieter der Authentifizierungs-App bereitgestellt werden. Weitere Informationen findest du in den Cobalt-Projekten unter https://goo.gl/hajyfN.
 
       Wenn die Richtlinie nicht konfiguriert ist, wird die <ph name="HTTP_NEGOTIATE" />-Authentifizierung bei Android deaktiviert.</translation>
 <translation id="1923704782248889851">Spracheingabe aktivieren</translation>
@@ -1467,7 +1467,7 @@ Wird diese Richtlinie nicht konfiguriert, entspricht dies für normale Nutzer ei
 
       Schädliche Websites können schnell erkennen, ob und für welche Ports diese Richtlinie konfiguriert ist, und diese Informationen für gezielte Angriffe nutzen.
 
-      Für jeden Port in Google Chrome ist ein Datum angegeben, bis zu dem die Blockierung aufgehoben werden kann. Nach diesem Datum wird der Port unabhängig von dieser Einstellung beschränkt.
+      Für jeden Port in Cobalt ist ein Datum angegeben, bis zu dem die Blockierung aufgehoben werden kann. Nach diesem Datum wird der Port unabhängig von dieser Einstellung beschränkt.
 
       Wenn dieser Wert leer gelassen oder nicht konfiguriert wird, werden alle beschränkten Ports blockiert. Wenn gültige und ungültige Werte vorhanden sind, werden die gültigen angewendet.
 
@@ -2813,7 +2813,7 @@ Wenn diese Richtlinie aktiviert ist, wird das neue Verhalten verwendet.
 
 Ist die Richtlinie deaktiviert, wird das alte Verhalten verwendet.
 
-Wenn diese Richtlinie nicht konfiguriert ist, wird genau wie bei den anderen Chromium-Nutzern das neue Verhalten verwendet.</translation>
+Wenn diese Richtlinie nicht konfiguriert ist, wird genau wie bei den anderen Cobalt-Nutzern das neue Verhalten verwendet.</translation>
 <translation id="3219421230122020860">Inkognitomodus verfügbar</translation>
 <translation id="3220624000494482595">Wenn die Kiosk-App eine Android-App ist, hat sie keine Kontrolle über die <ph name="PRODUCT_OS_NAME" />-Version, auch wenn diese Richtlinie auf <ph name="TRUE" /> gesetzt ist.</translation>
 <translation id="3222088741899353813">Linke Maustaste auf dem Anmeldebildschirm als primäre Taste festlegen</translation>
@@ -5000,7 +5000,7 @@ Falls die Richtlinie nicht konfiguriert oder deaktiviert ist, können Cookies un
           Wenn diese Richtlinie nicht festgelegt wird, wird die Standardbefehlszeile verwendet.</translation>
 <translation id="5151099177901233471">Melden der Zeitzoneninformationen auf Geräten deaktivieren</translation>
 <translation id="5152393033264257734">DNS-Abfangprüfungen und „Meintest du: http://intranetsite/“-Infoleisten erlauben.</translation>
-<translation id="5152787786897382519">Sowohl in Chromium als auch in Google Chrome gibt es Richtliniengruppen, die in Abhängigkeit voneinander die Steuerung einer Funktion ermöglichen. Diese Richtliniensätze werden durch die folgenden Richtliniengruppen repräsentiert. Aufgrund der Tatsache, dass Richtlinien mehrere Quellen haben können, werden nur Werte, die aus der Quelle mit der höchsten Priorität stammen, angewendet. Werte aus einer Quelle mit niedrigerer Priorität in derselben Gruppe werden ignoriert. Die Hierarchie wird unter <ph name="POLICY_PRIORITY_DOC_URL" /> definiert.</translation>
+<translation id="5152787786897382519">Sowohl in Cobalt als auch in Cobalt gibt es Richtliniengruppen, die in Abhängigkeit voneinander die Steuerung einer Funktion ermöglichen. Diese Richtliniensätze werden durch die folgenden Richtliniengruppen repräsentiert. Aufgrund der Tatsache, dass Richtlinien mehrere Quellen haben können, werden nur Werte, die aus der Quelle mit der höchsten Priorität stammen, angewendet. Werte aus einer Quelle mit niedrigerer Priorität in derselben Gruppe werden ignoriert. Die Hierarchie wird unter <ph name="POLICY_PRIORITY_DOC_URL" /> definiert.</translation>
 <translation id="5153187201534281749">Symbol für experimentelle Browserfunktionen auf der Symbolleiste</translation>
 <translation id="5159674159887919923">Keine zusätzlichen Hardwaredaten unter ChromeOS Flex senden</translation>
 <translation id="5163002264923337812">Alte webbasierte Anmeldung aktivieren</translation>
@@ -6821,7 +6821,7 @@ Wenn die Richtlinie nicht konfiguriert ist, beträgt die Häufigkeit standardmä
 
       Wird die Richtlinie nicht konfiguriert, können Nutzer die Proxyeinstellungen auswählen.
 
-      Hinweis: Ausführliche Beispiele findest du in den Chromium-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
+      Hinweis: Ausführliche Beispiele findest du in den Cobalt-Projekten unter https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
 <translation id="6559643481486165125">Nicht zur erneuten Authentifizierung auffordern</translation>
 <translation id="656130159911161669">Die Version, die im Manifest der Kiosk-App definiert ist, wird für ChromeOS-Updates ignoriert</translation>
 <translation id="6561396069801924653">Optionen für Bedienungshilfen im Taskleistenmenü anzeigen</translation>
@@ -7407,7 +7407,7 @@ Ist die Richtlinie nicht konfiguriert, entspricht dies der Einstellung „<ph na
 
        Konfiguriere diese Richtlinie nicht, wenn du dich für eine andere Methode zur Festlegung der Proxyrichtlinien entschieden hast.
 
-       Hinweis: Ausführliche Beispiele findest du in den Chromium-Projekten ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Hinweis: Ausführliche Beispiele findest du in den Cobalt-Projekten ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7001915679435065291">Wenn die Richtlinie auf „1“ gesetzt ist, dürfen alle Websites Bilder anzeigen. Ist die Richtlinie auf „2“ gesetzt, wird das Anzeigen von Bildern blockiert.
 
 Wird die Richtlinie nicht konfiguriert, werden Bilder zugelassen, aber Nutzer können diese Einstellung ändern.</translation>
@@ -8263,7 +8263,7 @@ Wenn diese Richtlinie nicht konfiguriert ist, wird der PDF-Renderer vom Browser 
 
        Konfiguriere diese Richtlinie nicht, wenn du dich für eine andere Methode zur Festlegung der Proxyrichtlinien entschieden hast.
 
-      Hinweis: Ausführliche Beispiele findest du in den Chromium-Projekten ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Hinweis: Ausführliche Beispiele findest du in den Cobalt-Projekten ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7716587310609820801">Wenn diese Richtlinie konfiguriert ist, kannst du eine Liste mit URL-Mustern erstellen, durch die angegeben wird, welche Websites keine Benachrichtigungen anzeigen dürfen.
 
       Wenn die Richtlinie nicht konfiguriert ist, gilt „<ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" />“ für alle Websites, sofern konfiguriert. Falls nicht, wird die persönliche Einstellung des Nutzers verwendet.
@@ -8874,7 +8874,7 @@ Wenn du die Richtlinie auf <ph name="DISPLAY_MANAGEMENT_LABEL_TRANSIENT_VALUE" /
 
       Diese Richtlinie ist für reguläre Nutzerkonten nicht relevant.</translation>
 <translation id="8257863622304579015">Netzwerkdienst-Sandbox aktivieren</translation>
-<translation id="8259375588339409826">Chromium und Google Chrome unterstützen dieselbe Gruppe von Richtlinien. Beachte, dass dieses Dokument auch unveröffentlichte Richtlinien umfassen kann (d. h., dass diese Richtlinien nur für eine noch nicht veröffentlichte Version von <ph name="PRODUCT_NAME" /> gelten), und dass solche Richtlinien ohne vorherige Ankündigung geändert oder entfernt werden können. Für diese Richtlinien wird keinerlei Garantie abgegeben, auch nicht in Bezug auf ihre Sicherheit und Datenschutzeigenschaften.
+<translation id="8259375588339409826">Cobalt und Cobalt unterstützen dieselbe Gruppe von Richtlinien. Beachte, dass dieses Dokument auch unveröffentlichte Richtlinien umfassen kann (d. h., dass diese Richtlinien nur für eine noch nicht veröffentlichte Version von <ph name="PRODUCT_NAME" /> gelten), und dass solche Richtlinien ohne vorherige Ankündigung geändert oder entfernt werden können. Für diese Richtlinien wird keinerlei Garantie abgegeben, auch nicht in Bezug auf ihre Sicherheit und Datenschutzeigenschaften.
 
 Diese Richtlinien dienen ausschließlich der Konfiguration von internen <ph name="PRODUCT_NAME" />-Instanzen innerhalb deiner Organisation. Eine Anwendung dieser Richtlinien außerhalb deiner Organisation, z. B. in einem öffentlich bereitgestellten Programm, wird als Malware angesehen und von Google sowie Anbietern von Antivirensoftware mit hoher Wahrscheinlichkeit als Malware gekennzeichnet.
 
@@ -9723,7 +9723,7 @@ Ist die Richtlinie deaktiviert, werden nur Standardhardwaredaten gesendet.</tran
 <translation id="8947415621777543415">Gerätestandort melden</translation>
 <translation id="8948062138228904066">Zulassungsliste für Authentifizierungsserver</translation>
 <translation id="8951350807133946005">Datenträger-Cache-Verzeichnis festlegen</translation>
-<translation id="8952611478149810182">Die Weiterleitung von Ereignissen bei deaktivierten Formularsteuerelementen wird in Chromium geändert, um die Kompatibilität mit anderen Browsern zu verbessern und die Arbeit von Entwicklern zu vereinfachen.
+<translation id="8952611478149810182">Die Weiterleitung von Ereignissen bei deaktivierten Formularsteuerelementen wird in Cobalt geändert, um die Kompatibilität mit anderen Browsern zu verbessern und die Arbeit von Entwicklern zu vereinfachen.
 
 Durch diese Änderung werden „MouseEvents“ bei deaktivierten Formularsteuerelementen weitergeleitet, mit Ausnahme von „click“, „mouseup“ und „mousedown“. Zu den neuen Ereignissen gehören beispielsweise „mousemove“, „mouseenter“ und „mouseleave“.
 
@@ -9735,7 +9735,7 @@ Wenn diese Richtlinie aktiviert ist, wird das neue Verhalten verwendet.
 
 Ist die Richtlinie deaktiviert, wird das alte Verhalten verwendet.
 
-Wenn diese Richtlinie nicht konfiguriert ist, wird genau wie bei den anderen Chromium-Nutzern das neue Verhalten verwendet.</translation>
+Wenn diese Richtlinie nicht konfiguriert ist, wird genau wie bei den anderen Cobalt-Nutzern das neue Verhalten verwendet.</translation>
 <translation id="8955719471735800169">Zurück nach oben</translation>
 <translation id="8956312248048980644">Diese Richtlinie erlaubt standardmäßig das an Ursprünge gebundene Agent-Clustering.</translation>
 <translation id="8963464192296208229">In den Einstellungen von F11 wird die Tastenkombination verwendet, die den Alt-Modifikator enthält</translation>

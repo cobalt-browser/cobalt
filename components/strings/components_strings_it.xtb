@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Preparazione file</translation>
 <translation id="1015730422737071372">Fornisci ulteriori dettagli</translation>
 <translation id="1019413721762100891">Off</translation>
-<translation id="1021753677514347426">Questo problema si verifica a causa di un certificato installato sul dispositivo da te o da un'altra persona. È noto che il certificato viene usato per monitorare e intercettare le reti e non è considerato attendibile da Chromium. Esistono alcuni casi leciti per il monitoraggio, ad esempio su una rete scolastica o aziendale, ma Chromium vuole assicurarsi che tu sappia che viene effettuato, anche se non puoi interromperlo. Il monitoraggio potrebbe essere effettuato in qualsiasi browser o applicazione che accede al Web.</translation>
+<translation id="1021753677514347426">Questo problema si verifica a causa di un certificato installato sul dispositivo da te o da un'altra persona. È noto che il certificato viene usato per monitorare e intercettare le reti e non è considerato attendibile da Cobalt. Esistono alcuni casi leciti per il monitoraggio, ad esempio su una rete scolastica o aziendale, ma Cobalt vuole assicurarsi che tu sappia che viene effettuato, anche se non puoi interromperlo. Il monitoraggio potrebbe essere effettuato in qualsiasi browser o applicazione che accede al Web.</translation>
 <translation id="1024111578869940408">A volte gli utenti malintenzionati imitano i siti modificando l'indirizzo web in modo poco evidente.</translation>
 <translation id="1024913885641459127">Recensioni di prodotti e confronti di prezzi</translation>
 <translation id="1028781062521375153">Scopri i dettagli</translation>
@@ -317,7 +317,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="1567040042588613346">Questo criterio funziona come previsto, ma altrove è impostato lo stesso valore, che viene sostituito da questo criterio.</translation>
 <translation id="1567405528131216114">Aggiungi <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Inserisci data di scadenza</translation>
-<translation id="1569694109004336106">Google Chrome sta tentando di attivare Windows Hello per inserire le password.</translation>
+<translation id="1569694109004336106">Cobalt sta tentando di attivare Windows Hello per inserire le password.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1574714699824202614">Verifica del metodo di pagamento in corso…</translation>
 <translation id="1576277203042721907">Shopping Insights</translation>
@@ -360,7 +360,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="1645368109819982629">Protocollo non supportato</translation>
 <translation id="1650602712345345441">Gestisci le tue impostazioni di Chrome</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Per usare Gestore delle password con il Portachiavi di macOS, riavvia Chromium e consenti l'accesso al Portachiavi. Le schede verranno riaperte dopo il riavvio.</translation>
+<translation id="1652862280638399816">Per usare Gestore delle password con il Portachiavi di macOS, riavvia Cobalt e consenti l'accesso al Portachiavi. Le schede verranno riaperte dopo il riavvio.</translation>
 <translation id="1656024727720460136">Chrome ha semplificato questa pagina per facilitarne la lettura. Chrome ha recuperato la pagina originale tramite una connessione sicura.</translation>
 <translation id="1656489000284462475">Ritiro</translation>
 <translation id="1658111267661135323">TV e video</translation>
@@ -430,7 +430,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="1762779605905950734">Via</translation>
 <translation id="1763864636252898013">Questo server non è riuscito a dimostrare che si tratta di <ph name="DOMAIN" />; il relativo certificato di sicurezza non è considerato attendibile dal sistema operativo del dispositivo. Il problema potrebbe essere dovuto a un'errata configurazione o a un malintenzionato che intercetta la connessione.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Prova a eseguire lo strumento Diagnostica di rete Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Scopri di più sulla modalità di navigazione in incognito in Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Scopri di più sulla modalità di navigazione in incognito in Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Foto (archivio)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="194174710521904357">Hai consentito temporaneamente a questo sito di utilizzare i cookie di terze parti. Ciò comporta una minore protezione della navigazione, ma una maggiore probabilità che le funzionalità del sito operino come previsto.</translation>
 <translation id="1942498996464084801">Libri e letteratura</translation>
 <translation id="1943994668912612445">Design</translation>
-<translation id="1945968466830820669">Potresti perdere l'accesso all'account della tua organizzazione oppure subire un furto d'identità. Chromium ti consiglia di cambiare subito la password.</translation>
+<translation id="1945968466830820669">Potresti perdere l'accesso all'account della tua organizzazione oppure subire un furto d'identità. Cobalt ti consiglia di cambiare subito la password.</translation>
 <translation id="1946849748901605102">12 x 15 in</translation>
 <translation id="1947454675006758438">Pinzatura in alto a destra</translation>
 <translation id="1953729392594614704">Il blocco di <ph name="TOPIC" /> si estenderà a eventuali argomenti correlati, anche se sono attivi</translation>
@@ -588,7 +588,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="2083256696566019397">Consenti a ogni visita</translation>
 <translation id="2085876078937250610">Salva…</translation>
 <translation id="2091887806945687916">Audio</translation>
-<translation id="2093982008204312032">Google Chrome sta tentando di disattivare Windows Hello per inserire le password.</translation>
+<translation id="2093982008204312032">Cobalt sta tentando di disattivare Windows Hello per inserire le password.</translation>
 <translation id="2094505752054353250">Dominio non corrispondente</translation>
 <translation id="2094704029599359040">Informazioni sulla versione</translation>
 <translation id="2099652385553570808">Tripla pinzatura a sinistra</translation>
@@ -758,7 +758,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="239429038616798445">Questo metodo di spedizione non è disponibile. Prova un metodo diverso.</translation>
 <translation id="2395840535409704129">Sport acquatici</translation>
 <translation id="2396249848217231973">&amp;Annulla eliminazione</translation>
-<translation id="2399868464369312507">Google Chrome sta tentando di modificare i metodi di pagamento.</translation>
+<translation id="2399868464369312507">Cobalt sta tentando di modificare i metodi di pagamento.</translation>
 <translation id="2400600116338235695">Può chiedere di connettersi alle porte seriali</translation>
 <translation id="2404884497378469141">Prova a copiare di nuovo i file</translation>
 <translation id="2413155254802890957">Precedente</translation>
@@ -1026,7 +1026,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="2979424420072875974">Risorse per scrittori</translation>
 <translation id="2980742331521553164">Il CVC di questa carta verrà criptato e salvato nel tuo Account Google per un pagamento più rapido</translation>
 <translation id="2983666748527428214">Apri scheda di navigazione in incognito</translation>
-<translation id="2985306909656435243">Se questa opzione viene attivata, Chromium memorizza una copia della carta sul dispositivo per velocizzare la compilazione dei moduli.</translation>
+<translation id="2985306909656435243">Se questa opzione viene attivata, Cobalt memorizza una copia della carta sul dispositivo per velocizzare la compilazione dei moduli.</translation>
 <translation id="2985398929374701810">Inserisci un indirizzo valido</translation>
 <translation id="2987034854559945715">Nessuna funzionalità corrispondente</translation>
 <translation id="2988216301273604645">Chrome limita la quantità di informazioni che i siti possono usare per monitorare la tua navigazione. Puoi modificare le impostazioni per scegliere il tuo livello di protezione.</translation>
@@ -1108,7 +1108,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="3154506275960390542">Questa pagina include un modulo che potrebbe non essere inviato in modo sicuro. I dati inviati possono essere visualizzati da altri durante il transito o potrebbero essere modificati da un utente malintenzionato al fine di modificare i dati ricevuti dal server.</translation>
 <translation id="3154987252551138431">Si è verificato un errore durante l'utilizzo di Condivisione nelle vicinanze</translation>
 <translation id="315504272643575312">Il tuo account è gestito da <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Riavvia Chromium</translation>
+<translation id="3155163173539279776">Riavvia Cobalt</translation>
 <translation id="3157931365184549694">Ripristina</translation>
 <translation id="3158539265159265653">Disco</translation>
 <translation id="3162559335345991374">La rete Wi-Fi in uso potrebbe richiedere la visita della relativa pagina di accesso.</translation>
@@ -1159,7 +1159,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="324180406144491771">I link "<ph name="HOST_NAME" />" sono bloccati</translation>
 <translation id="3252772880526154546">Architettura</translation>
 <translation id="3254301855501243548">18 x 22 in</translation>
-<translation id="3255926992597692024">Chromium sta cercando di modificare le impostazioni per la compilazione dei metodi di pagamento.</translation>
+<translation id="3255926992597692024">Cobalt sta cercando di modificare le impostazioni per la compilazione dei metodi di pagamento.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, premi Tab e poi Invio per creare rapidamente un nuovo evento in Google Calendar</translation>
 <translation id="3261488570342242926">Scopri di più sulle carte virtuali</translation>
 <translation id="3262698603497362968">Opzioni di acquisto</translation>
@@ -1246,7 +1246,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="3423742043356668186">Sistema specificato</translation>
 <translation id="3427092606871434483">Consenti (predefinita)</translation>
 <translation id="3427342743765426898">&amp;Ripeti modifica</translation>
-<translation id="342781501876943858">Chromium ti consiglia di reimpostare la password, se l'hai utilizzata su altri siti.</translation>
+<translation id="342781501876943858">Cobalt ti consiglia di reimpostare la password, se l'hai utilizzata su altri siti.</translation>
 <translation id="3428151540071562330">Uno o più URI del modello server DnsOverHttpsTemplates non sono validi e non verranno utilizzati.</translation>
 <translation id="3428789896412418755">Cronologia raggruppata</translation>
 <translation id="3431216045099978607">Premi |<ph name="ACCELERATOR" />| per uscire dalla modalità a schermo intero e visualizzare il download.</translation>
@@ -1434,7 +1434,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="374325029554577103">Prodotti tecnologici per il fitness</translation>
 <translation id="3744111561329211289">Sincronizzazione in background</translation>
 <translation id="3744212718085287312">Vuoi pagare in modo più sicuro con una carta virtuale la prossima volta?</translation>
-<translation id="3744899669254331632">Al momento non puoi visitare il sito <ph name="SITE" /> perché tale sito web ha inviato credenziali criptate che Chromium non è riuscito a elaborare. Gli attacchi e gli errori di rete in genere sono temporanei, pertanto è possibile che questa pagina funzioni più tardi.</translation>
+<translation id="3744899669254331632">Al momento non puoi visitare il sito <ph name="SITE" /> perché tale sito web ha inviato credenziali criptate che Cobalt non è riuscito a elaborare. Gli attacchi e gli errori di rete in genere sono temporanei, pertanto è possibile che questa pagina funzioni più tardi.</translation>
 <translation id="3745599309295009257">Il testo, i contenuti e l'URL della pagina su cui stai scrivendo verranno inviati a Google, esaminati da persone e utilizzati per migliorare questa funzionalità. Evita di inserire informazioni personali (come dettagli medici o finanziari) o di utilizzare questo strumento su siti che contengono informazioni private o sensibili.</translation>
 <translation id="3748009735914587286">Metallo (lucido)</translation>
 <translation id="3748148204939282805">Gli utenti malintenzionati presenti sul sito <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> potrebbero indurti con l'inganno a effettuare operazioni pericolose, come installare software o rivelare informazioni personali (ad esempio password, numeri di telefono o carte di credito). <ph name="BEGIN_LEARN_MORE_LINK" />Ulteriori informazioni<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1568,7 +1568,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4047351652147966654">45,7 × 60,9 cm</translation>
 <translation id="404831776305217138">L'URL di aggiornamento per l'estensione con ID "<ph name="EXTENSION_ID" />" non è valido o utilizza uno schema non supportato. Gli schemi supportati sono: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> e <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Potrai usarlo su tutti i prodotti Google</translation>
-<translation id="4050599136622776556">Chromium sta cercando di modificare i metodi di pagamento.</translation>
+<translation id="4050599136622776556">Cobalt sta cercando di modificare i metodi di pagamento.</translation>
 <translation id="405399507749852140">Ricevi avvisi se il prezzo cala su qualsiasi sito</translation>
 <translation id="4056223980640387499">Seppia</translation>
 <translation id="4059523390906550209">Scopri di più su Sensitive Data Protection</translation>
@@ -1841,7 +1841,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4557573143631562971">Assicurazione sulla casa</translation>
 <translation id="4558551763791394412">Prova a disattivare le estensioni.</translation>
 <translation id="4566017918361049074">Attività all'aria aperta</translation>
-<translation id="4567686777917670400">L'amministratore può modificare da remoto la configurazione del browser. L'attività svolta su questo dispositivo potrebbe essere gestita anche al di fuori di Chromium. <ph name="BEGIN_LINK" />Scopri di più<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">L'amministratore può modificare da remoto la configurazione del browser. L'attività svolta su questo dispositivo potrebbe essere gestita anche al di fuori di Cobalt. <ph name="BEGIN_LINK" />Scopri di più<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Verificato</translation>
 <translation id="457875822857220463">Consegna</translation>
 <translation id="4579699065574932398">Operazioni bancarie</translation>
@@ -1871,7 +1871,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4631881646528206880">Registrazione della carta virtuale</translation>
 <translation id="4635278307999235413">Invio dei dati alla Console di amministrazionein corso…</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Modalità di navigazione in incognito in Chromium</translation>
+<translation id="4638670630777875591">Modalità di navigazione in incognito in Cobalt</translation>
 <translation id="464342062220857295">Funzionalità di ricerca</translation>
 <translation id="4644670975240021822">Ordine inverso a faccia in giù</translation>
 <translation id="4646534391647090355">Vai subito</translation>
@@ -1916,7 +1916,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4732860731866514038">Download del language pack <ph name="LANGUAGE" /> in corso… <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> vuole usare la posizione del dispositivo</translation>
 <translation id="473414950835101501">Utilizzare le fotocamere</translation>
-<translation id="4736825316280949806">Riavvia Chromium</translation>
+<translation id="4736825316280949806">Riavvia Cobalt</translation>
 <translation id="4736934858538408121">Carta virtuale</translation>
 <translation id="473775607612524610">Aggiorna</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> suggerimento di ricerca</translation>
@@ -1933,7 +1933,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4756388243121344051">&amp;Cronologia</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Passkey del tuo profilo Chrome</translation>
-<translation id="4757993714154412917">Hai appena inserito la tua password su un sito ingannevole. Per proteggere i tuoi account, Chromium ti consiglia di controllare le password salvate.</translation>
+<translation id="4757993714154412917">Hai appena inserito la tua password su un sito ingannevole. Per proteggere i tuoi account, Cobalt ti consiglia di controllare le password salvate.</translation>
 <translation id="4758311279753947758">Aggiungi informazioni di contatto</translation>
 <translation id="4761326898079498987">Rivedi per ulteriori dettagli</translation>
 <translation id="4761869838909035636">Esegui il controllo di sicurezza di Chrome</translation>
@@ -2020,7 +2020,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="4918221908152712722">Installa <ph name="APP_NAME" /> (non è richiesto alcun download)</translation>
 <translation id="4920457992177678649">Case vacanze e soggiorni di breve durata</translation>
 <translation id="4920710383559189047">Manicotto</translation>
-<translation id="4922104989726031751">Per usare Gestore delle password con il tuo sistema operativo, riavvia Chromium e consenti l'accesso al gestore delle password del tuo computer. Le schede verranno riaperte dopo il riavvio.</translation>
+<translation id="4922104989726031751">Per usare Gestore delle password con il tuo sistema operativo, riavvia Cobalt e consenti l'accesso al gestore delle password del tuo computer. Le schede verranno riaperte dopo il riavvio.</translation>
 <translation id="4923459931733593730">Pagamento</translation>
 <translation id="4926049483395192435">Deve essere specificato.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> dice</translation>
@@ -2105,7 +2105,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="5087580092889165836">Aggiungi carta</translation>
 <translation id="5088142053160410913">Messaggio all'operatore</translation>
 <translation id="5093232627742069661">Piegatura a Z standard</translation>
-<translation id="5094747076828555589">Questo server non è riuscito a dimostrare che si tratta di <ph name="DOMAIN" />; il relativo certificato di sicurezza non è considerato attendibile da Chromium. Il problema potrebbe essere dovuto a un'errata configurazione o a un malintenzionato che intercetta la connessione.</translation>
+<translation id="5094747076828555589">Questo server non è riuscito a dimostrare che si tratta di <ph name="DOMAIN" />; il relativo certificato di sicurezza non è considerato attendibile da Cobalt. Il problema potrebbe essere dovuto a un'errata configurazione o a un malintenzionato che intercetta la connessione.</translation>
 <translation id="5097099694988056070">Statistiche del dispositivo quali l'utilizzo di CPU/RAM</translation>
 <translation id="5097468150760963273">68,5 × 99 cm</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2132,7 +2132,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="5137761395480718572">Questa app richiede l'autorizzazione per installare le credenziali Wi-Fi. Dopo la configurazione, il tuo <ph name="DEVICE_TYPE" /> si connetterà automaticamente alle reti Wi-Fi partecipanti. Per rimuovere queste credenziali, disinstalla l'app. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">La carta virtuale non è al momento disponibile. Contatta la tua banca.</translation>
 <translation id="5138227688689900538">Mostra meno</translation>
-<translation id="5143309888746105072">Chromium impedisce ai siti di utilizzare i cookie di terze parti per monitorare la tua navigazione.
+<translation id="5143309888746105072">Cobalt impedisce ai siti di utilizzare i cookie di terze parti per monitorare la tua navigazione.
             <ph name="NEW_LINE" />Se le funzionalità del sito non funzionano <ph name="START_LINK" />prova a consentire temporaneamente i cookie di terze parti<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Codice di errore presente nella risposta del criterio</translation>
 <translation id="5146995429444047494">Le notifiche per il sito <ph name="ORIGIN" /> sono bloccate</translation>
@@ -2270,7 +2270,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="5425082381151187189">Arredamento e decorazione di interni</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> vuole inviarti notifiche</translation>
 <translation id="5430298929874300616">Rimuovi preferito</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />non salverà quanto segue<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />non salverà quanto segue<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Cronologia di navigazione
             <ph name="LIST_ITEM" />Cookie e dati dei siti
@@ -2644,7 +2644,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6160391204859821737">Attivare una funzionalità di privacy per gli annunci</translation>
 <translation id="6165508094623778733">Scopri di più</translation>
 <translation id="6167577165590485365">Ultimo tentativo di recupero:</translation>
-<translation id="617256461084925519">Google Chrome sta provando a verificare la tua identità per poter inserire i tuoi dati di pagamento.</translation>
+<translation id="617256461084925519">Cobalt sta provando a verificare la tua identità per poter inserire i tuoi dati di pagamento.</translation>
 <translation id="6176387967264100435">Questo prezzo è alto</translation>
 <translation id="6177128806592000436">La tua connessione a questo sito non è sicura</translation>
 <translation id="6177531123306197852">Busta C2</translation>
@@ -2664,7 +2664,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6215936431492593050">Metallo (satinato)</translation>
 <translation id="6217950634729714357">Arredamento per sale da pranzo e cucine</translation>
 <translation id="6218305986815100395">Impossibile attivare la carta virtuale</translation>
-<translation id="6218753634732582820">Rimuovere l'indirizzo da Chromium?</translation>
+<translation id="6218753634732582820">Rimuovere l'indirizzo da Cobalt?</translation>
 <translation id="622039917539443112">Piegatura parallela</translation>
 <translation id="6221311046884916259">Vuoi salvare questa carta nel tuo Account Google?</translation>
 <translation id="6221345481584921695">La funzione Navigazione sicura di Google ha <ph name="BEGIN_LINK" />rilevato malware<ph name="END_LINK" /> di recente sul sito <ph name="SITE" />. I siti web che in genere sono sicuri a volte vengono infettati da malware. I contenuti dannosi provengono da <ph name="SUBRESOURCE_HOST" />, un noto distributore di malware.</translation>
@@ -2736,7 +2736,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6348220984832452017">Varianti attive</translation>
 <translation id="6349101878882523185">Installa <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nessuna}=1{1 password per <ph name="DOMAIN_LIST" /> (sincronizzata)}=2{2 password per <ph name="DOMAIN_LIST" /> (sincronizzate)}other{# password per (<ph name="DOMAIN_LIST" />, sincronizzate)}}</translation>
-<translation id="6355392890578844978">Questo browser non è gestito da un'azienda o da un'altra organizzazione. L'attività svolta su questo dispositivo potrebbe essere gestita al di fuori di Chromium. <ph name="BEGIN_LINK" />Scopri di più<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Questo browser non è gestito da un'azienda o da un'altra organizzazione. L'attività svolta su questo dispositivo potrebbe essere gestita al di fuori di Cobalt. <ph name="BEGIN_LINK" />Scopri di più<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">modificare i metodi di pagamento</translation>
 <translation id="6358450015545214790">Che cosa significano?</translation>
 <translation id="6360213755783740931">Scopri di più sulla protezione da malware</translation>
@@ -2778,7 +2778,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6410264514553301377">Inserisci la data di scadenza e il codice CVC della carta <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Cura della pelle e delle unghie</translation>
-<translation id="6415778972515849510">Chromium può aiutarti a proteggere il tuo Account Google e a modificare la password.</translation>
+<translation id="6415778972515849510">Cobalt può aiutarti a proteggere il tuo Account Google e a modificare la password.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Servizi di elaborazione buste paga</translation>
 <translation id="6424600253695044005">Spazio di archiviazione sul cloud</translation>
@@ -2904,7 +2904,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6665553082534466207">Tripla perforatura a destra</translation>
 <translation id="6668389483194953109">Trovato formato carta "custom", ma la proprietà "custom_size" è vuota o non valida.</translation>
 <translation id="6671169470640320959">Finanziamenti per l'acquisto di automobili</translation>
-<translation id="6671697161687535275">Rimuovere il suggerimento per i moduli da Chromium?</translation>
+<translation id="6671697161687535275">Rimuovere il suggerimento per i moduli da Cobalt?</translation>
 <translation id="6677351035258626477">Fast food</translation>
 <translation id="6681790815630918386">CVC salvato</translation>
 <translation id="6683022854667115063">Cuffie</translation>
@@ -3017,7 +3017,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6897140037006041989">User-agent</translation>
 <translation id="6898699227549475383">Organizzazione (O)</translation>
 <translation id="6907458757809079309">Fitness</translation>
-<translation id="6908168784986658395">Quando chiudi tutte le schede di navigazione in incognito di Chromium, la tua attività nelle schede viene rimossa da questo dispositivo:
+<translation id="6908168784986658395">Quando chiudi tutte le schede di navigazione in incognito di Cobalt, la tua attività nelle schede viene rimossa da questo dispositivo:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Attività di navigazione<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Cronologia delle ricerche<ph name="END_LIST_ITEM" />
@@ -3065,7 +3065,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="6973988895180423160">3,5 x 5 in</translation>
 <translation id="6978121630131642226">Motori di ricerca</translation>
 <translation id="6978236010531171013">Condividi comunque</translation>
-<translation id="6978722349058177832">Se condividi questo dispositivo, Chromium può chiederti di verificare ogni volta che paghi utilizzando la compilazione automatica</translation>
+<translation id="6978722349058177832">Se condividi questo dispositivo, Cobalt può chiederti di verificare ogni volta che paghi utilizzando la compilazione automatica</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Disattivazione audio (impostazione predefinita)</translation>
 <translation id="6987806006823772670">Busta (patinata)</translation>
@@ -3230,7 +3230,7 @@ Ulteriori dettagli:
 <translation id="7308436126008021607">sincronizzazione in background</translation>
 <translation id="7310392214323165548">Il dispositivo verrà riavviato a breve</translation>
 <translation id="7311244614769792472">Nessun risultato trovato</translation>
-<translation id="7311837626618954149">Chromium impedisce ai siti di utilizzare i cookie di terze parti per monitorare la tua navigazione.</translation>
+<translation id="7311837626618954149">Cobalt impedisce ai siti di utilizzare i cookie di terze parti per monitorare la tua navigazione.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Guida alla connessione</translation>
 <translation id="7323804146520582233">Nascondi la sezione "<ph name="SECTION" />"</translation>
@@ -3303,7 +3303,7 @@ Ulteriori dettagli:
 <translation id="7425878584435172632">Design e arti visive</translation>
 <translation id="7427079287360774240">Studio di lingue straniere</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Verifica la tua identità per consentire a Chromium di inserire i tuoi dati di pagamento.</translation>
+<translation id="7432774160230062882">Verifica la tua identità per consentire a Cobalt di inserire i tuoi dati di pagamento.</translation>
 <translation id="7437289804838430631">Aggiungi informazioni di contatto</translation>
 <translation id="7438338505272634288">Gli utenti malintenzionati sul sito che stai tentando di visitare potrebbero indurti con l'inganno a installare software dannoso che influisce sulla tua navigazione, ad esempio cambiando la tua home page o mostrando annunci aggiuntivi sui siti che visiti. Chrome consiglia vivamente di tornare indietro per evitare problemi. <ph name="BEGIN_LEARN_MORE_LINK" />Scopri di più<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Esplora offline</translation>
@@ -3380,7 +3380,7 @@ Ulteriori dettagli:
 <translation id="7564049878696755256">Potresti non riuscire più ad accedere al tuo account <ph name="ORG_NAME" /> o subire un furto d'identità. Chrome ti consiglia di cambiare subito la password.</translation>
 <translation id="7564667064360547717">Camicie e top</translation>
 <translation id="7567204685887185387">Questo server non è riuscito a dimostrare che si tratta di <ph name="DOMAIN" />; il relativo certificato di sicurezza potrebbe essere stato emesso in modo fraudolento. Il problema potrebbe essere dovuto a un'errata configurazione o a un malintenzionato che intercetta la connessione.</translation>
-<translation id="7568616151991626879">Google Chrome sta cercando di inserire la password su <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt sta cercando di inserire la password su <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Rimuovere la carta di credito da Chrome?</translation>
 <translation id="7569983096843329377">Nero</translation>
@@ -3423,7 +3423,7 @@ Ulteriori dettagli:
 <translation id="7631527008834753063">Giochi TV a premi</translation>
 <translation id="7633909222644580952">Dati sulle prestazioni e report sugli arresti anomali</translation>
 <translation id="7636346903338549690">Siti autorizzati a utilizzare i cookie di terze parti</translation>
-<translation id="7637571805876720304">Rimuovere la carta di credito da Chromium?</translation>
+<translation id="7637571805876720304">Rimuovere la carta di credito da Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Nessuna}=1{1 password nel tuo account (per <ph name="DOMAIN_LIST" />)}other{# password nel tuo account (per <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Porte seriali</translation>
 <translation id="7639968568612851608">Grigio scuro</translation>
@@ -3644,7 +3644,7 @@ Ulteriori dettagli:
 <translation id="8061691770921837575">Cosmetici e maquillage</translation>
 <translation id="8063875539456488183">Salva e monitora i prezzi</translation>
 <translation id="8066225060526005217">Gestito dalle impostazioni dei cookie</translation>
-<translation id="8067872629359326442">Hai appena inserito la tua password su un sito ingannevole. Chromium può aiutarti. Per cambiare la password e informare Google che il tuo account potrebbe essere a rischio, fai clic su Proteggi account.</translation>
+<translation id="8067872629359326442">Hai appena inserito la tua password su un sito ingannevole. Cobalt può aiutarti. Per cambiare la password e informare Google che il tuo account potrebbe essere a rischio, fai clic su Proteggi account.</translation>
 <translation id="8070439594494267500">Icona dell'app</translation>
 <translation id="8070495475341517754">Visite ed escursioni guidate</translation>
 <translation id="8073647227500388356">Veicoli autonomi</translation>
@@ -3904,7 +3904,7 @@ Ulteriori dettagli:
 <translation id="8542014550340843547">Tripla pinzatura in basso</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Puoi <ph name="BEGIN_ERROR_LINK" />segnalare un problema di rilevamento<ph name="END_ERROR_LINK" /> oppure, se sei consapevole dei rischi per la tua sicurezza, <ph name="BEGIN_LINK" />visita questo sito non sicuro<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome sta cercando di modificare le impostazioni per la compilazione dei metodi di pagamento.</translation>
+<translation id="8544217240017914508">Cobalt sta cercando di modificare le impostazioni per la compilazione dei metodi di pagamento.</translation>
 <translation id="8544303911974837265">Poliestere</translation>
 <translation id="854548366864113872">Opzione prezzo alto</translation>
 <translation id="8546254312340305428">Specifica il motivo del caricamento (obbligatorio)</translation>
@@ -3921,7 +3921,7 @@ Ulteriori dettagli:
 <translation id="8558347880669160417">Fotocamera e microfono consentiti questa volta</translation>
 <translation id="8559762987265718583">Impossibile stabilire una connessione privata con il sito <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> perché data e ora del dispositivo (<ph name="DATE_AND_TIME" />) sono sbagliate.</translation>
 <translation id="8564182942834072828">Documenti separati/Copie non fascicolate</translation>
-<translation id="8564985650692024650">Chromium ti consiglia di reimpostare la password di <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />, se l'hai utilizzata su altri siti.</translation>
+<translation id="8564985650692024650">Cobalt ti consiglia di reimpostare la password di <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />, se l'hai utilizzata su altri siti.</translation>
 <translation id="8570895683659698018">Hobby e tempo libero</translation>
 <translation id="8574841453995331336">Frigoriferi e congelatori</translation>
 <translation id="8577192028579836704">Tutte le opzioni in genere <ph name="TYPICAL_PRICE" /></translation>
@@ -3995,7 +3995,7 @@ Ulteriori dettagli:
 <translation id="8736059027199600831">30 x 40 in</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, premi Tab poi Invio per aprire una nuova finestra di navigazione in incognito per navigare in privato</translation>
 <translation id="8737685506611670901">Aprire link <ph name="PROTOCOL" /> anziché <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Per poter stabilire una connessione protetta, l'orologio deve essere impostato correttamente perché i certificati utilizzati dai siti web per identificarsi sono validi soltanto per determinati periodi di tempo. L'orologio del dispositivo è sbagliato, pertanto Chromium non può verificare i certificati.</translation>
+<translation id="8738058698779197622">Per poter stabilire una connessione protetta, l'orologio deve essere impostato correttamente perché i certificati utilizzati dai siti web per identificarsi sono validi soltanto per determinati periodi di tempo. L'orologio del dispositivo è sbagliato, pertanto Cobalt non può verificare i certificati.</translation>
 <translation id="8740359287975076522">Impossibile trovare l'&lt;abbr id="dnsDefinition"&gt;indirizzo DNS&lt;/abbr&gt; di <ph name="HOST_NAME" />. Stiamo analizzando il problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> è il tuo codice per <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Aggiungi questa scheda ai preferiti</translation>
@@ -4022,7 +4022,7 @@ Ulteriori dettagli:
 <translation id="8785658048882205566">Motocicli</translation>
 <translation id="8790007591277257123">&amp;Ripeti eliminazione</translation>
 <translation id="8792272652220298572">Plastica (lucida)</translation>
-<translation id="8792621596287649091">Potresti non riuscire più ad accedere al tuo account <ph name="ORG_NAME" /> o subire un furto d'identità. Chromium ti consiglia di cambiare subito la password.</translation>
+<translation id="8792621596287649091">Potresti non riuscire più ad accedere al tuo account <ph name="ORG_NAME" /> o subire un furto d'identità. Cobalt ti consiglia di cambiare subito la password.</translation>
 <translation id="8792626944327216835">microfono</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> ha attivato Chrome Enterprise Connectors sul tuo browser. Questi connettori hanno accesso ad alcuni dei tuoi dati.</translation>
 <translation id="8798099450830957504">Predefinito</translation>
@@ -4172,7 +4172,7 @@ Ulteriori dettagli:
 <translation id="9095388113577226029">Altre lingue</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, premi Tab e poi Invio per impostare Chrome come browser predefinito del sistema nelle impostazioni di iOS</translation>
 <translation id="9101630580131696064">Vassoio 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> in genere utilizza la crittografia per proteggere le tue informazioni. Questa volta, quando Chromium ha provato a connettersi a <ph name="SITE" />, il sito web ha restituito credenziali insolite e sbagliate. È possibile che un malintenzionato stia cercando di spacciarsi per il sito <ph name="SITE" /> oppure che una schermata di accesso alla rete Wi-Fi abbia interrotto la connessione. Le tue informazioni sono ancora al sicuro perché Chromium ha interrotto la connessione prima che avvenissero scambi di dati.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> in genere utilizza la crittografia per proteggere le tue informazioni. Questa volta, quando Cobalt ha provato a connettersi a <ph name="SITE" />, il sito web ha restituito credenziali insolite e sbagliate. È possibile che un malintenzionato stia cercando di spacciarsi per il sito <ph name="SITE" /> oppure che una schermata di accesso alla rete Wi-Fi abbia interrotto la connessione. Le tue informazioni sono ancora al sicuro perché Cobalt ha interrotto la connessione prima che avvenissero scambi di dati.</translation>
 <translation id="9107467864910557787">Il browser in uso è gestito da <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Il criterio dell'amministratore disattiva la condivisione dello schermo con <ph name="APPLICATION_TITLE" /> quando sono visibili contenuti riservati</translation>
 <translation id="9114524666733003316">Conferma della carta...</translation>
@@ -4240,7 +4240,7 @@ Ulteriori dettagli:
 <translation id="93020190163435405">Tirocini</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Vuoi consentire all'app <ph name="APP_NAME" /> di configurare le reti Wi-Fi?</translation>
-<translation id="936602727769022409">Potresti non riuscire più ad accedere al tuo Account Google. Chromium consiglia di cambiare subito la password. Ti verrà chiesto di eseguire l'accesso.</translation>
+<translation id="936602727769022409">Potresti non riuscire più ad accedere al tuo Account Google. Cobalt consiglia di cambiare subito la password. Ti verrà chiesto di eseguire l'accesso.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Quali dati vengono usati:<ph name="END_BOLD" /> gli argomenti degli annunci sono basati sulla tua cronologia di navigazione recente, ossia un elenco di siti che hai visitato usando Chrome su questo dispositivo.</translation>
 <translation id="937885410143139026">Dati inviati alla Console di amministrazione</translation>
 <translation id="939736085109172342">Nuova cartella</translation>

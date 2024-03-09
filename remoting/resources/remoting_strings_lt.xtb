@@ -152,10 +152,10 @@ Jei parinktis „<ph name="SERVICE_SCRIPT_NAME" />“ jau pažymėta, atžymėki
 <translation id="7693372326588366043">Atnaujinti prieglobų sąrašą</translation>
 <translation id="7714222945760997814">Pranešti apie tai</translation>
 <translation id="7868137160098754906">Įveskite nuotolinio kompiuterio PIN kodą.</translation>
-<translation id="7881455334687220899">Autorių teisės „The Chromium Authors“, 2024 m. Visos teisės saugomos.</translation>
+<translation id="7881455334687220899">Autorių teisės „The Cobalt Authors“, 2024 m. Visos teisės saugomos.</translation>
 <translation id="7895403300744144251">Pagal nuotolinio kompiuterio saugos politiką neleidžiama prisijungti naudojant jūsų paskyrą.</translation>
 <translation id="7936528439960309876">Pritvirtinti dešinėje</translation>
-<translation id="7970576581263377361">Nepavyko autentifikuoti. Dar kartą prisijunkite prie „Chromium“.</translation>
+<translation id="7970576581263377361">Nepavyko autentifikuoti. Dar kartą prisijunkite prie „Cobalt“.</translation>
 <translation id="7981525049612125370">Baigėsi nuotolinės sesijos galiojimo laikas.</translation>
 <translation id="8038111231936746805">(numatyt.)</translation>
 <translation id="8041089156583427627">Siųsti atsiliepimą</translation>
@@ -191,6 +191,6 @@ Jei parinktis „<ph name="SERVICE_SCRIPT_NAME" />“ jau pažymėta, atžymėki
 <translation id="9187628920394877737">Ekrano įrašymo leidimo suteikimas produktui „<ph name="PRODUCT_NAME" />“</translation>
 <translation id="9213184081240281106">Netinkama prieglobos konfigūracija.</translation>
 <translation id="981121421437150478">Neprisijungus</translation>
-<translation id="985602178874221306">„Chromium“ autoriai</translation>
+<translation id="985602178874221306">„Cobalt“ autoriai</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (paskutinį kartą prisijungta <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

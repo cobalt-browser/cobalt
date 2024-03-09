@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Inatayarisha faili</translation>
 <translation id="1015730422737071372">Toa maelezo ya ziada</translation>
 <translation id="1019413721762100891">Imezimwa</translation>
-<translation id="1021753677514347426">Tatizo hili hutokea kwa sababu ya cheti ambacho wewe au mtu mwingine amesakinisha kwenye kifaa chako. Cheti kinajulikana kuwa huwa kinatumika kufuatilia na kuvamia mitandao na hakiaminiki na Chromium. Ingawa baadhi ya hali halali za ufuatiliaji zipo, kama vile kwenye mtandao wa shule au kampuni, Chromium ingependa kuhakikisha kuwa unafahamu kwamba jambo hili linafanyika, hata ikiwa huwezi kulisimamisha. Ufuatiliaji unaweza kutokea katika kivinjari chochote au programu inayoweza kufikia wavuti.</translation>
+<translation id="1021753677514347426">Tatizo hili hutokea kwa sababu ya cheti ambacho wewe au mtu mwingine amesakinisha kwenye kifaa chako. Cheti kinajulikana kuwa huwa kinatumika kufuatilia na kuvamia mitandao na hakiaminiki na Cobalt. Ingawa baadhi ya hali halali za ufuatiliaji zipo, kama vile kwenye mtandao wa shule au kampuni, Cobalt ingependa kuhakikisha kuwa unafahamu kwamba jambo hili linafanyika, hata ikiwa huwezi kulisimamisha. Ufuatiliaji unaweza kutokea katika kivinjari chochote au programu inayoweza kufikia wavuti.</translation>
 <translation id="1024111578869940408">Wakati mwingine, wadukuzi huiga tovuti kwa kufanya mabadiliko ambayo si rahisi kuonekana kwenye anwani ya tovuti.</translation>
 <translation id="1024913885641459127">Ukaguzi wa Bidhaa na Ulinganishaji wa Bei</translation>
 <translation id="1028781062521375153">Angalia maelezo</translation>
@@ -317,7 +317,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="1567040042588613346">Sera hii inafanya kazi inavyokusudiwa lakini thamani sawa na hii imewekwa mahali pengine na nafasi yake imechukuliwa na sera hii.</translation>
 <translation id="1567405528131216114">Weka <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Weka tarehe ya mwisho wa matumizi</translation>
-<translation id="1569694109004336106">Google Chrome inajaribu kuwasha Windows Hello ili uweke manenosiri.</translation>
+<translation id="1569694109004336106">Cobalt inajaribu kuwasha Windows Hello ili uweke manenosiri.</translation>
 <translation id="1572765991610098222">Inchi <ph name="WIDTH" /> x <ph name="HEIGHT" /></translation>
 <translation id="1574714699824202614">Inathibitisha njia ya kulipa</translation>
 <translation id="1576277203042721907">Maarifa ya ununuzi</translation>
@@ -360,7 +360,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="1645368109819982629">Itifaki haitumiki</translation>
 <translation id="1650602712345345441">Dhibiti mipangilio yako ya Chrome</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Ili utumie Kidhibiti cha Manenosiri na MacOS Keychain, fungua tena Chromium na uruhusu ufikiaji wa Keychain. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
+<translation id="1652862280638399816">Ili utumie Kidhibiti cha Manenosiri na MacOS Keychain, fungua tena Cobalt na uruhusu ufikiaji wa Keychain. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
 <translation id="1656024727720460136">Chrome imerahisisha ukurasa huu ili usomeke kwa urahisi. Chrome imerejesha ukurasa halisi kupitia muunganisho salama.</translation>
 <translation id="1656489000284462475">Muda wa kuabiri gari</translation>
 <translation id="1658111267661135323">Televisheni na Video</translation>
@@ -430,7 +430,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="1762779605905950734">Jina la mtaa</translation>
 <translation id="1763864636252898013">Seva hii haikuweza kuthibitisha kuwa ni <ph name="DOMAIN" />; cheti chake cha usalama hakiaminiwi na mfumo wa uendeshaji wa kifaa chako. Hii inaweza kusababishwa na usanidi usiofaa au mvamizi kuingilia muunganisho wako.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Jaribu kutumia zana ya Kuchunguza Mtandao wa Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Pata maelezo zaidi kuhusu Hali fiche kwenye Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Pata maelezo zaidi kuhusu Hali fiche kwenye Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Picha (Ya Hifadhi)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="194174710521904357">Uliruhusu kwa muda tovuti hii itumie vidakuzi vya washirika wengine, hatua hii inamaanisha kuwa ulinzi wa kuvinjari utapungua lakini vipengele vya tovuti vina uwezekano mkubwa wa kufanya kazi inavyotarajiwa.</translation>
 <translation id="1942498996464084801">Vitabu na Fasihi</translation>
 <translation id="1943994668912612445">Muundo</translation>
-<translation id="1945968466830820669">Unaweza kupoteza uwezo wa kufikia akaunti ya shirika lako au kuibiwa utambulisho. Chromium inapendekeza ubadilishe nenosiri lako sasa.</translation>
+<translation id="1945968466830820669">Unaweza kupoteza uwezo wa kufikia akaunti ya shirika lako au kuibiwa utambulisho. Cobalt inapendekeza ubadilishe nenosiri lako sasa.</translation>
 <translation id="1946849748901605102">Inchi 12 x 15</translation>
 <translation id="1947454675006758438">Bana juu kulia</translation>
 <translation id="1953729392594614704">Kuzuia <ph name="TOPIC" /> kutazuia pia mada zozote zinazohusiana, hata ikiwa mada husika inatumika</translation>
@@ -588,7 +588,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="2083256696566019397">Ruhusu kila unapotembelea</translation>
 <translation id="2085876078937250610">Hifadhi…</translation>
 <translation id="2091887806945687916">Sauti</translation>
-<translation id="2093982008204312032">Google Chrome inajaribu kuzima Windows Hello ili ujaze manenosiri.</translation>
+<translation id="2093982008204312032">Cobalt inajaribu kuzima Windows Hello ili ujaze manenosiri.</translation>
 <translation id="2094505752054353250">Kitolingana kwa kikoa</translation>
 <translation id="2094704029599359040">Maelezo kuhusu Toleo</translation>
 <translation id="2099652385553570808">Bana kushoto mara tatu</translation>
@@ -758,7 +758,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="239429038616798445">Mbinu hii ya usafirishaji haipatikani. Jaribu mbinu tofauti.</translation>
 <translation id="2395840535409704129">Michezo ya Majini</translation>
 <translation id="2396249848217231973">Tendua kufuta</translation>
-<translation id="2399868464369312507">Google Chrome inajaribu kubadilisha njia za kulipa.</translation>
+<translation id="2399868464369312507">Cobalt inajaribu kubadilisha njia za kulipa.</translation>
 <translation id="2400600116338235695">Inaweza kuomba ruhusa ya kuunganisha kwenye milango ya kutuma biti za data kwa mfululizo</translation>
 <translation id="2404884497378469141">Jaribu kunakili faili zako tena</translation>
 <translation id="2413155254802890957">Ya zamani</translation>
@@ -1026,7 +1026,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="2979424420072875974">Nyenzo za Waandishi</translation>
 <translation id="2980742331521553164">CVC ya kadi hii itasimbwa kwa njia fiche na kuhifadhiwa kwenye Akaunti yako ya Google ili ulipe haraka</translation>
 <translation id="2983666748527428214">Fungua Kichupo Fiche</translation>
-<translation id="2985306909656435243">Ikiwashwa, Chromium itahifadhi nakala ya kadi yako kwenye kifaa hiki kwa ajili ya kujaza fomu haraka zaidi.</translation>
+<translation id="2985306909656435243">Ikiwashwa, Cobalt itahifadhi nakala ya kadi yako kwenye kifaa hiki kwa ajili ya kujaza fomu haraka zaidi.</translation>
 <translation id="2985398929374701810">Andika anwani sahihi</translation>
 <translation id="2987034854559945715">Hakuna vipengele vinavyolingana</translation>
 <translation id="2988216301273604645">Chrome hudhibiti kiasi cha taarifa ambazo tovuti zinaweza kutumia kukufuatilia unapovinjari. Unaweza kubadilisha mipangilio yako ili uchague kiwango chako mwenyewe cha ulinzi.</translation>
@@ -1108,7 +1108,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="3154506275960390542">Ukurasa huu una fomu ambayo haiwezi kuwasilishwa kwa njia salama. Data unayotuma inaweza kusomwa na watu wengine inapotumwa au inaweza kurekebishwa na mvamizi ili kubadilisha data ambayo seva inapokea.</translation>
 <translation id="3154987252551138431">Hitilafu fulani imetokea wakati wa kutumia kipengele cha Uhamishaji wa Karibu</translation>
 <translation id="315504272643575312">Akaunti yako inadhibitiwa na <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Zindua upya Chromium</translation>
+<translation id="3155163173539279776">Zindua upya Cobalt</translation>
 <translation id="3157931365184549694">Rejesha</translation>
 <translation id="3158539265159265653">Diski</translation>
 <translation id="3162559335345991374">Wi-Fi unayotumia inaweza kukuhitaji kutembelea ukurasa wake wa kuingia katika akaunti.</translation>
@@ -1162,7 +1162,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="324180406144491771">Viungo vya “<ph name="HOST_NAME" />” vimezuiwa</translation>
 <translation id="3252772880526154546">Usanifu Majengo</translation>
 <translation id="3254301855501243548">Inchi 18 x 22</translation>
-<translation id="3255926992597692024">Chromium inajaribu kurekebisha mipangilio kwa ajili ya kujaza njia za kulipa.</translation>
+<translation id="3255926992597692024">Cobalt inajaribu kurekebisha mipangilio kwa ajili ya kujaza njia za kulipa.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, bonyeza 'Tab' kisha 'Enter' ili uweke tukio jipya katika Kalenda ya Google kwa haraka</translation>
 <translation id="3261488570342242926">Pata maelezo kuhusu kadi pepe</translation>
 <translation id="3262698603497362968">Chaguo za kununua</translation>
@@ -1249,7 +1249,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="3423742043356668186">Mfumo umebainishwa</translation>
 <translation id="3427092606871434483">Ruhusu (chaguomsingi)</translation>
 <translation id="3427342743765426898">Rudia Kuhariri</translation>
-<translation id="342781501876943858">Chromium inapendekeza ubadilishe nenosiri lako ikiwa ulilitumia tena kwenye tovuti zingine.</translation>
+<translation id="342781501876943858">Cobalt inapendekeza ubadilishe nenosiri lako ikiwa ulilitumia tena kwenye tovuti zingine.</translation>
 <translation id="3428151540071562330">URI moja au zaidi ya violezo vya seva ya DnsOverHttpsTemplates si sahihi na haitatumika.</translation>
 <translation id="3428789896412418755">Historia Iliyowekwa kwenye Kikundi</translation>
 <translation id="3431216045099978607">Bofya |<ph name="ACCELERATOR" />| ili uondoke kwenye hali ya skrini nzima na uone kipakuliwa.</translation>
@@ -1437,7 +1437,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="374325029554577103">Bidhaa za Teknolojia ya Siha</translation>
 <translation id="3744111561329211289">Usawazishaji wa chini chini</translation>
 <translation id="3744212718085287312">Je, unataka kulipa kwa usalama zaidi ukitumia kadi pepe wakati ujao?</translation>
-<translation id="3744899669254331632">Huwezi kutembelea <ph name="SITE" /> sasa hivi kwa sababu tovuti ilituma kitambulisho kilichoharibika ambacho Chromium haiwezi kuchakata. Hitilafu na uvamizi wa mtandao kwa kawaida huwa vya muda, kwa hivyo ukurasa huu huenda utafanya kazi baadaye.</translation>
+<translation id="3744899669254331632">Huwezi kutembelea <ph name="SITE" /> sasa hivi kwa sababu tovuti ilituma kitambulisho kilichoharibika ambacho Cobalt haiwezi kuchakata. Hitilafu na uvamizi wa mtandao kwa kawaida huwa vya muda, kwa hivyo ukurasa huu huenda utafanya kazi baadaye.</translation>
 <translation id="3745599309295009257">Maandishi yako, maudhui pamoja na URL ya ukurasa unaoandikia zitatumwa Google, zitahakikiwa na wanadamu na kutumiwa kuboresha kipengele hiki. Epuka kuweka taarifa binafsi (kama vile maelezo ya matibabu au kifedha) au kutumia zana hii kwenye tovuti zilizo na taarifa nyeti au binafsi.</translation>
 <translation id="3748009735914587286">Chuma (Mng'ao Zaidi)</translation>
 <translation id="3748148204939282805">Wavamizi kwenye <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> huenda wakakuhadaa ufanye kitu hatari kama vile kusakinisha programu au kuonyesha maelezo yako ya binafsi (kwa mfano, manenosiri, namba za simu au kadi za mikopo). <ph name="BEGIN_LEARN_MORE_LINK" />Pata maelezo zaidi<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4047351652147966654">Inchi 18 x 24</translation>
 <translation id="404831776305217138">URL ya kusasisha kiendelezi yenye Kitambulisho "<ph name="EXTENSION_ID" />" si sahihi au inatumia mpango ambao hautumiki. Mipango inayotumika ni: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> na <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Utaweza kuitumia kwenye bidhaa zote za Google</translation>
-<translation id="4050599136622776556">Chromium inajaribu kubadilisha njia za kulipa.</translation>
+<translation id="4050599136622776556">Cobalt inajaribu kubadilisha njia za kulipa.</translation>
 <translation id="405399507749852140">Pata arifa bei ikipunguzwa kwenye tovuti yoyote</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Pata maelezo zaidi kuhusu Ulinzi wa Data Nyeti</translation>
@@ -1844,7 +1844,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4557573143631562971">Bima ya Nyumba</translation>
 <translation id="4558551763791394412">Jaribu kuzima viendelezi vyako.</translation>
 <translation id="4566017918361049074">Nje</translation>
-<translation id="4567686777917670400">Msimamizi wako anaweza kubadilisha mipangilio ya kivinjari chako akiwa mbali. Huenda pia shughuli kwenye kifaa hiki zikadhibitiwa nje ya Chromium. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Msimamizi wako anaweza kubadilisha mipangilio ya kivinjari chako akiwa mbali. Huenda pia shughuli kwenye kifaa hiki zikadhibitiwa nje ya Cobalt. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Imethibitishwa</translation>
 <translation id="457875822857220463">Usafirishaji</translation>
 <translation id="4579699065574932398">Huduma za Benki</translation>
@@ -1874,7 +1874,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4631881646528206880">Uandikishaji wa kadi pepe</translation>
 <translation id="4635278307999235413">Inatuma data kwenye dashibodi ya msimamizi</translation>
 <translation id="4636930964841734540">Maelezo</translation>
-<translation id="4638670630777875591">Hali fiche kwenye Chromium</translation>
+<translation id="4638670630777875591">Hali fiche kwenye Cobalt</translation>
 <translation id="464342062220857295">Vipengele vya utafutaji</translation>
 <translation id="4644670975240021822">Mpangilio uliopinduliwa zikiangalia chini</translation>
 <translation id="4646534391647090355">Nipeleke kwenye sehemu hiyo sasa</translation>
@@ -1919,7 +1919,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4732860731866514038">Inapakua kifurushi cha lugha ya <ph name="LANGUAGE" />… asilimia <ph name="PERCENT" /></translation>
 <translation id="4733082559415072992"><ph name="URL" /> inataka kutumia maelezo kuhusu mahali kifaa chako kilipo</translation>
 <translation id="473414950835101501">Kutumia kamera zako</translation>
-<translation id="4736825316280949806">Zima na uwashe Chromium</translation>
+<translation id="4736825316280949806">Zima na uwashe Cobalt</translation>
 <translation id="4736934858538408121">Kadi pepe</translation>
 <translation id="473775607612524610">Sasisha</translation>
 <translation id="4738601419177586157">Pendekezo la utafutajI la <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4756388243121344051">&amp;Historia</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Ufunguo wa siri kwenye Wasifu wako wa Chrome</translation>
-<translation id="4757993714154412917">Umeweka nenosiri lako kwenye tovuti ya kupotosha. Ili uimarishe usalama wa akaunti zako, Chromium inapendekeza ukague manenosiri uliyoyahifadhi.</translation>
+<translation id="4757993714154412917">Umeweka nenosiri lako kwenye tovuti ya kupotosha. Ili uimarishe usalama wa akaunti zako, Cobalt inapendekeza ukague manenosiri uliyoyahifadhi.</translation>
 <translation id="4758311279753947758">Ongeza maelezo ya mawasiliano</translation>
 <translation id="4761326898079498987">Soma ili upate maelezo zaidi</translation>
 <translation id="4761869838909035636">Fanya Ukaguzi wa Usalama kwenye Chrome</translation>
@@ -2023,7 +2023,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="4918221908152712722">Sakinisha <ph name="APP_NAME" /> (huhitaji kupakua)</translation>
 <translation id="4920457992177678649">Makazi ya Likizo na Kukaa kwa Muda Mfupi</translation>
 <translation id="4920710383559189047">Kipochi</translation>
-<translation id="4922104989726031751">Ili utumie Kidhibiti cha Manenosiri kwenye mfumo wa uendeshaji unaotumia, fungua tena Chromium na uruhusu ufikiaji wa kidhibiti cha manenosiri katika kompyuta yako. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
+<translation id="4922104989726031751">Ili utumie Kidhibiti cha Manenosiri kwenye mfumo wa uendeshaji unaotumia, fungua tena Cobalt na uruhusu ufikiaji wa kidhibiti cha manenosiri katika kompyuta yako. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
 <translation id="4923459931733593730">Malipo</translation>
 <translation id="4926049483395192435">Sharti ibainishwe.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> inasema</translation>
@@ -2108,7 +2108,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="5087580092889165836">Ongeza kadi</translation>
 <translation id="5088142053160410913">Ujumbe kwa ishara maalum ya utafutaji</translation>
 <translation id="5093232627742069661">Mkunjo wa Z</translation>
-<translation id="5094747076828555589">Seva hii haikuweza kuthibitisha kuwa ni <ph name="DOMAIN" />; cheti chake cha usalama hakiaminiwi na Chromium. Hii inaweza kusababishwa na kusanidi kusikofaa au mvamizi kuingilia muunganisho wako.</translation>
+<translation id="5094747076828555589">Seva hii haikuweza kuthibitisha kuwa ni <ph name="DOMAIN" />; cheti chake cha usalama hakiaminiwi na Cobalt. Hii inaweza kusababishwa na kusanidi kusikofaa au mvamizi kuingilia muunganisho wako.</translation>
 <translation id="5097099694988056070">Takwimu za kifaa kama vile matumizi ya CPU/RAM</translation>
 <translation id="5097468150760963273">Inchi 27 x 39</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="5137761395480718572">Programu hii inaomba ruhusa ya kusakinisha vitambulisho vya Wi-Fi. Baada ya kuweka mipangilio, <ph name="DEVICE_TYPE" /> yako itaunganisha kiotomatiki kwenye mitandao ya Wi-Fi inayoshiriki. Ili uondoe vitambulisho hivi, ondoa programu. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Kadi pepe haipatikani kwa sasa, tafadhali wasiliana na benki yako</translation>
 <translation id="5138227688689900538">Onyesha chache</translation>
-<translation id="5143309888746105072">Chromium huzuia tovuti zisitumie vidakuzi vya washirika wengine kukufuatilia unapovinjari.
+<translation id="5143309888746105072">Cobalt huzuia tovuti zisitumie vidakuzi vya washirika wengine kukufuatilia unapovinjari.
             <ph name="NEW_LINE" />Ikiwa vipengele vya tovuti havifanyi kazi <ph name="START_LINK" />jaribu kuruhusu vidakuzi vya washirika wengine kwa muda<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Msimbo wa hitilafu uko katika jibu la sera</translation>
 <translation id="5146995429444047494">Arifa za <ph name="ORIGIN" /> zimezuiwa</translation>
@@ -2273,7 +2273,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="5425082381151187189">Nyumba na Mapambo ya Ndani</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> inataka kukutumia arifa</translation>
 <translation id="5430298929874300616">Ondoa alamisho</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />haitahifadhi<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />haitahifadhi<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />Historia yako ya kuvinjari
           <ph name="LIST_ITEM" />Vidakuzi na data ya tovuti
@@ -2648,7 +2648,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6160391204859821737">Washa kipengele cha faragha ya matangazo</translation>
 <translation id="6165508094623778733">Pata maelezo zaidi</translation>
 <translation id="6167577165590485365">Jaribio la mara ya mwisho la fetch:</translation>
-<translation id="617256461084925519">Google Chrome inajaribu kuthibitisha kuwa ni wewe ili iweze kujaza maelezo yako ya malipo.</translation>
+<translation id="617256461084925519">Cobalt inajaribu kuthibitisha kuwa ni wewe ili iweze kujaza maelezo yako ya malipo.</translation>
 <translation id="6176387967264100435">Bei hii ni ghali</translation>
 <translation id="6177128806592000436">Muunganisho wako kwenye tovuti hii si salama</translation>
 <translation id="6177531123306197852">Bahasha ya ukubwa wa C2</translation>
@@ -2668,7 +2668,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6215936431492593050">Chuma (Satini)</translation>
 <translation id="6217950634729714357">Samani za Jikoni na Sehemu ya Kulia Chakula</translation>
 <translation id="6218305986815100395">Imeshindwa kuwasha kadi pepe</translation>
-<translation id="6218753634732582820">Je, ungependa kuondoa anwani kwenye Chromium?</translation>
+<translation id="6218753634732582820">Je, ungependa kuondoa anwani kwenye Cobalt?</translation>
 <translation id="622039917539443112">Mikunjo sambamba</translation>
 <translation id="6221311046884916259">Je, ungependa kuhifadhi maelezo ya kadi hii katika Akaunti yako ya Google?</translation>
 <translation id="6221345481584921695">Mfumo wa Google wa Kuvinjari kwa Usalama <ph name="BEGIN_LINK" />uligundua programu hasidi<ph name="END_LINK" /> kwenye <ph name="SITE" /> hivi karibuni. Tovuti ambazo kwa kawaida huwa salama wakati mwingine huathiriwa na programu hasidi. Maudhui hasidi hutoka kwa <ph name="SUBRESOURCE_HOST" />, msambazaji wa programu hasidi anayejulikana.</translation>
@@ -2740,7 +2740,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6348220984832452017">Aina Zinazotumika</translation>
 <translation id="6349101878882523185">Sakinisha <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Hamna}=1{Nenosiri 1 (la <ph name="DOMAIN_LIST" />, limesawazishwa)}=2{Manenosiri 2 (ya <ph name="DOMAIN_LIST" />, yamesawazishwa)}other{Manenosiri # (ya <ph name="DOMAIN_LIST" />, yamesawazishwa)}}</translation>
-<translation id="6355392890578844978">Kivinjari hiki hakidhibitiwi na kampuni au shirika lingine. Huenda shughuli kwenye kifaa hiki zikadhibitiwa nje ya Chromium. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Kivinjari hiki hakidhibitiwi na kampuni au shirika lingine. Huenda shughuli kwenye kifaa hiki zikadhibitiwa nje ya Cobalt. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">badilisha njia za kulipa</translation>
 <translation id="6358450015545214790">Je, hii inamaanisha nini?</translation>
 <translation id="6360213755783740931">Pata maelezo zaidi kuhusu ulinzi dhidi ya Programu Hasidi</translation>
@@ -2782,7 +2782,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6410264514553301377">Weka tarehe ya mwisho wa matumizi na CVC ya <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Utunzaji wa Kucha na Ngozi</translation>
-<translation id="6415778972515849510">Chromium inaweza kukusaidia kulinda Akaunti yako ya Google na kubadilisha nenosiri lako.</translation>
+<translation id="6415778972515849510">Cobalt inaweza kukusaidia kulinda Akaunti yako ya Google na kubadilisha nenosiri lako.</translation>
 <translation id="6416877227920300343">Ukubwa wa EDP</translation>
 <translation id="641811520997304166">Huduma za Mishahara</translation>
 <translation id="6424600253695044005">Hifadhi ya Wingu</translation>
@@ -2908,7 +2908,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6665553082534466207">Toboa mara tatu kulia</translation>
 <translation id="6668389483194953109">Jina la ukubwa wa karatasi linaloitwa "custom" limepatikana, lakini thamani ya "custom_size" haijawekwa au si sahihi.</translation>
 <translation id="6671169470640320959">Huduma za Ufadhili wa Kulipia Magari</translation>
-<translation id="6671697161687535275">Je, ungependa kuondoa pendekezo la fomu kwenye Chromium?</translation>
+<translation id="6671697161687535275">Je, ungependa kuondoa pendekezo la fomu kwenye Cobalt?</translation>
 <translation id="6677351035258626477">Vyakula vya Haraka</translation>
 <translation id="6681790815630918386">CVC imehifadhiwa</translation>
 <translation id="6683022854667115063">Vipokea sauti vya kichwani</translation>
@@ -3021,7 +3021,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6897140037006041989">Programu ya Mtumiaji</translation>
 <translation id="6898699227549475383">Shirika (O)</translation>
 <translation id="6907458757809079309">Siha</translation>
-<translation id="6908168784986658395">Unapofunga vichupo vyote fiche kwenye Chromium, shughuli zako kwenye vichupo hivyo zitafutwa katika kifaa hiki:
+<translation id="6908168784986658395">Unapofunga vichupo vyote fiche kwenye Cobalt, shughuli zako kwenye vichupo hivyo zitafutwa katika kifaa hiki:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Shughuli za kuvinjari<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Historia ya mambo uliyotafuta<ph name="END_LIST_ITEM" />
@@ -3069,7 +3069,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="6973988895180423160">Inchi 3.5 x 5</translation>
 <translation id="6978121630131642226">Injini tafuti</translation>
 <translation id="6978236010531171013">Shiriki licha ya hilo</translation>
-<translation id="6978722349058177832">Ukituma kifaa hiki, Chromium inaweza kukuomba uthibitishe kila wakati unapolipa kwa kutumia kipengele cha kujaza kiotomatiki</translation>
+<translation id="6978722349058177832">Ukituma kifaa hiki, Cobalt inaweza kukuomba uthibitishe kila wakati unapolipa kwa kutumia kipengele cha kujaza kiotomatiki</translation>
 <translation id="6979158407327259162">Hifadhi ya Google</translation>
 <translation id="6979440798594660689">Zima (chaguomsingi)</translation>
 <translation id="6987806006823772670">Bahasha (Iliyofunikwa)</translation>
@@ -3232,7 +3232,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="7308436126008021607">usawazishaji wa chinichini</translation>
 <translation id="7310392214323165548">Kifaa kitazimika kisha kiwake hivi punde</translation>
 <translation id="7311244614769792472">Hakuna matokeo yaliyopatikana</translation>
-<translation id="7311837626618954149">Chromium huzuia tovuti ili zisitumie vidakuzi vya washirika wengine kukufuatilia unapovinjari.</translation>
+<translation id="7311837626618954149">Cobalt huzuia tovuti ili zisitumie vidakuzi vya washirika wengine kukufuatilia unapovinjari.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Usaidizi kuhusu Muunganisho</translation>
 <translation id="7323804146520582233">Ficha sehemu ya "<ph name="SECTION" />"</translation>
@@ -3305,7 +3305,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="7425878584435172632">Sanaa ya Maonyesho na Usanifu</translation>
 <translation id="7427079287360774240">Mafunzo ya Lugha za Kigeni</translation>
 <translation id="7429429656042611765">Ukubwa wa Executive</translation>
-<translation id="7432774160230062882">Thibitisha kuwa ni wewe ili Chromium iweze kujaza maelezo yako ya malipo.</translation>
+<translation id="7432774160230062882">Thibitisha kuwa ni wewe ili Cobalt iweze kujaza maelezo yako ya malipo.</translation>
 <translation id="7437289804838430631">Ongeza Maelezo ya Mawasiliano</translation>
 <translation id="7438338505272634288">Wadukuzi walio kwenye tovuti unayojaribu kutembelea wanaweza kukuhadaa ili usakinishe programu hatari inayoathiri jinsi unavyovinjari — kwa mfano, kwa kubadilisha ukurasa wako wa kwanza au kukuonyesha matangazo ya ziada kwenye tovuti unazozitembelea. Chrome inapendekeza sana urudi kwenye ukurasa salama ili uepuke madhara. <ph name="BEGIN_LEARN_MORE_LINK" />Pata maelezo zaidi<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Gundua ukiwa nje ya mtandao</translation>
@@ -3382,7 +3382,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="7564049878696755256">Unaweza kupoteza uwezo wa kufikia Akaunti yako ya <ph name="ORG_NAME" /> au kuibiwa utambulisho. Chrome inapendekeza ubadilishe nenosiri lako sasa.</translation>
 <translation id="7564667064360547717">Shati na Blauzi</translation>
 <translation id="7567204685887185387">Seva hii haikuweza kuthibitisha kuwa ni <ph name="DOMAIN" />; huenda cheti chake cha usalama kimetolewa kwa njia ya ulaghai. Hii inaweza kusababishwa na usanidi usiofaa au mvamizi kuingilia muunganisho wako.</translation>
-<translation id="7568616151991626879">Google Chrome inajaribu kuweka nenosiri lako kwenye <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt inajaribu kuweka nenosiri lako kwenye <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Gofu</translation>
 <translation id="7569952961197462199">Ungependa kuondoa kadi ya malipo kutoka kwenye Chrome?</translation>
 <translation id="7569983096843329377">Nyeusi</translation>
@@ -3425,7 +3425,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="7631527008834753063">Maonyesho ya Michezo kwenye Televisheni</translation>
 <translation id="7633909222644580952">Ripoti za utendaji na programu kuacha kufanya kazi</translation>
 <translation id="7636346903338549690">Tovuti zinazoruhusiwa kutumia vidakuzi vya washirika wengine</translation>
-<translation id="7637571805876720304">Je, ungependa kuondoa kadi ya mikopo kwenye Chromium?</translation>
+<translation id="7637571805876720304">Je, ungependa kuondoa kadi ya mikopo kwenye Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Hamna}=1{Nenosiri moja kwenye akaunti yako (katika <ph name="DOMAIN_LIST" />)}other{Manenosiri # kwenye akaunti yako (katika <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Milango ya kuingiza</translation>
 <translation id="7639968568612851608">Kijivu Iliyokolea</translation>
@@ -3646,7 +3646,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="8061691770921837575">Urembo na Vipodozi</translation>
 <translation id="8063875539456488183">Kuhifadhi na kufuatilia bei</translation>
 <translation id="8066225060526005217">Inadhibitiwa na mipangilio ya vidakuzi</translation>
-<translation id="8067872629359326442">Umeweka nenosiri lako kwenye tovuti inayotiliwa shaka. Chromium inaweza kukusaidia. Ili ubadilishe nenosiri lako na uarifu Google kwamba huenda akaunti yako imo hatarini, bofya Linda Akaunti.</translation>
+<translation id="8067872629359326442">Umeweka nenosiri lako kwenye tovuti inayotiliwa shaka. Cobalt inaweza kukusaidia. Ili ubadilishe nenosiri lako na uarifu Google kwamba huenda akaunti yako imo hatarini, bofya Linda Akaunti.</translation>
 <translation id="8070439594494267500">Aikoni ya programu</translation>
 <translation id="8070495475341517754">Ziara za Kutalii Katika Maeneo</translation>
 <translation id="8073647227500388356">Magari Yanayojiendesha Yenyewe</translation>
@@ -3903,7 +3903,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="8542014550340843547">Bana mara tatu chini</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Unaweza <ph name="BEGIN_ERROR_LINK" />kuripoti tatizo la ugunduzi<ph name="END_ERROR_LINK" /> au, ikiwa unaelewa kiwango cha hatari kinachoweza kutokea, <ph name="BEGIN_LINK" />tembelea tovuti hii isiyo salama<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome inajaribu kurekebisha mipangilio kwa ajili ya kujaza njia za kulipa.</translation>
+<translation id="8544217240017914508">Cobalt inajaribu kurekebisha mipangilio kwa ajili ya kujaza njia za kulipa.</translation>
 <translation id="8544303911974837265">Poliesta</translation>
 <translation id="854548366864113872">Chaguo ya Bei Ghali</translation>
 <translation id="8546254312340305428">Toa sababu ya kupakia (ni lazima)</translation>
@@ -3920,7 +3920,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="8558347880669160417">Kamera na maikrofoni zinaruhusiwa wakati huu</translation>
 <translation id="8559762987265718583">Muunganisho wa faragha kwenye <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> hauwezi kupatikana kwa sababu tarehe na wakati wa kifaa chako (<ph name="DATE_AND_TIME" />) si sahihi.</translation>
 <translation id="8564182942834072828">Hati zilizotenganishwa/Nakala ambazo hazijapangwa</translation>
-<translation id="8564985650692024650">Chromium inapendekeza ubadilishe nenosiri lako la <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ikiwa ulilitumia tena kwenye tovuti zingine.</translation>
+<translation id="8564985650692024650">Cobalt inapendekeza ubadilishe nenosiri lako la <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ikiwa ulilitumia tena kwenye tovuti zingine.</translation>
 <translation id="8570895683659698018">Mapumziko na Mambo Yapendelewayo</translation>
 <translation id="8574841453995331336">Friji na Friza</translation>
 <translation id="8577192028579836704">Chaguo zote za bei ya kawaida <ph name="TYPICAL_PRICE" /></translation>
@@ -3995,7 +3995,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="8736059027199600831">Inchi 30 x 40</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, bonyeza 'Tab' kisha 'Enter' ufungue dirisha jipya fiche ili uvinjari kwa faragha</translation>
 <translation id="8737685506611670901">Kufungua viungo vya <ph name="PROTOCOL" /> badala ya <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Ili kutambua muunganisho salama, saa yako inahitaji kuwekwa sahihi. Hii ni kwa sababu vyeti ambavyo tovuti hutumia kujitambua ni sahihi kwa vipindi mahususi pekee. Kwa kuwa saa ya kifaa chako si sahihi, Chromium haiwezi kuthibitisha vyeti hivi.</translation>
+<translation id="8738058698779197622">Ili kutambua muunganisho salama, saa yako inahitaji kuwekwa sahihi. Hii ni kwa sababu vyeti ambavyo tovuti hutumia kujitambua ni sahihi kwa vipindi mahususi pekee. Kwa kuwa saa ya kifaa chako si sahihi, Cobalt haiwezi kuthibitisha vyeti hivi.</translation>
 <translation id="8740359287975076522"><ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;anwani ya DNS&lt;/abbr&gt; haikupatikana. Tatizo linachunguzwa.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> ni namba yako ya <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Alamisha kichupo hiki</translation>
@@ -4022,7 +4022,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="8785658048882205566">Pikipiki</translation>
 <translation id="8790007591277257123">Rudia kufuta</translation>
 <translation id="8792272652220298572">Plastiki (Mng'ao)</translation>
-<translation id="8792621596287649091">Unaweza kupoteza uwezo wa kufikia Akaunti yako ya <ph name="ORG_NAME" /> au kuibiwa utambulisho. Chromium inapendekeza ubadilishe nenosiri lako la sasa.</translation>
+<translation id="8792621596287649091">Unaweza kupoteza uwezo wa kufikia Akaunti yako ya <ph name="ORG_NAME" /> au kuibiwa utambulisho. Cobalt inapendekeza ubadilishe nenosiri lako la sasa.</translation>
 <translation id="8792626944327216835">maikrofoni</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> amewasha Viunganishi vya Chrome Enterprise kwenye kivinjari chako. Viunganishi hivi vina uwezo wa kufikia baadhi ya data yako.</translation>
 <translation id="8798099450830957504">Chaguomsingi</translation>
@@ -4172,7 +4172,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="9095388113577226029">Lugha zaidi...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Bonyeza kichupo kisha Enter ili uifanye Chrome iwe kivinjari chaguomsingi cha mfumo kwenye mipangilio ya iOS</translation>
 <translation id="9101630580131696064">Trei ya kwanza</translation>
-<translation id="9103872766612412690">Kwa kawaida <ph name="SITE" /> hutumia usimbaji fiche ili kulinda maelezo yako. Chromium ilipojaribu kuunganisha kwenye <ph name="SITE" /> wakati huu, tovuti ilituma kitambulisho kisicho cha kawaida na kisicho sahihi. Hili linaweza kutokea mvamizi anapojaribu kujifanya kuwa <ph name="SITE" />, au uchanganuzi wa kuingia katika Wi-Fi umeingilia muunganisho. Maelezo yako yangali salama kwa sababu Chromium ilisimamisha muunganisho kabla data yoyote itumwe.</translation>
+<translation id="9103872766612412690">Kwa kawaida <ph name="SITE" /> hutumia usimbaji fiche ili kulinda maelezo yako. Cobalt ilipojaribu kuunganisha kwenye <ph name="SITE" /> wakati huu, tovuti ilituma kitambulisho kisicho cha kawaida na kisicho sahihi. Hili linaweza kutokea mvamizi anapojaribu kujifanya kuwa <ph name="SITE" />, au uchanganuzi wa kuingia katika Wi-Fi umeingilia muunganisho. Maelezo yako yangali salama kwa sababu Cobalt ilisimamisha muunganisho kabla data yoyote itumwe.</translation>
 <translation id="9107467864910557787">Kivinjari chako kinadhibitiwa na <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Sera ya msimamizi huzuia kushiriki skrini na <ph name="APPLICATION_TITLE" /> wakati maudhui ya siri yanaonekana</translation>
 <translation id="9114524666733003316">Inathibitisha kadi…</translation>
@@ -4240,7 +4240,7 @@ Usipoiruhusu, itazuiwa na mipangilio yako ya faragha. Hali hii itaruhusu maudhui
 <translation id="93020190163435405">Uanagenzi</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Je, ungependa kuruhusu programu ya <ph name="APP_NAME" /> iweke mipangilio ya mitandao ya Wi-Fi?</translation>
-<translation id="936602727769022409">Unaweza kupoteza uwezo wa kufikia Akaunti yako ya Google. Chromium inapendekeza ubadilishe nenosiri lako sasa. Utaombwa uingie katika akaunti.</translation>
+<translation id="936602727769022409">Unaweza kupoteza uwezo wa kufikia Akaunti yako ya Google. Cobalt inapendekeza ubadilishe nenosiri lako sasa. Utaombwa uingie katika akaunti.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Aina ya data inayotumiwa:<ph name="END_BOLD" /> Mada zako za matangazo hutokana na historia yako ya kuvinjari ya hivi karibuni, orodha ya tovuti ulizotembelea kwa kutumia Chrome kwenye kifaa hiki.</translation>
 <translation id="937885410143139026">Data imetumwa kwenye dashibodi ya msimamizi</translation>
 <translation id="939736085109172342">Folda mpya</translation>

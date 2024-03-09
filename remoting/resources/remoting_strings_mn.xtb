@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">Хостуудын жагсаалтыг дахин сэргээх</translation>
 <translation id="7714222945760997814">Үүнийг мэдэгдэх</translation>
 <translation id="7868137160098754906">Компьютерийн алсын удирдлагад нэвтрэх ПИН кодоо оруулна уу.</translation>
-<translation id="7881455334687220899">Зохиогчийн эрх 2024 Chromium-н зохиогчид. Бүх эрх хуулиар хамгаалагдсан.</translation>
+<translation id="7881455334687220899">Зохиогчийн эрх 2024 Cobalt-н зохиогчид. Бүх эрх хуулиар хамгаалагдсан.</translation>
 <translation id="7895403300744144251">Алсын компьютерийн аюулгүй байдлын бодлогын дагуу таны бүртгэлээс холболт зөвшөөрдөггүй.</translation>
 <translation id="7936528439960309876">Баруун холбогч</translation>
-<translation id="7970576581263377361">Таниулах үйлдэл амжилтгүй боллоо. Chromium руу дахин нэвтэрч орно уу.</translation>
+<translation id="7970576581263377361">Таниулах үйлдэл амжилтгүй боллоо. Cobalt руу дахин нэвтэрч орно уу.</translation>
 <translation id="7981525049612125370">Алсын харилцан үйлдэл дууссан.</translation>
 <translation id="8038111231936746805">(Өгөгдмөл)</translation>
 <translation id="8041089156583427627">Санал хүсэлт илгээх</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />-д 'Дэлгэцийн бичлэгийн' зөвшөөрөл олгох</translation>
 <translation id="9213184081240281106">Хүчин төгөлдөр бус хостын тохиргоо.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Chromium-ыг бүтээгчид</translation>
+<translation id="985602178874221306">Cobalt-ыг бүтээгчид</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (хамгийн сүүлд онлайн байсан <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

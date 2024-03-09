@@ -167,7 +167,7 @@
 <translation id="3941890832296813527">Error d'instal·lació: el nom de fitxer de l'instal·lador no és vàlid o no s'admet.</translation>
 <translation id="3945058413678539331">Cobalt està provant de copiar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
 <translation id="3962647064319009959">Informació sobre com et protegeix Cobalt</translation>
-<translation id="3975724895399328945">Sobre &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Sobre &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Sobre Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS és possible gràcies a <ph name="BEGIN_LINK_CROS_OSS" />programari lliure<ph name="END_LINK_CROS_OSS" /> addicional, igual que l‘<ph name="BEGIN_LINK_LINUX_OSS" />entorn de desenvolupament de Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Informa de la <ph name="BEGIN_LINK" />configuració actual<ph name="END_LINK" /> per ajudar-nos a millorar Cobalt</translation>
@@ -403,7 +403,7 @@ Cobalt no pot recuperar la configuració.</translation>
 <translation id="8013436988911883588">Un cop Cobalt tingui accés, els llocs web et podran demanar accés.</translation>
 <translation id="80471789339884597">T'agraïm la instal·lació. Has de reiniciar tots els navegadors abans d'utilitzar <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">La instal·lació ha fallat perquè l'ordinador no compleix els requisits mínims de maquinari.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt necessita permís d'accés a la ubicació per a aquest lloc web</translation>
 <translation id="8133124826068723441">Cobalt OS no ha pogut sincronitzar les teves dades perquè la sincronització no està disponible per al teu domini.</translation>
 <translation id="813913629614996137">S'està inicialitzant…</translation>
@@ -436,7 +436,7 @@ Cobalt no pot recuperar la configuració.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Com utilitzem aquestes dades<ph name="END_BOLD" />: els llocs web poden emmagatzemar informació a Cobalt sobre els teus interessos. Per exemple, si visites un lloc web per comprar sabatilles per a una marató, és possible que el lloc web defineixi que t'interessa córrer maratons. Més endavant, si visites un altre lloc web per inscriure't a una cursa, aquest altre lloc web et pot mostrar un anunci de sabatilles de curses basant-se en els teus interessos.</translation>
 <translation id="8619360774459241877">S'està iniciant Cobalt...</translation>
 <translation id="8621669128220841554">La instal·lació ha fallat a causa d'un error no especificat. Torneu a baixar Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing no pot definir-se com a navegador predeterminat.</translation>
+<translation id="8648201657708811153">Cobalt for Testing no pot definir-se com a navegador predeterminat.</translation>
 <translation id="8697124171261953979">També controla la pàgina que es mostra quan inicieu Cobalt o quan feu una cerca des de l'omnibox.</translation>
 <translation id="8704119203788522458">Aquest és el vostre Cobalt</translation>
 <translation id="8719993436687031146">Vols iniciar la sessió a Cobalt?</translation>

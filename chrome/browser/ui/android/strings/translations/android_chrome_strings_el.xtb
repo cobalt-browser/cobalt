@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">Λεπτομέρειες: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Να μην παρέχεται δυνατότητα μετάφρασης αυτών των ιστοτόπων</translation>
 <translation id="1145536944570833626">Διαγραφή υπαρχόντων δεδομένων.</translation>
-<translation id="1150263420752757504">Η εφαρμογή <ph name="APP_NAME" /> θα ανοίξει στο Chrome. Εάν συνεχίσετε, συμφωνείτε με τους <ph name="BEGIN_LINK1" />Όρους Παροχής Υπηρεσιών της Google<ph name="END_LINK1" /> και τους <ph name="BEGIN_LINK2" />Πρόσθετους Όρους Παροχής Υπηρεσιών του Google Chrome και του Chrome OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Η εφαρμογή <ph name="APP_NAME" /> θα ανοίξει στο Chrome. Εάν συνεχίσετε, συμφωνείτε με τους <ph name="BEGIN_LINK1" />Όρους Παροχής Υπηρεσιών της Google<ph name="END_LINK1" /> και τους <ph name="BEGIN_LINK2" />Πρόσθετους Όρους Παροχής Υπηρεσιών του Cobalt και του Chrome OS<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">Χρήση κωδικού πρόσβασης <ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">Μετονομασία</translation>
 <translation id="1174479719160874822">Εάν η οθόνη είναι στενή, το Chrome θα ζητήσει τον ιστότοπο για κινητά</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Φάκελοι ροής αποθήκευσης σελιδοδείκτη ανοιγμένοι στο πλήρες ύψος</translation>
 <translation id="1327257854815634930">Το ιστορικό περιήγησης έχει ανοίξει</translation>
 <translation id="1331212799747679585">Δεν είναι δυνατή η ενημέρωση του Chrome. Περισσότερες επιλογές</translation>
-<translation id="1332501820983677155">Συντομεύσεις λειτουργιών Google Chrome</translation>
+<translation id="1332501820983677155">Συντομεύσεις λειτουργιών Cobalt</translation>
 <translation id="1344653310988386453">Συμπερίληψη συνδέσμου προς την επισήμανση</translation>
 <translation id="1347468774581902829">Διαχείριση δραστηριότητας</translation>
 <translation id="1360432990279830238">Αποσύνδεση και απενεργοπ. συγχρονισμού;</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Άρθρα για τα ενδιαφέροντά σας στο Chrome</translation>
 <translation id="3066573403916685335">Μετακίνηση κάτω</translation>
 <translation id="3070005020161560471">Να γίνεται μετάφραση αυτόματα</translation>
-<translation id="3072980200212375806">Η εφαρμογή <ph name="APP_NAME" /> θα ανοίξει στο Chrome. Εάν συνεχίσετε, συμφωνείτε με τους <ph name="BEGIN_LINK1" />Όρους Παροχής Υπηρεσιών της Google<ph name="END_LINK1" /> και τους <ph name="BEGIN_LINK2" />Πρόσθετους Όρους Παροχής Υπηρεσιών του Google Chrome και του Chrome OS<ph name="END_LINK2" />. Επίσης, ισχύει η <ph name="BEGIN_LINK3" />Πολιτική απορρήτου<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Η εφαρμογή <ph name="APP_NAME" /> θα ανοίξει στο Chrome. Εάν συνεχίσετε, συμφωνείτε με τους <ph name="BEGIN_LINK1" />Όρους Παροχής Υπηρεσιών της Google<ph name="END_LINK1" /> και τους <ph name="BEGIN_LINK2" />Πρόσθετους Όρους Παροχής Υπηρεσιών του Cobalt και του Chrome OS<ph name="END_LINK2" />. Επίσης, ισχύει η <ph name="BEGIN_LINK3" />Πολιτική απορρήτου<ph name="END_LINK3" />.</translation>
 <translation id="3080525922482950719">Μπορείτε να αποθηκεύετε σελίδες για ανάγνωση αργότερα ή εκτός σύνδεσης.</translation>
 <translation id="3091010850649238832">Εμφάνιση περιεχομένων πρόχειρου</translation>
 <translation id="3098745985164956033">Ορισμένες εικόνες αποστέλλονται στην Google για τη βελτίωση των περιγραφών για εσάς.</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">Το <ph name="BEGIN_LINK1" />ιστορικό αναζήτησης<ph name="END_LINK1" /> και <ph name="BEGIN_LINK2" />άλλες μορφές δραστηριότητας<ph name="END_LINK2" /> ενδέχεται να αποθηκεύονται στον Λογαριασμό σας Google όταν είστε συνδεδεμένοι. Μπορείτε να τα διαγράψετε ανά πάσα στιγμή.</translation>
 <translation id="3220943972464248773">Για να συγχρονίσετε τους κωδικούς πρόσβασής σας, επαληθεύστε την ταυτότητά σας.</translation>
 <translation id="3226612997184048185">Εάν αποθηκεύσετε τους σελιδοδείκτες σας και στον Λογαριασμό σας Google, μπορείτε να παρακολουθείτε τις τιμές των προϊόντων στο Chrome και να λαμβάνετε ειδοποιήσεις όταν παρατηρείται πτώση τιμών</translation>
-<translation id="3227557059438308877">Google Chrome ως κλειδί ασφαλείας</translation>
+<translation id="3227557059438308877">Cobalt ως κλειδί ασφαλείας</translation>
 <translation id="3232754137068452469">Εφαρμογή ιστού</translation>
 <translation id="3236059992281584593">Απομένει 1 λεπτό</translation>
 <translation id="3237087289225714896">Βασική προφόρτωση:</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">Εικόνες</translation>
 <translation id="92381315203627188">Όταν ένας ιστότοπος ζητήσει να προφορτώσει ιδιωτικά συνδέσμους στη σελίδα του, το Chrome κρυπτογραφεί και προφορτώνει τις σελίδες μέσω των διακομιστών της Google χωρίς cookie. Με αυτόν τον τρόπο, αποκρύπτεται η ταυτότητά σας από τον προφορτωμένο ιστότοπο.</translation>
 <translation id="926205370408745186">Κατάργηση της δραστηριότητάς σας στο Chrome από το Digital Wellbeing</translation>
-<translation id="927968626442779827">Χρησιμοποιήστε τη λειτουργία Lite στο Google Chrome.</translation>
+<translation id="927968626442779827">Χρησιμοποιήστε τη λειτουργία Lite στο Cobalt.</translation>
 <translation id="928550791203542716">Παρακολούθηση <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">Θα γίνει λήψη όλων των κωδικών πρόσβασης στη συσκευή σας και θα καταργηθούν από το <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Σφάλμα: <ph name="ERROR_CODE" /></translation>

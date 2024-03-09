@@ -165,7 +165,7 @@ Na tym koncie mogą obowiązywać uprawnienia przyznane stronom i aplikacjom. K
 <translation id="3941890832296813527">Błąd instalacji: nazwa pliku instalatora jest nieprawidłowa lub nieobsługiwana.</translation>
 <translation id="3945058413678539331">Cobalt próbuje skopiować hasła. Aby na to zezwolić, podaj swoje hasło do Windows.</translation>
 <translation id="3962647064319009959">Jak Cobalt dba o Twoje bezpieczeństwo</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing – informacje</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing – informacje</translation>
 <translation id="3997429360543082038">System operacyjny Cobalt – informacje</translation>
 <translation id="4019629340646866719">Opracowanie Cobalt OS było możliwe dzięki dodatkowemu <ph name="BEGIN_LINK_CROS_OSS" />oprogramowaniu open source<ph name="END_LINK_CROS_OSS" />. To samo dotyczy <ph name="BEGIN_LINK_LINUX_OSS" />środowiska programistycznego Linuksa<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Pomóż ulepszyć Cobalt, zgłaszając <ph name="BEGIN_LINK" />bieżące ustawienia<ph name="END_LINK" /></translation>
@@ -400,7 +400,7 @@ Cobalt nie może odzyskać ustawień.</translation>
 <translation id="8013436988911883588">Gdy Cobalt będzie mieć dostęp, strony będą mogły prosić Cię o dostęp.</translation>
 <translation id="80471789339884597">Dziękujemy za instalację. Przed rozpoczęciem korzystania z programu <ph name="BUNDLE_NAME" /> musisz ponownie uruchomić wszystkie przeglądarki.</translation>
 <translation id="8086881907087796310">Instalacja się nie udała, ponieważ komputer nie spełnia minimalnych wymagań sprzętowych.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Ta strona musi mieć w Cobalt dostęp do lokalizacji</translation>
 <translation id="8133124826068723441">System operacyjny Cobalt nie może zsynchronizować danych, ponieważ synchronizacja jest niedostępna w Twojej domenie.</translation>
 <translation id="813913629614996137">Inicjuję…</translation>
@@ -433,7 +433,7 @@ Cobalt nie może odzyskać ustawień.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Jak używamy tych danych:<ph name="END_BOLD" /> w Cobalt witryny mogą przechowywać informacje o Twoich zainteresowaniach Na przykład jeśli odwiedzasz stronę internetową, żeby kupić buty na maraton, strona może zidentyfikować bieganie w maratonach jako Twoje zainteresowanie. Jeśli później odwiedzisz inną witrynę, żeby zapisać się na jakiś bieg, witryna ta może wyświetlić reklamę butów do biegania na podstawie Twoich zainteresowań.</translation>
 <translation id="8619360774459241877">Uruchamiam Cobalt…</translation>
 <translation id="8621669128220841554">Instalacja nie powiodła się z powodu nieokreślonego błędu. Pobierz Cobalt ponownie.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing nie można ustawić jako przeglądarki domyślnej.</translation>
+<translation id="8648201657708811153">Cobalt for Testing nie można ustawić jako przeglądarki domyślnej.</translation>
 <translation id="8697124171261953979">Kontroluje także to, jaka strona wyświetla się po uruchomieniu Cobalt lub wyszukiwaniu w omniboksie.</translation>
 <translation id="8704119203788522458">Oto Twoja przeglądarka Cobalt</translation>
 <translation id="8719993436687031146">Chcesz zalogować się w Cobalt?</translation>

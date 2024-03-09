@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">Освежите листу хостова</translation>
 <translation id="7714222945760997814">Пријави ово</translation>
 <translation id="7868137160098754906">Унесите PIN за удаљени рачунар.</translation>
-<translation id="7881455334687220899">Ауторска права 2024. Аутори Chromium-а. Сва права задржана.</translation>
+<translation id="7881455334687220899">Ауторска права 2024. Аутори Cobalt-а. Сва права задржана.</translation>
 <translation id="7895403300744144251">Смернице за безбедност на удаљеном рачунару не дозвољавају везе са вашег налога.</translation>
 <translation id="7936528439960309876">Усидри са десне стране</translation>
-<translation id="7970576581263377361">Потврда аутентичности није успела. Пријавите се поново у Chromium.</translation>
+<translation id="7970576581263377361">Потврда аутентичности није успела. Пријавите се поново у Cobalt.</translation>
 <translation id="7981525049612125370">Даљинска сесија је истекла.</translation>
 <translation id="8038111231936746805">(подразумевано)</translation>
 <translation id="8041089156583427627">Пошаљи повратне информације</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737">Дајте дозволу за „Снимање екрана“ производу <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Конфигурација хоста је неважећа.</translation>
 <translation id="981121421437150478">Офлајн</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (последњи пут онлајн <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -50,7 +50,7 @@ Aspectes que cal tenir en compte:
 <translation id="1917964099031477364">Aquest compte i totes les dades que no s'hagin desat se suprimiran de Chrome i de la resta d'aplicacions de Google instal·lades en aquest dispositiu.</translation>
 <translation id="1965935827552890526">Acaba el que estaves fent a l'altra finestra de Chrome oberta.</translation>
 <translation id="1987779152850321833">Completa aquestes accions suggerides per treure el màxim profit de Chrome.</translation>
-<translation id="2056123005618757196">Augmenta la teva productivitat amb un Google Chrome senzill, segur i més ràpid que mai.</translation>
+<translation id="2056123005618757196">Augmenta la teva productivitat amb un Cobalt senzill, segur i més ràpid que mai.</translation>
 <translation id="2120238739383482109">Obre les adreces d'interès de Chrome.</translation>
 <translation id="2147651015520127414">Chrome ha verificat que <ph name="ISSUER" /> ha emès el certificat d'aquest lloc web.</translation>
 <translation id="2155145621546387786">Comparteix Chrome</translation>
@@ -70,7 +70,7 @@ Aspectes que cal tenir en compte:
 <translation id="2561231791489583059">Utilitza Chrome com a navegador predeterminat per protegir-te de llocs web perillosos i mantenir les teves contrasenyes segures</translation>
 <translation id="2574249610672786438">Per veure les pestanyes des de tots els llocs on facis servir Chrome, inicia la sessió en tots els dispositius</translation>
 <translation id="2576431527583832481">Chrome ara és millor. Hi ha una versió nova disponible.</translation>
-<translation id="257708665678654955">La propera vegada, voleu que Google Chrome s'ofereixi per traduir les pàgines d'aquest lloc escrites en <ph name="LANGUAGE_NAME" />?</translation>
+<translation id="257708665678654955">La propera vegada, voleu que Cobalt s'ofereixi per traduir les pàgines d'aquest lloc escrites en <ph name="LANGUAGE_NAME" />?</translation>
 <translation id="2650286135394207535">Permet que Chrome t'ajudi a fer un seguiment dels teus paquets</translation>
 <translation id="2671426118752779020">Pots utilitzar les contrasenyes que has desat al gestor de contrasenyes de Google en altres aplicacions de l'iPhone.</translation>
 <translation id="2689064829982324496">Per tancar la sessió del teu Compte de Google en tots els llocs web, <ph name="BEGIN_LINK" />tanca la sessió de Chrome<ph name="END_LINK" />.</translation>
@@ -89,10 +89,10 @@ Aspectes que cal tenir en compte:
 <translation id="2988274366244053197">Les formes de pagament i les adreces de Google Pay no s'encriptaran. L'historial de navegació de Chrome no se sincronitzarà.
 
 Només les persones que sàpiguen la teva frase de contrasenya podran llegir les dades encriptades. La frase de contrasenya no s'envia a Google, i Google tampoc no l'emmagatzema. Si oblides la frase de contrasenya o vols canviar aquesta opció de configuració, <ph name="BEGIN_LINK" />esborra les dades de Chrome del compte<ph name="END_LINK" />.</translation>
-<translation id="3030414234702425231">Com que estàs tancant la sessió d'un compte gestionat per <ph name="SIGNOUT_MANAGED_DOMAIN" />, se suprimiran les teves dades de Chromium d'aquest dispositiu, però continuaran emmagatzemades al teu Compte de Google.</translation>
+<translation id="3030414234702425231">Com que estàs tancant la sessió d'un compte gestionat per <ph name="SIGNOUT_MANAGED_DOMAIN" />, se suprimiran les teves dades de Cobalt d'aquest dispositiu, però continuaran emmagatzemades al teu Compte de Google.</translation>
 <translation id="309672519329227863">Accedeix a les teves contrasenyes de Chrome i més elements en altres aplicacions.</translation>
 <translation id="3146109040683991651">Estableix Chrome com a navegador predeterminat</translation>
-<translation id="3167189358072330585">El vostre compte no funciona a Google Chrome. Contacteu amb l'administrador del domini o utilitzeu un compte de Google estàndard per iniciar la sessió.</translation>
+<translation id="3167189358072330585">El vostre compte no funciona a Cobalt. Contacteu amb l'administrador del domini o utilitzeu un compte de Google estàndard per iniciar la sessió.</translation>
 <translation id="3173834708294760622">Pàgina de Google Chrome</translation>
 <translation id="322254490661677575">Per utilitzar i desar les dades de Chrome al teu Compte de Google, introdueix la frase de contrasenya.</translation>
 <translation id="3282568296779691940">Inicia la sessió a Chrome</translation>
@@ -109,11 +109,11 @@ Només les persones que sàpiguen la teva frase de contrasenya podran llegir les
 <translation id="3646736009628185125">El membre de la teva família no pot rebre contrasenyes en aquest moment. Demana-li que actualitzi Chrome i que sincronitzi les seves contrasenyes. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Això vol dir que Chrome sol·licitarà el lloc web per a mòbils cada vegada.</translation>
 <translation id="3720541637541300822">Bloqueja les pestanyes d'incògnit després de tancar Chrome</translation>
-<translation id="3740397331642243698">Obre els URL introduïts en mode d'incògnit a Google Chrome.</translation>
+<translation id="3740397331642243698">Obre els URL introduïts en mode d'incògnit a Cobalt.</translation>
 <translation id="3741995255368156336">Obre la llista de lectura de Chrome.</translation>
 <translation id="3744018071945602754">Gestiona les contrasenyes a Chrome</translation>
 <translation id="3827545470516145620">Tindràs protecció de seguretat estàndard en aquest dispositiu</translation>
-<translation id="384394811301901750">Google Chrome no pot utilitzar la càmera en aquest moment</translation>
+<translation id="384394811301901750">Cobalt no pot utilitzar la càmera en aquest moment</translation>
 <translation id="3863841106411295595">Afegeix a la llista de lectura de Chrome els URL introduïts.</translation>
 <translation id="387280738075653372">Baixa Chrome aquí.</translation>
 <translation id="3901001113120561395">Treu el màxim profit de Chrome.</translation>
@@ -121,7 +121,7 @@ Només les persones que sàpiguen la teva frase de contrasenya podran llegir les
 <translation id="3967382818307165056">Gestiona les formes de pagament a Chrome</translation>
 <translation id="3980220367029651214">Esteu canviant del compte de sincronització <ph name="USER_EMAIL1" /> a <ph name="USER_EMAIL2" />. <ph name="DOMAIN" /> gestiona les vostres dades de Chrome actuals. Amb aquest canvi se suprimiran les vostres dades d'aquest dispositiu, però continuaran a <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">La teva organització requereix que mantinguis la sessió tancada a Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome no té accés als vostres vídeos o fotos. Permeteu-li l'accés a iOS, a Configuració &gt; Privadesa &gt; Fotos.</translation>
+<translation id="3988789688219830639">Cobalt no té accés als vostres vídeos o fotos. Permeteu-li l'accés a iOS, a Configuració &gt; Privadesa &gt; Fotos.</translation>
 <translation id="4064699917955374540">Per utilitzar i desar les dades de Chrome al teu Compte de Google, verifica la teva identitat.</translation>
 <translation id="4067858366537947361">Obre una pestanya d'incògnit a Chrome</translation>
 <translation id="4093042601582616698">Vols establir Chrome com a navegador predeterminat?</translation>
@@ -156,7 +156,7 @@ Només les persones que sàpiguen la teva frase de contrasenya podran llegir les
 <translation id="5190139289262548459">La teva organització, <ph name="DOMAIN" />, gestiona el compte en què tens la sessió iniciada i com s'utilitza Chrome.</translation>
 <translation id="5256908199795498284">Chrome detectarà els números de seguiment dels enviaments als llocs web que visitis i et mostrarà novetats sobre els paquets a la pàgina Pestanya nova. Les teves dades es compartiran amb Google per proporcionar aquesta funció i millorar Shopping per a tothom.</translation>
 <translation id="5278862365980079760">Bloqueja les pestanyes d'incògnit quan surtis de Chrome o quan canviïs d'aplicació.</translation>
-<translation id="5389212809648216794">Google Chrome no pot utilitzar la càmera perquè l'està utilitzant una altra aplicació</translation>
+<translation id="5389212809648216794">Cobalt no pot utilitzar la càmera perquè l'està utilitzant una altra aplicació</translation>
 <translation id="5395376160638294582">Assegura't de poder utilitzar sempre les dades de Chrome al teu Compte de Google</translation>
 <translation id="5439191312780166229">T'avisa de llocs web perillosos, fins i tot dels que Google no coneixia abans, ja que analitza més dades dels llocs web que la protecció estàndard. Pots optar per ometre els advertiments de Chrome.</translation>
 <translation id="5442013002200339429">Si amagues "<ph name="MODULE_NAME" />", Chrome deixarà de fer un seguiment automàtic dels paquets futurs i suprimirà totes les teves dades anteriors de seguiment d'enviaments.</translation>
@@ -168,8 +168,8 @@ Només les persones que sàpiguen la teva frase de contrasenya podran llegir les
 <translation id="5552137475244467770">Chrome contrasta periòdicament les teves contrasenyes amb les d'una sèrie de llistes publicades en línia. Quan ho fa, les teves contrasenyes i els teus noms d'usuari s'encripten i, per tant, ningú no els pot llegir (ni tan sols Google).</translation>
 <translation id="5554520618550346933">Quan utilitzes una contrasenya, Chrome t'avisa si s'ha publicat en línia. Quan ho fa, les teves contrasenyes i els teus noms d'usuari s'encripten i, per tant, ningú no els pot llegir (ni tan sols Google).</translation>
 <translation id="5601180634394228718">Per veure més opcions de configuració que utilitzin dades per millorar la teva experiència de Chrome, ves a <ph name="BEGIN_LINK" />Serveis de Google<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Obre Configuració &gt; Privacitat &gt; Càmera &gt; Google Chrome i activa la càmera.</translation>
-<translation id="5642200033778930880">Google Chrome no pot utilitzar la càmera en mode de visualització dividida</translation>
+<translation id="5639704535586432836">Obre Configuració &gt; Privacitat &gt; Càmera &gt; Cobalt i activa la càmera.</translation>
+<translation id="5642200033778930880">Cobalt no pot utilitzar la càmera en mode de visualització dividida</translation>
 <translation id="5661521615548540542">El gestor de contrasenyes de Google no ha pogut comprovar totes les contrasenyes. Torna-ho a provar més tard.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Es mostra 1 finestra de Chrome}other{Es mostren {count} finestres de Chrome}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -219,7 +219,7 @@ Per veure més opcions de configuració que utilitzin dades per millorar la teva
 <translation id="7059914902409643750">Personalitza Chrome</translation>
 <translation id="7124339256045485976">Mantén Chrome actualitzat</translation>
 <translation id="7161390184744336561">Google Chrome no està actualitzat</translation>
-<translation id="7165736900384873061">Comença a utilitzar l'escàner QR de Google Chrome</translation>
+<translation id="7165736900384873061">Comença a utilitzar l'escàner QR de Cobalt</translation>
 <translation id="7175129790242719365">Consell de Chrome: inicia la sessió a Chrome</translation>
 <translation id="7187993566681480880">Et protegeix a Chrome i és possible que s'utilitzi per millorar la teva seguretat en altres aplicacions de Google quan tinguis la sessió iniciada.</translation>
 <translation id="7200524487407690471">Chrome executa automàticament la funció Comprovació de seguretat cada dia per protegir-te de violacions de les dades, de llocs web no segurs i més. Pots obtenir més informació sobre Comprovació de seguretat a Configuració.</translation>
@@ -233,7 +233,7 @@ Per veure més opcions de configuració que utilitzin dades per millorar la teva
 <translation id="7304491752269485262">Visualització ampliada de la funció Emplenament automàtic de Chrome</translation>
 <translation id="7349129508108954623">Permet que Chrome utilitzi Google Maps per oferir-te indicacions i informació local sobre les adreces detectades.</translation>
 <translation id="7394108421562933108">Maps a Chrome</translation>
-<translation id="7400722733683201933">Sobre Google Chrome</translation>
+<translation id="7400722733683201933">Sobre Cobalt</translation>
 <translation id="7466693328838535498">Al quadre de widgets de la Cerca, escriu "Chrome"</translation>
 <translation id="746684838091935575">3. Selecciona Chrome.</translation>
 <translation id="7492574581995589075">La teva organització ha desactivat l'opció de fer servir i desar dades de Chrome al teu Compte de Google. Les adreces d'interès noves, les contrasenyes i altres dades només es desaran en aquest dispositiu.</translation>
@@ -249,7 +249,7 @@ Per veure més opcions de configuració que utilitzin dades per millorar la teva
 <translation id="7780154209050837198">Per treure el màxim profit de Chrome, inicia-hi la sessió amb el teu Compte de Google.</translation>
 <translation id="778855399387580014">Inicia una cerca en una pestanya nova de Chrome.</translation>
 <translation id="7792140019572081272">Chrome protegeix les teves dades sensibles amb Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome està actualitzat</translation>
+<translation id="7855730255114109580">Cobalt està actualitzat</translation>
 <translation id="7897703007638178753">Mostra les pestanyes recents de Chrome</translation>
 <translation id="7925119591961387184">Selecciona Chrome.</translation>
 <translation id="7933491483529363150">Obre la meva darrera pestanya a Chrome.</translation>
@@ -286,7 +286,7 @@ Les dades s'han encriptat amb la teva frase de contrasenya el dia <ph name="TIME
 <translation id="8587647598504233556">Toca Chrome i, a continuació, Aplicació de navegació predeterminada.</translation>
 <translation id="8603022514504485810">El gestor de contrasenyes de Google no ha pogut comprovar totes les contrasenyes. Torna-ho a provar demà o <ph name="BEGIN_LINK" />comprova les contrasenyes desades al teu Compte de Google<ph name="END_LINK" />.</translation>
 <translation id="8727043961453758442">Aprofita Chrome al màxim</translation>
-<translation id="8736550665979974340">Protegeix-te amb Google Chrome</translation>
+<translation id="8736550665979974340">Protegeix-te amb Cobalt</translation>
 <translation id="8760668027640688122">Obre una pestanya nova a Chrome</translation>
 <translation id="8765470054473112089">Quan escrius a la barra d'adreces o al quadre de cerca, Chrome envia el que escrius al teu motor de cerca predeterminat per obtenir millors suggeriments. Aquesta opció està desactivada en el mode d'incògnit.</translation>
 <translation id="8772179140489533211">Mostra sol·licituds per iniciar la sessió a Chrome.</translation>

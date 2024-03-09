@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">Мәліметтер: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Бұл сайттарды аударуды ұсынбау</translation>
 <translation id="1145536944570833626">Бар деректерді жойыңыз.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> қолданбасы Chrome браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1" />Google Қызмет көрсету шарттарына<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Chrome және ChromeOS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2" /> келісесіз.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> қолданбасы Chrome браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1" />Google Қызмет көрсету шарттарына<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Cobalt және ChromeOS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2" /> келісесіз.</translation>
 <translation id="115483310321669804"><ph name="PASSWORD" /> құпия сөзін пайдалану</translation>
 <translation id="1173894706177603556">Атын өзгерту</translation>
 <translation id="1174479719160874822">Экран тар болған кезде, Chrome мобильдік сайтты сұрайды</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Бетбелгілерді сақтау ағыны толық ашылған.</translation>
 <translation id="1327257854815634930">Навигация тарихы ашылды.</translation>
 <translation id="1331212799747679585">Chrome браузерін жаңарту мүмкін емес. Басқа опциялар</translation>
-<translation id="1332501820983677155">Google Chrome функциясының пернелер тіркесімі</translation>
+<translation id="1332501820983677155">Cobalt функциясының пернелер тіркесімі</translation>
 <translation id="1344653310988386453">Ерекшеленген мәтінге сілтеме қосыңыз.</translation>
 <translation id="1347468774581902829">Әрекетті басқару</translation>
 <translation id="1360432990279830238">Шығып, синхрондауды өшіру керек пе?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Chrome браузеріндегі қызығушылықтарыңызға сай мақалалар</translation>
 <translation id="3066573403916685335">Төмен жылжыту</translation>
 <translation id="3070005020161560471">Автоматты түрде аударылатындар</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> қолданбасы Chrome браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1" />Google Қызмет көрсету шарттарына<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Chrome және ChromeOS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2" /> келісесіз. <ph name="BEGIN_LINK3" />Құпиялық саясаты<ph name="END_LINK3" /> да қолданылады.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> қолданбасы Chrome браузерінде ашылады. Жалғастыру арқылы <ph name="BEGIN_LINK1" />Google Қызмет көрсету шарттарына<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Cobalt және ChromeOS Қосымша қызмет көрсету шарттарына<ph name="END_LINK2" /> келісесіз. <ph name="BEGIN_LINK3" />Құпиялық саясаты<ph name="END_LINK3" /> да қолданылады.</translation>
 <translation id="3080525922482950719">Беттерді сақтап, оларды кейінірек не офлайн режимде оқи аласыз.</translation>
 <translation id="3091010850649238832">Буфердің мазмұнын көрсету</translation>
 <translation id="3098745985164956033">Сипаттамаларды жақсарту үшін Google-ға біраз суреттер жіберіледі.</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">Google аккаунтына кірген кезде, <ph name="BEGIN_LINK1" />Іздеу тарихы<ph name="END_LINK1" /> мен <ph name="BEGIN_LINK2" />басқа әрекет түрлері<ph name="END_LINK2" /> оған сақталуы мүмкін. Оларды кез келген уақытта жоя аласыз.</translation>
 <translation id="3220943972464248773">Құпия сөздеріңізді синхрондау үшін жеке басыңызды растаңыз.</translation>
 <translation id="3226612997184048185">Бетбелгілерді Google аккаунтыңызда да сақтасаңыз, Chrome-да өнім бағаларын бақылап, баға төмендеген кезде, хабарландыру аласыз.</translation>
-<translation id="3227557059438308877">Google Chrome браузерін қауіпсіздік кілті ретінде пайдалану</translation>
+<translation id="3227557059438308877">Cobalt браузерін қауіпсіздік кілті ретінде пайдалану</translation>
 <translation id="3232754137068452469">Веб-қолданба</translation>
 <translation id="3236059992281584593">1 мин қалды</translation>
 <translation id="3237087289225714896">Стандартты алдын ала жүктеу:</translation>
@@ -1622,7 +1622,7 @@ Google аккаунтының шолу тарихы басқа Google қызме
 <translation id="9219103736887031265">Кескіндер</translation>
 <translation id="92381315203627188">Сайт беттегі сілтемелерді құпия түрде алдын ала жүктеуді сұрағанда, Chrome беттерді шифрлап, оларды Google серверлері арқылы cookie файлдарынсыз алдын ала жүктейді. Осылайша сіздің жеке деректеріңіз алдын ала жүктелетін сайттан жасырылады.</translation>
 <translation id="926205370408745186">Digital Wellbeing функциясынан Chrome браузерін пайдалану деректерін өшіру</translation>
-<translation id="927968626442779827">Google Chrome браузерінде Lite режимін пайдаланыңыз.</translation>
+<translation id="927968626442779827">Cobalt браузерінде Lite режимін пайдаланыңыз.</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> сайтына жазылғансыз.</translation>
 <translation id="93533588269984624">Барлық құпия сөз құрылғыңызға жүктеп алынады және <ph name="CHROME_CHANNEL" /> браузерінен өшіріледі</translation>
 <translation id="938850635132480979">Қате: <ph name="ERROR_CODE" /></translation>

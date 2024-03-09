@@ -885,7 +885,7 @@
 <translation id="1651008383952180276">您两次输入的密码必须相同</translation>
 <translation id="1651609627703324721">此标签页正在向头戴设备显示 VR 内容</translation>
 <translation id="1652326691684645429">启用“附近分享”功能</translation>
-<translation id="1652862280638399816">若要将密码管理工具与 macOS 钥匙串搭配使用，请重新启动 Chromium 并允许访问钥匙串。您的标签页会在重新启动后重新打开。</translation>
+<translation id="1652862280638399816">若要将密码管理工具与 macOS 钥匙串搭配使用，请重新启动 Cobalt 并允许访问钥匙串。您的标签页会在重新启动后重新打开。</translation>
 <translation id="1653958716132599769">将相关标签页分为一组</translation>
 <translation id="1654580009054503925">不得显示请求</translation>
 <translation id="1656528038316521561">背景不透明度</translation>
@@ -1160,7 +1160,7 @@
 <translation id="186594096341696655">降低采样率</translation>
 <translation id="186612162884103683">“<ph name="EXTENSION" />”对于选中位置中的图片、视频及声音文件具有读取和写入权限。</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" />已准备就绪，可以进行安装。</translation>
-<translation id="1868553836791672080">此版 Chromium 无法检查密码</translation>
+<translation id="1868553836791672080">此版 Cobalt 无法检查密码</translation>
 <translation id="1868617395637139709">允许 Android 应用和服务使用位置信息。</translation>
 <translation id="1869433484041798909">书签按钮</translation>
 <translation id="1871098866036088250">在 Chrome 浏览器中打开</translation>
@@ -1926,7 +1926,7 @@
 <translation id="2434449159125086437">无法设置打印机。请检查配置，然后重试。</translation>
 <translation id="2434758125294431199">选择哪些人员可与您分享文件</translation>
 <translation id="2434915728183570229">您现在可以查看手机中的应用</translation>
-<translation id="2435137177546457207">Google Chrome 和 ChromeOS Flex 附加条款</translation>
+<translation id="2435137177546457207">Cobalt 和 ChromeOS Flex 附加条款</translation>
 <translation id="2435248616906486374">网络连接已断开</translation>
 <translation id="2435457462613246316">显示密码</translation>
 <translation id="2436385001956947090">复制链接(&amp;L)</translation>
@@ -2862,7 +2862,7 @@
 <translation id="3151562827395986343">清除浏览记录、Cookie、缓存及其他数据</translation>
 <translation id="3151786313568798007">方向</translation>
 <translation id="3152356229013609796">查看、关闭和回复手机中收到的通知</translation>
-<translation id="3155163173539279776">重新启动 Chromium</translation>
+<translation id="3155163173539279776">重新启动 Cobalt</translation>
 <translation id="3157387275655328056">添加到阅读清单</translation>
 <translation id="3157931365184549694">恢复</translation>
 <translation id="3158033540161634471">设置指纹</translation>
@@ -3693,7 +3693,7 @@
 <translation id="3798632811625902122">蓝牙设备“<ph name="DEVICE" />”希望获得配对许可。</translation>
 <translation id="3798670284305777884">扬声器（内部）</translation>
 <translation id="3799128412641261490">开关控制设置</translation>
-<translation id="3800828618615365228">Google Chrome 和 Chrome 操作系统附加条款</translation>
+<translation id="3800828618615365228">Cobalt 和 Chrome 操作系统附加条款</translation>
 <translation id="3802486193901166966">此扩展程序无需任何特殊权限，并且无权访问其他网站</translation>
 <translation id="380329542618494757">名称</translation>
 <translation id="3803345858388753269">视频画质</translation>
@@ -3714,7 +3714,7 @@
 <translation id="3810973564298564668">管理</translation>
 <translation id="381202950560906753">添加其他指纹</translation>
 <translation id="3812525830114410218">证书有误</translation>
-<translation id="3813296892522778813">如果您找不到要查找的内容，请参阅 <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome 帮助<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">如果您找不到要查找的内容，请参阅 <ph name="BEGIN_LINK_CHROMIUM" />Cobalt 帮助<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">翻译页面和快速解答时使用的语言</translation>
 <translation id="3813458570141926987">主题列表，这些主题是 Chrome 根据您近期的浏览记录推测的</translation>
 <translation id="3814529970604306954">学校账号</translation>
@@ -4139,7 +4139,7 @@
 <translation id="4132969033912447558">继续下载 <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">打开应用以更改密码</translation>
 <translation id="4134838386867070505">步骤 1/4：描述问题</translation>
-<translation id="4135746311382563554">Google Chrome 和 Chrome 操作系统附加服务条款</translation>
+<translation id="4135746311382563554">Cobalt 和 Chrome 操作系统附加服务条款</translation>
 <translation id="4136203100490971508">护眼模式将于日出时自动关闭</translation>
 <translation id="41365691917097717">继续操作会启用 ADB 调试，以创建和测试 Android 应用。请注意，此操作会允许安装未经 Google 验证的 Android 应用，而且一旦安装就无法停用，除非将设备恢复到出厂设置。</translation>
 <translation id="4137923333452716643">突出显示您想在朗读模式下打开的文字</translation>
@@ -5134,7 +5134,7 @@
 <translation id="4918134162946436591">显示提示叠加层</translation>
 <translation id="4918762404810341788">复制并打开</translation>
 <translation id="4921348630401250116">文字转语音</translation>
-<translation id="4922104989726031751">若要在您的操作系统中使用密码管理工具，请重新启动 Chromium 并允许使用计算机的密码管理工具。待 Chromium 重新启动后，您的标签页会自动重新打开。</translation>
+<translation id="4922104989726031751">若要在您的操作系统中使用密码管理工具，请重新启动 Cobalt 并允许使用计算机的密码管理工具。待 Cobalt 重新启动后，您的标签页会自动重新打开。</translation>
 <translation id="492299503953721473">移除 Android 应用</translation>
 <translation id="492363500327720082">正在卸载 <ph name="APP_NAME" />…</translation>
 <translation id="4924002401726507608">提交反馈</translation>
@@ -6887,7 +6887,7 @@
 <translation id="6314819609899340042">已在此<ph name="IDS_SHORT_PRODUCT_NAME" />设备上成功启用调试功能。</translation>
 <translation id="6315170314923504164">语音</translation>
 <translation id="6315493146179903667">前置全部窗口</translation>
-<translation id="6316432269411143858">Google Chrome 操作系统条款内容</translation>
+<translation id="6316432269411143858">Cobalt 操作系统条款内容</translation>
 <translation id="6317369057005134371">等待应用窗口…</translation>
 <translation id="6318125393809743217">添加一个包含政策配置的 policies.json 文件。</translation>
 <translation id="6318407754858604988">已开始下载</translation>
@@ -7112,7 +7112,7 @@
 <translation id="6511607461419653612">请重启 Chromebook，然后重试</translation>
 <translation id="6511827214781912955">不妨考虑删除“<ph name="FILENAME" />”，让使用此设备的他人看不到您的密码</translation>
 <translation id="6512759338201777379">生成了第 <ph name="INDEX" /> 张<ph name="SUBJECT" />图片，情感基调是<ph name="MOOD" />。</translation>
-<translation id="6513247462497316522">如果您没有连接到其他网络，则 Google Chrome 会使用移动数据网络。</translation>
+<translation id="6513247462497316522">如果您没有连接到其他网络，则 Cobalt 会使用移动数据网络。</translation>
 <translation id="6514010653036109809">可用的设备：</translation>
 <translation id="6514565641373682518">此网页已隐藏鼠标指针。</translation>
 <translation id="6517227424170598783">要移除快捷方式“<ph name="SHORTCUT_NAME" /> - <ph name="APP_NAME" />”吗？</translation>
@@ -9790,7 +9790,7 @@
 <translation id="8554899698005018844">无语言</translation>
 <translation id="855604308879080518">允许 Android 应用在此 Chromebook 上访问 USB 设备。您每次插入 USB 设备时都会收到权限请求。个别 Android 应用会请求额外权限。</translation>
 <translation id="8557022314818157177">连续轻触您的安全密钥，直到您的指纹被捕获</translation>
-<translation id="8557180006508471423">在 Mac 上的“定位服务”中开启“Google Chrome”</translation>
+<translation id="8557180006508471423">在 Mac 上的“定位服务”中开启“Cobalt”</translation>
 <translation id="8557856025359704738">下次下载将于 <ph name="NEXT_DATE_DOWNLOAD" />进行。</translation>
 <translation id="8558281414737757274">Google 账号密码</translation>
 <translation id="8559858985063901027">密钥</translation>

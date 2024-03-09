@@ -169,7 +169,7 @@ Povolenia, ktoré ste už udelili webom a aplikáciám, sa môžu vzťahovať n
 <translation id="3941890832296813527">Chyba inštalácie: názov súboru inštalátora je neplatný alebo nie je podporovaný.</translation>
 <translation id="3945058413678539331">Cobalt sa pokúša kopírovať heslá. Ak to chcete povoliť, zadajte heslo systému Windows.</translation>
 <translation id="3962647064319009959">Ako vás Cobalt chráni</translation>
-<translation id="3975724895399328945">Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Cobalt for Testing</translation>
 <translation id="3997429360543082038">Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS mohol vzniknúť vďaka ďalšiemu <ph name="BEGIN_LINK_CROS_OSS" />softvéru typu open source<ph name="END_LINK_CROS_OSS" />, ako je <ph name="BEGIN_LINK_LINUX_OSS" />vývojové prostredie systému Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Nahláste <ph name="BEGIN_LINK" />aktuálne nastavenia<ph name="END_LINK" /> a pomôžte tak zlepšiť prehliadač Cobalt</translation>
@@ -405,7 +405,7 @@ Prehliadač Cobalt nedokáže obnoviť vaše nastavenia.</translation>
 <translation id="8013436988911883588">Keď Cobalt získa prístup, weby vás budú môcť žiadať o prístup.</translation>
 <translation id="80471789339884597">Ďakujeme za inštaláciu. Než začnete aplikáciu <ph name="BUNDLE_NAME" /> používať, musíte reštartovať všetky svoje prehliadače.</translation>
 <translation id="8086881907087796310">Nepodarilo sa nainštalovať, pretože váš počítač nespĺňa minimálne požiadavky na hardvér.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt vyžaduje pre tento web povolený prístup k polohe</translation>
 <translation id="8133124826068723441">Systému Cobalt OS sa nepodarilo synchronizovať vaše údaje, pretože možnosť synchronizácie nie je pre vašu doménu k dispozícii.</translation>
 <translation id="813913629614996137">Prebieha inicializácia...</translation>
@@ -438,7 +438,7 @@ Prehliadač Cobalt nedokáže obnoviť vaše nastavenia.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Ako používame tieto údaje:<ph name="END_BOLD" /> weby môžu v prehliadači Cobalt ukladať údaje o vašich záujmoch. Ak napríklad navštívite web na nákup obuvi na maratón, daný web môže definovať váš záujem ako behanie maratónov. Ak neskôr navštívite iný, aby ste sa zaregistrovali na preteky, tento web vám môže zobraziť reklamu na bežeckú obuv na základe vašich záujmov.</translation>
 <translation id="8619360774459241877">Spúšťa sa Cobalt…</translation>
 <translation id="8621669128220841554">Inštalácia zlyhala kvôli neznámej chybe. Skúste prehliadač Cobalt stiahnuť znova.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing nemôžete nastaviť ako svoj predvolený prehliadač.</translation>
+<translation id="8648201657708811153">Cobalt for Testing nemôžete nastaviť ako svoj predvolený prehliadač.</translation>
 <translation id="8697124171261953979">Tiež určuje, ktorá stránka sa zobrazí pri spustení prehliadača Cobalt alebo pri vyhľadávaní pomocou všeobecného poľa.</translation>
 <translation id="8704119203788522458">Toto je váš prehliadač Cobalt</translation>
 <translation id="8719993436687031146">Chcete sa prihlásiť do prehliadača Cobalt?</translation>

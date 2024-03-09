@@ -40,7 +40,7 @@
 <translation id="1657395063736185342">在 Chrome 中搜尋影像內容</translation>
 <translation id="1675955119303651351">部分 Chrome 資料尚未儲存至 Google 帳戶。
         請等待幾分鐘後再嘗試登出。如果你現在登出，系統將刪除此資料。</translation>
-<translation id="1682483655351012182">同步處理 Chromium 資料</translation>
+<translation id="1682483655351012182">同步處理 Cobalt 資料</translation>
 <translation id="1759842336958782510">Chrome</translation>
 <translation id="1790080846677398234">將輸入的網址新增至 Chrome 書籤。</translation>
 <translation id="1799920918471566157">Chrome 提示</translation>
@@ -207,11 +207,11 @@
 <translation id="6815466750807582739">系統將不會加密你的付款方法和地址，Chrome 上的瀏覽記錄將不會同步。
 
 只有知道密碼短語的使用者，才能讀取已加密的資料。系統不會將密碼短語傳送給 Google，Google 亦不會儲存密碼短語。如果忘記密碼短語或想變更此設定，請<ph name="BEGIN_LINK" />清除帳戶中的 Chrome 資料<ph name="END_LINK" />。</translation>
-<translation id="6851982868877411675">在 iOS 中開啟 Chromium 設定，輕按 [預設瀏覽器應用程式]，然後選取 [Chrome]。</translation>
+<translation id="6851982868877411675">在 iOS 中開啟 Cobalt 設定，輕按 [預設瀏覽器應用程式]，然後選取 [Chrome]。</translation>
 <translation id="686691656039982452">你可前往 Google 帳戶<ph name="BEGIN_LINK" />管理要儲存哪些 Chrome 資料<ph name="END_LINK" />。
 
 如需其他會運用資料提升 Chrome 體驗的設定，請前往 <ph name="BEGIN_LINK" />Google 服務<ph name="END_LINK" />。</translation>
-<translation id="6916015246697034114">在 Chromium 中使用語音搜尋</translation>
+<translation id="6916015246697034114">在 Cobalt 中使用語音搜尋</translation>
 <translation id="6964931465519938134">您現在只要在訊息、文件或其他應用程式中輕按連結，即可使用 Chrome。</translation>
 <translation id="6975725306479268850">選擇使用 Chrome 的自動填入功能</translation>
 <translation id="7004159181872656283">在 Chrome 中搜尋影像內容。</translation>
@@ -310,7 +310,7 @@
 注意事項：
 <ph name="BEGIN_INDENT" />  • 系統會將 Chrome 使用情況傳送給 Google，但不會與您有任何關聯。
 
-  • Chromium 當機時，有關當機詳情可能會包括部分個人資料。
+  • Cobalt 當機時，有關當機詳情可能會包括部分個人資料。
 
   • 開啟同步處理功能後，數據可能亦會包括先前瀏覽網址的資料。<ph name="END_INDENT" /></translation>
 <translation id="9043368763795653245">如要個人化「探索」動態消息和 Chrome，請開啟同步功能。</translation>

@@ -165,7 +165,7 @@ Web sitelerine ve uygulamalara verdiğiniz izinler, bu hesap için geçerli olab
 <translation id="3941890832296813527">Yükleme hatası: Yükleyici dosya adı geçersiz veya desteklenmiyor.</translation>
 <translation id="3945058413678539331">Cobalt şifreleri kopyalamaya çalışıyor. Buna izin vermek için Windows şifrenizi yazın.</translation>
 <translation id="3962647064319009959">Cobalt'un güvenliğinizi nasıl sağladığını öğrenin</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing hakkında</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing hakkında</translation>
 <translation id="3997429360543082038">ChromiumOS hakkında</translation>
 <translation id="4019629340646866719">ChromiumOS, <ph name="BEGIN_LINK_LINUX_OSS" />Linux geliştirme ortamında<ph name="END_LINK_LINUX_OSS" /> olduğu gibi ek <ph name="BEGIN_LINK_CROS_OSS" />açık kaynak yazılımlardan<ph name="END_LINK_CROS_OSS" /> yararlanılarak geliştirilmiştir.</translation>
 <translation id="4036079820698952681"><ph name="BEGIN_LINK" />Mevcut ayarlarınızı<ph name="END_LINK" /> bildirerek Cobalt'u daha iyi hale getirmemize yardımcı olun</translation>
@@ -400,7 +400,7 @@ Cobalt ayarlarınızı kurtaramıyor.</translation>
 <translation id="8013436988911883588">Cobalt erişim izni aldıktan sonra, web siteleri de erişim için sizden izin isteyebilecek.</translation>
 <translation id="80471789339884597">Yüklediğiniz için teşekkür ederiz. <ph name="BUNDLE_NAME" /> uygulamasını kullanmadan önce tüm tarayıcılarınızı yeniden başlatmanız gerekir.</translation>
 <translation id="8086881907087796310">Bilgisayarınız minimum donanım gereksinimlerini karşılamadığından yükleme işlemi başarısız oldu.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Bu site için Cobalt'un konum iznine ihtiyacı var</translation>
 <translation id="8133124826068723441">Senkronizasyon alan adınızda kullanılamadığından ChromiumOS, verilerinizi senkronize edemedi.</translation>
 <translation id="813913629614996137">İlk kullanıma hazırlanıyor...</translation>
@@ -433,7 +433,7 @@ Cobalt ayarlarınızı kurtaramıyor.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Bu verileri kullanma şeklimiz:<ph name="END_BOLD" /> Siteler, ilgi alanlarınız hakkındaki bilgileri Cobalt'da saklayabilir. Örneğin, maraton ayakkabısı satın almak için ziyaret ettiğiniz bir site, maraton koşmayı ilgi alanınız olarak tanımlayabilir. Daha sonra bir yarışa kaydolmak için farklı bir siteyi ziyaret ettiğinizde o site ilgi alanlarınıza dayalı olarak size koşu ayakkabısı reklamı gösterebilir.</translation>
 <translation id="8619360774459241877">Cobalt başlatılıyor...</translation>
 <translation id="8621669128220841554">Yükleme belirtilmeyen bir hata nedeniyle başarısız oldu. Lütfen Cobalt'u tekrar indirin.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing varsayılan tarayıcınız olarak ayarlanamaz.</translation>
+<translation id="8648201657708811153">Cobalt for Testing varsayılan tarayıcınız olarak ayarlanamaz.</translation>
 <translation id="8697124171261953979">Ayrıca Cobalt'u başlattığınızda veya Çok Amaçlı Adres Çubuğu'ndan arama yaptığınızda gösterilecek sayfayı da denetler.</translation>
 <translation id="8704119203788522458">Bu sizin Cobalt'unuz</translation>
 <translation id="8719993436687031146">Cobalt'da oturum açmak istiyor musunuz?</translation>

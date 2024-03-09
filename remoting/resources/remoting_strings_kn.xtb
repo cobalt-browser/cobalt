@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">ಹೋಸ್ಟ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ</translation>
 <translation id="7714222945760997814">ಇದನ್ನು ವರದಿ ಮಾಡಿ</translation>
 <translation id="7868137160098754906">ದಯವಿಟ್ಟು ರಿಮೋಟ್ ಕಂಪ್ಯೂಟರ್‌ಗಾಗಿ ನಿಮ್ಮ PIN ನಮೂದಿಸಿ.</translation>
-<translation id="7881455334687220899">ಹಕ್ಕುಸ್ವಾಮ್ಯ 2024 Chromium ಲೇಖಕರು. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</translation>
+<translation id="7881455334687220899">ಹಕ್ಕುಸ್ವಾಮ್ಯ 2024 Cobalt ಲೇಖಕರು. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.</translation>
 <translation id="7895403300744144251">ನಿಮ್ಮ ಖಾತೆಯಿಂದ ಸಂಪರ್ಕಗಳನ್ನು ರಿಮೋಟ್ ಕಂಪ್ಯೂಟರ್‌ಗಳಲ್ಲಿನ ಭದ್ರತಾ ನೀತಿಗಳು ಅನುಮತಿಸುವುದಿಲ್ಲ.</translation>
 <translation id="7936528439960309876">ಬಲಕ್ಕೆ ಡಾಕ್ ಮಾಡಿ</translation>
-<translation id="7970576581263377361">ದೃಢೀಕರಣ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು Chromium ಗೆ ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
+<translation id="7970576581263377361">ದೃಢೀಕರಣ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು Cobalt ಗೆ ಮತ್ತೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
 <translation id="7981525049612125370">ರಿಮೋಟ್ ಸೆಶನ್ ಅವಧಿ ಮೀರಿದೆ.</translation>
 <translation id="8038111231936746805">(ಡಿಫಾಲ್ಟ್)</translation>
 <translation id="8041089156583427627">ಪ್ರತಿಕ್ರಿಯೆ ಕಳುಹಿಸಿ</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> ಗೆ 'ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್' ಅನುಮತಿಯನ್ನು ನೀಡಿ</translation>
 <translation id="9213184081240281106">ಅಮಾನ್ಯ ಹೋಸ್ಟ್ ಕಾನ್ಫಿಗರೇಶನ್.</translation>
 <translation id="981121421437150478">ಆಫ್‌ಲೈನ್</translation>
-<translation id="985602178874221306">Chromium ಲೇಖಕರು</translation>
+<translation id="985602178874221306">Cobalt ಲೇಖಕರು</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ಕೊನೆಯ ಬಾರಿಯ ಆನ್‌‌ಲೈನ್ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

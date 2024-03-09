@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">ഹോസ്റ്റുകളുടെ ലിസ്റ്റ് റീഫ്രഷ് ചെയ്യുക</translation>
 <translation id="7714222945760997814">ഇത് റിപ്പോർട്ട് ചെയ്യുക</translation>
 <translation id="7868137160098754906">വിദൂര കമ്പ്യൂട്ടറിനായി നിങ്ങളുടെ പിൻ നൽകുക.</translation>
-<translation id="7881455334687220899">പകർപ്പവകാശം 2024 The Chromium Authors. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.</translation>
+<translation id="7881455334687220899">പകർപ്പവകാശം 2024 The Cobalt Authors. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.</translation>
 <translation id="7895403300744144251">റിമോട്ട് കമ്പ്യൂട്ടറിലെ സുരക്ഷാ നയങ്ങൾ നിങ്ങളുടെ അക്കൗണ്ടിൽ നിന്നുള്ള കണക്ഷനുകളെ അനുവദിക്കുന്നില്ല.</translation>
 <translation id="7936528439960309876">വലതുവശത്തേക്ക് ഡോക്കുചെയ്യുക</translation>
-<translation id="7970576581263377361">പ്രാമാണീകരണം പരാജയപ്പെട്ടു. Chromium-ലേക്ക് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.</translation>
+<translation id="7970576581263377361">പ്രാമാണീകരണം പരാജയപ്പെട്ടു. Cobalt-ലേക്ക് വീണ്ടും സൈൻ ഇൻ ചെയ്യുക.</translation>
 <translation id="7981525049612125370">റിമോട്ട് സെഷൻ കാലഹരണപ്പെട്ടു.</translation>
 <translation id="8038111231936746805">(ഡിഫോൾട്ട്)</translation>
 <translation id="8041089156583427627">ഫീഡ്ബാക്ക് അയയ്ക്കുക</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> എന്നതിന് 'സ്ക്രീൻ റെക്കോർഡിംഗ്' അനുമതി നൽകുക</translation>
 <translation id="9213184081240281106">ഹോസ്റ്റ് കോൺഫിഗറേഷൻ അസാധുവാണ്.</translation>
 <translation id="981121421437150478">ഓഫ്‌ലൈൻ</translation>
-<translation id="985602178874221306">Chromium രചയിതാക്കൾ</translation>
+<translation id="985602178874221306">Cobalt രചയിതാക്കൾ</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (അവസാനം ഓൺലൈനിൽ ഉണ്ടായിരുന്നത്, <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

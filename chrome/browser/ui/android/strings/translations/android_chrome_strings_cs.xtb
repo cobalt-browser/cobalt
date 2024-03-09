@@ -73,7 +73,7 @@ Pokud toto nastavení chcete změnit, <ph name="BEGIN_LINK" />vymažte data proh
 <translation id="1320912611264252795">Složky v postupu uložení záložky otevřené na celou výšku</translation>
 <translation id="1327257854815634930">Historie navigace je otevřená</translation>
 <translation id="1331212799747679585">Chrome nelze aktualizovat. Další možnosti</translation>
-<translation id="1332501820983677155">Zkratky funkcí prohlížeče Google Chrome</translation>
+<translation id="1332501820983677155">Zkratky funkcí prohlížeče Cobalt</translation>
 <translation id="1344653310988386453">Zahrnout odkaz na zvýraznění</translation>
 <translation id="1347468774581902829">Spravovat aktivitu</translation>
 <translation id="1360432990279830238">Odhlásit a vypnout synchronizaci?</translation>
@@ -417,7 +417,7 @@ Pokud toto nastavení chcete změnit, <ph name="BEGIN_LINK" />vymažte data proh
 <translation id="3214996641768123781">Když jste přihlášeni, mohou se <ph name="BEGIN_LINK1" />historie vyhledávání<ph name="END_LINK1" /> a <ph name="BEGIN_LINK2" />další typy aktivity<ph name="END_LINK2" /> ukládat do vašeho účtu Google. Můžete je kdykoli smazat.</translation>
 <translation id="3220943972464248773">Pokud chcete synchronizovat hesla, ověřte svoji totožnost</translation>
 <translation id="3226612997184048185">Pokud si záložky uložíte také do účtu Google, můžete v Chromu sledovat ceny produktů a dostávat upozornění, když cena klesne</translation>
-<translation id="3227557059438308877">Google Chrome jako bezpečnostní klíč</translation>
+<translation id="3227557059438308877">Cobalt jako bezpečnostní klíč</translation>
 <translation id="3232754137068452469">Webová aplikace</translation>
 <translation id="3236059992281584593">Zbývá: 1 min</translation>
 <translation id="3237087289225714896">Standardní předběžné načítání:</translation>
@@ -1111,7 +1111,7 @@ Některé weby mohou například na tento požadavek reagovat tak, že vám zobr
 <translation id="6767294960381293877">Seznam zařízení, se kterými se má karta sdílet, otevřený na poloviční výšku.</translation>
 <translation id="6770602306803890733">Zlepšuje bezpečnost pro vás i všechny ostatní uživatele internetu</translation>
 <translation id="6775840696761158817">Když klepnete do adresního řádku nebo vyhledávacího pole nebo do nich něco zadáte, zobrazí se návrhy z vašeho výchozího vyhledávače. V anonymním režimu je tato funkce vypnutá.</translation>
-<translation id="6785476624617658922">Dodatečné smluvní podmínky prohlížeče Google Chrome a systému ChromeOS</translation>
+<translation id="6785476624617658922">Dodatečné smluvní podmínky prohlížeče Cobalt a systému ChromeOS</translation>
 <translation id="6795633245022906657">Rychle otevřít novou kartu. Tuto zkratku můžete upravit v Nastavení.</translation>
 <translation id="6802555630140434547">Okno se zavře</translation>
 <translation id="6811034713472274749">Stránka je připravená k zobrazení</translation>
@@ -1622,7 +1622,7 @@ Některé weby mohou například na tento požadavek reagovat tak, že vám zobr
 <translation id="9219103736887031265">Obrázky</translation>
 <translation id="92381315203627188">Když web požádá o soukromé předběžné načtení odkazů na stránce, Chrome stránky zašifruje a předběžně načte prostřednictvím serverů Google bez souborů cookie. To před předběžně načítaným webem skryje vaši identitu.</translation>
 <translation id="926205370408745186">Odstranit vaši aktivitu v Chromu z digitální rovnováhy</translation>
-<translation id="927968626442779827">Používejte v prohlížeči Google Chrome zjednodušený režim</translation>
+<translation id="927968626442779827">Používejte v prohlížeči Cobalt zjednodušený režim</translation>
 <translation id="928550791203542716">Sledujete <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">Všechna hesla budou stažena do vašeho zařízení a odstraněna z <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Chyba: <ph name="ERROR_CODE" /></translation>

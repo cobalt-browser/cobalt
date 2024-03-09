@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Wrthi'n paratoi ffeiliau</translation>
 <translation id="1015730422737071372">Rhowch ragor o fanylion</translation>
 <translation id="1019413721762100891">Diffodd</translation>
-<translation id="1021753677514347426">Mae'r broblem hon yn digwydd oherwydd tystysgrif rydych chi neu rywun arall wedi'i gosod ar eich dyfais. Mae'n hysbys bod y dystysgrif yn cael ei defnyddio i fonitro a rhyng-gipio rhwydweithiau, ac nid yw Chromium yn ymddiried ynddi. Er bod rhai achosion dilys yn bodoli ar gyfer monitro, fel ar rwydwaith ysgol neu gwmni, mae Chromium am sicrhau eich bod yn ymwybodol ei fod yn digwydd, hyd yn oed os na allwch ei atal. Gallai monitro ddigwydd mewn unrhyw borwr neu raglen sy'n defnyddio'r we.</translation>
+<translation id="1021753677514347426">Mae'r broblem hon yn digwydd oherwydd tystysgrif rydych chi neu rywun arall wedi'i gosod ar eich dyfais. Mae'n hysbys bod y dystysgrif yn cael ei defnyddio i fonitro a rhyng-gipio rhwydweithiau, ac nid yw Cobalt yn ymddiried ynddi. Er bod rhai achosion dilys yn bodoli ar gyfer monitro, fel ar rwydwaith ysgol neu gwmni, mae Cobalt am sicrhau eich bod yn ymwybodol ei fod yn digwydd, hyd yn oed os na allwch ei atal. Gallai monitro ddigwydd mewn unrhyw borwr neu raglen sy'n defnyddio'r we.</translation>
 <translation id="1024111578869940408">Mae ymosodwyr yn dynwared gwefannau weithiau, gan wneud newidiadau sy'n anodd eu gweld yn y cyfeiriad gwe.</translation>
 <translation id="1024913885641459127">Adolygiadau Cynnyrch a Chymhariaethau Prisiau</translation>
 <translation id="1028781062521375153">Gweld y manylion</translation>
@@ -317,7 +317,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="1567040042588613346">Mae'r polisi hwn yn gweithio yn ôl y bwriad ond gosodir yr un gwerth mewn man arall ac mae'n cael ei ddisodli gan y polisi hwn.</translation>
 <translation id="1567405528131216114">Ychwanegu <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Rhowch y dyddiad dod i ben</translation>
-<translation id="1569694109004336106">Mae Google Chrome yn ceisio troi Windows Hello ymlaen ar gyfer llenwi cyfrineiriau.</translation>
+<translation id="1569694109004336106">Mae Cobalt yn ceisio troi Windows Hello ymlaen ar gyfer llenwi cyfrineiriau.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> modfedd</translation>
 <translation id="1574714699824202614">Wrthi'n dilysu'r dull talu</translation>
 <translation id="1576277203042721907">Mewnwelediadau siopa</translation>
@@ -360,7 +360,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="1645368109819982629">Protocol na chefnogir</translation>
 <translation id="1650602712345345441">Rheoli eich gosodiadau Chrome</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">I ddefnyddio'r Rheolwr Cyfrineiriau gyda macOS Keychain, ail-lansiwch Chromium a chaniatewch fynediad Keychain. Bydd eich tabiau yn ailagor ar ôl ail-lansio.</translation>
+<translation id="1652862280638399816">I ddefnyddio'r Rheolwr Cyfrineiriau gyda macOS Keychain, ail-lansiwch Cobalt a chaniatewch fynediad Keychain. Bydd eich tabiau yn ailagor ar ôl ail-lansio.</translation>
 <translation id="1656024727720460136">Mae Chrome wedi symleiddio'r dudalen hon i'w gwneud yn haws ei darllen. Adferodd Chrome y dudalen wreiddiol dros gysylltiad diogel.</translation>
 <translation id="1656489000284462475">Casglu</translation>
 <translation id="1658111267661135323">Teledu a Fideo</translation>
@@ -430,7 +430,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="1762779605905950734">Enw Stryd</translation>
 <translation id="1763864636252898013">Ni allai'r gweinydd hwn brofi ei fod yn <ph name="DOMAIN" />; nid yw system weithredu eich dyfais yn ymddiried yn ei dystysgrif ddiogelwch. Gall hyn gael ei achosi gan gamffurfweddiad neu ymosodwr yn rhyng-gipio'ch cysylltiad.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Rhowch gynnig ar redeg Diagnosteg Rhwydwaith Windows<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Dysgu rhagor am y modd Anhysbys yn Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Dysgu rhagor am y modd Anhysbys yn Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Llun (Archifal)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="194174710521904357">Rydych wedi caniatáu i'r wefan hon ddefnyddio cwcis trydydd parti dros dro, sy'n golygu llai o amddiffyniad pori ond mae nodweddion y wefan yn fwy tebygol o weithio yn ôl y disgwyl.</translation>
 <translation id="1942498996464084801">Llyfrau a Llenyddiaeth</translation>
 <translation id="1943994668912612445">Dylunio</translation>
-<translation id="1945968466830820669">Mae'n bosib y byddwch yn colli mynediad at gyfrif eich sefydliad neu brofi dwyn hunaniaeth. Mae Chromium yn argymell newid eich cyfrinair ar unwaith.</translation>
+<translation id="1945968466830820669">Mae'n bosib y byddwch yn colli mynediad at gyfrif eich sefydliad neu brofi dwyn hunaniaeth. Mae Cobalt yn argymell newid eich cyfrinair ar unwaith.</translation>
 <translation id="1946849748901605102">12 x 15 modfedd</translation>
 <translation id="1947454675006758438">Stapl ar y dde uchaf</translation>
 <translation id="1953729392594614704">Bydd rhwystro <ph name="TOPIC" /> hefyd yn rhwystro unrhyw bynciau cysylltiedig, hyd yn oed os yw'r pwnc yn weithredol</translation>
@@ -588,7 +588,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="2083256696566019397">Caniatáu ar bob ymweliad</translation>
 <translation id="2085876078937250610">Cadw…</translation>
 <translation id="2091887806945687916">Sain</translation>
-<translation id="2093982008204312032">Mae Google Chrome yn ceisio diffodd Windows Hello ar gyfer llenwi cyfrineiriau.</translation>
+<translation id="2093982008204312032">Mae Cobalt yn ceisio diffodd Windows Hello ar gyfer llenwi cyfrineiriau.</translation>
 <translation id="2094505752054353250">Camgymhariad parth</translation>
 <translation id="2094704029599359040">Gwybodaeth Fersiwn</translation>
 <translation id="2099652385553570808">Tair stapl ar y chwith</translation>
@@ -758,7 +758,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="239429038616798445">Nid yw'r dull anfon hwn ar gael. Rhowch gynnig ar ddull gwahanol.</translation>
 <translation id="2395840535409704129">Chwaraeon Dŵr</translation>
 <translation id="2396249848217231973">&amp;Dadwneud dileu</translation>
-<translation id="2399868464369312507">Mae Google Chrome yn ceisio golygu dulliau talu.</translation>
+<translation id="2399868464369312507">Mae Cobalt yn ceisio golygu dulliau talu.</translation>
 <translation id="2400600116338235695">Yn gallu gofyn am gysylltu â phyrth cyfresol</translation>
 <translation id="2404884497378469141">Rhowch gynnig ar gopïo'ch ffeiliau eto</translation>
 <translation id="2413155254802890957">Hen</translation>
@@ -1026,7 +1026,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="2979424420072875974">Adnoddau Awduron</translation>
 <translation id="2980742331521553164">Bydd CVC y cerdyn hwn yn cael ei amgryptio a'i gadw yn eich Cyfrif Google i dalu'n gyflymach</translation>
 <translation id="2983666748527428214">Agor Tab Anhysbys</translation>
-<translation id="2985306909656435243">Os yw wedi'i alluogi, bydd Chromium yn storio copi o'ch cerdyn ar y ddyfais hon er mwyn llenwi ffurflenni yn gyflymach.</translation>
+<translation id="2985306909656435243">Os yw wedi'i alluogi, bydd Cobalt yn storio copi o'ch cerdyn ar y ddyfais hon er mwyn llenwi ffurflenni yn gyflymach.</translation>
 <translation id="2985398929374701810">Rhowch gyfeiriad dilys</translation>
 <translation id="2987034854559945715">Nid oes unrhyw nodweddion sy'n cyfateb</translation>
 <translation id="2988216301273604645">Mae Chrome yn cyfyngu ar faint o wybodaeth y gall gwefannau ei defnyddio i'ch olrhain wrth i chi bori. Gallwch newid eich gosodiadau i ddewis eich lefel amddiffyniad eich hun.</translation>
@@ -1108,7 +1108,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="3154506275960390542">Mae'r dudalen hon yn cynnwys ffurflen y mae'n bosib na fydd yn cyflwyno'n ddiogel. Gall eraill weld data y gwnaethoch eu hanfon wrth iddynt gael eu trosglwyddo neu gallai ymosodwr eu haddasu i newid yr hyn y mae'r gweinydd yn ei dderbyn.</translation>
 <translation id="3154987252551138431">Aeth rhywbeth o'i le wrth ddefnyddio Rhannu Gerllaw</translation>
 <translation id="315504272643575312">Rheolir eich cyfrif gan <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Ail-lansio Chromium</translation>
+<translation id="3155163173539279776">Ail-lansio Cobalt</translation>
 <translation id="3157931365184549694">Adfer</translation>
 <translation id="3158539265159265653">Disc</translation>
 <translation id="3162559335345991374">Mae'n bosib y bydd y Wi-Fi rydych yn ei ddefnyddio yn gofyn i chi fynd i'w dudalen fewngofnodi.</translation>
@@ -1162,7 +1162,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="324180406144491771">Mae dolenni “<ph name="HOST_NAME" />” wedi'u rhwystro</translation>
 <translation id="3252772880526154546">Saernïaeth</translation>
 <translation id="3254301855501243548">18 x 22 modfedd</translation>
-<translation id="3255926992597692024">Mae Chromium yn ceisio addasu gosodiadau ar gyfer llenwi dulliau talu.</translation>
+<translation id="3255926992597692024">Mae Cobalt yn ceisio addasu gosodiadau ar gyfer llenwi dulliau talu.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, pwyswch Tab yna Enter i greu digwyddiad newydd yn Google Calendar yn gyflym</translation>
 <translation id="3261488570342242926">Dysgu rhagor am gardiau rhithwir</translation>
 <translation id="3262698603497362968">Opsiynau prynu</translation>
@@ -1249,7 +1249,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="3423742043356668186">Nodwyd gan y system</translation>
 <translation id="3427092606871434483">Caniatáu (diofyn)</translation>
 <translation id="3427342743765426898">&amp;Ailwneud Golygu</translation>
-<translation id="342781501876943858">Mae Chromium yn argymell ailosod eich cyfrinair os gwnaethoch ei ailddefnyddio ar wefannau eraill.</translation>
+<translation id="342781501876943858">Mae Cobalt yn argymell ailosod eich cyfrinair os gwnaethoch ei ailddefnyddio ar wefannau eraill.</translation>
 <translation id="3428151540071562330">Mae un neu fwy o'r URI templed gweinydd DnsOverHttpsTemplates yn annilys ac ni chaiff ei ddefnyddio.</translation>
 <translation id="3428789896412418755">Hanes wedi'i Grwpio</translation>
 <translation id="3431216045099978607">Pwyswch |<ph name="ACCELERATOR" />| i adael y sgrîn lawn a gweld y lawrlwythiad.</translation>
@@ -1571,7 +1571,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4047351652147966654">18 x 24 modfedd</translation>
 <translation id="404831776305217138">Diweddaru URL ar gyfer estyniad gyda ID '<ph name="EXTENSION_ID" />' yn annilys neu'n defnyddio cynllun heb ei gefnogi. Y cynlluniau a gefnogir yw: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> a <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Byddwch yn gallu ei ddefnyddio ar draws cynhyrchion Google</translation>
-<translation id="4050599136622776556">Mae Chromium yn ceisio golygu dulliau talu.</translation>
+<translation id="4050599136622776556">Mae Cobalt yn ceisio golygu dulliau talu.</translation>
 <translation id="405399507749852140">Cael hysbysiadau os bydd y pris yn gostwng ar unrhyw wefan</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Dysgu rhagor am Ddiogelu Data Sensitif</translation>
@@ -1844,7 +1844,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4557573143631562971">Yswiriant Cartref</translation>
 <translation id="4558551763791394412">Rhowch gynnig ar analluogi'ch estyniadau.</translation>
 <translation id="4566017918361049074">Awyr agored</translation>
-<translation id="4567686777917670400">Gall eich gweinyddwr newid gosodiadau eich porwr o bell. Gellir rheoli gweithgarwch ar y ddyfais hon y tu allan i Chromium hefyd. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Gall eich gweinyddwr newid gosodiadau eich porwr o bell. Gellir rheoli gweithgarwch ar y ddyfais hon y tu allan i Cobalt hefyd. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Wedi'i ddilysu</translation>
 <translation id="457875822857220463">Anfon</translation>
 <translation id="4579699065574932398">Bancio</translation>
@@ -1874,7 +1874,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4631881646528206880">Cofrestru cerdyn rhithwir</translation>
 <translation id="4635278307999235413">Wrthi'n anfon data i'r panel gweinyddwr</translation>
 <translation id="4636930964841734540">Gwybodaeth</translation>
-<translation id="4638670630777875591">Modd Anhysbys yn Chromium</translation>
+<translation id="4638670630777875591">Modd Anhysbys yn Cobalt</translation>
 <translation id="464342062220857295">Nodweddion chwilio</translation>
 <translation id="4644670975240021822">yn y drefn wrthol wyneb i lawr</translation>
 <translation id="4646534391647090355">Ewch â fi yno nawr</translation>
@@ -1919,7 +1919,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4732860731866514038">Wrthi'n lawrlwytho'r pecyn iaith <ph name="LANGUAGE" />... <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992">Mae <ph name="URL" /> eisiau defnyddio lleoliad eich dyfais</translation>
 <translation id="473414950835101501">Defnyddio eich camerâu</translation>
-<translation id="4736825316280949806">Ailgychwyn Chromium</translation>
+<translation id="4736825316280949806">Ailgychwyn Cobalt</translation>
 <translation id="4736934858538408121">Cerdyn rhithwir</translation>
 <translation id="473775607612524610">Diweddaru</translation>
 <translation id="4738601419177586157"><ph name="TEXT" /> awgrym chwilio</translation>
@@ -1936,7 +1936,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4756388243121344051">&amp;Hanes</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Cod pas o'ch Proffil Chrome</translation>
-<translation id="4757993714154412917">Rydych newydd roi'ch cyfrinair ar wefan dwyllodrus. I ddiogelu eich cyfrifon, mae Chromium yn argymell eich bod yn gwirio'ch cyfrineiriau sydd wedi'u cadw.</translation>
+<translation id="4757993714154412917">Rydych newydd roi'ch cyfrinair ar wefan dwyllodrus. I ddiogelu eich cyfrifon, mae Cobalt yn argymell eich bod yn gwirio'ch cyfrineiriau sydd wedi'u cadw.</translation>
 <translation id="4758311279753947758">Ychwanegu manylion cyswllt</translation>
 <translation id="4761326898079498987">Adolygwch am fanylion pellach</translation>
 <translation id="4761869838909035636">Rhedeg Gwiriad Diogelwch Chrome</translation>
@@ -2023,7 +2023,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="4918221908152712722">Gosod <ph name="APP_NAME" /> (nid oes angen ei lawrlwytho)</translation>
 <translation id="4920457992177678649">Rhenti Gwyliau ac Arosiadau Tymor Byr</translation>
 <translation id="4920710383559189047">Llawes</translation>
-<translation id="4922104989726031751">I ddefnyddio Rheolwr Cyfrineiriau gyda'ch system weithredu, ail-lansiwch Chromium a chaniatáu mynediad at reolwr cyfrineiriau eich cyfrifiadur. Bydd eich tabiau yn ailagor ar ôl ail-lansio.</translation>
+<translation id="4922104989726031751">I ddefnyddio Rheolwr Cyfrineiriau gyda'ch system weithredu, ail-lansiwch Cobalt a chaniatáu mynediad at reolwr cyfrineiriau eich cyfrifiadur. Bydd eich tabiau yn ailagor ar ôl ail-lansio.</translation>
 <translation id="4923459931733593730">Talu</translation>
 <translation id="4926049483395192435">Rhaid nodi.</translation>
 <translation id="4926159001844873046">Mae <ph name="SITE" /> yn dweud</translation>
@@ -2108,7 +2108,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="5087580092889165836">Ychwanegu cerdyn</translation>
 <translation id="5088142053160410913">Neges i'r gweithredwr</translation>
 <translation id="5093232627742069661">Plyg Z</translation>
-<translation id="5094747076828555589">Ni allai'r gweinydd hwn brofi ei fod yn <ph name="DOMAIN" />; nid yw Chromium yn ymddiried yn ei dystysgrif ddiogelwch. Gall hyn gael ei achosi gan gamffurfweddiad neu ymosodwr yn rhyng-gipio'ch cysylltiad.</translation>
+<translation id="5094747076828555589">Ni allai'r gweinydd hwn brofi ei fod yn <ph name="DOMAIN" />; nid yw Cobalt yn ymddiried yn ei dystysgrif ddiogelwch. Gall hyn gael ei achosi gan gamffurfweddiad neu ymosodwr yn rhyng-gipio'ch cysylltiad.</translation>
 <translation id="5097099694988056070">Ystadegau'r ddyfais megis defnydd o CPU/RAM</translation>
 <translation id="5097468150760963273">27 x 39 modfedd</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="5137761395480718572">Mae'r ap hwn yn gofyn am ganiatâd i osod manylion Wi-Fi. Ar ôl gosod, bydd eich <ph name="DEVICE_TYPE" /> yn cysylltu'n awtomatig â'r rhwydweithiau Wi-Fi sy'n cymryd rhan. I dynnu'r manylion hyn, dadosodwch yr ap. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Nid yw'r cerdyn rhithwir ar gael ar hyn o bryd. Cysylltwch â'ch banc</translation>
 <translation id="5138227688689900538">Dangos llai</translation>
-<translation id="5143309888746105072">Mae Chromium yn rhwystro gwefannau rhag defnyddio cwcis trydydd parti i'ch olrhain chi wrth i chi bori.
+<translation id="5143309888746105072">Mae Cobalt yn rhwystro gwefannau rhag defnyddio cwcis trydydd parti i'ch olrhain chi wrth i chi bori.
             <ph name="NEW_LINE" />Os nad yw nodweddion gwefan yn gweithio <ph name="START_LINK" />rhowch gynnig ar ganiatáu cwcis trydydd parti dros dro<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Mae cod gwall yn yr ymateb polisi</translation>
 <translation id="5146995429444047494">Rhwystrir hysbysiadau ar gyfer <ph name="ORIGIN" /></translation>
@@ -2273,7 +2273,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="5425082381151187189">Addurniadau Cartref a Mewnol</translation>
 <translation id="5426179911063097041">Mae <ph name="SITE" /> eisiau anfon hysbysiadau atoch</translation>
 <translation id="5430298929874300616">Tynnu'r nod tudalen</translation>
-<translation id="5434798570900738152"><ph name="BEGIN_EMPHASIS" />Ni fydd<ph name="END_EMPHASIS" /> Chromium yn cadw:
+<translation id="5434798570900738152"><ph name="BEGIN_EMPHASIS" />Ni fydd<ph name="END_EMPHASIS" /> Cobalt yn cadw:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Eich hanes pori
             <ph name="LIST_ITEM" />Cwcis a data gwefan
@@ -2648,7 +2648,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6160391204859821737">Trowch y nodwedd preifatrwydd hysbysebion ymlaen</translation>
 <translation id="6165508094623778733">Dysgu rhagor</translation>
 <translation id="6167577165590485365">Ceisiwyd nôl ddiwethaf:</translation>
-<translation id="617256461084925519">Mae Google Chrome yn ceisio cadarnhau mai chi sydd yno fel y gall lenwi'ch gwybodaeth talu.</translation>
+<translation id="617256461084925519">Mae Cobalt yn ceisio cadarnhau mai chi sydd yno fel y gall lenwi'ch gwybodaeth talu.</translation>
 <translation id="6176387967264100435">Mae'r pris hwn yn uchel</translation>
 <translation id="6177128806592000436">Nid yw eich cysylltiad â'r wefan hon yn ddiogel</translation>
 <translation id="6177531123306197852">Amlen C2</translation>
@@ -2668,7 +2668,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6215936431492593050">Metel (Satin)</translation>
 <translation id="6217950634729714357">Cegin a Dodrefn Fwyta</translation>
 <translation id="6218305986815100395">Methu â throi'r cerdyn rhithwir ymlaen</translation>
-<translation id="6218753634732582820">Tynnu'r cyfeiriad o Chromium?</translation>
+<translation id="6218753634732582820">Tynnu'r cyfeiriad o Cobalt?</translation>
 <translation id="622039917539443112">Plyg cyfochrog</translation>
 <translation id="6221311046884916259">Ydych chi am gadw'r cerdyn hwn yn eich Cyfrif Google?</translation>
 <translation id="6221345481584921695">Yn ddiweddar, gwnaeth Pori'n Ddiogel gyda Google <ph name="BEGIN_LINK" />ganfod drwgwedd<ph name="END_LINK" /> ar <ph name="SITE" />. Weithiau mae gwefannau sydd fel arfer yn ddiogel yn cael eu heintio â drwgwedd. Daw'r ddrwgwedd o <ph name="SUBRESOURCE_HOST" />, sy'n hysbys am ddosbarthu drwgwedd.</translation>
@@ -2740,7 +2740,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6348220984832452017">Amrywiadau Gweithredol</translation>
 <translation id="6349101878882523185">Gosod <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Dim}=1{1 cyfrinair (ar gyfer <ph name="DOMAIN_LIST" />, cysonwyd)}=2{2 gyfrinair (ar gyfer <ph name="DOMAIN_LIST" />, cysonwyd)}few{# chyfrinair (ar gyfer <ph name="DOMAIN_LIST" />, cysonwyd)}many{# chyfrinair (ar gyfer <ph name="DOMAIN_LIST" />, cysonwyd)}other{# cyfrinair (ar gyfer <ph name="DOMAIN_LIST" />, cysonwyd)}}</translation>
-<translation id="6355392890578844978">Nid yw'r porwr hwn yn cael ei reoli gan gwmni neu sefydliad arall. Gellir rheoli gweithgarwch ar y ddyfais hon y tu allan i Chromium. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Nid yw'r porwr hwn yn cael ei reoli gan gwmni neu sefydliad arall. Gellir rheoli gweithgarwch ar y ddyfais hon y tu allan i Cobalt. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">golygu dulliau talu</translation>
 <translation id="6358450015545214790">Beth mae'r rhain yn ei olygu?</translation>
 <translation id="6360213755783740931">Dysgu rhagor am ddiogelwch Maleiswedd</translation>
@@ -2782,7 +2782,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6410264514553301377">Rhowch y dyddiad darfod a'r CVC ar gyfer <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Gofal Croen ac Ewinedd</translation>
-<translation id="6415778972515849510">Gall Chromium eich helpu i amddiffyn eich Cyfrif Google ac i newid eich cyfrinair.</translation>
+<translation id="6415778972515849510">Gall Cobalt eich helpu i amddiffyn eich Cyfrif Google ac i newid eich cyfrinair.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Gwasanaethau Cyflogres</translation>
 <translation id="6424600253695044005">Storfa'r Cwmwl</translation>
@@ -2908,7 +2908,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6665553082534466207">Tri thwll ar y dde</translation>
 <translation id="6668389483194953109">Wedi dod o hyd i enw maint papur "custom", ond mae'r briodwedd "custom_size" yn wag neu'n annilys.</translation>
 <translation id="6671169470640320959">Cyllido Ceir</translation>
-<translation id="6671697161687535275">Tynnu awgrymu ffurflenni o Chromium?</translation>
+<translation id="6671697161687535275">Tynnu awgrymu ffurflenni o Cobalt?</translation>
 <translation id="6677351035258626477">Bwyd Cyflym</translation>
 <translation id="6681790815630918386">CVC wedi'i gadw</translation>
 <translation id="6683022854667115063">Clustffonau</translation>
@@ -3021,7 +3021,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6897140037006041989">Asiant Defnyddiwr</translation>
 <translation id="6898699227549475383">Sefydliad (O)</translation>
 <translation id="6907458757809079309">Cadw'n heini</translation>
-<translation id="6908168784986658395">Pan fyddwch yn cau pob tab Anhysbys Chromium, bydd eich gweithgarwch yn y tabiau hynny yn cael ei dynnu o'r ddyfais hon:
+<translation id="6908168784986658395">Pan fyddwch yn cau pob tab Anhysbys Cobalt, bydd eich gweithgarwch yn y tabiau hynny yn cael ei dynnu o'r ddyfais hon:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Gweithgarwch pori<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Hanes chwilio<ph name="END_LIST_ITEM" />
@@ -3069,7 +3069,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="6973988895180423160">3.5 x 5 modfedd</translation>
 <translation id="6978121630131642226">Peiriannau Chwilio</translation>
 <translation id="6978236010531171013">Rhannu beth bynnag</translation>
-<translation id="6978722349058177832">Os ydych yn rhannu'r ddyfais hon, gall Chromium ofyn i chi ddilysu bob tro y byddwch yn talu gan ddefnyddio awtolenwi</translation>
+<translation id="6978722349058177832">Os ydych yn rhannu'r ddyfais hon, gall Cobalt ofyn i chi ddilysu bob tro y byddwch yn talu gan ddefnyddio awtolenwi</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Distewi (diofyn)</translation>
 <translation id="6987806006823772670">Amlen (Wedi'i Gorchuddio)</translation>
@@ -3234,7 +3234,7 @@ Manylion ychwanegol:
 <translation id="7308436126008021607">cysoni yn y cefndir</translation>
 <translation id="7310392214323165548">Bydd y ddyfais yn ailgychwyn yn fuan iawn</translation>
 <translation id="7311244614769792472">Ni chanfuwyd unrhyw ganlyniadau</translation>
-<translation id="7311837626618954149">Mae Chromium yn rhwystro gwefannau rhag defnyddio cwcis trydydd parti i'ch olrhain chi wrth i chi bori.</translation>
+<translation id="7311837626618954149">Mae Cobalt yn rhwystro gwefannau rhag defnyddio cwcis trydydd parti i'ch olrhain chi wrth i chi bori.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Help gyda Chysylltu</translation>
 <translation id="7323804146520582233">Cuddio'r adran "<ph name="SECTION" />"</translation>
@@ -3307,7 +3307,7 @@ Manylion ychwanegol:
 <translation id="7425878584435172632">Celf a Dylunio Gweledol</translation>
 <translation id="7427079287360774240">Astudio Iaith Dramor</translation>
 <translation id="7429429656042611765">Gweithredol</translation>
-<translation id="7432774160230062882">Cadarnhewch mai chi sydd yno fel y gall Chromium lenwi'ch gwybodaeth talu.</translation>
+<translation id="7432774160230062882">Cadarnhewch mai chi sydd yno fel y gall Cobalt lenwi'ch gwybodaeth talu.</translation>
 <translation id="7437289804838430631">Ychwanegu Manylion Cyswllt</translation>
 <translation id="7438338505272634288">Gallai ymosodwyr ar y wefan rydych yn ceisio ymweld â hi eich twyllo i osod meddalwedd niweidiol a allai effeithio'r ffordd rydych yn pori — er enghraifft, wrth newid eich hafan neu ddangos eich hysbysiadau ychwanegol ar wefannau rydych yn ymweld â nhw. Mae Chrome yn argymell yn gryf i fynd yn ôl i ddiogelwch er mwyn osgoi niwed. <ph name="BEGIN_LEARN_MORE_LINK" />Dysgu rhagor<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Archwilio all-lein</translation>
@@ -3384,7 +3384,7 @@ Manylion ychwanegol:
 <translation id="7564049878696755256">Gallech golli mynediad at eich cyfrif <ph name="ORG_NAME" /> neu brofi dwyn hunaniaeth. Mae Chrome yn argymell newid eich cyfrinair nawr.</translation>
 <translation id="7564667064360547717">Crysau a Thopiau</translation>
 <translation id="7567204685887185387">Ni allai'r gweinydd hwn brofi ei fod yn <ph name="DOMAIN" />; mae'n bosib bod ei dystysgrif ddiogelwch wedi'i chyhoeddi'n dwyllodrus. Gall hyn gael ei achosi gan gamffurfweddiad neu ymosodwr yn rhyng-gipio'ch cysylltiad.</translation>
-<translation id="7568616151991626879">Mae Google Chrome yn ceisio llenwi'ch cyfrinair ar <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Mae Cobalt yn ceisio llenwi'ch cyfrinair ar <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golff</translation>
 <translation id="7569952961197462199">Tynnu cerdyn credyd o Chrome?</translation>
 <translation id="7569983096843329377">Du</translation>
@@ -3427,7 +3427,7 @@ Manylion ychwanegol:
 <translation id="7631527008834753063">Sioeau Gêm Deledu</translation>
 <translation id="7633909222644580952">Data perfformiad ac adroddiadau toriadau</translation>
 <translation id="7636346903338549690">Gwefannau a ganiateir i ddefnyddio cwcis trydydd parti</translation>
-<translation id="7637571805876720304">Tynnu'r cerdyn credyd o Chromium?</translation>
+<translation id="7637571805876720304">Tynnu'r cerdyn credyd o Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Dim}=1{Mae 1 cyfrinair yn eich cyfrif (ar gyfer <ph name="DOMAIN_LIST" />)}two{Mae # gyfrinair yn eich cyfrif (ar gyfer <ph name="DOMAIN_LIST" />)}few{Mae # chyfrinair yn eich cyfrif (ar gyfer <ph name="DOMAIN_LIST" />)}many{Mae # chyfrinair yn eich cyfrif (ar gyfer <ph name="DOMAIN_LIST" />)}other{Mae # cyfrinair yn eich cyfrif (ar gyfer <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Pyrth cyfresol</translation>
 <translation id="7639968568612851608">Llwyd Tywyll</translation>
@@ -3648,7 +3648,7 @@ Manylion ychwanegol:
 <translation id="8061691770921837575">Colur a Chosmetig</translation>
 <translation id="8063875539456488183">Cadw ac olrhain pris</translation>
 <translation id="8066225060526005217">Rheolir gan osodiadau cwcis</translation>
-<translation id="8067872629359326442">Rydych newydd roi'ch cyfrinair ar wefan dwyllodrus. Gall Chromium helpu. I newid eich cyfrinair ac i hysbysu Google y gallai eich cyfrif fod mewn perygl, cliciwch ar Diogelu Cyfrif.</translation>
+<translation id="8067872629359326442">Rydych newydd roi'ch cyfrinair ar wefan dwyllodrus. Gall Cobalt helpu. I newid eich cyfrinair ac i hysbysu Google y gallai eich cyfrif fod mewn perygl, cliciwch ar Diogelu Cyfrif.</translation>
 <translation id="8070439594494267500">Eicon ap</translation>
 <translation id="8070495475341517754">Teithiau Gweld golygfeydd</translation>
 <translation id="8073647227500388356">Cerbydau Awtonomaidd</translation>
@@ -3907,7 +3907,7 @@ Manylion ychwanegol:
 <translation id="8542014550340843547">Tair stapl ar y gwaelod</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Gallwch <ph name="BEGIN_ERROR_LINK" />adrodd am broblem canfod<ph name="END_ERROR_LINK" /> neu, os ydych yn deall y risgiau i'ch diogelwch, gallwch <ph name="BEGIN_LINK" />fynd i'r wefan anniogel hon<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Mae Google Chrome yn ceisio addasu gosodiadau ar gyfer llenwi dulliau talu.</translation>
+<translation id="8544217240017914508">Mae Cobalt yn ceisio addasu gosodiadau ar gyfer llenwi dulliau talu.</translation>
 <translation id="8544303911974837265">Polyester</translation>
 <translation id="854548366864113872">Opsiwn Pris Uchel</translation>
 <translation id="8546254312340305428">Rhowch reswm dros uwchlwytho (gofynnol)</translation>
@@ -3924,7 +3924,7 @@ Manylion ychwanegol:
 <translation id="8558347880669160417">Caniateir y camera a'r meicroffon y tro hwn</translation>
 <translation id="8559762987265718583">Ni ellir sefydlu cysylltiad preifat â <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> oherwydd bod dyddiad ac amser eich dyfais (<ph name="DATE_AND_TIME" />) yn anghywir.</translation>
 <translation id="8564182942834072828">Dogfennau ar wahân/Copïau heb eu coladu</translation>
-<translation id="8564985650692024650">Mae Chromium yn argymell ailosod eich cyfrinair ar gyfer <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> os gwnaethoch ei ailddefnyddio ar wefannau eraill.</translation>
+<translation id="8564985650692024650">Mae Cobalt yn argymell ailosod eich cyfrinair ar gyfer <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> os gwnaethoch ei ailddefnyddio ar wefannau eraill.</translation>
 <translation id="8570895683659698018">Hobïau a Hamdden</translation>
 <translation id="8574841453995331336">Oergelloedd a Rhewgelloedd</translation>
 <translation id="8577192028579836704">Pob opsiwn fel arfer yn <ph name="TYPICAL_PRICE" /></translation>
@@ -3998,7 +3998,7 @@ Manylion ychwanegol:
 <translation id="8736059027199600831">30 x 40 modfedd</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, pwyswch Tab yna Enter i agor ffenestr Anhysbys newydd i bori'n breifat</translation>
 <translation id="8737685506611670901">Agor dolenni <ph name="PROTOCOL" /> yn lle <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Er mwyn gosod cysylltiad diogel, mae angen gosod eich cloc yn gywir. Mae hyn oherwydd bod y tystysgrifau y mae gwefannau yn eu defnyddio i adnabod eu hunain yn ddilys am gyfnodau penodol yn unig. Gan fod cloc eich dyfais yn anghywir, ni all Chromium ddilysu'r tystysgrifau hyn.</translation>
+<translation id="8738058698779197622">Er mwyn gosod cysylltiad diogel, mae angen gosod eich cloc yn gywir. Mae hyn oherwydd bod y tystysgrifau y mae gwefannau yn eu defnyddio i adnabod eu hunain yn ddilys am gyfnodau penodol yn unig. Gan fod cloc eich dyfais yn anghywir, ni all Cobalt ddilysu'r tystysgrifau hyn.</translation>
 <translation id="8740359287975076522">Ni ellid dod o hyd i &lt;abbr id="dnsDefinition"&gt;gyfeiriad DNS&lt;/abbr&gt; <ph name="HOST_NAME" />. Wrthi'n diagnosio'r broblem.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> yw eich cod ar gyfer <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Creu nod tudalen ar gyfer y tab hwn</translation>
@@ -4025,7 +4025,7 @@ Manylion ychwanegol:
 <translation id="8785658048882205566">Beiciau modur</translation>
 <translation id="8790007591277257123">&amp;Ailwneud dileu</translation>
 <translation id="8792272652220298572">Plastig (Sglein)</translation>
-<translation id="8792621596287649091">Gallech golli mynediad at eich cyfrif <ph name="ORG_NAME" /> neu brofi dwyn hunaniaeth. Mae Chromium yn argymell newid eich cyfrinair ar unwaith.</translation>
+<translation id="8792621596287649091">Gallech golli mynediad at eich cyfrif <ph name="ORG_NAME" /> neu brofi dwyn hunaniaeth. Mae Cobalt yn argymell newid eich cyfrinair ar unwaith.</translation>
 <translation id="8792626944327216835">meicroffon</translation>
 <translation id="8793655568873652685">Mae <ph name="ENROLLMENT_DOMAIN" /> wedi diffodd Chrome Enterprise Connectors ar eich porwr. Mae gan y cysylltwyr hyn fynediad at rywfaint o'ch data.</translation>
 <translation id="8798099450830957504">Diofyn</translation>
@@ -4175,7 +4175,7 @@ Manylion ychwanegol:
 <translation id="9095388113577226029">Rhagor o ieithoedd...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, Pwyswch Tab yna Enter i osod Chrome fel porwr diofyn y system yng ngosodiadau iOS</translation>
 <translation id="9101630580131696064">Hambwrdd 1</translation>
-<translation id="9103872766612412690">Mae <ph name="SITE" /> fel arfer yn defnyddio amgryptio i amddiffyn eich gwybodaeth. Pan geisiodd Chromium gysylltu â <ph name="SITE" /> y tro hwn, anfonodd y wefan manylion adnabod anarferol ac anghywir yn ôl. Gall hyn ddigwydd pan fydd ymosodwr yn ceisio gweithredu fel <ph name="SITE" />, neu pan fydd sgrîn mewngofnodi Wi-Fi wedi torri ar draws y cysylltiad. Mae eich gwybodaeth yn dal yn ddiogel oherwydd stopiodd Chromium y cysylltiad cyn i unrhyw ddata gael eu cyfnewid.</translation>
+<translation id="9103872766612412690">Mae <ph name="SITE" /> fel arfer yn defnyddio amgryptio i amddiffyn eich gwybodaeth. Pan geisiodd Cobalt gysylltu â <ph name="SITE" /> y tro hwn, anfonodd y wefan manylion adnabod anarferol ac anghywir yn ôl. Gall hyn ddigwydd pan fydd ymosodwr yn ceisio gweithredu fel <ph name="SITE" />, neu pan fydd sgrîn mewngofnodi Wi-Fi wedi torri ar draws y cysylltiad. Mae eich gwybodaeth yn dal yn ddiogel oherwydd stopiodd Cobalt y cysylltiad cyn i unrhyw ddata gael eu cyfnewid.</translation>
 <translation id="9107467864910557787">Rheolir eich porwr gan <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Mae polisi gweinyddwr yn analluogi rhannu sgrîn â <ph name="APPLICATION_TITLE" /> pan fydd cynnwys cyfrinachol yn weladwy</translation>
 <translation id="9114524666733003316">Wrthi'n cadarnhau'r cerdyn...</translation>
@@ -4243,7 +4243,7 @@ Manylion ychwanegol:
 <translation id="93020190163435405">Interniaethau</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Caniatáu i'r ap <ph name="APP_NAME" /> osod rhwydweithiau Wi-Fi?</translation>
-<translation id="936602727769022409">Mae'n bosib y byddwch yn colli mynediad at eich Cyfrif Google. Mae Chromium yn argymell newid eich cyfrinair ar unwaith. Gofynnir i chi fewngofnodi.</translation>
+<translation id="936602727769022409">Mae'n bosib y byddwch yn colli mynediad at eich Cyfrif Google. Mae Cobalt yn argymell newid eich cyfrinair ar unwaith. Gofynnir i chi fewngofnodi.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Pa ddata a ddefnyddir:<ph name="END_BOLD" /> Mae eich pynciau hysbysebion yn seiliedig ar eich hanes pori diweddar, rhestr o wefannau rydych wedi ymweld â nhw gan ddefnyddio Chrome ar y ddyfais hon.</translation>
 <translation id="937885410143139026">Data wedi'u hanfon i'r panel gweinyddwr</translation>
 <translation id="939736085109172342">Ffolder newydd</translation>

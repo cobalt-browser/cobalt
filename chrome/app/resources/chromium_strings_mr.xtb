@@ -168,7 +168,7 @@
 <translation id="3941890832296813527">इंस्टॉलसंबंधित एरर: इंस्टॉलर फाइल नाव चुकीचे आहे किंवा त्यास सपोर्ट नाही.</translation>
 <translation id="3945058413678539331">Cobalt पासवर्ड कॉपी करण्याचा प्रयत्‍न करत आहे. हे करू देण्यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
 <translation id="3962647064319009959">Cobalt तुम्हाला सुरक्षित कसे ठेवते याबद्दल जाणून घ्या</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing विषयी</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing विषयी</translation>
 <translation id="3997429360543082038">ChromiumOS बद्दल</translation>
 <translation id="4019629340646866719">ChromiumOS हे <ph name="BEGIN_LINK_LINUX_OSS" />Linux डेव्हलपमेंट पद्धत<ph name="END_LINK_LINUX_OSS" /> यासारखे अतिरिक्त <ph name="BEGIN_LINK_CROS_OSS" />मुक्त स्रोत सॉफ्टवेअर<ph name="END_LINK_CROS_OSS" /> याद्वारे तयार करण्यात आले आहे.</translation>
 <translation id="4036079820698952681"><ph name="BEGIN_LINK" />वर्तमान सेटिंग्ज<ph name="END_LINK" /> चा अहवाल देऊन Cobalt उत्कृष्ट बनव‍िण्यात मदत करा</translation>
@@ -404,7 +404,7 @@ Cobalt तुमची सेटिंग्ज रिकव्हर करू 
 <translation id="8013436988911883588">एकदा का Cobalt ला ॲक्सेस मिळाला की, वेबसाइट तुम्हाला ॲक्सेससाठी विचारू शकतील.</translation>
 <translation id="80471789339884597">इंस्टॉल केल्याबद्दल धन्यवाद. तुम्ही <ph name="BUNDLE_NAME" /> वापरण्यापूर्वी तुमचे सर्व ब्राउझर रीस्टार्ट करणे आवश्यक आहे.</translation>
 <translation id="8086881907087796310">इंस्टॉलेशन यशस्वी झाले नाही, कारण तुमचा कॉंप्युटर हा हार्डवेअरच्या किमान आवश्यकतांची पूर्तता करत नाही.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt ला या साइटसाठी स्थानाशी संबंधित परवानगी आवश्यक आहे</translation>
 <translation id="8133124826068723441">तुमच्या डोमेनसाठी सिंक करणे उपलब्ध नसल्यामुळे, ChromiumOS ला तुमचा डेटा सिंक करता आला नाही.</translation>
 <translation id="813913629614996137">सुरू करत आहे…</translation>
@@ -437,7 +437,7 @@ Cobalt तुमची सेटिंग्ज रिकव्हर करू 
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />आम्ही हा डेटा कसा वापरतो:<ph name="END_BOLD" /> साइट तुमच्या स्वारस्यांबद्दलची माहिती Cobalt वापरून स्टोअर करू शकतात. उदाहरणार्थ, तुम्ही मॅरेथॉनसाठी शूज खरेदी करण्यासाठी एखाद्या साइटला भेट दिल्यास, ती साइट तुमचे स्वारस्य मॅरेथॉनमध्ये धावणे म्हणून परिभाषित करू शकते. त्यानंतर, तुम्ही एखाद्या शर्यतीसाठी नोंदणी करण्याकरिता वेगळ्या साइटला भेट दिल्यास, ती साइट तुम्हाला तुमच्या स्वारस्यांनुसार धावण्यासाठीच्या शूजची जाहिरात दाखवू शकते.</translation>
 <translation id="8619360774459241877">Cobalt लाँच करत आहे...</translation>
 <translation id="8621669128220841554">नमूद न केलेल्या एररमुळे स्थापना अयशस्वी झाली. कृपया Cobalt पुन्‍हा डाउनलोड करा.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing ला तुमचा डीफॉल्ट ब्राउझर बनवू शकत नाही.</translation>
+<translation id="8648201657708811153">Cobalt for Testing ला तुमचा डीफॉल्ट ब्राउझर बनवू शकत नाही.</translation>
 <translation id="8697124171261953979">तुम्ही Cobalt सुरू करता किंवा तुम्ही ओम्निबॉक्समधून शोध घेता तेव्हा कोणते पेज दाखवावे हेदेखील ते नियंत्रित करते.</translation>
 <translation id="8704119203788522458">हे तुमचे Cobalt आहे</translation>
 <translation id="8719993436687031146">Cobalt मध्ये साइन इन करायचे आहे का?</translation>

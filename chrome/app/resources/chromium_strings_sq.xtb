@@ -169,7 +169,7 @@ Lejet që u ke dhënë sajteve të uebit dhe aplikacioneve mund të zbatohen pë
 <translation id="3941890832296813527">Gabim gjatë instalimit: Emri i skedarit të instaluesit është i pavlefshëm ose nuk mbështetet.</translation>
 <translation id="3945058413678539331">Cobalt po përpiqet të kopjojë fjalëkalimet. Shkruaj fjalëkalimin tënd të Windows për ta lejuar këtë.</translation>
 <translation id="3962647064319009959">Mëso se si të mban të sigurt Cobalt</translation>
-<translation id="3975724895399328945">Rreth &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Rreth &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Rreth ChromiumOS</translation>
 <translation id="4019629340646866719">ChromiumOS mundësohet nga <ph name="BEGIN_LINK_CROS_OSS" />softuerë shtesë me burim të hapur<ph name="END_LINK_CROS_OSS" />, si p.sh. <ph name="BEGIN_LINK_LINUX_OSS" />mjedisi i zhvillimit të Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Ndihmo në përmirësimin e Cobalt duke raportuar <ph name="BEGIN_LINK" />cilësimet aktuale<ph name="END_LINK" /></translation>
@@ -404,7 +404,7 @@ Cobalt nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="8013436988911883588">Pasi Cobalt të ketë qasje, uebsajtet do të jenë në gjendje të kërkojnë prej teje qasje.</translation>
 <translation id="80471789339884597">Faleminderit që e instalove. Duhet të rinisësh të gjithë shfletuesit e tu përpara se të përdorësh <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Instalimi dështoi sepse kompjuteri yt nuk i përmbush kërkesat minimale për harduerin.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt ka nevojë për lejen e vendndodhjes për të këtë sajt</translation>
 <translation id="8133124826068723441">ChromiumOS nuk mund t'i sinkronizonte të dhënat e tua sepse "Sinkronizimi" nuk ofrohet për domenin tënd.</translation>
 <translation id="813913629614996137">Po fillon...</translation>
@@ -437,7 +437,7 @@ Cobalt nuk është në gjendje të rikuperojë cilësimet e tua.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Si i përdorim këto të dhëna:<ph name="END_BOLD" /> Sajtet mund të ruajnë informacione për interesat e tua në Cobalt. Për shembull, nëse viziton një sajt për të blerë këpucë për një maratonë, sajti mund ta përcaktojë interesin tënd si vrapim në maratona. Më vonë, nëse viziton një sajt tjetër për t'u regjistruar për një garë, ai sajt mund të të shfaqë një reklamë për këpucë vrapimi bazuar në interesat e tua.</translation>
 <translation id="8619360774459241877">Po hapet Cobalt...</translation>
 <translation id="8621669128220841554">Instalimi dështoi për shkak të një gabimi të papërcaktuar. Shkarko përsëri Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing nuk mund të bëhet shfletuesi yt i parazgjedhur.</translation>
+<translation id="8648201657708811153">Cobalt for Testing nuk mund të bëhet shfletuesi yt i parazgjedhur.</translation>
 <translation id="8697124171261953979">Kontrollon po ashtu se cila faqe shfaqet kur nis Cobalt ose kur kërkon nga Omnibox.</translation>
 <translation id="8704119203788522458">Ky është Cobalt për ty</translation>
 <translation id="8719993436687031146">Do të identifikohesh në Cobalt?</translation>

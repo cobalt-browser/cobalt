@@ -165,7 +165,7 @@ As permissões que você já concedeu a sites e apps podem ser aplicadas a essa 
 <translation id="3941890832296813527">Erro de instalação: o nome do arquivo do instalador é inválido ou não tem suporte.</translation>
 <translation id="3945058413678539331">O Cobalt está tentando copiar senhas. Digite a senha do Windows para permitir essa ação.</translation>
 <translation id="3962647064319009959">Saiba como o Cobalt protege você</translation>
-<translation id="3975724895399328945">Sobre o &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Sobre o &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Sobre o ChromiumOS</translation>
 <translation id="4019629340646866719">A existência do ChromiumOS tornou-se possível graças a outros <ph name="BEGIN_LINK_CROS_OSS" />softwares de código aberto<ph name="END_LINK_CROS_OSS" />, como o <ph name="BEGIN_LINK_LINUX_OSS" />ambiente para desenvolvedores do Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Ajude a melhorar o Cobalt informando as <ph name="BEGIN_LINK" />configurações atuais<ph name="END_LINK" /></translation>
@@ -397,7 +397,7 @@ As permissões que você já concedeu a sites e apps podem ser aplicadas a essa 
 <translation id="8013436988911883588">Assim que o Cobalt tiver acesso, os sites poderão solicitar acesso.</translation>
 <translation id="80471789339884597">Agradecemos por fazer a instalação. É necessário reiniciar todos os navegadores antes de utilizar o <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">A instalação falhou porque o computador não atende aos requisitos mínimos de hardware.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" />: Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" />: Cobalt for Testing</translation>
 <translation id="8105840573057009683">O Cobalt precisa da permissão de localização para este site</translation>
 <translation id="8133124826068723441">O ChromiumOS não pôde sincronizar seus dados porque a sincronização não está disponível para seu domínio.</translation>
 <translation id="813913629614996137">Inicializando…</translation>
@@ -430,7 +430,7 @@ As permissões que você já concedeu a sites e apps podem ser aplicadas a essa 
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Como usamos esses dados<ph name="END_BOLD" />: sites podem armazenar informações sobre seus interesses com o Cobalt. Por exemplo, se você visitar um site para comprar sapatos de maratona, ele pode definir "maratonas" como um dos seus interesses. Depois, se você visitar outro site para se inscrever em uma maratona, esse site pode mostrar um anúncio de sapatos de corrida com base nos seus interesses.</translation>
 <translation id="8619360774459241877">Iniciando o Cobalt…</translation>
 <translation id="8621669128220841554">Falha na instalação devido a um erro não especificado. Faça o download do Cobalt novamente.</translation>
-<translation id="8648201657708811153">O Google Chrome for Testing não pode ser definido como seu navegador padrão.</translation>
+<translation id="8648201657708811153">O Cobalt for Testing não pode ser definido como seu navegador padrão.</translation>
 <translation id="8697124171261953979">Controla também qual página deve ser exibida quando você inicia o Cobalt ou faz uma pesquisa na Omnibox.</translation>
 <translation id="8704119203788522458">Este é seu Cobalt</translation>
 <translation id="8719993436687031146">Fazer login no Cobalt?</translation>

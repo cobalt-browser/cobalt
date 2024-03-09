@@ -152,7 +152,7 @@
 <translation id="7693372326588366043">호스트 목록 새로고침</translation>
 <translation id="7714222945760997814">신고하기</translation>
 <translation id="7868137160098754906">원격 컴퓨터의 PIN을 입력하세요.</translation>
-<translation id="7881455334687220899">Copyright 2024 The Chromium Authors. All Rights Reserved.</translation>
+<translation id="7881455334687220899">Copyright 2024 The Cobalt Authors. All Rights Reserved.</translation>
 <translation id="7895403300744144251">원격 컴퓨터의 보안 정책으로 인해 내 계정에서 연결할 수 없습니다.</translation>
 <translation id="7936528439960309876">오른쪽에 고정</translation>
 <translation id="7970576581263377361">인증에 실패했습니다. Chromium에 다시 로그인하세요.</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />에 '화면 녹화' 권한 부여</translation>
 <translation id="9213184081240281106">호스트 구성이 잘못되었습니다.</translation>
 <translation id="981121421437150478">오프라인</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" />(최근 연결: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

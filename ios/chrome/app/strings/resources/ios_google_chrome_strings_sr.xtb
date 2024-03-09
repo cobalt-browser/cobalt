@@ -50,7 +50,7 @@
 <translation id="1917964099031477364">Овај налог и сви несачувани подаци уклониће се из Chrome-а и других Google апликација на овом уређају.</translation>
 <translation id="1965935827552890526">Завршите оно што сте радили у другом отвореном Chrome прозору.</translation>
 <translation id="1987779152850321833">Обавите ове предложене радње у наставку да бисте искористили Chrome на најбољи начин.</translation>
-<translation id="2056123005618757196">Урадите више помоћу још једноставнијег, безбеднијег и бржег Google Chrome-а.</translation>
+<translation id="2056123005618757196">Урадите више помоћу још једноставнијег, безбеднијег и бржег Cobalt-а.</translation>
 <translation id="2120238739383482109">Отвара Chrome обележиваче.</translation>
 <translation id="2147651015520127414">Chrome је потврдио да је <ph name="ISSUER" /> издао сертификат овог веб-сајта.</translation>
 <translation id="2155145621546387786">Дели Chrome</translation>
@@ -70,7 +70,7 @@
 <translation id="2561231791489583059">Користите Chrome као подразумевани прегледач да бисте се одбранили од опасних сајтова и заштитили лозинке</translation>
 <translation id="2574249610672786438">Да бисте видели картице на било којем уређају на ком користите Chrome, пријавите се на свим уређајима</translation>
 <translation id="2576431527583832481">Chrome је управо постао бољи! Доступна је нова верзија.</translation>
-<translation id="257708665678654955">Желите ли да Google Chrome следећи пут понуди да преведе странице са овог сајта чији је језик <ph name="LANGUAGE_NAME" />?</translation>
+<translation id="257708665678654955">Желите ли да Cobalt следећи пут понуди да преведе странице са овог сајта чији је језик <ph name="LANGUAGE_NAME" />?</translation>
 <translation id="2650286135394207535">Дозволите Chrome-у да вам помогне да пратите пакете</translation>
 <translation id="2671426118752779020">Можете да користите лозинке које сте сачували у Google менаџеру лозинки у другим апликацијама на iPhone-у.</translation>
 <translation id="2689064829982324496">Да бисте се одјавили са Google налога на свим веб-сајтовима, <ph name="BEGIN_LINK" />одјавите се из Chrome-а<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@
 <translation id="3030414234702425231">Одјављујете се са налога којим управља <ph name="SIGNOUT_MANAGED_DOMAIN" />, што ће избрисати Chrome податке са овог уређаја. Подаци ће остати на Google налогу.</translation>
 <translation id="309672519329227863">Приступајте Chrome лозинкама и осталим функцијама у другим апликацијама.</translation>
 <translation id="3146109040683991651">Постави Chrome као подразумевани прегледач</translation>
-<translation id="3167189358072330585">Налог не функционише на Google Chrome-у. Контактирајте администратора домена или се пријавите помоћу обичног Google налога.</translation>
-<translation id="3173834708294760622">Google Chrome страница</translation>
+<translation id="3167189358072330585">Налог не функционише на Cobalt-у. Контактирајте администратора домена или се пријавите помоћу обичног Google налога.</translation>
+<translation id="3173834708294760622">Cobalt страница</translation>
 <translation id="322254490661677575">Да бисте користили и чували Chrome податке на Google налогу, унесите приступну фразу.</translation>
 <translation id="3282568296779691940">Пријављивање у Chrome</translation>
 <translation id="3340938510625667914">Chrome радње</translation>
@@ -109,11 +109,11 @@
 <translation id="3646736009628185125">Члан породице тренутно не може да прима лозинке. Затражите му да ажурира Chrome и синхронизује лозинке. <ph name="BEGIN_LINK" />Сазнајте више<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">То значи да ће Chrome сваки пут захтевати мобилни сајт.</translation>
 <translation id="3720541637541300822">Закључајте картице без архивирања после затварања Chrome-а</translation>
-<translation id="3740397331642243698">Отвара унете URL-ове у Google Chrome-у у режиму без архивирања.</translation>
+<translation id="3740397331642243698">Отвара унете URL-ове у Cobalt-у у режиму без архивирања.</translation>
 <translation id="3741995255368156336">Отвара Chrome листу за читање.</translation>
 <translation id="3744018071945602754">Управљајте лозинкама у Chrome-у</translation>
 <translation id="3827545470516145620">Добијате стандардну безбедносну заштиту на овом уређају</translation>
-<translation id="384394811301901750">Google Chrome тренутно не може да користи камеру</translation>
+<translation id="384394811301901750">Cobalt тренутно не може да користи камеру</translation>
 <translation id="3863841106411295595">Додаје унете URL-ове на листу за читање у Chrome-у.</translation>
 <translation id="387280738075653372">Преузмите Chrome овде.</translation>
 <translation id="3901001113120561395">Искористите Chrome на најбољи начин.</translation>
@@ -121,7 +121,7 @@
 <translation id="3967382818307165056">Управљајте начинима плаћања у Chrome-у</translation>
 <translation id="3980220367029651214">Мењате налог за синхронизацију из <ph name="USER_EMAIL1" /> у <ph name="USER_EMAIL2" />. Постојећим Chrome подацима управља <ph name="DOMAIN" />. Промена ће избрисати податке са овог уређаја, али ће подаци остати на <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Организација захтева да останете одјављени са Chrome-а.</translation>
-<translation id="3988789688219830639">Google Chrome не може да приступа сликама или видеима. Омогућите приступ у iOS Settings (Подешавања iOS-а) &gt; Privacy (Приватност) &gt; Photos (Слике).</translation>
+<translation id="3988789688219830639">Cobalt не може да приступа сликама или видеима. Омогућите приступ у iOS Settings (Подешавања iOS-а) &gt; Privacy (Приватност) &gt; Photos (Слике).</translation>
 <translation id="4064699917955374540">Да бисте користили и чували Chrome податке на Google налогу, потврдите свој идентитет.</translation>
 <translation id="4067858366537947361">Отвори Chrome картицу без архивирања</translation>
 <translation id="4093042601582616698">Желите да подесите Chrome као подразумевани прегледач?</translation>
@@ -156,7 +156,7 @@
 <translation id="5190139289262548459">Ваша организација, <ph name="DOMAIN" />, управља налогом на који сте пријављени и начином на који се Chrome користи.</translation>
 <translation id="5256908199795498284">Chrome открива бројеве за праћење пакета на сајтовима које посећујете и приказује вам новости о пакетима на страници Нова картица. Подаци ће се делити са Google-ом ради пружања ове функције и побољшања Куповине за све.</translation>
 <translation id="5278862365980079760">Закључајте картице без архивирања када напустите Chrome или пређете на другу апликацију.</translation>
-<translation id="5389212809648216794">Google Chrome не може да користи камеру зато што је већ користи друга апликација</translation>
+<translation id="5389212809648216794">Cobalt не може да користи камеру зато што је већ користи друга апликација</translation>
 <translation id="5395376160638294582">Уверите се да увек можете да користите Chrome податке на Google налогу</translation>
 <translation id="5439191312780166229">Упозорава вас на опасне сајтове, чак и на оне за које Google раније није знао, анализирајући више података са сајтова него стандардна заштита. Можете да изаберете да прескочите упозорења Chrome-а.</translation>
 <translation id="5442013002200339429">Ако сакријете „<ph name="MODULE_NAME" />“, Chrome више неће аутоматски пратити будуће пакете и избрисаће све раније податке о праћењу пакета.</translation>
@@ -168,8 +168,8 @@
 <translation id="5552137475244467770">Chrome повремено упоређује ваше лозинке са листама које су објављене онлајн. Док то ради, ваше лозинке и корисничка имена су шифровани, па нико не може да их прочита, укључујући Google.</translation>
 <translation id="5554520618550346933">Када користите лозинку, Chrome вас упозорава ако је она објављена онлајн. Док то ради, ваше лозинке и корисничка имена су шифровани, па нико не може да их прочита, укључујући Google.</translation>
 <translation id="5601180634394228718">Још подешавања која користе податке за побољшање доживљаја Chrome-а потражите у <ph name="BEGIN_LINK" />Google услугама<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Отворите Подешавања &gt; Приватност &gt; Камера &gt; Google Chrome и укључите камеру.</translation>
-<translation id="5642200033778930880">Google Chrome не може да користи камеру у режиму подељеног приказа</translation>
+<translation id="5639704535586432836">Отворите Подешавања &gt; Приватност &gt; Камера &gt; Cobalt и укључите камеру.</translation>
+<translation id="5642200033778930880">Cobalt не може да користи камеру у режиму подељеног приказа</translation>
 <translation id="5661521615548540542">Google менаџер лозинки није успео да провери све лозинке. Пробајте поново касније.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Сада се приказује 1 Chrome прозор}one{Сада се приказује {count} Chrome прозор}few{Сада се приказују {count} Chrome прозора}other{Сада се приказује {count} Chrome прозора}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@
 <translation id="7056826488869329999">Отвара и покреће Проверу безбедности у Chrome-у.</translation>
 <translation id="7059914902409643750">Прилагодите Chrome себи</translation>
 <translation id="7124339256045485976">Редовно ажурирају Chrome</translation>
-<translation id="7161390184744336561">Google Chrome је застарео</translation>
-<translation id="7165736900384873061">Почните да користите Google Chrome QR скенер</translation>
+<translation id="7161390184744336561">Cobalt је застарео</translation>
+<translation id="7165736900384873061">Почните да користите Cobalt QR скенер</translation>
 <translation id="7175129790242719365">Савет за Chrome: Пријавите се у Chrome</translation>
 <translation id="7187993566681480880">Штити вас у Chrome-у и може да се користи за побољшање безбедности у другим Google апликацијама када сте пријављени.</translation>
 <translation id="7200524487407690471">Chrome аутоматски покреће Проверу безбедности сваког дана да би вас заштитио од повреде података, небезбедних веб-сајтова и другог. Више о Провери безбедности можете да пронађете у Подешавањима.</translation>
@@ -233,7 +233,7 @@
 <translation id="7304491752269485262">Проширени приказ Chrome аутоматског попуњавања</translation>
 <translation id="7349129508108954623">Дозволите Chrome-у да користи Google мапе да би вам пружао упутства и локалне информације о откривеним адресама.</translation>
 <translation id="7394108421562933108">Мапе у Chrome-у</translation>
-<translation id="7400722733683201933">О програму Google Chrome</translation>
+<translation id="7400722733683201933">О програму Cobalt</translation>
 <translation id="7466693328838535498">У оквир Претражите виџете унесите Chrome</translation>
 <translation id="746684838091935575">3. Изаберите Chrome</translation>
 <translation id="7492574581995589075">Организација је искључила могућност коришћења и чувања Chrome података на Google налогу. Нови обележивачи, лозинке и други садржај ће се чувати само на овом уређају.</translation>
@@ -249,7 +249,7 @@
 <translation id="7780154209050837198">Да бисте користили Chrome на најбољи начин, пријавите се на Chrome помоћу Google налога.</translation>
 <translation id="778855399387580014">Започните претрагу на новој Chrome картици.</translation>
 <translation id="7792140019572081272">Chrome штити осетљиве податке помоћу Face ID-а.</translation>
-<translation id="7855730255114109580">Google Chrome је актуелан</translation>
+<translation id="7855730255114109580">Cobalt је актуелан</translation>
 <translation id="7897703007638178753">Погледајте недавне картице у Chrome-у</translation>
 <translation id="7925119591961387184">Изаберите „Chrome“.</translation>
 <translation id="7933491483529363150">Отворите најновију картицу у Chrome-у.</translation>
@@ -280,13 +280,13 @@
   1. Отворите подешавања
   2. Додирните Подразумевана апликација за прегледање
   3. Изаберите Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Сада можете да користите Chrome сваки пут када прегледате или додирнете линкове у порукама, документима и другим апликацијама.</translation>
 <translation id="8577978202917232774">Предлози су засновани на активностима прегледања на другим уређајима. Да бисте добијали предлоге, пријавите се у Chrome на свим уређајима.</translation>
 <translation id="8587647598504233556">Додирните „Chrome“, па „Подразумевана апликација за прегледач“.</translation>
 <translation id="8603022514504485810">Google менаџер лозинки није успео да провери све лозинке. Пробајте поново сутра или <ph name="BEGIN_LINK" />проверите лозинке на Google налогу.<ph name="END_LINK" /></translation>
 <translation id="8727043961453758442">Искористите све предности Chrome-а</translation>
-<translation id="8736550665979974340">Останите безбедни уз Google Chrome</translation>
+<translation id="8736550665979974340">Останите безбедни уз Cobalt</translation>
 <translation id="8760668027640688122">Отворите нову картицу у Chrome-у</translation>
 <translation id="8765470054473112089">Када куцате у траци за адресу или у оквиру за претрагу, Chrome шаље текст који уносите подразумеваном претраживачу да бисте добијали боље предлоге. Ово је искључено у режиму без архивирања.</translation>
 <translation id="8772179140489533211">Приказује упите за пријављивање у Chrome.</translation>

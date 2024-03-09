@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">التفاصيل: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">عدم اقتراح ترجمة لهذه المواقع الإلكترونية</translation>
 <translation id="1145536944570833626">سيتم حذف البيانات الحالية.</translation>
-<translation id="1150263420752757504">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Chrome. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Google Chrome ونظام التشغيل Chrome<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Chrome. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Cobalt ونظام التشغيل Chrome<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">استخدام كلمة المرور "<ph name="PASSWORD" />"</translation>
 <translation id="1173894706177603556">إعادة تسمية</translation>
 <translation id="1174479719160874822">‏سيطلب Chrome الوصول إلى الموقع الإلكتروني المخصّص للأجهزة الجوالة إذا كان حجم الشاشة صغيرًا</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">تم فتح مجلدات مسار حفظ الإشارات المرجعية بطول الشاشة.</translation>
 <translation id="1327257854815634930">يتم فتح سجلّ التنقُّل.</translation>
 <translation id="1331212799747679585">‏يتعذَّر تحديث Chrome. يُرجى الاطِّلاع على مزيد من الخيارات</translation>
-<translation id="1332501820983677155">‏اختصارات ميزات Google Chrome</translation>
+<translation id="1332501820983677155">‏اختصارات ميزات Cobalt</translation>
 <translation id="1344653310988386453">تضمين رابط يؤدي إلى النصوص التي تم تمييزها</translation>
 <translation id="1347468774581902829">إدارة النشاط</translation>
 <translation id="1360432990279830238">هل تريد تسجيل الخروج وإيقاف المزامنة؟</translation>
@@ -400,7 +400,7 @@
 <translation id="3066573403916685335">الانتقال للأسفل
 </translation>
 <translation id="3070005020161560471">لغات أريد ترجمتها تلقائيًا</translation>
-<translation id="3072980200212375806">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Chrome. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Google Chrome ونظام التشغيل Chrome<ph name="END_LINK2" />، علمًا بأنّ <ph name="BEGIN_LINK3" />سياسة الخصوصية<ph name="END_LINK3" /> تسري أيضًا.</translation>
+<translation id="3072980200212375806">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Chrome. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Cobalt ونظام التشغيل Chrome<ph name="END_LINK2" />، علمًا بأنّ <ph name="BEGIN_LINK3" />سياسة الخصوصية<ph name="END_LINK3" /> تسري أيضًا.</translation>
 <translation id="3080525922482950719">يمكنك حفظ صفحات لقرائتها لاحقًا أو بلا إنترنت.</translation>
 <translation id="3091010850649238832">عرض محتوى الحافظة</translation>
 <translation id="3098745985164956033">‏يتم إرسال بعض الصور إلى Google لتحسين أوصاف الصور.</translation>
@@ -419,7 +419,7 @@
 <translation id="3214996641768123781">‏قد يتم حفظ <ph name="BEGIN_LINK1" />سجلّ البحث<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بيانات الأنشطة الأخرى<ph name="END_LINK2" /> في حسابك على Google عند تسجيل الدخول إليه. ويمكنك حذفها في أي وقت.</translation>
 <translation id="3220943972464248773">لاستئناف مزامنة كلمات المرور، يجب إثبات هويّتك.</translation>
 <translation id="3226612997184048185">‏إذا حفظت أيضًا إشاراتك المرجعية في حسابك على Google، يمكنك تتبُّع أسعار المنتجات من خلال Chrome وتلقّي إشعارات عند انخفاض السعر.</translation>
-<translation id="3227557059438308877">‏استخدام Google Chrome كمفتاح أمان</translation>
+<translation id="3227557059438308877">‏استخدام Cobalt كمفتاح أمان</translation>
 <translation id="3232754137068452469">تطبيق الويب</translation>
 <translation id="3236059992281584593">يتبقى دقيقة واحدة</translation>
 <translation id="3237087289225714896">التحميل المُسبق العادي:</translation>
@@ -1113,7 +1113,7 @@
 <translation id="6767294960381293877">قائمة الأجهزة التي يمكن مشاركة علامة تبويب معها، مفتوحة على طول النصف السفلي من الشاشة.</translation>
 <translation id="6770602306803890733">تحسين الأمان من أجلك ومن أجل جميع المستخدمين على الإنترنت</translation>
 <translation id="6775840696761158817">عند النقر على شريط العناوين أو مربّع البحث أو الكتابة فيهما، ستظهر لك اقتراحات من محرك البحث التلقائي. يتم إيقاف هذه الاقتراحات في "وضع التصفّح المتخفي".</translation>
-<translation id="6785476624617658922">‏بنود الخدمة الإضافية لكل من متصفّح Google Chrome ونظام التشغيل Chrome</translation>
+<translation id="6785476624617658922">‏بنود الخدمة الإضافية لكل من متصفّح Cobalt ونظام التشغيل Chrome</translation>
 <translation id="6795633245022906657">يتيح لك هذا الزر فتح علامة تبويب جديدة بسرعة. ولتعديل هذا الاختصار، انتقِل إلى "الإعدادات".</translation>
 <translation id="6802555630140434547">سيتم إغلاق النافذة.</translation>
 <translation id="6811034713472274749">الصفحة جاهزة للعرض</translation>
@@ -1626,7 +1626,7 @@
 <translation id="9219103736887031265">الصور</translation>
 <translation id="92381315203627188">‏عندما يطلب أحد المواقع الإلكترونية تحميل الروابط في صفحته مُسبقًا بخصوصية، سيشفِّر Chrome الصفحات ويحمّلها مُسبقًا من خلال خوادم Google بدون ملفات تعريف الارتباط. يؤدي هذا الإجراء إلى إخفاء هويتك عن الموقع الإلكتروني الذي يتم تحميله مُسبقًا.</translation>
 <translation id="926205370408745186">‏إزالة نشاط Chrome من الرفاهية الرقمية</translation>
-<translation id="927968626442779827">‏استخدِم "الوضع البسيط" على Google Chrome.</translation>
+<translation id="927968626442779827">‏استخدِم "الوضع البسيط" على Cobalt.</translation>
 <translation id="928550791203542716">تتم متابعة "<ph name="SITE_NAME" />"</translation>
 <translation id="93533588269984624">سيتم تنزيل جميع كلمات المرور على جهازك وإزالتها من "<ph name="CHROME_CHANNEL" />".</translation>
 <translation id="938850635132480979">الخطأ: <ph name="ERROR_CODE" /></translation>

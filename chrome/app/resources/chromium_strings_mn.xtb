@@ -167,7 +167,7 @@
 <translation id="3941890832296813527">Суулгах үед алдаа гарлаа: Суулгагчийн файлын нэр буруу эсвэл дэмжигдээгүй.</translation>
 <translation id="3945058413678539331">Cobalt нь нууц үгс хуулахыг оролдож байна. Үүнийг зөвшөөрөхийн тулд Windows-н нууц үгээ бичнэ үү.</translation>
 <translation id="3962647064319009959">Cobalt таныг хэрхэн аюулгүй байлгадаг болохыг мэдэж авна уу</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing-н тухай</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing-н тухай</translation>
 <translation id="3997429360543082038">ChromiumOS-н тухай</translation>
 <translation id="4019629340646866719">ChromiumOS-г <ph name="BEGIN_LINK_LINUX_OSS" />Linux-н хөгжүүлэлтийн орчин <ph name="END_LINK_LINUX_OSS" /> болох нэмэлт <ph name="BEGIN_LINK_CROS_OSS" />нээлттэй эх кодын программ хангамжаар<ph name="END_LINK_CROS_OSS" /> боломжтой болгосон.</translation>
 <translation id="4036079820698952681"><ph name="BEGIN_LINK" />Одоогийн тохиргоог<ph name="END_LINK" /> мэдэгдэж Cobalt-г сайжруулахад тусална уу</translation>
@@ -401,7 +401,7 @@
 <translation id="8013436988911883588">Cobalt-д хандалт олгосны дараа веб сайтууд таны хандалтыг асуух боломжтой болно.</translation>
 <translation id="80471789339884597">Суулгасанд баярлалаа. Та <ph name="BUNDLE_NAME" />-г ашиглахаасаа өмнө бүх хөтчөө дахин эхлүүлэх ёстой.</translation>
 <translation id="8086881907087796310">Таны компьютер техник хангамжийн доод шаардлагад нийцэхгүй байгаа тул суулгалт амжилтгүй болсон.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt-д энэ сайтад зориулж байршлын зөвшөөрөл шаардлагатай</translation>
 <translation id="8133124826068723441">Синк нь таны домэйнд боломжгүй тул ChromiumOS таны өгөгдлийг синк хийж чадсангүй.</translation>
 <translation id="813913629614996137">Эхлүүлж байна…</translation>
@@ -434,7 +434,7 @@
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Бид энэ өгөгдлийг хэрхэн ашигладаг вэ?:<ph name="END_BOLD" /> Сайтууд Cobalt-р таны сонирхлын талаарх мэдээллийг хадгалах боломжтой. Жишээлбэл, та марафонд зориулж гутал авахаар сайтад зочилсон бол тухайн сайт таны сонирхлыг марафонд гүйх гэж тодорхойлж магадгүй. Дараа та уралдаанд бүртгүүлэхийн тулд өөр сайтад зочилсон бол тухайн сайт таны сонирхолд тулгуурлан танд гүйлтийн гутлын зарыг харуулах боломжтой.</translation>
 <translation id="8619360774459241877">Cobalt-г эхлүүлж байна...</translation>
 <translation id="8621669128220841554">Гэнэтийн алдаанаас болж суулгах ажиллагаа амжилтгүй боллоо. Cobalt-ыг дахин татаж авна уу.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing-г өгөгдмөл хөтчөө болгох боломжгүй.</translation>
+<translation id="8648201657708811153">Cobalt for Testing-г өгөгдмөл хөтчөө болгох боломжгүй.</translation>
 <translation id="8697124171261953979">Энэ нь мөн таныг Cobalt-ыг эхлүүлж байх үед эсвэл Omnibox-аас хайлт хийж буй үед гарч ирдэг хуудсыг хянаж байдаг.</translation>
 <translation id="8704119203788522458">Энэ бол таны Cobalt.</translation>
 <translation id="8719993436687031146">Cobalt-д нэвтрэх үү?</translation>

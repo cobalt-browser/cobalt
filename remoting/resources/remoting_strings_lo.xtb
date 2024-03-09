@@ -153,10 +153,10 @@ Desktop</translation>
 <translation id="7693372326588366043">ຣີເຟຣຊລາຍຊື່ແມ່ຂ່າຍ</translation>
 <translation id="7714222945760997814">ລາຍງານສິ່ງນີ້</translation>
 <translation id="7868137160098754906">ກະ​ລຸ​ນາ​ໃສ່ PIN ຂອງ​ທ່ານ​ສໍາ​ລັບ​ຄອມ​ພິວ​ເຕີທາງ​ໄກ.</translation>
-<translation id="7881455334687220899">ລິຂະສິດ 2024 Chromium Authors. ສະຫງວນສິດທັງໝົດ.</translation>
+<translation id="7881455334687220899">ລິຂະສິດ 2024 Cobalt Authors. ສະຫງວນສິດທັງໝົດ.</translation>
 <translation id="7895403300744144251">ນະໂຍບາຍຄວາມປອດໄພໃນຄອມພິວເຕີທາງໄກບໍ່ອະນຸຍາດການເຊື່ອມຕໍ່ຈາກບັນຊີຂອງທ່ານ.</translation>
 <translation id="7936528439960309876">ຄັດຕິດໃສ່ເບື້ອງຂວາ</translation>
-<translation id="7970576581263377361">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Chromium ອີກ.</translation>
+<translation id="7970576581263377361">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Cobalt ອີກ.</translation>
 <translation id="7981525049612125370">ຊ່ວງເຂົ້າໃຊ້​ທາງ​ໄກ​ໝົດ​ອາ​ຍຸ​ແລ້ວ.</translation>
 <translation id="8038111231936746805">(ມາດຕະຖານ)</translation>
 <translation id="8041089156583427627">ສົ່ງຄຳຕິຊົມ</translation>
@@ -192,6 +192,6 @@ Desktop</translation>
 <translation id="9187628920394877737">ໃຫ້ການອະນຸຍາດ 'ການບັນທຶກໜ້າຈໍ' ແກ່ <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">ການ​ກຳ​ນົດ​ຄ່າ​ແມ່​ຂ່າຍ​ໃຊ້​ບໍ່​ໄດ້.</translation>
 <translation id="981121421437150478">ອອຟລາຍນ໌</translation>
-<translation id="985602178874221306">ຜູ້ຂຽນ Chromium</translation>
+<translation id="985602178874221306">ຜູ້ຂຽນ Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ອອນ​ລາຍ​ນ໌​ຄັ້ງ​ສຸດ​ທ້າຍ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -165,7 +165,7 @@
 <translation id="3941890832296813527">Грешка при инсталирането: Името на файла с инсталационната програма е невалидно или не се поддържа.</translation>
 <translation id="3945058413678539331">Cobalt опитва да копира паролите. За да разрешите това, въведете паролата си за Windows.</translation>
 <translation id="3962647064319009959">Научете как Cobalt ви защитава</translation>
-<translation id="3975724895399328945">Всичко за &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Всичко за &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Всичко за Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS е възможна благодарение на допълнителен <ph name="BEGIN_LINK_CROS_OSS" />софтуер с отворен код<ph name="END_LINK_CROS_OSS" />. Това се отнася и за <ph name="BEGIN_LINK_LINUX_OSS" />базираната на Linux среда на програмиране<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Помогнете за подобряването на Cobalt, като подадете сигнал за <ph name="BEGIN_LINK" />текущите настройки<ph name="END_LINK" /></translation>
@@ -397,7 +397,7 @@
 <translation id="8013436988911883588">След като Cobalt получи достъп, уебсайтовете ще могат да искат достъп от вас.</translation>
 <translation id="80471789339884597">Благодарим ви, че инсталирахте <ph name="BUNDLE_NAME" />. Трябва да рестартирате всичките си браузъри, преди да използвате това приложение.</translation>
 <translation id="8086881907087796310">Инсталирането не бе успешно, защото компютърът ви не отговаря на минималните изисквания за хардуера.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">За този сайт Cobalt се нуждае от разрешение за достъп до местоположението</translation>
 <translation id="8133124826068723441">Cobalt OS не можа да синхронизира данните ви, защото тази функция не е налице за домейна ви.</translation>
 <translation id="813913629614996137">Подготвя се за работа...</translation>
@@ -430,7 +430,7 @@
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Как използваме тези данни<ph name="END_BOLD" />: Сайтовете могат да съхраняват в Cobalt информация за интересите ви. Ако например посетите даден сайт, за да купите обувки за маратон, той може да определи, че се интересувате от маратони. В случай че по-късно посетите друг сайт, за да се регистрирате за състезание, той може да ви покаже реклама на обувки за бягане въз основа на интересите ви.</translation>
 <translation id="8619360774459241877">Cobalt стартира…</translation>
 <translation id="8621669128220841554">Инсталирането не бе успешно поради неизвестна грешка. Моля, изтеглете отново Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing не може да бъде зададен като браузъра ви по подразбиране.</translation>
+<translation id="8648201657708811153">Cobalt for Testing не може да бъде зададен като браузъра ви по подразбиране.</translation>
 <translation id="8697124171261953979">То също контролира коя страница се показва при стартиране на Cobalt или при търсене от полето за всичко.</translation>
 <translation id="8704119203788522458">Това е вашият Cobalt</translation>
 <translation id="8719993436687031146">Искате ли да влезете в Cobalt?</translation>

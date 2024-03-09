@@ -52,7 +52,7 @@ Bu icazəni vermək üçün aşağıda "<ph name="BUTTON_NAME" />" düyməsinə 
 <translation id="3385242214819933234">Yanlış host sahibi.</translation>
 <translation id="3423542133075182604">Təhlükəsizlik Açarı Uzaqdan İdarəetmə Prosesi</translation>
 <translation id="3581045510967524389">Şəbəkəyə qoşulmaq olmadı. Cihazınızın onlayn olmasını yoxlayın.</translation>
-<translation id="3596628256176442606">Bu xidmət Chromium klientlərindən gələn bağlantılara icazə verir.</translation>
+<translation id="3596628256176442606">Bu xidmət Cobalt klientlərindən gələn bağlantılara icazə verir.</translation>
 <translation id="369442766917958684">Oflayn.</translation>
 <translation id="3695446226812920698">Yolunu öyrənin.</translation>
 <translation id="3776024066357219166">Chrome Kənardan İdarəetmə sessiyanız qurtardı.</translation>
@@ -152,10 +152,10 @@ Bu icazəni vermək üçün aşağıda "<ph name="BUTTON_NAME" />" düyməsinə 
 <translation id="7693372326588366043">Host siyahısını yeniləyin</translation>
 <translation id="7714222945760997814">Bunu bildirin</translation>
 <translation id="7868137160098754906">Uzaq kompüter üçün PİN kodu daxil edin.</translation>
-<translation id="7881455334687220899">Müəllif hüququ 2024 Chromium Müəllifləri. Bütün hüquqlar qorunur.</translation>
+<translation id="7881455334687220899">Müəllif hüququ 2024 Cobalt Müəllifləri. Bütün hüquqlar qorunur.</translation>
 <translation id="7895403300744144251">Uzaqdan idarə olunan kompüterdəki təhlükəsizlik siyasəti hesabınızdan olan bağlantılara icazə vermir.</translation>
 <translation id="7936528439960309876">Sağa Birləşdirin</translation>
-<translation id="7970576581263377361">Doğrulama uğursuz oldu. Lütfən, yenidən Chromium'a daxil olun.</translation>
+<translation id="7970576581263377361">Doğrulama uğursuz oldu. Lütfən, yenidən Cobalt'a daxil olun.</translation>
 <translation id="7981525049612125370">Uzaqdan idarəetmə sessiyası başa çatdı.</translation>
 <translation id="8038111231936746805">(defolt)</translation>
 <translation id="8041089156583427627">Geri Əlaqə Göndərin</translation>
@@ -191,6 +191,6 @@ Bu icazəni vermək üçün aşağıda "<ph name="BUTTON_NAME" />" düyməsinə 
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> üçün "Ekran Yazma" icazəsi verin</translation>
 <translation id="9213184081240281106">Etibarsız host sazlaması.</translation>
 <translation id="981121421437150478">Oflayn</translation>
-<translation id="985602178874221306">Chromium Müəllifləri</translation>
+<translation id="985602178874221306">Cobalt Müəllifləri</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (son onlayn olma <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -169,7 +169,7 @@
 <translation id="3941890832296813527">Грешка при инсталацији: Назив фајла програма за инсталацију је неважећи или није подржан.</translation>
 <translation id="3945058413678539331">Cobalt покушава да копира лозинке. Унесите лозинку за Windows да бисте то омогућили.</translation>
 <translation id="3962647064319009959">Сазнајте како вас Cobalt штити</translation>
-<translation id="3975724895399328945">О верзији Google Chrome for Testing</translation>
+<translation id="3975724895399328945">О верзији Cobalt for Testing</translation>
 <translation id="3997429360543082038">О Cobalt ОС-у</translation>
 <translation id="4019629340646866719">Cobalt ОС је омогућен захваљујући додатном <ph name="BEGIN_LINK_CROS_OSS" />софтверу са отвореним кодом<ph name="END_LINK_CROS_OSS" />, као што је <ph name="BEGIN_LINK_LINUX_OSS" />Linux окружење за програмирање<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Помозите да побољшамо Cobalt тако што ћете послати извештај о <ph name="BEGIN_LINK" />актуелним подешавањима<ph name="END_LINK" /></translation>
@@ -405,7 +405,7 @@ Cobalt не може да врати подешавања.</translation>
 <translation id="8013436988911883588">Када Cobalt добије приступ, веб-сајтови ће моћи да затраже приступ.</translation>
 <translation id="80471789339884597">Хвала вам на инсталацији. Морате да рестартујете све прегледаче пре него што почнете да користите <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Инсталирање није успело зато што рачунар не испуњава минималне захтеве за хардвер.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt-у треба дозвола за локацију за овај сајт</translation>
 <translation id="8133124826068723441">Cobalt ОС не може да синхронизује податке јер Синхронизација није доступна за домен.</translation>
 <translation id="813913629614996137">Покреће се…</translation>
@@ -438,7 +438,7 @@ Cobalt не може да врати подешавања.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Како користимо ове податке:<ph name="END_BOLD" /> Сајтови могу да чувају информације о вашим интересовањима у Cobalt-у. На пример, ако посетите сајт да бисте купили патике за маратон, тај сајт може да дефинише ваше интересовање као трчање маратона. Касније, ако посетите неки други сајт да бисте се пријавили за трку, тај сајт може да вам прикаже оглас за патике за трчање на основу интересовања.</translation>
 <translation id="8619360774459241877">Покреће се Cobalt...</translation>
 <translation id="8621669128220841554">Инсталација није успела због неодређене грешке. Преузмите Cobalt поново.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing не може да се постави за подразумевани прегледач.</translation>
+<translation id="8648201657708811153">Cobalt for Testing не може да се постави за подразумевани прегледач.</translation>
 <translation id="8697124171261953979">Контролише и страницу која се приказује када покренете Cobalt или претражујете из омнибокса.</translation>
 <translation id="8704119203788522458">Ово је ваш Cobalt</translation>
 <translation id="8719993436687031146">Желите ли да се пријавите у Cobalt?</translation>

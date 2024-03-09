@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Failide ettevalmistamine</translation>
 <translation id="1015730422737071372">Esitage lisateavet</translation>
 <translation id="1019413721762100891">Väljas</translation>
-<translation id="1021753677514347426">Selle probleemi põhjuseks on teie või kellegi teise installitud sertifikaat. Seda sertifikaati kasutatakse võrkude jälgimiseks ja ühenduste katkestamiseks ning Chromium ei usalda seda. Kuigi mõnel puhul on jälgimine seaduslik (nt kooli või ettevõtte võrgus), soovib Chromium tagada, et oleksite sellest teadlik ka juhul, kui te ei saa seda peatada. Jälgimine võib toimuda veebiühendusega brauseris või rakenduses.</translation>
+<translation id="1021753677514347426">Selle probleemi põhjuseks on teie või kellegi teise installitud sertifikaat. Seda sertifikaati kasutatakse võrkude jälgimiseks ja ühenduste katkestamiseks ning Cobalt ei usalda seda. Kuigi mõnel puhul on jälgimine seaduslik (nt kooli või ettevõtte võrgus), soovib Cobalt tagada, et oleksite sellest teadlik ka juhul, kui te ei saa seda peatada. Jälgimine võib toimuda veebiühendusega brauseris või rakenduses.</translation>
 <translation id="1024111578869940408">Ründajad imiteerivad mõnikord saite, tehes veebiaadressis väikeseid raskesti märgatavaid muudatusi.</translation>
 <translation id="1024913885641459127">Toodete arvustused ja hinnavõrdlused</translation>
 <translation id="1028781062521375153">Kuva üksikasjad</translation>
@@ -317,7 +317,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1567040042588613346">See reegel töötab eesmärgipäraselt, kuid mujal on seadistatud sama väärtus, mis on selle reegliga asendatud.</translation>
 <translation id="1567405528131216114">Lisa <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Sisestage aegumiskuupäev</translation>
-<translation id="1569694109004336106">Google Chrome üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
+<translation id="1569694109004336106">Cobalt üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> × <ph name="HEIGHT" /> tolli</translation>
 <translation id="1574714699824202614">Makseviisi kinnitamine</translation>
 <translation id="1576277203042721907">Shopping Insights</translation>
@@ -360,7 +360,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="1645368109819982629">Toetuseta protokoll</translation>
 <translation id="1650602712345345441">Chrome'i seadete haldamine</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Paroolihalduri kasutamiseks koos macOS Keychainiga taaskäivitage Chromium ja lubage juurdepääs Keychainile. Teie vahelehed avanevad pärast taaskäivitamist uuesti.</translation>
+<translation id="1652862280638399816">Paroolihalduri kasutamiseks koos macOS Keychainiga taaskäivitage Cobalt ja lubage juurdepääs Keychainile. Teie vahelehed avanevad pärast taaskäivitamist uuesti.</translation>
 <translation id="1656024727720460136">Chrome lihtsustas seda lehte, et seda oleks lihtsam lugeda. Chrome hankis algse lehe turvalise ühenduse kaudu.</translation>
 <translation id="1656489000284462475">Kättesaamine</translation>
 <translation id="1658111267661135323">Televisioon ja video</translation>
@@ -509,7 +509,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="194174710521904357">Lubasite sellel saidil ajutiselt kasutada kolmanda osapoole küpsisefaile, mis tähendab väiksemat sirvimiskaitset, kuid saidi funktsioonid töötavad tõenäolisemalt ootuspäraselt.</translation>
 <translation id="1942498996464084801">Raamatud ja kirjandus</translation>
 <translation id="1943994668912612445">Disain</translation>
-<translation id="1945968466830820669">Võite kaotada juurdepääsu oma organisatsiooni kontole või teie identiteet võidakse varastada. Chromium soovitab teil kohe oma parooli muuta.</translation>
+<translation id="1945968466830820669">Võite kaotada juurdepääsu oma organisatsiooni kontole või teie identiteet võidakse varastada. Cobalt soovitab teil kohe oma parooli muuta.</translation>
 <translation id="1946849748901605102">12 × 15 tolli</translation>
 <translation id="1947454675006758438">Kirjaklamber paremal ülal</translation>
 <translation id="1953729392594614704">Teema <ph name="TOPIC" /> blokeerimine blokeerib ka kõik seotud teemad, isegi kui teema on aktiivne</translation>
@@ -588,7 +588,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2083256696566019397">Luba igal külastusel</translation>
 <translation id="2085876078937250610">Salvestamine …</translation>
 <translation id="2091887806945687916">Heli</translation>
-<translation id="2093982008204312032">Google Chrome üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
+<translation id="2093982008204312032">Cobalt üritab paroolide sisestamiseks lülitada sisse Windows Hello.</translation>
 <translation id="2094505752054353250">Domeeni vastuolu</translation>
 <translation id="2094704029599359040">Versiooniteave</translation>
 <translation id="2099652385553570808">Kolm kirjaklambrit vasakul</translation>
@@ -758,7 +758,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="239429038616798445">See tarneviis pole saadaval. Proovige mõnda teist tarneviisi.</translation>
 <translation id="2395840535409704129">Veesport</translation>
 <translation id="2396249848217231973">&amp;Võta kustutamine tagasi</translation>
-<translation id="2399868464369312507">Google Chrome üritab muuta makseviise.</translation>
+<translation id="2399868464369312507">Cobalt üritab muuta makseviise.</translation>
 <translation id="2400600116338235695">Saab küsida luba jadaportidega ühenduse loomiseks</translation>
 <translation id="2404884497378469141">Proovige oma failid uuesti kopeerida</translation>
 <translation id="2413155254802890957">Vana</translation>
@@ -1026,7 +1026,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="2979424420072875974">Ressursid kirjanikele ja kirjutajatele</translation>
 <translation id="2980742331521553164">Selle kaardi CVC krüpteeritakse ja salvestatakse teie Google'i kontole, et saaksite kiiremini maksta</translation>
 <translation id="2983666748527428214">Inkognito vahelehe avamine</translation>
-<translation id="2985306909656435243">Kui see on lubatud, salvestab Chromium teie kaardi koopia vormide kiiremaks täitmiseks sellesse seadmesse.</translation>
+<translation id="2985306909656435243">Kui see on lubatud, salvestab Cobalt teie kaardi koopia vormide kiiremaks täitmiseks sellesse seadmesse.</translation>
 <translation id="2985398929374701810">Sisestage kehtiv aadress</translation>
 <translation id="2987034854559945715">Sobivaid funktsioone ei leitud</translation>
 <translation id="2988216301273604645">Chrome piirab teabe hulka, mida saidid saavad teie sirvimise ajal jälgida. Saate muuta oma seadeid, et valida oma kaitsetase.</translation>
@@ -1162,7 +1162,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="324180406144491771">Hosti „<ph name="HOST_NAME" />“ lingid on blokeeritud</translation>
 <translation id="3252772880526154546">Arhitektuur</translation>
 <translation id="3254301855501243548">18 × 22 tolli</translation>
-<translation id="3255926992597692024">Chromium proovib muuta makseviiside sisestamise seadeid.</translation>
+<translation id="3255926992597692024">Cobalt proovib muuta makseviiside sisestamise seadeid.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, rakenduses Google'i kalender kiirelt uue sündmuse loomiseks vajutage tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="3261488570342242926">Lisateave virtuaalkaartide kohta</translation>
 <translation id="3262698603497362968">Ostuvalikud</translation>
@@ -1249,7 +1249,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="3423742043356668186">Süsteemi määratud</translation>
 <translation id="3427092606871434483">Luba (vaikimisi)</translation>
 <translation id="3427342743765426898">&amp;Muuda uuesti</translation>
-<translation id="342781501876943858">Chromium soovitab teil parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+<translation id="342781501876943858">Cobalt soovitab teil parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
 <translation id="3428151540071562330">Vähemalt üks reegli DnsOverHttpsTemplates serveri malli URI on kehtetu ja seda ei kasutata.</translation>
 <translation id="3428789896412418755">Rühmitatud ajalugu</translation>
 <translation id="3431216045099978607">Täisekraanilt väljumiseks ja allalaaditud faili(de) nägemiseks vajutage klahvi |<ph name="ACCELERATOR" />|.</translation>
@@ -1437,7 +1437,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="374325029554577103">Treeningu- ja tervisejälgimisseadmed</translation>
 <translation id="3744111561329211289">Taustal sünkroonimine</translation>
 <translation id="3744212718085287312">Kas soovite selle muuta järgmisel korral virtuaalkaardiga veelgi turvalisemaks?</translation>
-<translation id="3744899669254331632">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest veebisait saatis tagasi arusaamatud mandaadid, mida Chromium ei saa töödelda. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
+<translation id="3744899669254331632">Te ei saa saiti <ph name="SITE" /> praegu külastada, sest veebisait saatis tagasi arusaamatud mandaadid, mida Cobalt ei saa töödelda. Võrguvead ja -rünnakud on tavaliselt ajutised, nii et leht tõenäoliselt hiljem töötab.</translation>
 <translation id="3745599309295009257">Teie tekst ja sisu ning lehe URL, millel kirjutate, saadetakse Google'ile, inimesed vaatavad selle üle ning seda kasutatakse selle funktsiooni täiustamiseks. Ärge sisestage isiklikku teavet (nt meditsiini- või finantsdetaile) ega kasutage seda tööriista saitidel, mis sisaldavad privaatset või delikaatset teavet.</translation>
 <translation id="3748009735914587286">Metall (kõrgläikega)</translation>
 <translation id="3748148204939282805">Saidil <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> asuvad ründajad võivad teid meelitada ohtlikele tegevustele, nagu tarkvara installimine või isiklike andmete (nt paroolid, telefoninumbrid või krediitkaarditeave) avaldamine. <ph name="BEGIN_LEARN_MORE_LINK" />Lisateave<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4047351652147966654">18 × 24 tolli</translation>
 <translation id="404831776305217138">ID-ga „<ph name="EXTENSION_ID" />” laienduse URL-i värskendamine on kehtetu või kasutab toetamata skeemi. Toetatud skeemid on: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> ja <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Saate seda kõigis Google'i teenustes kasutada</translation>
-<translation id="4050599136622776556">Chromium üritab muuta makseviise.</translation>
+<translation id="4050599136622776556">Cobalt üritab muuta makseviise.</translation>
 <translation id="405399507749852140">Teile saadetakse märguanne, kui hind mõnel saidil langeb</translation>
 <translation id="4056223980640387499">Seepia</translation>
 <translation id="4059523390906550209">Vaadake lisateavet delikaatsete isikuandmete kaitse kohta</translation>
@@ -1919,7 +1919,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4732860731866514038"><ph name="LANGUAGE" /> keele paketi allalaadimine... <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> soovib kasutada teie seadme asukohta</translation>
 <translation id="473414950835101501">Kasutada teie kaameraid</translation>
-<translation id="4736825316280949806">Taaskäivitage Chromium</translation>
+<translation id="4736825316280949806">Taaskäivitage Cobalt</translation>
 <translation id="4736934858538408121">Virtuaalkaart</translation>
 <translation id="473775607612524610">Värskenda</translation>
 <translation id="4738601419177586157">Otsingusoovitus: <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4756388243121344051">&amp;Ajalugu</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Pääsuvõti teie Chrome'i profiililt</translation>
-<translation id="4757993714154412917">Sisestasite äsja oma parooli kahtlasele saidile. Teie kontode turvalisuse tagamiseks soovitab Chromium teil salvestatud paroole kohe kontrollida.</translation>
+<translation id="4757993714154412917">Sisestasite äsja oma parooli kahtlasele saidile. Teie kontode turvalisuse tagamiseks soovitab Cobalt teil salvestatud paroole kohe kontrollida.</translation>
 <translation id="4758311279753947758">Lisage kontaktteave</translation>
 <translation id="4761326898079498987">Lisateabe saamiseks vaadake üle</translation>
 <translation id="4761869838909035636">Käita Chrome'i ohutuskontroll</translation>
@@ -2023,7 +2023,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="4918221908152712722">Installige rakendus <ph name="APP_NAME" /> (allalaadimine pole vajalik)</translation>
 <translation id="4920457992177678649">Puhkemajutus ja lühiajaline üürimine</translation>
 <translation id="4920710383559189047">Ümbris</translation>
-<translation id="4922104989726031751">Paroolihalduri kasutamiseks oma operatsioonisüsteemiga käivitage Chromium uuesti ja lubage juurdepääs oma arvuti paroolihaldurile. Pärast uuesti käivitamist avanevad teie vahelehed taas.</translation>
+<translation id="4922104989726031751">Paroolihalduri kasutamiseks oma operatsioonisüsteemiga käivitage Cobalt uuesti ja lubage juurdepääs oma arvuti paroolihaldurile. Pärast uuesti käivitamist avanevad teie vahelehed taas.</translation>
 <translation id="4923459931733593730">Makse</translation>
 <translation id="4926049483395192435">Tuleb määrata.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> ütleb</translation>
@@ -2108,7 +2108,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5087580092889165836">Lisa kaart</translation>
 <translation id="5088142053160410913">Sõnum operaatorile</translation>
 <translation id="5093232627742069661">Z-kujuliselt volditud</translation>
-<translation id="5094747076828555589">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, Chromium ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
+<translation id="5094747076828555589">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, Cobalt ei usalda selle turvasertifikaati. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
 <translation id="5097099694988056070">Seadme statistika, näiteks protsessori/muutmälu kasutus</translation>
 <translation id="5097468150760963273">27 × 39 tolli</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5137761395480718572">See rakendus küsib luba WiFi mandaadi installimiseks. Pärast seadistamist loob teie <ph name="DEVICE_TYPE" /> osalevate WiFi-võrkudega automaatselt ühenduse. Selle mandaadi eemaldamiseks desinstallige rakendus. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuaalkaart pole praegu saadaval. Võtke ühendust oma pangaga.</translation>
 <translation id="5138227688689900538">Kuva vähem</translation>
-<translation id="5143309888746105072">Chromium blokeerib saitide puhul kolmanda osapoole küpsisefailide kasutamise teie jälgimiseks sirvimise ajal.
+<translation id="5143309888746105072">Cobalt blokeerib saitide puhul kolmanda osapoole küpsisefailide kasutamise teie jälgimiseks sirvimise ajal.
             <ph name="NEW_LINE" />Kui saidi funktsioonid ei tööta, <ph name="START_LINK" />proovige kolmanda osapoole küpsisefailid ajutiselt lubada<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Reegli vastuses sisaldus veakood</translation>
 <translation id="5146995429444047494">Saidi <ph name="ORIGIN" /> märguanded on blokeeritud</translation>
@@ -2273,7 +2273,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="5425082381151187189">Kodusisustus ja sisekujundus</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> soovib teile saata märguandeid</translation>
 <translation id="5430298929874300616">Järjehoidja eemaldamine</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />ei salvesta<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />ei salvesta<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />teie sirvimisajalugu
             <ph name="LIST_ITEM" />küpsisefaile ja saidi andmeid
@@ -2648,7 +2648,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6160391204859821737">Reklaamiprivaatsusfunktsiooni sisselülitamine</translation>
 <translation id="6165508094623778733">Lisateave</translation>
 <translation id="6167577165590485365">Viimane toomiskatse:</translation>
-<translation id="617256461084925519">Google Chrome üritab teie isikut kinnitada, et teie makseteave sisestada.</translation>
+<translation id="617256461084925519">Cobalt üritab teie isikut kinnitada, et teie makseteave sisestada.</translation>
 <translation id="6176387967264100435">See hind on kõrge</translation>
 <translation id="6177128806592000436">Teie ühendus selle saidiga pole turvaline</translation>
 <translation id="6177531123306197852">Ümbrik C2</translation>
@@ -2782,7 +2782,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6410264514553301377">Sisestage krediitkaardi <ph name="CREDIT_CARD" /> aegumiskuupäev ja CVC</translation>
 <translation id="6411107829285739505">A4 × 8</translation>
 <translation id="6414010576370319452">Naha- ja küünehooldus</translation>
-<translation id="6415778972515849510">Chromium aitab teil oma Google'i kontot kaitsta ja parooli muuta.</translation>
+<translation id="6415778972515849510">Cobalt aitab teil oma Google'i kontot kaitsta ja parooli muuta.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Palgateenused</translation>
 <translation id="6424600253695044005">Pilvepõhine salvestusruum</translation>
@@ -3069,7 +3069,7 @@ Vastasel korral blokeeritakse see teie privaatsusseadetes. See võimaldab teie k
 <translation id="6973988895180423160">3,5 × 5 tolli</translation>
 <translation id="6978121630131642226">Otsingumootorid</translation>
 <translation id="6978236010531171013">Jaga ikkagi</translation>
-<translation id="6978722349058177832">Kui jagate seda seadet, võib Chromium teilt paluda kinnitust iga kord, kui kasutate maksmiseks automaattäidet</translation>
+<translation id="6978722349058177832">Kui jagate seda seadet, võib Cobalt teilt paluda kinnitust iga kord, kui kasutate maksmiseks automaattäidet</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Vaigista (vaikeseade)</translation>
 <translation id="6987806006823772670">Ümbrik (kaetud)</translation>
@@ -3234,7 +3234,7 @@ Lisateave:
 <translation id="7308436126008021607">taustal sünkroonimine</translation>
 <translation id="7310392214323165548">Seade taaskäivitub peagi</translation>
 <translation id="7311244614769792472">Tulemusi ei leitud</translation>
-<translation id="7311837626618954149">Chromium blokeerib saitide puhul kolmanda osapoole küpsisefailide kasutamise teie jälgimiseks sirvimise ajal.</translation>
+<translation id="7311837626618954149">Cobalt blokeerib saitide puhul kolmanda osapoole küpsisefailide kasutamise teie jälgimiseks sirvimise ajal.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Ühendamise abi</translation>
 <translation id="7323804146520582233">Peida jaotis „<ph name="SECTION" />”</translation>
@@ -3307,7 +3307,7 @@ Lisateave:
 <translation id="7425878584435172632">Visuaalne kunst ja kujundus</translation>
 <translation id="7427079287360774240">Võõrkeeleõpe</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Kinnitage oma isik, et Chromium saaks teie makseteabe sisestada.</translation>
+<translation id="7432774160230062882">Kinnitage oma isik, et Cobalt saaks teie makseteabe sisestada.</translation>
 <translation id="7437289804838430631">Lisa kontaktteave</translation>
 <translation id="7438338505272634288">Saidil, mida proovite külastada, võivad ründajad meelitada teid installima kahjulikku tarkvara, mis mõjutab teie sirvimisviisi – näiteks muutes teie avalehte või näidates teile külastatavatel saitidel lisareklaame. Kahju vältimiseks soovitab Chrome tungivalt turvalisse keskkonda naasta. <ph name="BEGIN_LEARN_MORE_LINK" />Lisateave<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Uurige võrguühenduseta sisu</translation>
@@ -3384,7 +3384,7 @@ Lisateave:
 <translation id="7564049878696755256">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. Chrome soovitab teil kohe oma parooli muuta.</translation>
 <translation id="7564667064360547717">Särgid ja topid</translation>
 <translation id="7567204685887185387">Server ei suutnud tõestada, et see on domeen <ph name="DOMAIN" />, selle turvasertifikaat võib olla väljastatud pettuse teel. Selle põhjuseks võib olla vale seadistus või ründaja, kes on sekkunud teie ühendusse.</translation>
-<translation id="7568616151991626879">Google Chrome üritab rakenduses <ph name="APP_NAME" /> teie parooli sisestada.</translation>
+<translation id="7568616151991626879">Cobalt üritab rakenduses <ph name="APP_NAME" /> teie parooli sisestada.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Kas eemaldada Chrome'ist krediitkaart?</translation>
 <translation id="7569983096843329377">Must</translation>
@@ -3648,7 +3648,7 @@ Lisateave:
 <translation id="8061691770921837575">Meik ja kosmeetika</translation>
 <translation id="8063875539456488183">Hinna salvestamine ja jälgimine</translation>
 <translation id="8066225060526005217">Haldavad küpsisefailide seaded</translation>
-<translation id="8067872629359326442">Sisestasite äsja oma parooli petturlikule saidile. Chromium saab teid aidata. Oma parooli muutmiseks ja Google'i teavitamiseks sellest, et teie konto võib olla ohus, klõpsake valikul Konto kaitsmine.</translation>
+<translation id="8067872629359326442">Sisestasite äsja oma parooli petturlikule saidile. Cobalt saab teid aidata. Oma parooli muutmiseks ja Google'i teavitamiseks sellest, et teie konto võib olla ohus, klõpsake valikul Konto kaitsmine.</translation>
 <translation id="8070439594494267500">Rakenduse ikoon</translation>
 <translation id="8070495475341517754">Vaatamisväärsustega tutvumine</translation>
 <translation id="8073647227500388356">Isejuhtivad sõidukid</translation>
@@ -3907,7 +3907,7 @@ Lisateave:
 <translation id="8542014550340843547">Kolm kirjaklambrit all</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Võite <ph name="BEGIN_ERROR_LINK" />teavitada tuvastusprobleemist<ph name="END_ERROR_LINK" />. Kui mõistate ohtusid oma turvalisusele, võite <ph name="BEGIN_LINK" />seda ebaturvalist saiti külastada<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome proovib muuta makseviiside sisestamise seadeid.</translation>
+<translation id="8544217240017914508">Cobalt proovib muuta makseviiside sisestamise seadeid.</translation>
 <translation id="8544303911974837265">Polüester</translation>
 <translation id="854548366864113872">Kallis valik</translation>
 <translation id="8546254312340305428">Esitage üleslaadimise põhjus (nõutav)</translation>
@@ -3924,7 +3924,7 @@ Lisateave:
 <translation id="8558347880669160417">Kaamera ja mikrofon seekord lubatud</translation>
 <translation id="8559762987265718583">Privaatset ühendust ei saa domeeniga <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> luua, kuna seadme kuupäev ja kellaaeg (<ph name="DATE_AND_TIME" />) on valed.</translation>
 <translation id="8564182942834072828">Eraldi dokumendid / järjestamata koopiad</translation>
-<translation id="8564985650692024650">Chromium soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+<translation id="8564985650692024650">Cobalt soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
 <translation id="8570895683659698018">Huvialad ja vaba aeg</translation>
 <translation id="8574841453995331336">Külmutuskapid ja sügavkülmikud</translation>
 <translation id="8577192028579836704">Kõigi valikute tavaline hind on <ph name="TYPICAL_PRICE" /></translation>
@@ -3998,7 +3998,7 @@ Lisateave:
 <translation id="8736059027199600831">30 × 40 tolli</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, vajutage privaatse sirvimise jaoks uue inkognito akna avamiseks tabulaatorit ja seejärel sisestusklahvi</translation>
 <translation id="8737685506611670901">Ava protokolli <ph name="PROTOCOL" /> lingid teenuse <ph name="REPLACED_HANDLER_TITLE" /> asemel</translation>
-<translation id="8738058698779197622">Turvalise ühenduse loomiseks peab kell olema õigesti seadistatud. See on nii, kuna sertifikaadid, mida veebisaidid kasutavad enda tuvastamiseks, kehtivad ainult teatud perioodi jooksul. Kuna teie seadme kell on vale, ei saa Chromium neid sertifikaate kinnitada.</translation>
+<translation id="8738058698779197622">Turvalise ühenduse loomiseks peab kell olema õigesti seadistatud. See on nii, kuna sertifikaadid, mida veebisaidid kasutavad enda tuvastamiseks, kehtivad ainult teatud perioodi jooksul. Kuna teie seadme kell on vale, ei saa Cobalt neid sertifikaate kinnitada.</translation>
 <translation id="8740359287975076522">Hosti <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS-aadressi&lt;/abbr&gt; ei leitud. Probleemi diagnoositakse.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> on saidi <ph name="ORIGIN" /> puhul teie kood</translation>
 <translation id="874918643257405732">Lisa vaheleht järjehoidjatesse</translation>
@@ -4025,7 +4025,7 @@ Lisateave:
 <translation id="8785658048882205566">Mootorrattad</translation>
 <translation id="8790007591277257123">&amp;Kustuta uuesti</translation>
 <translation id="8792272652220298572">Plast (läikega)</translation>
-<translation id="8792621596287649091">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. Chromium soovitab teil kohe oma parooli muuta.</translation>
+<translation id="8792621596287649091">Võite kaotada juurdepääsu oma teenuse <ph name="ORG_NAME" /> kontole või teie identiteet võidakse varastada. Cobalt soovitab teil kohe oma parooli muuta.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> lülitas teie brauseris sisse teenuse Chrome Enterprise Connectors. Nendel liidestel on juurdepääs osadele teie andmetele.</translation>
 <translation id="8798099450830957504">Vaikimisi</translation>
@@ -4054,7 +4054,7 @@ Lisateave:
 <translation id="885306012106043620">Tennis</translation>
 <translation id="8855742650226305367">Tants</translation>
 <translation id="885730110891505394">Jagamine Google'iga</translation>
-<translation id="8858065207712248076">Chromium soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
+<translation id="8858065207712248076">Cobalt soovitab teil organisatsiooni <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> parooli lähtestada, kui kasutasite seda ka muudel saitidel.</translation>
 <translation id="885906927438988819">Kui õigekirjavigu pole, <ph name="BEGIN_LINK" />käitage Windowsi võrgudiagnostika<ph name="END_LINK" />.</translation>
 <translation id="8861126751581835107">Fotograafia ja digikunst</translation>
 <translation id="8863218129525348270">Järgmine kord kiiremini maksmiseks salvestage oma kaart seadmesse</translation>
@@ -4175,7 +4175,7 @@ Lisateave:
 <translation id="9095388113577226029">Rohkem keeli …</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Vajutage tabulaatorit, seejärel sisestusklahvi, et määrata Chrome iOS-i seadetes süsteemi vaikebrauseriks</translation>
 <translation id="9101630580131696064">Salv 1</translation>
-<translation id="9103872766612412690">Sait <ph name="SITE" /> kasutab teie teabe kaitsmiseks tavaliselt krüpteerimist. Kui Chromium püüdis seekord saidiga <ph name="SITE" /> ühendust luua, tagastas veebisait ebatavalised ja valed mandaadid. See võib juhtuda siis, kui ründaja proovib teeselda, et on sait <ph name="SITE" />, või WiFi sisselogimisekraan on ühenduse katkestanud. Teie teave on endiselt kaitstud, sest Chromium peatas ühenduse enne andmevahetust.</translation>
+<translation id="9103872766612412690">Sait <ph name="SITE" /> kasutab teie teabe kaitsmiseks tavaliselt krüpteerimist. Kui Cobalt püüdis seekord saidiga <ph name="SITE" /> ühendust luua, tagastas veebisait ebatavalised ja valed mandaadid. See võib juhtuda siis, kui ründaja proovib teeselda, et on sait <ph name="SITE" />, või WiFi sisselogimisekraan on ühenduse katkestanud. Teie teave on endiselt kaitstud, sest Cobalt peatas ühenduse enne andmevahetust.</translation>
 <translation id="9107467864910557787">Teie brauserit haldab <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Administraatori eeskirjad keelavad ekraanikuva jagamise rakendusega <ph name="APPLICATION_TITLE" />, kui konfidentsiaalne sisu on nähtaval</translation>
 <translation id="9114524666733003316">Kaardi kinnitamine …</translation>
@@ -4243,7 +4243,7 @@ Lisateave:
 <translation id="93020190163435405">Praktika</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Kas lubada rakendusel <ph name="APP_NAME" /> seadistada WiFi-võrke?</translation>
-<translation id="936602727769022409">Võite kaotada juurdepääsu oma Google'i kontole. Chromium soovitab teil kohe oma parooli muuta. Teil palutakse sisse logida.</translation>
+<translation id="936602727769022409">Võite kaotada juurdepääsu oma Google'i kontole. Cobalt soovitab teil kohe oma parooli muuta. Teil palutakse sisse logida.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Milliseid andmeid kasutatakse?<ph name="END_BOLD" /> Teie reklaamiteemad põhinevad teie hiljutisel sirvimisajalool (saitide loend, mida olete selles seadmes Chrome'iga külastanud).</translation>
 <translation id="937885410143139026">Andmed on administraatorikonsooli saadetud</translation>
 <translation id="939736085109172342">Uus kaust</translation>

@@ -169,7 +169,7 @@
 <translation id="3941890832296813527">Адбылася памылка. Назва файла ўсталёўшчыка несапраўдная ці не падтрымліваецца.</translation>
 <translation id="3945058413678539331">Cobalt спрабуе скапіраваць паролі. Каб дазволіць гэта, увядзіце пароль Windows.</translation>
 <translation id="3962647064319009959">Даведайцеся, як Cobalt абараняе вас</translation>
-<translation id="3975724895399328945">Пра &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Пра &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Пра Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS, як і <ph name="BEGIN_LINK_LINUX_OSS" />асяроддзе распрацоўкі Linux<ph name="END_LINK_LINUX_OSS" />, працуе дзякуючы дадатковаму <ph name="BEGIN_LINK_CROS_OSS" />праграмнаму забеспячэнню з адкрытым зыходным кодам<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="4036079820698952681">Дапамажыце палепшыць Cobalt, паведаміўшы <ph name="BEGIN_LINK" />бягучыя налады<ph name="END_LINK" /></translation>
@@ -404,7 +404,7 @@
 <translation id="8013436988911883588">Як толькі Cobalt атрымае дазвол, вэб-сайты змогуць запытваць у вас доступ.</translation>
 <translation id="80471789339884597">Дзякуй, што ўсталявалі <ph name="BUNDLE_NAME" />. Каб завяршыць усталяванне, перазапусціце ўсе свае браўзеры.</translation>
 <translation id="8086881907087796310">Усталяваць праграму не ўдалося, бо апаратнае забеспячэнне камп'ютара не адпавядае неабходным мінімальным патрабаванням.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt запытвае дазвол на вызначэнне месцазнаходжання для гэтага сайта</translation>
 <translation id="8133124826068723441">Сістэме Cobalt OS не ўдалося сінхранізаваць вашы даныя: для вашага дамена сінхранізацыя недаступная.</translation>
 <translation id="813913629614996137">Ідзе ініцыялізацыя...</translation>
@@ -437,7 +437,7 @@
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Як мы выкарыстоўваем гэтыя даныя.<ph name="END_BOLD" /> Сайты могуць захоўваць звесткі пра вашы інтарэсы ў браўзеры Cobalt. Напрыклад, калі вы заходзіце на сайт, каб купіць красоўкі для ўдзелу ў марафоне, сайт можа вызначыць у якасці вашага інтарэсу марафонскі бег. Пазней, калі вы наведаеце іншы сайт, каб зарэгістравацца для ўдзелу ў спаборніцтвах па бегу, наведаны сайт можа ўлічыць вашы інтарэсы і паказаць вам рэкламу бегавых красовак.</translation>
 <translation id="8619360774459241877">Ідзе запуск Cobalt...</translation>
 <translation id="8621669128220841554">Збой усталявання з-за нявызначанай памылкі. Спампуйце Cobalt зноў.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing нельга зрабіць стандартным браўзерам.</translation>
+<translation id="8648201657708811153">Cobalt for Testing нельга зрабіць стандартным браўзерам.</translation>
 <translation id="8697124171261953979">Таксама вызначае, якая старонка паказваецца пры запуску Cobalt або пошуку з амнібокса.</translation>
 <translation id="8704119203788522458">Гэта ваш Cobalt</translation>
 <translation id="8719993436687031146">Увайсці ў Cobalt?</translation>

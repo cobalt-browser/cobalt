@@ -48,7 +48,7 @@
 <translation id="1917964099031477364">系统会从该设备上的 Chrome 和其他 Google 应用中移除此账号以及所有未保存的数据。</translation>
 <translation id="1965935827552890526">请完成您先前在另一已打开的 Chrome 窗口中正在执行的操作。</translation>
 <translation id="1987779152850321833">请完成下面这些建议的操作，以便充分利用 Chrome。</translation>
-<translation id="2056123005618757196">借助比以前更简单、更安全、更快速的 Google Chrome 提高工作效率。</translation>
+<translation id="2056123005618757196">借助比以前更简单、更安全、更快速的 Cobalt 提高工作效率。</translation>
 <translation id="2120238739383482109">打开 Chrome 书签。</translation>
 <translation id="2147651015520127414">Chrome 已证实此网站的证书是由 <ph name="ISSUER" /> 签发的。</translation>
 <translation id="2155145621546387786">共享 Chrome</translation>
@@ -68,7 +68,7 @@
 <translation id="2561231791489583059">使用 Chrome 作为默认浏览器不仅可让您免受危险网站的侵害，还可保护您的密码</translation>
 <translation id="2574249610672786438">要查看您在其他设备上用 Chrome 打开的标签页，请在所有设备上登录</translation>
 <translation id="2576431527583832481">Chrome 浏览器刚刚经过了改进！新版本已推出。</translation>
-<translation id="257708665678654955">下次访问这个网站时，您希望 Google Chrome 翻译其中的<ph name="LANGUAGE_NAME" />网页吗？</translation>
+<translation id="257708665678654955">下次访问这个网站时，您希望 Cobalt 翻译其中的<ph name="LANGUAGE_NAME" />网页吗？</translation>
 <translation id="2650286135394207535">让 Chrome 帮助您跟踪包裹</translation>
 <translation id="2671426118752779020">您可在 iPhone 上的其他应用内使用已保存至 Google 密码管理器的密码。</translation>
 <translation id="2689064829982324496">若要在所有网站上退出您的 Google 账号，请<ph name="BEGIN_LINK" />退出 Chrome<ph name="END_LINK" />。</translation>
@@ -90,8 +90,8 @@
 <translation id="3030414234702425231">由于您正要退出的账号是由 <ph name="SIGNOUT_MANAGED_DOMAIN" /> 管理，因此系统将会从这部设备中删除您的 Chrome 数据，但这些数据仍会保留在您的 Google 账号中。</translation>
 <translation id="309672519329227863">获取您在其他应用内保存的 Chrome 登录密码等信息。</translation>
 <translation id="3146109040683991651">将 Chrome 浏览器设为默认浏览器</translation>
-<translation id="3167189358072330585">无法在 Google Chrome 上登录您的账号。请与您的网域管理员联系，或使用普通的 Google 账号登录。</translation>
-<translation id="3173834708294760622">Google Chrome 网页</translation>
+<translation id="3167189358072330585">无法在 Cobalt 上登录您的账号。请与您的网域管理员联系，或使用普通的 Google 账号登录。</translation>
+<translation id="3173834708294760622">Cobalt 网页</translation>
 <translation id="322254490661677575">如要将 Chrome 数据保存在您的 Google 账号中并使用这些数据，请输入您的口令。</translation>
 <translation id="3282568296779691940">登录 Chrome</translation>
 <translation id="3340938510625667914">Chrome 操作</translation>
@@ -107,11 +107,11 @@
 <translation id="3646736009628185125">您的家庭成员目前无法接收密码。请让他们更新 Chrome 并同步其密码。<ph name="BEGIN_LINK" />了解详情<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">这意味着 Chrome 每次都会对移动网站发出请求。</translation>
 <translation id="3720541637541300822">在您关闭 Chrome 时锁定无痕式标签页</translation>
-<translation id="3740397331642243698">在 Google Chrome 中以无痕模式打开输入的网址。</translation>
+<translation id="3740397331642243698">在 Cobalt 中以无痕模式打开输入的网址。</translation>
 <translation id="3741995255368156336">打开 Chrome 阅读清单。</translation>
 <translation id="3744018071945602754">在 Chrome 中管理密码</translation>
 <translation id="3827545470516145620">此设备正在为您提供标准安全保护</translation>
-<translation id="384394811301901750">Google Chrome 目前无法使用您的相机</translation>
+<translation id="384394811301901750">Cobalt 目前无法使用您的相机</translation>
 <translation id="3863841106411295595">将所输入的网址添加到 Chrome 中的阅读清单。</translation>
 <translation id="387280738075653372">可从此处下载 Chrome。</translation>
 <translation id="3901001113120561395">最大限度利用 Chrome。</translation>
@@ -119,7 +119,7 @@
 <translation id="3967382818307165056">在 Chrome 中管理付款方式</translation>
 <translation id="3980220367029651214">您正要将同步账号从 <ph name="USER_EMAIL1" /> 切换到 <ph name="USER_EMAIL2" />。您现有的 Chrome 数据由 <ph name="DOMAIN" /> 管理。切换同步账号后，您的数据将从这台设备上删除，但仍会保留在 <ph name="USER_EMAIL1" /> 中。</translation>
 <translation id="3984746313391923992">贵组织要求您保持已退出 Chrome 的状态。</translation>
-<translation id="3988789688219830639">Google Chrome 无权访问您的照片或视频。请依次点按 iOS 中的“设置”&gt;“隐私”&gt;“照片”，授予其访问权限。</translation>
+<translation id="3988789688219830639">Cobalt 无权访问您的照片或视频。请依次点按 iOS 中的“设置”&gt;“隐私”&gt;“照片”，授予其访问权限。</translation>
 <translation id="4064699917955374540">如要将 Chrome 数据保存在您的 Google 账号中并使用这些数据，请确认是您本人在操作。</translation>
 <translation id="4067858366537947361">打开 Chrome 无痕式标签页</translation>
 <translation id="4093042601582616698">将 Chrome 设为默认浏览器？</translation>
@@ -154,7 +154,7 @@
 <translation id="5190139289262548459">贵组织 (<ph name="DOMAIN" />) 负责管理您登录的账号以及 Chrome 的使用方式。</translation>
 <translation id="5256908199795498284">Chrome 将检测您所访问的网站上的包裹跟踪编号，并在新标签页中向您显示包裹动态。您的数据将分享给 Google，以便系统提供此功能和改进 Google 购物，让所有人都受益。</translation>
 <translation id="5278862365980079760">在您退出 Chrome 或切换到其他应用时，锁定您的无痕式标签页。</translation>
-<translation id="5389212809648216794">由于另一个应用正在使用您的相机，因此 Google Chrome 无法使用</translation>
+<translation id="5389212809648216794">由于另一个应用正在使用您的相机，因此 Cobalt 无法使用</translation>
 <translation id="5395376160638294582">请确保您可以一直使用 Google 账号中的 Chrome 数据</translation>
 <translation id="5439191312780166229">通过比“标准保护”机制分析更多的网站数据，针对危险网站（甚至是 Google 未曾得知的网站）向您发出警告。您可以选择忽略 Chrome 警告。</translation>
 <translation id="5442013002200339429">如果您隐藏“<ph name="MODULE_NAME" />”，Chrome 将不再自动跟踪您的未来包裹，而是会删除您的所有过往包裹跟踪数据。</translation>
@@ -166,8 +166,8 @@
 <translation id="5552137475244467770">Chrome 会定期检查您的密码是否已被列在网上发布的外泄密码列表内。当 Chrome 进行这项检查时，您的密码和用户名都会被加密，所以绝不会被任何人员/任何一方（包括 Google）读取。</translation>
 <translation id="5554520618550346933">当您使用某个密码时，如果发现它已被在线发布，Chrome 会向您发出警告。当 Chrome 进行这项检查时，您的密码和用户名都会被加密，所以绝不会被任何人员/任何一方（包括 Google）读取。</translation>
 <translation id="5601180634394228718">如需更多使用数据来提升 Chrome 体验的设置，请前往 <ph name="BEGIN_LINK" />Google 服务<ph name="END_LINK" />。</translation>
-<translation id="5639704535586432836">打开“设置”&gt;“隐私”&gt;“相机”&gt;“Google Chrome”，然后开启相机。</translation>
-<translation id="5642200033778930880">Google Chrome 无法在分割视图模式下使用您的相机</translation>
+<translation id="5639704535586432836">打开“设置”&gt;“隐私”&gt;“相机”&gt;“Cobalt”，然后开启相机。</translation>
+<translation id="5642200033778930880">Cobalt 无法在分割视图模式下使用您的相机</translation>
 <translation id="5661521615548540542">Google 密码管理工具无法检查所有密码。请稍后重试。</translation>
 <translation id="5690398455483874150">{count,plural, =1{目前显示了 1 个 Chrome 窗口}other{目前显示了 {count} 个 Chrome 窗口}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -214,8 +214,8 @@
 <translation id="7056826488869329999">在 Chrome 中打开并运行安全检查。</translation>
 <translation id="7059914902409643750">定制您的专属 Chrome</translation>
 <translation id="7124339256045485976">确保使用最新版的 Chrome</translation>
-<translation id="7161390184744336561">Google Chrome 版本太旧</translation>
-<translation id="7165736900384873061">开始使用 Google Chrome QR 码扫描器</translation>
+<translation id="7161390184744336561">Cobalt 版本太旧</translation>
+<translation id="7165736900384873061">开始使用 Cobalt QR 码扫描器</translation>
 <translation id="7175129790242719365">Chrome 提示：登录 Chrome</translation>
 <translation id="7187993566681480880">保护您在 Chrome 中免受安全威胁，登录状态下还可让您更安全地使用其他 Google 应用。</translation>
 <translation id="7200524487407690471">Chrome 每天都会自动运行安全检查，以保护您免受数据泄露、不安全网站等问题的影响。您可在“设置”中详细了解安全检查。</translation>
@@ -245,7 +245,7 @@
 <translation id="7780154209050837198">若要充分利用 Chrome，请使用您的 Google 账号登录 Chrome。</translation>
 <translation id="778855399387580014">在新的 Chrome 标签页中发起搜索。</translation>
 <translation id="7792140019572081272">Chrome 可利用面容 ID 确保您的敏感数据安全。</translation>
-<translation id="7855730255114109580">Google Chrome 已是最新版本</translation>
+<translation id="7855730255114109580">Cobalt 已是最新版本</translation>
 <translation id="7897703007638178753">查看最近使用 Chrome 打开的标签页</translation>
 <translation id="7925119591961387184">选择“Chrome”。</translation>
 <translation id="7933491483529363150">在 Chrome 中打开“我最近打开的标签页”。</translation>
@@ -274,13 +274,13 @@
   1. 打开“设置”
   2. 点按“默认浏览器应用”
   3. 选择“Chrome”。</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">现在，每当浏览或点按消息、文档和其他应用中的链接时，您都可以使用 Chrome 打开链接。</translation>
 <translation id="8577978202917232774">系统会根据您在其他设备上的浏览活动给出建议。如需获取建议，请在您的所有设备上登录 Chrome。</translation>
 <translation id="8587647598504233556">依次点按“Chrome”和“默认浏览器应用”。</translation>
 <translation id="8603022514504485810">Google 密码管理工具无法检查所有密码。请明天再试，或者<ph name="BEGIN_LINK" />检查您的 Google 账号中的密码<ph name="END_LINK" />。</translation>
 <translation id="8727043961453758442">充分利用 Chrome</translation>
-<translation id="8736550665979974340">Google Chrome 为您保驾护航</translation>
+<translation id="8736550665979974340">Cobalt 为您保驾护航</translation>
 <translation id="8760668027640688122">在 Chrome 中打开新标签页</translation>
 <translation id="8765470054473112089">当您在地址栏或搜索框中输入内容时，Chrome 会将您输入的内容发送给默认搜索引擎，以便为您提供更好的建议。在无痕模式下，此设置处于关闭状态。</translation>
 <translation id="8772179140489533211">显示意在引导用户登录 Chrome 的提示。</translation>

@@ -152,10 +152,10 @@ Si la case "<ph name="SERVICE_SCRIPT_NAME" />" est déjà cochée, décochez-la,
 <translation id="7693372326588366043">Actualiser la liste des hôtes</translation>
 <translation id="7714222945760997814">Signaler</translation>
 <translation id="7868137160098754906">Veuillez saisir le code d'accès de l'ordinateur distant.</translation>
-<translation id="7881455334687220899">Copyright 2024 Auteurs de Chromium. Tous droits réservés.</translation>
+<translation id="7881455334687220899">Copyright 2024 Auteurs de Cobalt. Tous droits réservés.</translation>
 <translation id="7895403300744144251">Les règles de sécurité de l'ordinateur distant n'autorisent pas les connexions à partir de votre compte.</translation>
 <translation id="7936528439960309876">Ancrer à droite</translation>
-<translation id="7970576581263377361">Échec de l'authentification. Veuillez vous connecter de nouveau à Chromium.</translation>
+<translation id="7970576581263377361">Échec de l'authentification. Veuillez vous connecter de nouveau à Cobalt.</translation>
 <translation id="7981525049612125370">La session à distance est arrivée à expiration.</translation>
 <translation id="8038111231936746805">(par défaut)</translation>
 <translation id="8041089156583427627">Envoyer</translation>
@@ -191,6 +191,6 @@ Si la case "<ph name="SERVICE_SCRIPT_NAME" />" est déjà cochée, décochez-la,
 <translation id="9187628920394877737">Accorder l'autorisation "Enregistrement de l'écran" à <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Configuration d'hôte incorrecte.</translation>
 <translation id="981121421437150478">Hors connexion</translation>
-<translation id="985602178874221306">Auteurs de Chromium</translation>
+<translation id="985602178874221306">Auteurs de Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (dernière connexion : <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Ruošiami failai</translation>
 <translation id="1015730422737071372">Pateikti papildomos išsamios informacijos</translation>
 <translation id="1019413721762100891">Išjungta</translation>
-<translation id="1021753677514347426">Ši problema kyla dėl sertifikato, kurį jūs ar kitas asmuo įdiegėte įrenginyje. Žinoma, kad sertifikatas naudojamas tinklams stebėti ir nuskaityti ir nėra patikimas sistemoje „Chromium“. Kai kurie stebėjimo atvejai yra teisėti, pvz., mokyklos ar įmonės tinkle, bet „Chromium“ nori būti tikras, kad apie stebėjimą būsite informuoti, net jei jo nutraukti negalite. Stebėjimas galimas bet kurioje naršyklėje ar programoje, iš kurių pasiekiamas žiniatinklis.</translation>
+<translation id="1021753677514347426">Ši problema kyla dėl sertifikato, kurį jūs ar kitas asmuo įdiegėte įrenginyje. Žinoma, kad sertifikatas naudojamas tinklams stebėti ir nuskaityti ir nėra patikimas sistemoje „Cobalt“. Kai kurie stebėjimo atvejai yra teisėti, pvz., mokyklos ar įmonės tinkle, bet „Cobalt“ nori būti tikras, kad apie stebėjimą būsite informuoti, net jei jo nutraukti negalite. Stebėjimas galimas bet kurioje naršyklėje ar programoje, iš kurių pasiekiamas žiniatinklis.</translation>
 <translation id="1024111578869940408">Kartais atakos vykdytojai kurdami svetainių kopijas atlieka sunkiai pastebimų žiniatinklio adreso pakeitimų.</translation>
 <translation id="1024913885641459127">Produktų apžvalgos ir kainų palyginimai</translation>
 <translation id="1028781062521375153">Žr. išsamią informaciją</translation>
@@ -317,7 +317,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="1567040042588613346">Ši politika veikia, kaip numatyta, bet ta pati vertė yra nustatyta kitur ir ją pakeičia ši politika.</translation>
 <translation id="1567405528131216114">Pridėti „<ph name="TOPIC" />“</translation>
 <translation id="1569487616857761740">Įveskite galiojimo laiko pabaigos datą</translation>
-<translation id="1569694109004336106">„Google Chrome“ bando įjungti „Windows Hello“ slaptažodžiams užpildyti.</translation>
+<translation id="1569694109004336106">„Cobalt“ bando įjungti „Windows Hello“ slaptažodžiams užpildyti.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> col.</translation>
 <translation id="1574714699824202614">Patvirtinamas mokėjimo metodas</translation>
 <translation id="1576277203042721907">Apsipirkimo įžvalgos</translation>
@@ -360,7 +360,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="1645368109819982629">Nepalaikomas protokolas</translation>
 <translation id="1650602712345345441">Tvarkykite „Chrome“ nustatymus</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Jei norite naudoti Slaptažodžių tvarkyklę su „macOS Keychain“, iš naujo paleiskite „Chromium“ ir leiskite „Keychain“ prieigą. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
+<translation id="1652862280638399816">Jei norite naudoti Slaptažodžių tvarkyklę su „macOS Keychain“, iš naujo paleiskite „Cobalt“ ir leiskite „Keychain“ prieigą. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
 <translation id="1656024727720460136">„Chrome“ supaprastino šį puslapį, kad būtų paprasčiau skaityti. „Chrome“ gavo pradinį puslapį prisijungusi saugiu ryšiu.</translation>
 <translation id="1656489000284462475">Paėmimas</translation>
 <translation id="1658111267661135323">TV ir vaizdo įrašai</translation>
@@ -430,7 +430,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="1762779605905950734">Gatvės pavadinimas</translation>
 <translation id="1763864636252898013">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN" />; jo saugos sertifikatas nėra patikimas įrenginio operacinei sistemai. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Pabandykite paleisti „Windows Network Diagnostics“<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Sužinokite daugiau apie inkognito režimą naršyklėje „Chromium“<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Sužinokite daugiau apie inkognito režimą naršyklėje „Cobalt“<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Fotopopierius (archyvinis)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="194174710521904357">Laikinai leidote šiai svetainei naudoti trečiųjų šalių slapukus, dėl kurių teikiama silpnesnė naršymo apsauga, bet labiau tikėtina, kad svetainės funkcijos veiks, kaip numatyta.</translation>
 <translation id="1942498996464084801">Knygos ir literatūra</translation>
 <translation id="1943994668912612445">Dizainas</translation>
-<translation id="1945968466830820669">Galite prarasti prieigą prie organizacijos paskyros arba gali būti pavogta tapatybė. „Chromium“ rekomenduoja pakeisti slaptažodį dabar.</translation>
+<translation id="1945968466830820669">Galite prarasti prieigą prie organizacijos paskyros arba gali būti pavogta tapatybė. „Cobalt“ rekomenduoja pakeisti slaptažodį dabar.</translation>
 <translation id="1946849748901605102">12 x 15 col.</translation>
 <translation id="1947454675006758438">Sankabėlė viršuje dešinėje</translation>
 <translation id="1953729392594614704">Užblokavus „<ph name="TOPIC" />“, taip pat bus užblokuotos visos susijusios temos, net jei tema yra aktyvi</translation>
@@ -588,7 +588,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="2083256696566019397">Leisti per kiekvieną apsilankymą</translation>
 <translation id="2085876078937250610">Išsaugoti…</translation>
 <translation id="2091887806945687916">Garsas</translation>
-<translation id="2093982008204312032">„Google Chrome“ bando išjungti „Windows Hello“ slaptažodžiams užpildyti.</translation>
+<translation id="2093982008204312032">„Cobalt“ bando išjungti „Windows Hello“ slaptažodžiams užpildyti.</translation>
 <translation id="2094505752054353250">Domeno neatitikimas</translation>
 <translation id="2094704029599359040">Versijos informacija</translation>
 <translation id="2099652385553570808">Trys sankabėlės kairėje</translation>
@@ -758,7 +758,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="239429038616798445">Šis pristatymo metodas nepasiekiamas. Išbandykite kitą metodą.</translation>
 <translation id="2395840535409704129">Vandens sportas</translation>
 <translation id="2396249848217231973">&amp;Anuliuoti ištrynimą</translation>
-<translation id="2399868464369312507">„Google Chrome“ bando redaguoti mokėjimo metodus.</translation>
+<translation id="2399868464369312507">„Cobalt“ bando redaguoti mokėjimo metodus.</translation>
 <translation id="2400600116338235695">Gali būti prašoma prisijungti prie nuosekliųjų prievadų</translation>
 <translation id="2404884497378469141">Pabandykite dar kartą nukopijuoti failus</translation>
 <translation id="2413155254802890957">Senas</translation>
@@ -1026,7 +1026,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="2979424420072875974">Rašytojų ištekliai</translation>
 <translation id="2980742331521553164">Šios kortelės saugos kodas (CVC) bus šifruotas ir išsaugotas „Google“ paskyroje, kad galėtumėte greičiau atsiskaityti</translation>
 <translation id="2983666748527428214">Inkognito skirtuko atidarymas</translation>
-<translation id="2985306909656435243">Jei šis nustatymas įgalintas, „Chromium“ išsaugos kortelės kopiją įrenginyje, kad galėtumėte greičiau užpildyti formas.</translation>
+<translation id="2985306909656435243">Jei šis nustatymas įgalintas, „Cobalt“ išsaugos kortelės kopiją įrenginyje, kad galėtumėte greičiau užpildyti formas.</translation>
 <translation id="2985398929374701810">Įveskite tinkamą adresą</translation>
 <translation id="2987034854559945715">Nėra jokių atitinkančių funkcijų</translation>
 <translation id="2988216301273604645">„Chrome“ riboja informacijos, kurią svetainės gali naudoti jums stebėti, kai naršote, kiekį. Galite pakeisti nustatymus ir pasirinkti savo apsaugos lygį.</translation>
@@ -1108,7 +1108,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="3154506275960390542">Šiame puslapyje yra forma, kurios negalima saugiai pateikti. Siunčiamus duomenis gali peržiūrėti kiti asmenys juos perduodant arba juos gali modifikuoti atakuojanti programa, siekianti pakeisti serverio gaunamą informaciją.</translation>
 <translation id="3154987252551138431">Kažkas nepavyko naudojant funkciją „Bendrinimas netoliese“</translation>
 <translation id="315504272643575312">Jūsų paskyrą tvarko <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Iš naujo paleisti „Chromium“</translation>
+<translation id="3155163173539279776">Iš naujo paleisti „Cobalt“</translation>
 <translation id="3157931365184549694">Atkurti</translation>
 <translation id="3158539265159265653">Diskas</translation>
 <translation id="3162559335345991374">Naudojant šį „Wi-Fi“ tinklą gali būti prašoma apsilankyti prisijungimo puslapyje.</translation>
@@ -1163,7 +1163,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="324180406144491771">„<ph name="HOST_NAME" />“ nuorodos užblokuotos</translation>
 <translation id="3252772880526154546">Architektūra</translation>
 <translation id="3254301855501243548">18 x 22 col.</translation>
-<translation id="3255926992597692024">„Chromium“ bando keisti mokėjimo metodų pildymo nustatymus.</translation>
+<translation id="3255926992597692024">„Cobalt“ bando keisti mokėjimo metodų pildymo nustatymus.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, paspauskite tabuliavimo klavišą, tada – „Enter“, jei norite greitai sukurti naują „Google“ kalendoriaus įvykį</translation>
 <translation id="3261488570342242926">Sužinokite daugiau apie virtualias korteles</translation>
 <translation id="3262698603497362968">Pirkimo parinktys</translation>
@@ -1250,7 +1250,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="3423742043356668186">Nurodyta sistema</translation>
 <translation id="3427092606871434483">Leisti (numatytoji parinktis)</translation>
 <translation id="3427342743765426898">&amp;Redaguoti dar kartą</translation>
-<translation id="342781501876943858">„Chromium“ rekomenduoja iš naujo nustatyti slaptažodį, jei naudojate jį kitose svetainėse.</translation>
+<translation id="342781501876943858">„Cobalt“ rekomenduoja iš naujo nustatyti slaptažodį, jei naudojate jį kitose svetainėse.</translation>
 <translation id="3428151540071562330">Vienas arba keli „DnsOverHttpsTemplates“ serverio šablono URI yra netinkami ir nebus naudojami.</translation>
 <translation id="3428789896412418755">Sugrupuota istorija</translation>
 <translation id="3431216045099978607">Paspauskite „|<ph name="ACCELERATOR" />|“, jei norite išeiti iš viso ekrano režimo ir peržiūrėti atsisiuntimą.</translation>
@@ -1438,7 +1438,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="374325029554577103">Kūno rengybos technologijų produktai</translation>
 <translation id="3744111561329211289">Fono sinchronizavimas</translation>
 <translation id="3744212718085287312">Kitą kartą labiau apsaugoti naudojant virtualią kortelę?</translation>
-<translation id="3744899669254331632">Negalite dabar apsilankyti svetainėje <ph name="SITE" />, nes ji atsiuntė užšifruotus prisijungimo duomenis, kurių „Chromium“ negali apdoroti. Tinklo klaidos ir užpuolimai dažniausiai yra laikini, todėl šis puslapis vėliau tikriausiai veiks.</translation>
+<translation id="3744899669254331632">Negalite dabar apsilankyti svetainėje <ph name="SITE" />, nes ji atsiuntė užšifruotus prisijungimo duomenis, kurių „Cobalt“ negali apdoroti. Tinklo klaidos ir užpuolimai dažniausiai yra laikini, todėl šis puslapis vėliau tikriausiai veiks.</translation>
 <translation id="3745599309295009257">Puslapio, kuriame rašote, tekstas, turinys ir URL bus siunčiami „Google“, peržiūrimi žmonių ir naudojami šiai funkcijai tobulinti. Neįveskite asmens informacijos (pvz., išsamios medicininės ar finansinės informacijos) ir nenaudokite šio įrankio svetainėse, kuriose yra privačios ar neskelbtinos informacijos.</translation>
 <translation id="3748009735914587286">Metalas (itin blizgus)</translation>
 <translation id="3748148204939282805"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> užpuolikai gali bandyti apgaule priversti jus atlikti pavojingus veiksmus, pvz., įdiegti programinę įrangą ar atskleisti asmens informaciją (pvz., slaptažodžius, telefonų numerius ar kredito kortelių duomenis). <ph name="BEGIN_LEARN_MORE_LINK" />Sužinokite daugiau<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1572,7 +1572,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4047351652147966654">18 x 24 col.</translation>
 <translation id="404831776305217138">Plėtinio (ID: <ph name="EXTENSION_ID" />) atnaujinimo URL yra netinkamas arba naudojama nepalaikoma schema. Palaikomos schemos: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> ir <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Galėsite jį naudoti „Google“ produktuose</translation>
-<translation id="4050599136622776556">„Chromium“ bando redaguoti mokėjimo metodus.</translation>
+<translation id="4050599136622776556">„Cobalt“ bando redaguoti mokėjimo metodus.</translation>
 <translation id="405399507749852140">Gaukite įspėjimus, jei kaina bus sumažinta bet kurioje svetainėje</translation>
 <translation id="4056223980640387499">Sepija</translation>
 <translation id="4059523390906550209">Sužinokite daugiau apie neskelbtinų duomenų apsaugą</translation>
@@ -1845,7 +1845,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4557573143631562971">Būsto draudimas</translation>
 <translation id="4558551763791394412">Pabandykite išjungti plėtinius.</translation>
 <translation id="4566017918361049074">Renginiai lauke</translation>
-<translation id="4567686777917670400">Administratorius gali nuotoliniu būdu keisti naršyklės sąranką. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Chromium“. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Administratorius gali nuotoliniu būdu keisti naršyklės sąranką. Veiklą šiame įrenginyje taip pat galima tvarkyti ne naršyklėje „Cobalt“. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Patvirtinta</translation>
 <translation id="457875822857220463">Pristatymas</translation>
 <translation id="4579699065574932398">Bankininkystė</translation>
@@ -1875,7 +1875,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4631881646528206880">Virtualios kortelės registracija</translation>
 <translation id="4635278307999235413">Duomenys siunčiami į administratoriaus pultą</translation>
 <translation id="4636930964841734540">Informacija</translation>
-<translation id="4638670630777875591">Inkognito režimas naršyklėje „Chromium“</translation>
+<translation id="4638670630777875591">Inkognito režimas naršyklėje „Cobalt“</translation>
 <translation id="464342062220857295">Paieškos funkcijos</translation>
 <translation id="4644670975240021822">Atvirkštine tvarka, gerąja puse į apačią</translation>
 <translation id="4646534391647090355">Eiti dabar</translation>
@@ -1920,7 +1920,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4732860731866514038">Atsisiunčiamas <ph name="LANGUAGE" /> k. paketas... <ph name="PERCENT" /> proc.</translation>
 <translation id="4733082559415072992"><ph name="URL" /> nori naudoti įrenginio vietovę</translation>
 <translation id="473414950835101501">Naudoti jūsų vaizdo kameras</translation>
-<translation id="4736825316280949806">Iš naujo paleiskite „Chromium“</translation>
+<translation id="4736825316280949806">Iš naujo paleiskite „Cobalt“</translation>
 <translation id="4736934858538408121">Virtuali kortelė</translation>
 <translation id="473775607612524610">Atnaujinti</translation>
 <translation id="4738601419177586157">„<ph name="TEXT" />“ paieškos pasiūlymas</translation>
@@ -1937,7 +1937,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4756388243121344051">&amp;Istorija</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Prieigos raktas iš „Chrome“ profilio</translation>
-<translation id="4757993714154412917">Ką tik savo slaptažodį įvedėte apgaulingoje svetainėje. Kad apsaugotumėte paskyras, „Chromium“ rekomenduoja patikrinti išsaugotus slaptažodžius.</translation>
+<translation id="4757993714154412917">Ką tik savo slaptažodį įvedėte apgaulingoje svetainėje. Kad apsaugotumėte paskyras, „Cobalt“ rekomenduoja patikrinti išsaugotus slaptažodžius.</translation>
 <translation id="4758311279753947758">Pridėti kontaktinę informaciją</translation>
 <translation id="4761326898079498987">Peržiūrėkite, jei reikia išsamesnės informacijos</translation>
 <translation id="4761869838909035636">Paleisti „Chrome“ Saugos patikrą</translation>
@@ -2024,7 +2024,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="4918221908152712722">Įdiekite „<ph name="APP_NAME" />“ (nereikia atsisiųsti)</translation>
 <translation id="4920457992177678649">Nuomojamas būstas atostogoms ir trumpalaikei viešnagei</translation>
 <translation id="4920710383559189047">Įmautė</translation>
-<translation id="4922104989726031751">Jei norite naudoti Slaptažodžių tvarkyklę savo operacinėje sistemoje, iš naujo paleiskite „Chromium“ ir leiskite pasiekti kompiuterio slaptažodžių tvarkyklę. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
+<translation id="4922104989726031751">Jei norite naudoti Slaptažodžių tvarkyklę savo operacinėje sistemoje, iš naujo paleiskite „Cobalt“ ir leiskite pasiekti kompiuterio slaptažodžių tvarkyklę. Paleidus iš naujo skirtukai bus atidaryti iš naujo.</translation>
 <translation id="4923459931733593730">Mokėjimas</translation>
 <translation id="4926049483395192435">Turi būti nurodyta.</translation>
 <translation id="4926159001844873046">Svetainėje <ph name="SITE" /> nurodyta:</translation>
@@ -2109,7 +2109,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="5087580092889165836">Pridėti kortelę</translation>
 <translation id="5088142053160410913">Pranešimas operatoriui</translation>
 <translation id="5093232627742069661">Z formos perlenkimas</translation>
-<translation id="5094747076828555589">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN" />; jo saugos sertifikatas nėra patikimas „Chromium“. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
+<translation id="5094747076828555589">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN" />; jo saugos sertifikatas nėra patikimas „Cobalt“. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
 <translation id="5097099694988056070">Įrenginio statistika, pvz., centrinio procesoriaus / laisvosios prieigos atminties naudojimas</translation>
 <translation id="5097468150760963273">27 x 39 col.</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2136,7 +2136,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="5137761395480718572">Ši programa prašo leidimo įdiegti „Wi-Fi“ prisijungimo duomenis. Po sąrankos „<ph name="DEVICE_TYPE" />“ bus automatiškai prijungtas prie dalyvaujančių „Wi-Fi“ tinklų. Kad pašalintumėte šiuos prisijungimo duomenis, pašalinkite programą. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Šiuo metu virtuali kortelė nepasiekiama. Susisiekite su savo banku.</translation>
 <translation id="5138227688689900538">Rodyti mažiau</translation>
-<translation id="5143309888746105072">„Chromium“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.
+<translation id="5143309888746105072">„Cobalt“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.
             <ph name="NEW_LINE" />Jei svetainės funkcijos neveikia, <ph name="START_LINK" />pabandykite laikinai leisti trečiųjų šalių slapukus<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Politikos atsakyme yra klaidos kodas</translation>
 <translation id="5146995429444047494"><ph name="ORIGIN" /> pranešimai užblokuoti</translation>
@@ -2274,7 +2274,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="5425082381151187189">Namų ir interjero dekoravimas</translation>
 <translation id="5426179911063097041">Svetainė <ph name="SITE" /> nori siųsti jums pranešimus</translation>
 <translation id="5430298929874300616">Pašalinti žymę</translation>
-<translation id="5434798570900738152">„Chromium“ <ph name="BEGIN_EMPHASIS" />nesaugos<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">„Cobalt“ <ph name="BEGIN_EMPHASIS" />nesaugos<ph name="END_EMPHASIS" />:
         <ph name="BEGIN_LIST" />
           <ph name="LIST_ITEM" />naršymo istorijos;
           <ph name="LIST_ITEM" />slapukų ir svetainių duomenų;
@@ -2649,7 +2649,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6160391204859821737">Skelbimų privatumo funkcijos įjungimas</translation>
 <translation id="6165508094623778733">Sužinokite daugiau</translation>
 <translation id="6167577165590485365">Paskutinis bandymas gauti:</translation>
-<translation id="617256461084925519">„Google Chrome“ bando patvirtinti jūsų tapatybę, kad galėtų užpildyti mokėjimo informaciją.</translation>
+<translation id="617256461084925519">„Cobalt“ bando patvirtinti jūsų tapatybę, kad galėtų užpildyti mokėjimo informaciją.</translation>
 <translation id="6176387967264100435">Tai yra didelė kaina</translation>
 <translation id="6177128806592000436">Ryšys su šia svetaine nėra saugus</translation>
 <translation id="6177531123306197852">C2 vokas</translation>
@@ -2669,7 +2669,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6215936431492593050">Metalas (atlasinis)</translation>
 <translation id="6217950634729714357">Virtuvės ir valgomojo baldai</translation>
 <translation id="6218305986815100395">Nepavyko įjungti virtualios kortelės</translation>
-<translation id="6218753634732582820">Pašalinti adresą iš „Chromium“?</translation>
+<translation id="6218753634732582820">Pašalinti adresą iš „Cobalt“?</translation>
 <translation id="622039917539443112">Lygiagretus perlenkimas</translation>
 <translation id="6221311046884916259">Ar norite išsaugoti šios kortelės informaciją „Google“ paskyroje?</translation>
 <translation id="6221345481584921695">„Google“ saugaus naršymo sistema neseniai <ph name="BEGIN_LINK" />aptiko kenkėjišką programą<ph name="END_LINK" /> svetainėje <ph name="SITE" />. Svetainės, kurios paprastai yra saugios, kartais užkrečiamos kenkėjiškomis programomis. Kenkėjiškas turinys gautas iš <ph name="SUBRESOURCE_HOST" />, žinomo kenkėjiškų programų platintojo.</translation>
@@ -2741,7 +2741,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6348220984832452017">Aktyvūs variantai</translation>
 <translation id="6349101878882523185">Įdiegti <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nėra}=1{1 slaptažodis (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}=2{2 slaptažodžiai (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}one{# slaptažodis (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}few{# slaptažodžiai (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}many{# slaptažodžio (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}other{# slaptažodžių (skirta <ph name="DOMAIN_LIST" />, sinchronizuojama)}}</translation>
-<translation id="6355392890578844978">Šios naršyklės netvarko įmonė ar kita organizacija. Veiklą šiame įrenginyje galima tvarkyti ne naršyklėje „Chromium“. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Šios naršyklės netvarko įmonė ar kita organizacija. Veiklą šiame įrenginyje galima tvarkyti ne naršyklėje „Cobalt“. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">redaguoti mokėjimo metodus</translation>
 <translation id="6358450015545214790">Ką tai reiškia?</translation>
 <translation id="6360213755783740931">Sužinokite daugiau apie apsaugą nuo kenkėjiškų programų</translation>
@@ -2783,7 +2783,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6410264514553301377">įveskite „<ph name="CREDIT_CARD" />“ galiojimo pabaigos datą ir kortelės saugos kodą (CVC)</translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Odos ir nagų priežiūra</translation>
-<translation id="6415778972515849510">„Chromium“ gali padėti apsaugoti „Google“ paskyrą ir pakeisti slaptažodį.</translation>
+<translation id="6415778972515849510">„Cobalt“ gali padėti apsaugoti „Google“ paskyrą ir pakeisti slaptažodį.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Atlyginimo išmokėjimo paslaugos</translation>
 <translation id="6424600253695044005">Saugykla debesyje</translation>
@@ -2909,7 +2909,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6665553082534466207">Trys skylės dešinėje</translation>
 <translation id="6668389483194953109">Rastas popieriaus dydžio pavadinimas „custom“, bet ypatybės „custom_size“ laukas tuščias arba netinkamas.</translation>
 <translation id="6671169470640320959">Lėšos automobiliams</translation>
-<translation id="6671697161687535275">Pašalinti formos pasiūlymą iš „Chromium“?</translation>
+<translation id="6671697161687535275">Pašalinti formos pasiūlymą iš „Cobalt“?</translation>
 <translation id="6677351035258626477">Greitasis maistas</translation>
 <translation id="6681790815630918386">CVC išsaugotas</translation>
 <translation id="6683022854667115063">Ausinės</translation>
@@ -3022,7 +3022,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6897140037006041989">Naudotojo atstovas</translation>
 <translation id="6898699227549475383">Organizacija (O)</translation>
 <translation id="6907458757809079309">Mankšta</translation>
-<translation id="6908168784986658395">Kai uždarote visus „Chromium“ inkognito skirtukus, iš šio įrenginio pašalinama jūsų veikia toliau nurodytuose skirtukuose.
+<translation id="6908168784986658395">Kai uždarote visus „Cobalt“ inkognito skirtukus, iš šio įrenginio pašalinama jūsų veikia toliau nurodytuose skirtukuose.
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Naršymo veikla<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Paieškos istorija<ph name="END_LIST_ITEM" />
@@ -3070,7 +3070,7 @@ Kitu atveju tai bus užblokuota pagal jūsų privatumo nustatymus. Taip turinys,
 <translation id="6973988895180423160">3,5 x 5 col.</translation>
 <translation id="6978121630131642226">Paieškos sistemos</translation>
 <translation id="6978236010531171013">Vis tiek bendrinti</translation>
-<translation id="6978722349058177832">Jei bendrinate šį įrenginį, „Chromium“ gali prašyti patvirtinti kiekvieną kartą, kai mokate naudodami automatinį pildymą</translation>
+<translation id="6978722349058177832">Jei bendrinate šį įrenginį, „Cobalt“ gali prašyti patvirtinti kiekvieną kartą, kai mokate naudodami automatinį pildymą</translation>
 <translation id="6979158407327259162">„Google“ diskas</translation>
 <translation id="6979440798594660689">Nutildyti (numatytasis)</translation>
 <translation id="6987806006823772670">Vokas (dengtas)</translation>
@@ -3235,7 +3235,7 @@ Papildoma išsami informacija:
 <translation id="7308436126008021607">fono sinchronizavimas</translation>
 <translation id="7310392214323165548">Įrenginys netrukus bus paleistas iš naujo</translation>
 <translation id="7311244614769792472">Rezultatų nerasta</translation>
-<translation id="7311837626618954149">„Chromium“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.</translation>
+<translation id="7311837626618954149">„Cobalt“ neleidžia svetainėms naudoti trečiųjų šalių slapukų, siekiant jus stebėti, kai naršote.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Su ryšiu susijusi pagalba</translation>
 <translation id="7323804146520582233">Slėpti skiltį „<ph name="SECTION" />“</translation>
@@ -3308,7 +3308,7 @@ Papildoma išsami informacija:
 <translation id="7425878584435172632">Regimasis menas ir dizainas</translation>
 <translation id="7427079287360774240">Užsienio kalbų studijos</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Patvirtinkite savo tapatybę, kad „Chromium“ galėtų užpildyti jūsų mokėjimo informaciją.</translation>
+<translation id="7432774160230062882">Patvirtinkite savo tapatybę, kad „Cobalt“ galėtų užpildyti jūsų mokėjimo informaciją.</translation>
 <translation id="7437289804838430631">Pridėti kontaktinę informaciją</translation>
 <translation id="7438338505272634288">Svetainės, kurioje bandote apsilankyti, atakos vykdytojai gali apgaule priversti jus įdiegti žalingą programinę įrangą, paveikiančią naršymo būdą, pvz., pakeitus pagrindinį puslapį ar rodant papildomus skelbimus svetainėse, kuriose lankotės. „Chrome“ primygtinai rekomenduoja vėl naudoti saugos režimą, kad išvengtumėte žalos. <ph name="BEGIN_LEARN_MORE_LINK" />Sužinokite daugiau<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Naršymas neprisijungus</translation>
@@ -3385,7 +3385,7 @@ Papildoma išsami informacija:
 <translation id="7564049878696755256">Galite prarasti galimybę pasiekti „<ph name="ORG_NAME" />“ paskyrą arba gali būti pavogta tapatybė. „Chrome“ rekomenduoja pakeisti slaptažodį dabar.</translation>
 <translation id="7564667064360547717">Marškiniai ir viršutinės dalies drabužiai</translation>
 <translation id="7567204685887185387">Šiam serveriui nepavyko patvirtinti, kad tai yra <ph name="DOMAIN" />; jo saugos sertifikatas gali būti neteisėtai išduotas. Taip gali nutikti dėl netinkamos konfigūracijos ar dėl ryšį pertraukusio užgrobėjo.</translation>
-<translation id="7568616151991626879">„Google Chrome“ bando užpildyti jūsų slaptažodį programoje „<ph name="APP_NAME" />“.</translation>
+<translation id="7568616151991626879">„Cobalt“ bando užpildyti jūsų slaptažodį programoje „<ph name="APP_NAME" />“.</translation>
 <translation id="7569490014721427265">Golfas</translation>
 <translation id="7569952961197462199">Pašalinti kredito kortelės informaciją iš „Chrome“?</translation>
 <translation id="7569983096843329377">Juoda</translation>
@@ -3428,7 +3428,7 @@ Papildoma išsami informacija:
 <translation id="7631527008834753063">TV žaidimų laidos</translation>
 <translation id="7633909222644580952">Našumo duomenys ir strigčių ataskaitos</translation>
 <translation id="7636346903338549690">Svetainėse leidžiama naudoti trečiųjų šalių slapukus</translation>
-<translation id="7637571805876720304">Pašalinti kredito kortelės informaciją iš „Chromium“?</translation>
+<translation id="7637571805876720304">Pašalinti kredito kortelės informaciją iš „Cobalt“?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Nėra}=1{Vienas slaptažodis paskyroje (<ph name="DOMAIN_LIST" />)}one{# slaptažodis paskyroje (<ph name="DOMAIN_LIST" />)}few{# slaptažodžiai paskyroje (<ph name="DOMAIN_LIST" />)}many{# slaptažodžio paskyroje (<ph name="DOMAIN_LIST" />)}other{# slaptažodžių paskyroje (<ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Nuoseklieji prievadai</translation>
 <translation id="7639968568612851608">Tamsiai pilka</translation>
@@ -3649,7 +3649,7 @@ Papildoma išsami informacija:
 <translation id="8061691770921837575">Makiažas ir kosmetika</translation>
 <translation id="8063875539456488183">Išsaugoti ir stebėti kainą</translation>
 <translation id="8066225060526005217">Tvarkoma slapukų nustatymais</translation>
-<translation id="8067872629359326442">Ką tik savo slaptažodį įvedėte apgaulingoje svetainėje. „Chromium“ gali padėti. Norėdami pakeisti slaptažodį ir pranešti „Google“, kad jūsų paskyrai gali grėsti pavojus, spustelėkite „Apsaugoti paskyrą“.</translation>
+<translation id="8067872629359326442">Ką tik savo slaptažodį įvedėte apgaulingoje svetainėje. „Cobalt“ gali padėti. Norėdami pakeisti slaptažodį ir pranešti „Google“, kad jūsų paskyrai gali grėsti pavojus, spustelėkite „Apsaugoti paskyrą“.</translation>
 <translation id="8070439594494267500">Programos piktograma</translation>
 <translation id="8070495475341517754">Ekskursijos</translation>
 <translation id="8073647227500388356">Autonominės transporto priemonės</translation>
@@ -3908,7 +3908,7 @@ Papildoma išsami informacija:
 <translation id="8542014550340843547">Trys sankabėlės apačioje</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Galite <ph name="BEGIN_ERROR_LINK" />pranešti apie aptikimo problemą<ph name="END_ERROR_LINK" /> arba, jei suprantate saugos riziką, galite <ph name="BEGIN_LINK" />apsilankyti šioje nesaugioje svetainėje<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">„Google Chrome“ bando pakeisti mokėjimo metodų pildymo nustatymus.</translation>
+<translation id="8544217240017914508">„Cobalt“ bando pakeisti mokėjimo metodų pildymo nustatymus.</translation>
 <translation id="8544303911974837265">Poliesteris</translation>
 <translation id="854548366864113872">Didelės kainos parinktis</translation>
 <translation id="8546254312340305428">Nurodykite įkėlimo priežastį (būtina)</translation>
@@ -3925,7 +3925,7 @@ Papildoma išsami informacija:
 <translation id="8558347880669160417">Vaizdo kamera ir mikrofonas leidžiami šį kartą</translation>
 <translation id="8559762987265718583">Nepavyksta užmegzti privataus ryšio su <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, nes įrenginio data ir laikas (<ph name="DATE_AND_TIME" />) yra netinkami.</translation>
 <translation id="8564182942834072828">Atskiras dokumentas / nesugretintos kopijos</translation>
-<translation id="8564985650692024650">„Chromium“ rekomenduoja iš naujo nustatyti <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> slaptažodį, jei naudojate jį kitose svetainėse.</translation>
+<translation id="8564985650692024650">„Cobalt“ rekomenduoja iš naujo nustatyti <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> slaptažodį, jei naudojate jį kitose svetainėse.</translation>
 <translation id="8570895683659698018">Pomėgiai ir laisvalaikis</translation>
 <translation id="8574841453995331336">Šaldytuvai ir šaldikliai</translation>
 <translation id="8577192028579836704">Visos parinktys paprastai <ph name="TYPICAL_PRICE" /></translation>
@@ -4000,7 +4000,7 @@ Papildoma išsami informacija:
 <translation id="8736059027199600831">30 x 40 col.</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, paspauskite tabuliavimo klavišą, tada – „Enter“, kad būtų atidarytas naujas privataus naršymo inkognito langas</translation>
 <translation id="8737685506611670901">Atidaryti „<ph name="PROTOCOL" />“ nuorodas vietoje „<ph name="REPLACED_HANDLER_TITLE" />“</translation>
-<translation id="8738058698779197622">Jei norite užmegzti saugų ryšį, turėsite tinkamai nustatyti laikrodį. To reikalaujama todėl, kad svetainių tapatybei įrodyti naudojami sertifikatai galioja tik tam tikrą laikotarpį. Kadangi įrenginio laikrodis nustatytas netinkamai, „Chromium“ negali tinkamai patvirtinti sertifikatų.</translation>
+<translation id="8738058698779197622">Jei norite užmegzti saugų ryšį, turėsite tinkamai nustatyti laikrodį. To reikalaujama todėl, kad svetainių tapatybei įrodyti naudojami sertifikatai galioja tik tam tikrą laikotarpį. Kadangi įrenginio laikrodis nustatytas netinkamai, „Cobalt“ negali tinkamai patvirtinti sertifikatų.</translation>
 <translation id="8740359287975076522">Nepavyko rasti <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS adreso&lt;/abbr&gt;. Nustatoma problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> yra kodas, skirtas svetainei <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Žymėti šį skirtuką</translation>
@@ -4027,7 +4027,7 @@ Papildoma išsami informacija:
 <translation id="8785658048882205566">Motociklai</translation>
 <translation id="8790007591277257123">&amp;Ištrinti dar kartą</translation>
 <translation id="8792272652220298572">Plastikas (blizgus)</translation>
-<translation id="8792621596287649091">Galite prarasti galimybę pasiekti „<ph name="ORG_NAME" />“ paskyrą arba gali būti pavogta tapatybė. „Chromium“ rekomenduoja pakeisti slaptažodį dabar.</translation>
+<translation id="8792621596287649091">Galite prarasti galimybę pasiekti „<ph name="ORG_NAME" />“ paskyrą arba gali būti pavogta tapatybė. „Cobalt“ rekomenduoja pakeisti slaptažodį dabar.</translation>
 <translation id="8792626944327216835">mikrofonas</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> įjungė „Chrome Enterprise Connectors“ jūsų naršyklėje. Naudojant šias jungtis galima pasiekti kai kuriuos jūsų duomenis.</translation>
 <translation id="8798099450830957504">Numatytasis</translation>
@@ -4177,7 +4177,7 @@ Papildoma išsami informacija:
 <translation id="9095388113577226029">Daugiau kalbų...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; paspauskite tabuliavimo klavišą, tada „Enter“, kad nustatytumėte „Chrome“ kaip numatytąją sistemos naršyklę „iOS“ nustatymuose</translation>
 <translation id="9101630580131696064">1 dėklas</translation>
-<translation id="9103872766612412690">Svetainėje <ph name="SITE" /> įprastai naudojama šifruotė informacijai apsaugoti. Šį kartą „Chromium“ bandant prisijungti prie <ph name="SITE" />, ji pateikė neįprastus ir netinkamus prisijungimo duomenis. Gali būti, kad užpuolėjas bando apsimesti svetaine <ph name="SITE" /> arba „Wi-Fi“ prisijungimo ekrane nutrūko ryšys. Jūsų informacija vis tiek liko apsaugota, nes „Chromium“ sustabdė prisijungimą prieš apsikeitimą bet kokiais duomenimis.</translation>
+<translation id="9103872766612412690">Svetainėje <ph name="SITE" /> įprastai naudojama šifruotė informacijai apsaugoti. Šį kartą „Cobalt“ bandant prisijungti prie <ph name="SITE" />, ji pateikė neįprastus ir netinkamus prisijungimo duomenis. Gali būti, kad užpuolėjas bando apsimesti svetaine <ph name="SITE" /> arba „Wi-Fi“ prisijungimo ekrane nutrūko ryšys. Jūsų informacija vis tiek liko apsaugota, nes „Cobalt“ sustabdė prisijungimą prieš apsikeitimą bet kokiais duomenimis.</translation>
 <translation id="9107467864910557787">Jūsų naršyklę tvarko <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Pagal administratoriaus politiką ekrano bendrinimas su „<ph name="APPLICATION_TITLE" />“ išjungiamas, kai matomas konfidencialus turinys</translation>
 <translation id="9114524666733003316">Kortelė patvirtinama...</translation>
@@ -4245,7 +4245,7 @@ Papildoma išsami informacija:
 <translation id="93020190163435405">Stažuotės</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Leisti programai „<ph name="APP_NAME" />“ nustatyti „Wi-Fi“ tinklus?</translation>
-<translation id="936602727769022409">Galite prarasti prieigą prie „Google“ paskyros. „Chromium“ rekomenduoja pakeisti slaptažodį dabar. Bus prašoma prisijungti.</translation>
+<translation id="936602727769022409">Galite prarasti prieigą prie „Google“ paskyros. „Cobalt“ rekomenduoja pakeisti slaptažodį dabar. Bus prašoma prisijungti.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Kokie duomenys naudojami:<ph name="END_BOLD" /> skelbimų temos yra pagrįstos jūsų naujausia naršymo istorija, svetainių, kuriose lankėtės naudodami „Chrome“ šiame įrenginyje, sąrašu.</translation>
 <translation id="937885410143139026">Duomenys išsiųsti į administratoriaus pultą</translation>
 <translation id="939736085109172342">Naujas aplankas</translation>

@@ -152,10 +152,10 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="7693372326588366043">Odśwież listę hostów</translation>
 <translation id="7714222945760997814">Zgłoś to</translation>
 <translation id="7868137160098754906">Wpisz kod PIN komputera zdalnego.</translation>
-<translation id="7881455334687220899">Copyright 2024 Autorzy Chromium. Wszelkie prawa zastrzeżone.</translation>
+<translation id="7881455334687220899">Copyright 2024 Autorzy Cobalt. Wszelkie prawa zastrzeżone.</translation>
 <translation id="7895403300744144251">Zasady bezpieczeństwa obowiązujące na komputerze zdalnym nie zezwalają na nawiązywanie połączeń z Twojego konta.</translation>
 <translation id="7936528439960309876">Zadokuj do prawej</translation>
-<translation id="7970576581263377361">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Chromium.</translation>
+<translation id="7970576581263377361">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Cobalt.</translation>
 <translation id="7981525049612125370">Sesja zdalna wygasła.</translation>
 <translation id="8038111231936746805">(domyślnie)</translation>
 <translation id="8041089156583427627">Prześlij opinię</translation>
@@ -191,6 +191,6 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="9187628920394877737">Przyznaj uprawnienie „Rejestrowanie zawartości ekranu” usłudze <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Nieprawidłowa konfiguracja hosta.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Autorzy Chromium</translation>
+<translation id="985602178874221306">Autorzy Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ostatnio online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

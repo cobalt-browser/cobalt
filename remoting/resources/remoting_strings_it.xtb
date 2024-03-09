@@ -152,10 +152,10 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="7693372326588366043">Aggiorna l'elenco degli host</translation>
 <translation id="7714222945760997814">Segnala errore</translation>
 <translation id="7868137160098754906">Inserisci il codice PIN per il computer remoto.</translation>
-<translation id="7881455334687220899">Copyright 2024 The Chromium Authors. Tutti i diritti riservati.</translation>
+<translation id="7881455334687220899">Copyright 2024 The Cobalt Authors. Tutti i diritti riservati.</translation>
 <translation id="7895403300744144251">Le norme di sicurezza del computer remoto non consentono connessioni dal tuo account.</translation>
 <translation id="7936528439960309876">Aggancia a destra</translation>
-<translation id="7970576581263377361">Autenticazione non riuscita. Accedi di nuovo a Chromium.</translation>
+<translation id="7970576581263377361">Autenticazione non riuscita. Accedi di nuovo a Cobalt.</translation>
 <translation id="7981525049612125370">La sessione remota è scaduta.</translation>
 <translation id="8038111231936746805">(predefinita)</translation>
 <translation id="8041089156583427627">Invia feedback</translation>
@@ -191,6 +191,6 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="9187628920394877737">Concedi l'autorizzazione "Registrazione dello schermo" a <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Configurazione host non valida.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ultima connessione: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

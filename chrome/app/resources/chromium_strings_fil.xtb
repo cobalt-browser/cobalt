@@ -153,7 +153,7 @@ Posibleng malapat sa account na ito ang mga pahintulot na naibigay mo na sa mga 
 <translation id="370962675267501463">{COUNT,plural, =0{Hinihiling ng iyong administrator na ilunsad mo ulit ang Cobalt para mailapat ang update na ito}=1{Hinihiling ng iyong administrator na ilunsad mo ulit ang Cobalt para mailapat ang update na ito. Hindi bubukas ulit ang iyong Incognito window.}one{Hinihiling ng iyong administrator na ilunsad mo ulit ang Cobalt para mailapat ang update na ito. Hindi bubukas ulit ang iyong # Incognito window.}other{Hinihiling ng iyong administrator na ilunsad mo ulit ang Cobalt para mailapat ang update na ito. Hindi bubukas ulit ang iyong # na Incognito window.}}</translation>
 <translation id="3713809861844741608">Buksan ang link sa bagong &amp;tab ng Cobalt</translation>
 <translation id="3788675262216168505">Pamahalaan ang Mga Profile sa Cobalt</translation>
-<translation id="378917192836375108">Pinapayagan ka ng Google Chrome na mag-click sa isang numero ng telepono sa web at tawagan ito gamit ang Skype!</translation>
+<translation id="378917192836375108">Pinapayagan ka ng Cobalt na mag-click sa isang numero ng telepono sa web at tawagan ito gamit ang Skype!</translation>
 <translation id="3790262771324122253">Alamin kung bakit bina-block ng Cobalt ang ilang pag-download</translation>
 <translation id="379589255253486813">Ipapaalam sa iyo ng Cobalt kung may anumang nangangailangan ng iyong pagsusuri</translation>
 <translation id="3802055581630249637">Nagpi-preload ang Cobalt ng mga page na malamang na bisitahin mo, para mas mabilis na mag-load ang mga ito kapag binisita mo</translation>
@@ -169,7 +169,7 @@ Posibleng malapat sa account na ito ang mga pahintulot na naibigay mo na sa mga 
 <translation id="3941890832296813527">Error sa pag-install: Invalid o hindi sinusuportahan ang filename ng installer.</translation>
 <translation id="3945058413678539331">Sinusubukan ng Cobalt na kopyahin ang mga password. I-type ang iyong password sa Windows para payagan ito.</translation>
 <translation id="3962647064319009959">Alamin kung paano ka pinapanatiling ligtas ng Cobalt</translation>
-<translation id="3975724895399328945">Tungkol sa &amp;Google Chrome na Pang-test</translation>
+<translation id="3975724895399328945">Tungkol sa &amp;Cobalt na Pang-test</translation>
 <translation id="3997429360543082038">Tungkol sa ChromiumOS</translation>
 <translation id="4019629340646866719">Pinapagana ng karagdagang <ph name="BEGIN_LINK_CROS_OSS" />open source na software<ph name="END_LINK_CROS_OSS" /> ang ChromiumOS, pati na rin ang <ph name="BEGIN_LINK_LINUX_OSS" />environment sa pag-develop ng Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Tulungang pahusayin ang Cobalt sa pamamagitan ng pag-ulat sa <ph name="BEGIN_LINK" />mga kasalukuyang setting<ph name="END_LINK" /></translation>
@@ -405,7 +405,7 @@ Hindi mabawi ng Cobalt ang iyong mga setting.</translation>
 <translation id="8013436988911883588">Kapag mayroon nang access ang Cobalt, makakahingi na ang mga website ng access sa iyo.</translation>
 <translation id="80471789339884597">Salamat sa pag-install. Dapat mong i-restart ang lahat ng iyong browser bago gamitin ang <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Hindi na-install dahil hindi natutugunan ng iyong computer ang mga minimum na requirement sa hardware.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Kailangan ng Cobalt ng pahintulot sa lokasyon para sa site na ito</translation>
 <translation id="8133124826068723441">Hindi ma-sync ng ChromiumOS ang iyong data dahil hindi available ang Pag-sync para sa domain mo.</translation>
 <translation id="813913629614996137">Sinisimulan...</translation>
@@ -438,7 +438,7 @@ Hindi mabawi ng Cobalt ang iyong mga setting.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Paano namin ginagamit ang data na ito:<ph name="END_BOLD" /> Puwedeng mag-store ang mga site sa Cobalt tungkol sa iyong mga interes. Halimbawa, kung bibisita ka sa isang site para bumili ng mga sapatos para sa isang marathon, posibleng tukuyin ng site ang iyong interes bilang pagtakbo sa mga marathon. Sa ibang pagkakataon, kung bibisita ka sa ibang site para magparehistro para sa isang karera, puwedeng magpakita sa iyo ang site na iyon ng ad para sa running shoes batay sa mga interes mo.</translation>
 <translation id="8619360774459241877">Inilulunsad ang Cobalt...</translation>
 <translation id="8621669128220841554">Nabigo ang pag-install dahil sa hindi natukoy na error. Mangyaring i-download muli ang Cobalt.</translation>
-<translation id="8648201657708811153">Hindi puwedeng gawing default na browser mo ang Google Chrome na Pang-test.</translation>
+<translation id="8648201657708811153">Hindi puwedeng gawing default na browser mo ang Cobalt na Pang-test.</translation>
 <translation id="8697124171261953979">Kinokontrol din nito kung anong pahina ang ipinapakita kapag sinimulan mo ang Cobalt o naghanap mula sa Omnibox.</translation>
 <translation id="8704119203788522458">Ito ang iyong Cobalt</translation>
 <translation id="8719993436687031146">Mag-sign in sa Cobalt?</translation>

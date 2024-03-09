@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Pripremanje fajlova</translation>
 <translation id="1015730422737071372">Navedite dodatne detalje</translation>
 <translation id="1019413721762100891">Isključeno</translation>
-<translation id="1021753677514347426">Ovaj problem nastaje zbog potvrde koju ste vi ili neko drugi instalirali na uređaj. Poznato je da se ta potvrda koristi za nadzor i presretanje mreža te je Chromium ne smatra pouzdanom. Iako postoje opravdani slučajevi za nadzor, naprimjer na mrežama u školama ili preduzećima, Chromium želi potvrditi da ste toga svjesni čak i ako taj proces ne možete zaustaviti. Nadzor se može vršiti u bilo kojem pregledniku ili bilo kojoj aplikaciji koja pristupa webu.</translation>
+<translation id="1021753677514347426">Ovaj problem nastaje zbog potvrde koju ste vi ili neko drugi instalirali na uređaj. Poznato je da se ta potvrda koristi za nadzor i presretanje mreža te je Cobalt ne smatra pouzdanom. Iako postoje opravdani slučajevi za nadzor, naprimjer na mrežama u školama ili preduzećima, Cobalt želi potvrditi da ste toga svjesni čak i ako taj proces ne možete zaustaviti. Nadzor se može vršiti u bilo kojem pregledniku ili bilo kojoj aplikaciji koja pristupa webu.</translation>
 <translation id="1024111578869940408">Napadači ponekad oponašaju web lokacije pomoću teško primjetnih izmjena web adrese.</translation>
 <translation id="1024913885641459127">Recenzije proizvoda i poređenja cijena</translation>
 <translation id="1028781062521375153">Prikaži detalje</translation>
@@ -317,7 +317,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1567040042588613346">Ovo pravilo radi kako je predviđeno, ali je ista vrijednost postavljena negdje drugo i ovo pravilo ju je zaobišlo.</translation>
 <translation id="1567405528131216114">Dodavanje: <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Unesite datum isteka</translation>
-<translation id="1569694109004336106">Google Chrome pokušava uključiti Windows Hello za popunjavanje lozinki.</translation>
+<translation id="1569694109004336106">Cobalt pokušava uključiti Windows Hello za popunjavanje lozinki.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1574714699824202614">Potvrđivanje načina plaćanja</translation>
 <translation id="1576277203042721907">Uvidi u kupovinu</translation>
@@ -360,7 +360,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="1645368109819982629">Protokol nije podržan</translation>
 <translation id="1650602712345345441">Upravljajte postavkama Chromea</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Da koristite Upravitelj lozinki s macOS Keychainom, ponovo pokrenite Chromium i dozvolite pristup Keychainu. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
+<translation id="1652862280638399816">Da koristite Upravitelj lozinki s macOS Keychainom, ponovo pokrenite Cobalt i dozvolite pristup Keychainu. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
 <translation id="1656024727720460136">Chrome je pojednostavio ovu stranicu za lakše čitanje. Chrome je preuzeo originalnu stranicu putem sigurne veze.</translation>
 <translation id="1656489000284462475">Preuzmi</translation>
 <translation id="1658111267661135323">TV i videozapisi</translation>
@@ -509,7 +509,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="194174710521904357">Ovoj web lokaciji ste privremeno dozvolili da koristi kolačiće treće strane, što podrazumijeva manju zaštitu prilikom pregledanja, ali veću vjerovatnost da će funkcije web lokacije funkcionirati u skladu s očekivanjima.</translation>
 <translation id="1942498996464084801">Knjige i literatura</translation>
 <translation id="1943994668912612445">Dizajn</translation>
-<translation id="1945968466830820669">Možete izgubiti pristup računu svoje organizacije ili doživjeti krađu identiteta. Chromium preporučuje da odmah promijenite lozinku.</translation>
+<translation id="1945968466830820669">Možete izgubiti pristup računu svoje organizacije ili doživjeti krađu identiteta. Cobalt preporučuje da odmah promijenite lozinku.</translation>
 <translation id="1946849748901605102">12 x 15 in</translation>
 <translation id="1947454675006758438">Spajanje u gornjem desnom uglu</translation>
 <translation id="1953729392594614704">Blokiranje teme <ph name="TOPIC" /> će blokirati i druge povezane teme, čak i ako je tema aktivna</translation>
@@ -588,7 +588,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2083256696566019397">Dozvoli prilikom svake posjete</translation>
 <translation id="2085876078937250610">Sačuvaj…</translation>
 <translation id="2091887806945687916">Zvuk</translation>
-<translation id="2093982008204312032">Google Chrome pokušava isključiti Windows Hello za popunjavanje lozinki.</translation>
+<translation id="2093982008204312032">Cobalt pokušava isključiti Windows Hello za popunjavanje lozinki.</translation>
 <translation id="2094505752054353250">Nepodudaranje domene</translation>
 <translation id="2094704029599359040">Informacije o verziji</translation>
 <translation id="2099652385553570808">Trostruko spajanje na lijevoj strani</translation>
@@ -758,7 +758,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="239429038616798445">Ovaj način isporuke nije dostupan. Probajte drugi način.</translation>
 <translation id="2395840535409704129">Vodeni sportovi</translation>
 <translation id="2396249848217231973">&amp;Poništi brisanje</translation>
-<translation id="2399868464369312507">Google Chrome pokušava urediti načine plaćanja.</translation>
+<translation id="2399868464369312507">Cobalt pokušava urediti načine plaćanja.</translation>
 <translation id="2400600116338235695">Može tražiti da se poveže na serijske priključke</translation>
 <translation id="2404884497378469141">Ponovo pokušajte kopirati fajlove</translation>
 <translation id="2413155254802890957">Staro</translation>
@@ -1026,7 +1026,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="2979424420072875974">Resursi za pisce</translation>
 <translation id="2980742331521553164">CVC kartice će se šifrirati i sačuvati na Google račun radi bržeg nastavka na plaćanje</translation>
 <translation id="2983666748527428214">Otvori anonimnu karticu</translation>
-<translation id="2985306909656435243">Ako je omogućeno, Chromium će pohraniti kopiju vaše kartice na ovom uređaju za brže popunjavanje.</translation>
+<translation id="2985306909656435243">Ako je omogućeno, Cobalt će pohraniti kopiju vaše kartice na ovom uređaju za brže popunjavanje.</translation>
 <translation id="2985398929374701810">Unesite važeću adresu</translation>
 <translation id="2987034854559945715">Nema funkcija koje se podudaraju</translation>
 <translation id="2988216301273604645">Chrome ograničava količinu informacija koje web lokacije mogu koristiti kako bi vas pratile dok pregledate. Možete promijeniti postavke da odaberete vlastiti nivo zaštite.</translation>
@@ -1108,7 +1108,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3154506275960390542">Ova stranica sadrži obrazac čije slanje može biti nesigurno. Tokom prijenosa, drugi će moći vidjeti podatke koje šaljete, a prije nego što ih primi server može ih izmijeniti napadač.</translation>
 <translation id="3154987252551138431">Došlo je do problema prilikom korištenja Dijeljenja u blizini</translation>
 <translation id="315504272643575312">Vašim računom upravlja <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Ponovo pokreni Chromium</translation>
+<translation id="3155163173539279776">Ponovo pokreni Cobalt</translation>
 <translation id="3157931365184549694">Vrati</translation>
 <translation id="3158539265159265653">Disk</translation>
 <translation id="3162559335345991374">WiFi koji koristite može tražiti da posjetite njegovu stranicu za prijavu.</translation>
@@ -1162,7 +1162,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="324180406144491771">Linkovi hosta "<ph name="HOST_NAME" />" su blokirani</translation>
 <translation id="3252772880526154546">Arhitektura</translation>
 <translation id="3254301855501243548">18 x 22 in</translation>
-<translation id="3255926992597692024">Chromium pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
+<translation id="3255926992597692024">Cobalt pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite Tab, a zatim Enter da brzo kreirate novi događaj u Google Kalendaru</translation>
 <translation id="3261488570342242926">Saznajte više o virtuelnim karticama</translation>
 <translation id="3262698603497362968">Opcije kupovine</translation>
@@ -1249,7 +1249,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="3423742043356668186">Sistemski navedeno</translation>
 <translation id="3427092606871434483">Dozvoli (zadano)</translation>
 <translation id="3427342743765426898">&amp;Poništi uređivanje</translation>
-<translation id="342781501876943858">Chromium preporučuje ponovno postavljanje lozinke ukoliko ste je iskoristili na drugim web lokacijama.</translation>
+<translation id="342781501876943858">Cobalt preporučuje ponovno postavljanje lozinke ukoliko ste je iskoristili na drugim web lokacijama.</translation>
 <translation id="3428151540071562330">Jedan ili više URI-ja šablona servera DnsOverHttpsTemplates su nevažeći i neće se koristiti.</translation>
 <translation id="3428789896412418755">Historija prema grupama</translation>
 <translation id="3431216045099978607">Pritisnite |<ph name="ACCELERATOR" />| da izađete iz prikaza preko cijelog ekrana i vidite preuzimanje.</translation>
@@ -1437,7 +1437,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="374325029554577103">Tehnološki proizvodi za fitnes</translation>
 <translation id="3744111561329211289">Sinhronizacija u pozadini</translation>
 <translation id="3744212718085287312">Dodatno zaštititi virtuelnom karticom sljedeći put?</translation>
-<translation id="3744899669254331632">Trenutno ne možete posjetiti <ph name="SITE" /> jer je ova web lokacija poslala kodirane akreditive koje Chromium ne može obraditi. Greške i napadi na mreži su obično privremeni, pa će ova web lokacija vjerovatno raditi kasnije.</translation>
+<translation id="3744899669254331632">Trenutno ne možete posjetiti <ph name="SITE" /> jer je ova web lokacija poslala kodirane akreditive koje Cobalt ne može obraditi. Greške i napadi na mreži su obično privremeni, pa će ova web lokacija vjerovatno raditi kasnije.</translation>
 <translation id="3745599309295009257">Vaš tekst te sadržaj i URL stranice na kojoj pišete će se poslati Googleu, osobe će ih pregledati i koristit će se za poboljšanje ove funkcije. Nemojte unositi lične informacije (kao što su zdravstveni ili finansijski podaci) niti koristiti ovaj alat na web lokacijama koje sadržavaju privatne ili osjetljive informacije.</translation>
 <translation id="3748009735914587286">Metal (visoki sjaj)</translation>
 <translation id="3748148204939282805">Napadači na web lokaciju <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> mogu vas prevarom navesti da uradite nešto opasno kao što je instaliranje softvera ili otkrivanje ličnih informacija (naprimjer lozinki, brojeva telefona ili kreditnih kartica). <ph name="BEGIN_LEARN_MORE_LINK" />Saznajte više<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4047351652147966654">18 x 24 in</translation>
 <translation id="404831776305217138">URL ažuriranja za ekstenziju s ID-om "<ph name="EXTENSION_ID" />" nije važeći ili koristi nepodržanu šemu. Nepodržane šeme su <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> i <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Moći ćete je koristiti na Googleovim proizvodima</translation>
-<translation id="4050599136622776556">Chromium pokušava urediti načine plaćanja.</translation>
+<translation id="4050599136622776556">Cobalt pokušava urediti načine plaćanja.</translation>
 <translation id="405399507749852140">Primajte obavještenja ako cijena padne na bilo kojoj web lokaciji</translation>
 <translation id="4056223980640387499">Sepija</translation>
 <translation id="4059523390906550209">Saznajte više o zaštiti osjetljivih podataka</translation>
@@ -1919,7 +1919,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4732860731866514038">Preuzimanje jezičkog paketa za <ph name="LANGUAGE" />… <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> želi koristiti lokciju vašeg uređaja</translation>
 <translation id="473414950835101501">Koristiti vaše kamere</translation>
-<translation id="4736825316280949806">Ponovo pokrenite Chromium</translation>
+<translation id="4736825316280949806">Ponovo pokrenite Cobalt</translation>
 <translation id="4736934858538408121">Virtuelna kartica</translation>
 <translation id="473775607612524610">Ažuriraj</translation>
 <translation id="4738601419177586157">Prijedlog za pretraživanje: <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4756388243121344051">&amp;Historija</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Pristupni ključ s vašeg Chrome profila</translation>
-<translation id="4757993714154412917">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Da zaštitite račune, Chromium preporučuje da provjerite sačuvane lozinke.</translation>
+<translation id="4757993714154412917">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Da zaštitite račune, Cobalt preporučuje da provjerite sačuvane lozinke.</translation>
 <translation id="4758311279753947758">Dodaj informacije o kontaktu</translation>
 <translation id="4761326898079498987">Pregledajte da vidite dodatne detalje</translation>
 <translation id="4761869838909035636">Pokrenite Sigurnosnu provjeru Chromea</translation>
@@ -2023,7 +2023,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="4918221908152712722">Instalirajte aplikaciju <ph name="APP_NAME" /> (nije potrebno preuzeti)</translation>
 <translation id="4920457992177678649">Privatni smještaj i kratki boravci</translation>
 <translation id="4920710383559189047">Omotnica</translation>
-<translation id="4922104989726031751">Da koristite Upravitelj lozinki sa svojim operativnim sistemom, ponovo pokrenite Chromium i dozvolite pristup upravitelju lozinki računara. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
+<translation id="4922104989726031751">Da koristite Upravitelj lozinki sa svojim operativnim sistemom, ponovo pokrenite Cobalt i dozvolite pristup upravitelju lozinki računara. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
 <translation id="4923459931733593730">Plaćanje</translation>
 <translation id="4926049483395192435">Mora se navesti.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> kaže</translation>
@@ -2108,7 +2108,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5087580092889165836">Dodaj karticu</translation>
 <translation id="5088142053160410913">Poruka operateru</translation>
 <translation id="5093232627742069661">Z-presavijanje</translation>
-<translation id="5094747076828555589">Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN" />; Chromium ne vjeruje njegovoj sigurnosnoj potvrdi. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
+<translation id="5094747076828555589">Ovaj server ne može dokazati da pripada domeni <ph name="DOMAIN" />; Cobalt ne vjeruje njegovoj sigurnosnoj potvrdi. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
 <translation id="5097099694988056070">Statistika uređaja kao što je iskorištenost CPU-a/RAM-a</translation>
 <translation id="5097468150760963273">27 x 39 in</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5137761395480718572">Aplikacija traži odobrenje za instaliranje akreditiva za WiFi. Nakon postavljanja uređaj <ph name="DEVICE_TYPE" /> će se automatski povezivati s WiFi mrežama koje učestvuju. Da uklonite akreditive, deinstalirajte aplikaciju. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuelna kartica trenutno nije dostupna. Kontaktirajte banku</translation>
 <translation id="5138227688689900538">Prikaži manje</translation>
-<translation id="5143309888746105072">Chromium blokira da web lokacije koriste kolačiće trećih strana da vas prate dok pregledate.
+<translation id="5143309888746105072">Cobalt blokira da web lokacije koriste kolačiće trećih strana da vas prate dok pregledate.
             <ph name="NEW_LINE" />Ako funkcije web lokacije ne funkcioniraju, <ph name="START_LINK" />pokušajte s privremenim dozvoljavanjem kolačića trećih strana<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Odgovor na pravilo sadrži kȏd greške</translation>
 <translation id="5146995429444047494">Obavještenja za <ph name="ORIGIN" /> su blokirana</translation>
@@ -2273,7 +2273,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="5425082381151187189">Uređenje doma i enterijera</translation>
 <translation id="5426179911063097041">Web lokacija <ph name="SITE" /> vam želi slati obavještenja</translation>
 <translation id="5430298929874300616">Uklonite oznaku</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />neće pohranjivati<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />neće pohranjivati<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />historiju pregledanja
             <ph name="LIST_ITEM" />kolačiće i podatke web lokacija
@@ -2648,7 +2648,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6160391204859821737">Uključivanje funkcije privatnosti pri izloženosti oglasima</translation>
 <translation id="6165508094623778733">Saznajte više</translation>
 <translation id="6167577165590485365">Vrijeme pokušaja posljednjeg dohvatanja:</translation>
-<translation id="617256461084925519">Google Chrome pokušava potvrditi vaš identitet radi popunjavanja vaših podataka o plaćanju.</translation>
+<translation id="617256461084925519">Cobalt pokušava potvrditi vaš identitet radi popunjavanja vaših podataka o plaćanju.</translation>
 <translation id="6176387967264100435">Ova cijena je visoka</translation>
 <translation id="6177128806592000436">Vaša veza s ovom web lokacijom nije sigurna</translation>
 <translation id="6177531123306197852">Koverta C2</translation>
@@ -2782,7 +2782,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6410264514553301377">Unesite datum isteka i CVC za karticu <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Njega kože i noktiju</translation>
-<translation id="6415778972515849510">Chromium vam može pomoći da zaštitite svoj Google račun i promijenite lozinku.</translation>
+<translation id="6415778972515849510">Cobalt vam može pomoći da zaštitite svoj Google račun i promijenite lozinku.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Usluge obračuna plata</translation>
 <translation id="6424600253695044005">Pohrana u oblaku</translation>
@@ -3069,7 +3069,7 @@ To će u suprotnom biti blokirano prema vašim postavkama privatnosti. Ovo će o
 <translation id="6973988895180423160">3,5 x 5 in</translation>
 <translation id="6978121630131642226">Pretraživači</translation>
 <translation id="6978236010531171013">Svejedno dijeli</translation>
-<translation id="6978722349058177832">Ako dijelite uređaj, Chromium može zatražiti da potvrdite prilikom svakog plaćanja pomoću automatskog popunjavanja</translation>
+<translation id="6978722349058177832">Ako dijelite uređaj, Cobalt može zatražiti da potvrdite prilikom svakog plaćanja pomoću automatskog popunjavanja</translation>
 <translation id="6979158407327259162">Google Disk</translation>
 <translation id="6979440798594660689">Isključi zvuk (zadano)</translation>
 <translation id="6987806006823772670">Koverta (s premazom)</translation>
@@ -3234,7 +3234,7 @@ Dodatni detalji:
 <translation id="7308436126008021607">sinhronizacija u pozadini</translation>
 <translation id="7310392214323165548">Uređaj će se veoma brzo ponovo pokrenuti</translation>
 <translation id="7311244614769792472">Nije pronađen nijedan rezultat</translation>
-<translation id="7311837626618954149">Chromium blokira da web lokacije koriste kolačiće trećih strana da vas prate dok pregledate.</translation>
+<translation id="7311837626618954149">Cobalt blokira da web lokacije koriste kolačiće trećih strana da vas prate dok pregledate.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Pomoć s povezivanjem</translation>
 <translation id="7323804146520582233">Sakrij odjeljak "<ph name="SECTION" />"</translation>
@@ -3307,7 +3307,7 @@ Dodatni detalji:
 <translation id="7425878584435172632">Likovna umjetnost i dizajn</translation>
 <translation id="7427079287360774240">Učenje stranih jezika</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Potvrdite identitet da Chromium može popuniti vaše podatke o plaćanju.</translation>
+<translation id="7432774160230062882">Potvrdite identitet da Cobalt može popuniti vaše podatke o plaćanju.</translation>
 <translation id="7437289804838430631">Dodaj kontakt podatke</translation>
 <translation id="7438338505272634288">Napadači na web lokaciji koju pokušavate posjetiti vas mogu prevariti da instalirate štetan softver koji utiče na način na koji pregledate internet – naprimjer, promjenom početne stranice ili prikazivanjem dodatnih oglasa na web lokacijama koje posjetite. Chrome strogo preporučuje da se vratite na sigurne web lokacije radi izbjegavanja štete. <ph name="BEGIN_LEARN_MORE_LINK" />Saznajte više<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Istražite dok ste van mreže</translation>
@@ -3384,7 +3384,7 @@ Dodatni detalji:
 <translation id="7564049878696755256">Možete izgubiti pristup svom <ph name="ORG_NAME" /> računu ili doživjeti krađu identiteta. Chrome preporučuje da odmah promijenite lozinku.</translation>
 <translation id="7564667064360547717">Majice i topovi</translation>
 <translation id="7567204685887185387">Ovaj server nije uspio dokazati da je <ph name="DOMAIN" />; njegova potvrda sigurnosti je možda izdana lažno. Uzrok tome može biti pogrešna konfiguracija ili napadač koji je prekinuo vašu vezu.</translation>
-<translation id="7568616151991626879">Google Chrome pokušava popuniti vašu lozinku u aplikaciji <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt pokušava popuniti vašu lozinku u aplikaciji <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Ukloniti kreditnu karticu iz Chromea?</translation>
 <translation id="7569983096843329377">Crna</translation>
@@ -3648,7 +3648,7 @@ Dodatni detalji:
 <translation id="8061691770921837575">Šminka i kozmetika</translation>
 <translation id="8063875539456488183">Sačuvajte i pratite cijene</translation>
 <translation id="8066225060526005217">Ovim upravljaju postavke kolačića</translation>
-<translation id="8067872629359326442">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Chromium vam može pomoći. Da promijenite lozinku i obavijestite Google da vam je račun možda ugrožen, kliknite Zaštiti račun.</translation>
+<translation id="8067872629359326442">Upravo ste unijeli lozinku na obmanjujućoj web lokaciji. Cobalt vam može pomoći. Da promijenite lozinku i obavijestite Google da vam je račun možda ugrožen, kliknite Zaštiti račun.</translation>
 <translation id="8070439594494267500">Ikona aplikacije</translation>
 <translation id="8070495475341517754">Obilasci znamenitosti</translation>
 <translation id="8073647227500388356">Autonomna vozila</translation>
@@ -3907,7 +3907,7 @@ Dodatni detalji:
 <translation id="8542014550340843547">Trostruko spajanje na donjoj strani</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Možete <ph name="BEGIN_ERROR_LINK" />prijaviti problem s otkrivanjem<ph name="END_ERROR_LINK" /> ili, ako razumijete rizik po svoju sigurnost, <ph name="BEGIN_LINK" />posjetiti nesigurnu stranicu<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
+<translation id="8544217240017914508">Cobalt pokušava izmijeniti postavke za popunjavanje načina plaćanja.</translation>
 <translation id="8544303911974837265">Poliester</translation>
 <translation id="854548366864113872">Opcija s visokom cijenom</translation>
 <translation id="8546254312340305428">Navedite razlog za otpremanje (obavezno)</translation>
@@ -3924,7 +3924,7 @@ Dodatni detalji:
 <translation id="8558347880669160417">Kamera i mikrofon su dozvoljeni ovaj put</translation>
 <translation id="8559762987265718583">Nije moguće uspostaviti privatnu vezu s domenom <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> jer datum i vrijeme (<ph name="DATE_AND_TIME" />) na vašem uređaju nisu tačni.</translation>
 <translation id="8564182942834072828">Zasebni dokumenti/nerazvrstane kopije</translation>
-<translation id="8564985650692024650">Chromium preporučuje da poništite lozinku za <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ako ste je ponovo koristili na drugim web lokacijama.</translation>
+<translation id="8564985650692024650">Cobalt preporučuje da poništite lozinku za <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> ako ste je ponovo koristili na drugim web lokacijama.</translation>
 <translation id="8570895683659698018">Hobiji i slobodno vrijeme</translation>
 <translation id="8574841453995331336">Frižideri i zamrzivači</translation>
 <translation id="8577192028579836704">Sve uobičajene opcije: <ph name="TYPICAL_PRICE" /></translation>
@@ -3998,7 +3998,7 @@ Dodatni detalji:
 <translation id="8736059027199600831">30 x 40 in</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Pritisnite Tab, a zatim Enter da otvorite novi anonimni prozor i da privatno pregledate</translation>
 <translation id="8737685506611670901">Otvaranje linkova protokola <ph name="PROTOCOL" /> umjesto obrađivača <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Ispravno podesite sat da uspostavite sigurnu vezu. Razlog tome je taj što su certifikati koji web lokacije koriste da se identificiraju valjane samo na određeni period. Kako sat na vašem uređaju nije ispravan, Chromium ne može provjeriti ove certifikate.</translation>
+<translation id="8738058698779197622">Ispravno podesite sat da uspostavite sigurnu vezu. Razlog tome je taj što su certifikati koji web lokacije koriste da se identificiraju valjane samo na određeni period. Kako sat na vašem uređaju nije ispravan, Cobalt ne može provjeriti ove certifikate.</translation>
 <translation id="8740359287975076522">Nije moguće pronaći &lt;abbr id="dnsDefinition"&gt;DNS adresu&lt;/abbr&gt; host računara <ph name="HOST_NAME" />. Dijagnosticiranje problema.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> je vaš kôd za <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Označite ovu karticu</translation>
@@ -4025,7 +4025,7 @@ Dodatni detalji:
 <translation id="8785658048882205566">Motocikli</translation>
 <translation id="8790007591277257123">Poništite b&amp;risanje</translation>
 <translation id="8792272652220298572">Plastika (sjajna)</translation>
-<translation id="8792621596287649091">Možete izgubiti pristup svom <ph name="ORG_NAME" /> računu ili doživjeti krađu identiteta. Chromium preporučuje da odmah promijenite lozinku.</translation>
+<translation id="8792621596287649091">Možete izgubiti pristup svom <ph name="ORG_NAME" /> računu ili doživjeti krađu identiteta. Cobalt preporučuje da odmah promijenite lozinku.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="8793655568873652685">Domena <ph name="ENROLLMENT_DOMAIN" /> je uključila Konektore Chromea za preduzeća u vašem pregledniku. Pomoću tih konektora je moguće pristupiti nekim vašim podacima.</translation>
 <translation id="8798099450830957504">Zadano</translation>
@@ -4175,7 +4175,7 @@ Dodatni detalji:
 <translation id="9095388113577226029">Više jezika…</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, pritisnite Tab, a zatim Enter da postavite Chrome kao zadani preglednik sistema u postavkama iOS-a</translation>
 <translation id="9101630580131696064">Ladica 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> obično koristi šifriranje za zaštitu vaših informacija. Kada se Chromium ovaj put pokušao povezati s web lokacijom <ph name="SITE" />, web lokacija je vratila neobične i netačne akreditive. To se može dogoditi kada se napadač pokušava predstaviti kao web lokacija <ph name="SITE" /> ili kada vezu prekine ekran za prijavu na WiFi. Vaše informacije su i dalje sigurne jer je Chromium prekinuo vezu prije bilo kakve razmjene podataka.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> obično koristi šifriranje za zaštitu vaših informacija. Kada se Cobalt ovaj put pokušao povezati s web lokacijom <ph name="SITE" />, web lokacija je vratila neobične i netačne akreditive. To se može dogoditi kada se napadač pokušava predstaviti kao web lokacija <ph name="SITE" /> ili kada vezu prekine ekran za prijavu na WiFi. Vaše informacije su i dalje sigurne jer je Cobalt prekinuo vezu prije bilo kakve razmjene podataka.</translation>
 <translation id="9107467864910557787">Vašim preglednikom upravlja <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Pravilo administratora onemogućava dijeljenje ekrana s aplikacijom <ph name="APPLICATION_TITLE" /> kada je vidljiv povjerljivi sadržaj</translation>
 <translation id="9114524666733003316">Potvrđivanje kartice...</translation>
@@ -4243,7 +4243,7 @@ Dodatni detalji:
 <translation id="93020190163435405">Stažiranje</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Dozvoliti aplikaciji <ph name="APP_NAME" /> da postavi WiFi mreže?</translation>
-<translation id="936602727769022409">Možete izgubiti pristup svom Google računu. Chromium preporučuje da odmah promijenite lozinku. Od vas će se tražiti da se prijavite.</translation>
+<translation id="936602727769022409">Možete izgubiti pristup svom Google računu. Cobalt preporučuje da odmah promijenite lozinku. Od vas će se tražiti da se prijavite.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Koji podaci se koriste:<ph name="END_BOLD" /> vaše teme oglasa se zasnivaju na nedavnoj historiji pregledanja, listi web lokacija koje ste posjetili koristeći Chrome na ovom uređaju.</translation>
 <translation id="937885410143139026">Podaci su poslani na administratorsku konzolu</translation>
 <translation id="939736085109172342">Novi folder</translation>

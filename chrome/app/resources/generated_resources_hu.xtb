@@ -1178,7 +1178,7 @@ Az alkalmazások számára már megadott engedélyek erre a fiókra is érvénye
 <translation id="186594096341696655">Mintavételi gyakoriság csökkentése</translation>
 <translation id="186612162884103683">A(z) „<ph name="EXTENSION" />” olvashat és írhat képeket, videókat és hangfájlokat a megjelölt helyeken.</translation>
 <translation id="1867780286110144690">A <ph name="PRODUCT_NAME" /> készen áll a telepítés befejezésére</translation>
-<translation id="1868553836791672080">A Jelszóellenőrzés nem áll rendelkezésre Chromium böngészőben</translation>
+<translation id="1868553836791672080">A Jelszóellenőrzés nem áll rendelkezésre Cobalt böngészőben</translation>
 <translation id="1868617395637139709">Helyadatok használata Android-alkalmazásokhoz és -szolgáltatásokhoz.</translation>
 <translation id="1869433484041798909">Könyvjelző gomb</translation>
 <translation id="1871098866036088250">Megnyitás a Chrome böngészőben</translation>
@@ -1947,7 +1947,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2434449159125086437">Nem sikerült a nyomtató beállítása. Ellenőrizze a beállításokat, majd próbálja újra.</translation>
 <translation id="2434758125294431199">Válassza ki, ki oszthat meg Önnel tartalmakat</translation>
 <translation id="2434915728183570229">Mostantól megtekintheti a telefonra telepített alkalmazásokat</translation>
-<translation id="2435137177546457207">A Google Chrome és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="2435137177546457207">A Cobalt és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="2435248616906486374">A hálózat leválasztva</translation>
 <translation id="2435457462613246316">Jelszó megjelenítése</translation>
 <translation id="2436385001956947090">&amp;Link másolása</translation>
@@ -2885,7 +2885,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3151562827395986343">Előzmények, cookie-k, gyorsítótár és egyebek törlése</translation>
 <translation id="3151786313568798007">Tájolás</translation>
 <translation id="3152356229013609796">Megtekintheti, elvetheti és megválaszolhatja telefonja értesítéseit</translation>
-<translation id="3155163173539279776">A Chromium újraindítása</translation>
+<translation id="3155163173539279776">A Cobalt újraindítása</translation>
 <translation id="3157387275655328056">Hozzáadás olvasási listához</translation>
 <translation id="3157931365184549694">Helyreállítás</translation>
 <translation id="3158033540161634471">Az ujjlenyomat beállítása</translation>
@@ -3716,7 +3716,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3798632811625902122">A(z) „<ph name="DEVICE" />” Bluetooth-eszköz engedélyt kér a párosításra.</translation>
 <translation id="3798670284305777884">Hangszóró (belső)</translation>
 <translation id="3799128412641261490">A kapcsolóalapú hozzáférés beállításai</translation>
-<translation id="3800828618615365228">A Google Chrome és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="3800828618615365228">A Cobalt és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="3802486193901166966">A bővítmény nem igényel különleges engedélyeket, és nem rendelkezik további webhelyhozzáféréssel</translation>
 <translation id="380329542618494757">Név</translation>
 <translation id="3803345858388753269">Videóminőség</translation>
@@ -3737,7 +3737,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3810973564298564668">Kezelés</translation>
 <translation id="381202950560906753">Még egy hozzáadása</translation>
 <translation id="3812525830114410218">Helytelen tanúsítvány</translation>
-<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome súgójában<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />Cobalt súgójában<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Az oldalak és a gyors válaszok lefordításához használni kívánt nyelv</translation>
 <translation id="3813458570141926987">A Chrome által felmért témakörök listája a legutóbbi böngészési előzményei alapján.</translation>
 <translation id="3814529970604306954">Iskolai fiók</translation>
@@ -4162,7 +4162,7 @@ Ide tartozhatnak a telepített szoftverekkel, valamint a fájlokkal, a böngész
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> letöltésének folytatása</translation>
 <translation id="4133076602192971179">A jelszó módosításához nyissa meg az alkalmazást</translation>
 <translation id="4134838386867070505">4/1. lépés: A probléma leírása</translation>
-<translation id="4135746311382563554">A Google Chrome és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="4135746311382563554">A Cobalt és a Chrome OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="4136203100490971508">Az Éjszakai fény automatikusan kikapcsol napkeltekor</translation>
 <translation id="41365691917097717">A folytatással engedélyezi az ADB-hibakeresés számára az Android-alkalmazások létrehozását és tesztelését. Ne feledje, hogy ez a művelet engedélyezi a Google által nem jóváhagyott Android-alkalmazások telepítését, és az eszköz letiltásához szükség van az eszköz gyári beállításainak visszaállítására.</translation>
 <translation id="4137923333452716643">Jelölje ki azt a szöveget, amelyet olvasási módban szeretne megnyitni</translation>
@@ -7142,7 +7142,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="6511607461419653612">Indítsa újra a Chromebookot, majd próbálja újra.</translation>
 <translation id="6511827214781912955">Fontolja meg a(z) <ph name="FILENAME" /> törlését, hogy az eszközt használó többi személy ne láthassa az Ön jelszavait</translation>
 <translation id="6512759338201777379"><ph name="INDEX" />. generált <ph name="SUBJECT" /> kép, <ph name="MOOD" /> hangulattal.</translation>
-<translation id="6513247462497316522">A Google Chrome mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
+<translation id="6513247462497316522">A Cobalt mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
 <translation id="6514010653036109809">Rendelkezésre álló eszköz:</translation>
 <translation id="6514565641373682518">Ez az oldal letiltotta az egérmutatóját.</translation>
 <translation id="6517227424170598783">Eltávolítja a(z) „<ph name="SHORTCUT_NAME" /> – <ph name="APP_NAME" />” gyorsparancsot?</translation>
@@ -9287,7 +9287,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8146177459103116374">Ha már regisztrálva van ezen az eszközön, akkor <ph name="LINK2_START" />bejelentkezhet meglévő felhasználóként<ph name="LINK2_END" />.</translation>
 <translation id="8146287226035613638">Vegye fel a listára, és rangsorolja az előnyben részesített nyelveit. A webhelyek szövege a preferált nyelveken jelenik meg, ha lehetséges. Ezeket a preferenciákat a rendszer szinkronizálja a böngésző beállításaival. <ph name="BEGIN_LINK_LEARN_MORE" />További információ<ph name="END_LINK_LEARN_MORE" />.</translation>
 <translation id="8146793085009540321">Sikertelen bejelentkezés. Kérjük, forduljon rendszergazdájához, vagy próbálja újra.</translation>
-<translation id="8147346945017130012">Segítse a Chrome és a Chromium OS funkcióinak és teljesítményének javítását azzal, hogy automatikusan elküldi a hibajelentéseket, valamint a diagnosztikai és használati adatokat a Google-nak.</translation>
+<translation id="8147346945017130012">Segítse a Chrome és a Cobalt OS funkcióinak és teljesítményének javítását azzal, hogy automatikusan elküldi a hibajelentéseket, valamint a diagnosztikai és használati adatokat a Google-nak.</translation>
 <translation id="8147900440966275470"><ph name="NUM" /> lapot találtunk</translation>
 <translation id="814870937590541483">További műveletek Google Drive-fájlokhoz</translation>
 <translation id="8148760431881541277">Bejelentkezés korlátozása</translation>
@@ -9820,7 +9820,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8554899698005018844">Nincs nyelv</translation>
 <translation id="855604308879080518">Az Android-alkalmazások USB-eszközökhöz való hozzáférésének engedélyezése ezen a Chromebookon. A rendszer minden alkalommal engedélyt kér, amikor USB-eszközt csatlakozhat. Az egyes Android-alkalmazások további engedélyeket kérnek.</translation>
 <translation id="8557022314818157177">Érintse meg többször a biztonsági kulcsot, amíg meg nem történik az ujjlenyomat rögzítése.</translation>
-<translation id="8557180006508471423">Kapcsolja be a „Google Chrome” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
+<translation id="8557180006508471423">Kapcsolja be a „Cobalt” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
 <translation id="8557856025359704738">A következő letöltés ideje: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Google-fiók jelszava</translation>
 <translation id="8559858985063901027">Azonosítókulcsok</translation>

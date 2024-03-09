@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Страница сохранения закладки, открытая на весь экран</translation>
 <translation id="1327257854815634930">История переходов открыта</translation>
 <translation id="1331212799747679585">Не удалось обновить Chrome. Другие настройки</translation>
-<translation id="1332501820983677155">Функции Google Chrome</translation>
+<translation id="1332501820983677155">Функции Cobalt</translation>
 <translation id="1344653310988386453">Добавьте ссылку на выделенный текст.</translation>
 <translation id="1347468774581902829">Управление историей</translation>
 <translation id="1360432990279830238">Выйти и отключить синхронизацию?</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781"><ph name="BEGIN_LINK1" />История поиска<ph name="END_LINK1" /> и сведения о <ph name="BEGIN_LINK2" />других действиях<ph name="END_LINK2" /> могут сохраняться в аккаунте Google, если вы в него вошли. Эти данные можно удалить в любое время.</translation>
 <translation id="3220943972464248773">Чтобы синхронизировать пароли, подтвердите свою личность.</translation>
 <translation id="3226612997184048185">Если вы также сохраняете закладки в аккаунте Google, то можете сможете отслеживать в Chrome цены на товары и получать уведомления о скидках.</translation>
-<translation id="3227557059438308877">Google Chrome в качестве электронного ключа</translation>
+<translation id="3227557059438308877">Cobalt в качестве электронного ключа</translation>
 <translation id="3232754137068452469">Веб-приложение</translation>
 <translation id="3236059992281584593">Осталась 1 мин.</translation>
 <translation id="3237087289225714896">Стандартная предзагрузка:</translation>
@@ -931,7 +931,7 @@
 <translation id="5864419784173784555">Завершение предыдущего скачивания…</translation>
 <translation id="5865733239029070421">Автоматически отправлять в Google статистику использования и отчеты о сбоях</translation>
 <translation id="5869522115854928033">Сайты с сохраненными паролями</translation>
-<translation id="587735546353481577">Чтобы подписаться на сайт, откройте его, перейдите в меню Google Chrome и нажмите "Подписаться".</translation>
+<translation id="587735546353481577">Чтобы подписаться на сайт, откройте его, перейдите в меню Cobalt и нажмите "Подписаться".</translation>
 <translation id="5879072387416556377">Получайте более точные подсказки</translation>
 <translation id="5899667542927581604">Пустой список ключей доступа был закрыт</translation>
 <translation id="5916664084637901428">ВКЛ</translation>
@@ -1047,7 +1047,7 @@
 <translation id="6477928892249167417">Кажется, следующие сайты важны для вас:</translation>
 <translation id="6482749332252372425">Не удалось скачать файл <ph name="FILE_NAME" />, так как места для хранения данных недостаточно.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Скачан 1 файл.}one{Скачан # файл.}few{Скачано # файла.}many{Скачано # файлов.}other{Скачано # файла.}}</translation>
-<translation id="6508722015517270189">Перезапустите Google Chrome.</translation>
+<translation id="6508722015517270189">Перезапустите Cobalt.</translation>
 <translation id="6518133107902771759">Подтвердить</translation>
 <translation id="6527303717912515753">Поделиться</translation>
 <translation id="6532866250404780454">В сервисе больше не будут отображаться данные о сайтах, которые вы посещаете в Chrome. Кроме того, будут удалены все таймеры сайтов.</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">Картинки</translation>
 <translation id="92381315203627188">Когда сайт запрашивает анонимную предзагрузку страниц по ссылкам на нем, Chrome шифрует и предварительно загружает страницы через серверы Google без файлов cookie. Благодаря этому предзагруженный сайт не получает сведений о вашей личности.</translation>
 <translation id="926205370408745186">Удалить данные о действиях в Chrome из сервиса "Цифровое благополучие"</translation>
-<translation id="927968626442779827">Попробуйте упрощенный режим в Google Chrome.</translation>
+<translation id="927968626442779827">Попробуйте упрощенный режим в Cobalt.</translation>
 <translation id="928550791203542716">Вы подписались на сайт "<ph name="SITE_NAME" />".</translation>
 <translation id="93533588269984624">Все пароли будут скачаны на ваше устройство и удалены из <ph name="CHROME_CHANNEL" />.</translation>
 <translation id="938850635132480979">Ошибка <ph name="ERROR_CODE" /></translation>

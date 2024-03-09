@@ -892,7 +892,7 @@ Na tento účet se mohou vztahovat oprávnění, která jste již udělili aplik
 <translation id="1651008383952180276">Musíte zadat dvakrát stejnou heslovou frázi</translation>
 <translation id="1651609627703324721">Tato karta odesílá VR obsah do náhlavní soupravy</translation>
 <translation id="1652326691684645429">Aktivovat sdílení nablízko</translation>
-<translation id="1652862280638399816">Pokud Správce hesel Google chcete používat s Klíčenkou systému macOS, restartujte Chromium a povolte přístup ke Klíčence. Karty se po opětovném spuštění znovu otevřou.</translation>
+<translation id="1652862280638399816">Pokud Správce hesel Google chcete používat s Klíčenkou systému macOS, restartujte Cobalt a povolte přístup ke Klíčence. Karty se po opětovném spuštění znovu otevřou.</translation>
 <translation id="1653958716132599769">Seskupit související karty</translation>
 <translation id="1654580009054503925">Není povoleno zobrazovat žádosti</translation>
 <translation id="1656528038316521561">Neprůhlednost pozadí</translation>
@@ -1169,7 +1169,7 @@ Na aplikace a obsah v jiných zařízeních tato akce nemá vliv.</translation
 <translation id="186594096341696655">Snížit vzorkovací frekvenci</translation>
 <translation id="186612162884103683">Rozšíření <ph name="EXTENSION" /> může číst obrázky, video a zvukové soubory v povolených umístěních a zapisovat do nich.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> je připraven dokončit instalaci.</translation>
-<translation id="1868553836791672080">V prohlížeči Chromium není kontrola hesel k dispozici</translation>
+<translation id="1868553836791672080">V prohlížeči Cobalt není kontrola hesel k dispozici</translation>
 <translation id="1868617395637139709">Používat polohu pro aplikace a služby pro Android.</translation>
 <translation id="1869433484041798909">Tlačítko záložky</translation>
 <translation id="1871098866036088250">Otevřít v prohlížeči Chrome</translation>
@@ -1935,7 +1935,7 @@ Chcete-li spravovat nastavení tohoto účtu, nainstalujte si do zařízení apl
 <translation id="2434449159125086437">Nastavení tiskárny se nezdařilo. Zkontrolujte konfiguraci a zkuste to znovu.</translation>
 <translation id="2434758125294431199">Vyberte, kdo s vámi může sdílet soubory</translation>
 <translation id="2434915728183570229">Nyní můžete zobrazit aplikace v telefonu</translation>
-<translation id="2435137177546457207">Doplňující smluvní podmínky prohlížeče Google Chrome a systému ChromeOS Flex</translation>
+<translation id="2435137177546457207">Doplňující smluvní podmínky prohlížeče Cobalt a systému ChromeOS Flex</translation>
 <translation id="2435248616906486374">Síť odpojena</translation>
 <translation id="2435457462613246316">Zobrazit heslo</translation>
 <translation id="2436385001956947090">Kopírovat odkaz</translation>
@@ -2797,7 +2797,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3083998949001524405">Povolení používat soubory cookie třetích stran</translation>
 <translation id="3084121729444215602">Rozšíření <ph name="EXTENSION_NAME" /> připnul váš administrátor</translation>
 <translation id="3084548735795614657">Nainstalujte přetažením</translation>
-<translation id="3084771660770137092">Buď má Google Chrome nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
+<translation id="3084771660770137092">Buď má Cobalt nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
 <translation id="3085412380278336437">Web může použít kameru</translation>
 <translation id="3085431803365340433">Prohlížeč Chrome nebylo možné aktualizovat</translation>
 <translation id="3088052000289932193">Web používá zařízení MIDI</translation>
@@ -2872,7 +2872,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3151562827395986343">Vymaže historii, soubory cookie, mezipaměť a další obsah</translation>
 <translation id="3151786313568798007">Orientace</translation>
 <translation id="3152356229013609796">Zobrazovat oznámení z telefonu, zavírat je a odpovídat na ně</translation>
-<translation id="3155163173539279776">Restartovat Chromium</translation>
+<translation id="3155163173539279776">Restartovat Cobalt</translation>
 <translation id="3157387275655328056">Přidat do seznamu četby</translation>
 <translation id="3157931365184549694">Obnovit</translation>
 <translation id="3158033540161634471">Nastavení otisku prstu</translation>
@@ -3703,7 +3703,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3798632811625902122">Zařízení Bluetooth <ph name="DEVICE" /> žádá o povolení ke spárování.</translation>
 <translation id="3798670284305777884">Reproduktor (interní)</translation>
 <translation id="3799128412641261490">Nastavení přístupu pomocí přepínačů</translation>
-<translation id="3800828618615365228">Doplňující smluvní podmínky prohlížeče Google Chrome a systému ChromeOS</translation>
+<translation id="3800828618615365228">Doplňující smluvní podmínky prohlížeče Cobalt a systému ChromeOS</translation>
 <translation id="3802486193901166966">Toto rozšíření nevyžaduje žádná speciální oprávnění a nemá přístup k žádným dalším webům</translation>
 <translation id="380329542618494757">Název</translation>
 <translation id="3803345858388753269">Kvalita videa</translation>
@@ -3724,7 +3724,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3810973564298564668">Spravovat</translation>
 <translation id="381202950560906753">Přidat další</translation>
 <translation id="3812525830114410218">Nesprávný certifikát</translation>
-<translation id="3813296892522778813">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM" />nápovědu Google Chrome<ph name="END_LINK_CHROMIUM" />.</translation>
+<translation id="3813296892522778813">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM" />nápovědu Cobalt<ph name="END_LINK_CHROMIUM" />.</translation>
 <translation id="3813358687923336574">Jazyk používaný při překladu stránek a Rychlých odpovědí</translation>
 <translation id="3813458570141926987">Seznam témat, která Chrome odhaduje na základě vaší nedávné historie prohlížení</translation>
 <translation id="3814529970604306954">Školní účet</translation>
@@ -4149,7 +4149,7 @@ To může zahrnovat informace o nainstalovaném softwaru, souborech, prohlíže
 <translation id="4132969033912447558">Obnovit <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Heslo můžete změnit po otevření aplikace</translation>
 <translation id="4134838386867070505">Krok 1 ze 4: Popište problém</translation>
-<translation id="4135746311382563554">Dodatečné smluvní podmínky prohlížeče Google Chrome a systému ChromeOS</translation>
+<translation id="4135746311382563554">Dodatečné smluvní podmínky prohlížeče Cobalt a systému ChromeOS</translation>
 <translation id="4136203100490971508">Noční režim se vypne automaticky za úsvitu</translation>
 <translation id="41365691917097717">Pokračováním aktivujete ladění ADB k vytváření a testování aplikací pro Android. Upozorňujeme, že tato akce povoluje instalaci aplikací pro Android, které Google neověřil, a že je k její deaktivaci potřeba obnovení továrního nastavení.</translation>
 <translation id="4137923333452716643">Zvýrazněte text, který chcete otevřít v režimu čtení</translation>
@@ -5144,7 +5144,7 @@ Oddálení provedete stisknutím kláves Ctrl + Alt + Snížit jas.</translation
 <translation id="4918134162946436591">Zobrazit překryvnou vrstvu s nápovědou</translation>
 <translation id="4918762404810341788">Zkopírovat a otevřít</translation>
 <translation id="4921348630401250116">Převod textu na řeč</translation>
-<translation id="4922104989726031751">Pokud chcete Správce hesel používat s operačním systémem, spusťte Chromium znovu a povolte přístup ke správci hesel v počítači. Karty se po opětovném spuštění znovu otevřou.</translation>
+<translation id="4922104989726031751">Pokud chcete Správce hesel používat s operačním systémem, spusťte Cobalt znovu a povolte přístup ke správci hesel v počítači. Karty se po opětovném spuštění znovu otevřou.</translation>
 <translation id="492299503953721473">Odstranit aplikace Android</translation>
 <translation id="492363500327720082">Odinstalace aplikace <ph name="APP_NAME" />...</translation>
 <translation id="4924002401726507608">Odeslat zpětnou vazbu</translation>
@@ -7122,7 +7122,7 @@ Na tento účet se mohou vztahovat oprávnění, která jste již udělili webů
 <translation id="6511607461419653612">Restartujte Chromebook a zkuste to znovu</translation>
 <translation id="6511827214781912955">Zvažte smazání souboru <ph name="FILENAME" />, aby ostatní uživatelé tohoto zařízení neviděli vaše hesla</translation>
 <translation id="6512759338201777379">Vygenerovaný obrázek <ph name="INDEX" /> na téma <ph name="SUBJECT" /> s náladou <ph name="MOOD" />.</translation>
-<translation id="6513247462497316522">Pokud nebudete připojeni k jiné síti, použije prohlížeč Google Chrome mobilní data.</translation>
+<translation id="6513247462497316522">Pokud nebudete připojeni k jiné síti, použije prohlížeč Cobalt mobilní data.</translation>
 <translation id="6514010653036109809">Dostupné zařízení:</translation>
 <translation id="6514565641373682518">Tato stránka deaktivovala ukazatel myši.</translation>
 <translation id="6517227424170598783">Odstranit zkratku „<ph name="SHORTCUT_NAME" /> – <ph name="APP_NAME" />“?</translation>
@@ -9803,7 +9803,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8554899698005018844">Žádný jazyk</translation>
 <translation id="855604308879080518">Umožnit aplikacím pro Android na tomto Chromebooku přístup k zařízením USB. O oprávnění budete požádáni pokaždé, když připojíte zařízení USB. Jednotlivé aplikace pro Android budou žádat o další oprávnění.</translation>
 <translation id="8557022314818157177">Dotýkejte se bezpečnostního klíče, dokud se nesejme otisk prstu.</translation>
-<translation id="8557180006508471423">Na počítači Mac zapněte ve službách určování polohy Google Chrome</translation>
+<translation id="8557180006508471423">Na počítači Mac zapněte ve službách určování polohy Cobalt</translation>
 <translation id="8557856025359704738">Další stažení proběhne v <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Heslo účtu Google</translation>
 <translation id="8559858985063901027">Přístupové klíče</translation>

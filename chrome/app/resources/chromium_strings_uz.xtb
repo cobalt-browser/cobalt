@@ -165,7 +165,7 @@ Sayt va ilovalarga berilgan ruxsatlar bu hisobga tatbiq etilishi mumkin. Google 
 <translation id="3941890832296813527">Oʻrnatishda xato: Oʻrnatish vositasi fayl nomi yaroqsiz yoki ishlamaydi.</translation>
 <translation id="3945058413678539331">Cobalt parollarni nusxalashga urinmoqda. Ruxsat berish uchun Windows parolingizni kiriting.</translation>
 <translation id="3962647064319009959">Cobalt qanday qilib sizni himoya qilishi haqida batafsil</translation>
-<translation id="3975724895399328945">Google Chrome for Testing haqida</translation>
+<translation id="3975724895399328945">Cobalt for Testing haqida</translation>
 <translation id="3997429360543082038">ChromiumOS haqida</translation>
 <translation id="4019629340646866719">ChromiumOS tizimini ishlab chiqishda <ph name="BEGIN_LINK_LINUX_OSS" />Linux dasturlash muhiti<ph name="END_LINK_LINUX_OSS" /> <ph name="BEGIN_LINK_CROS_OSS" />ochiq kodli DT<ph name="END_LINK_CROS_OSS" /> vositalaridan foydalanilgan.</translation>
 <translation id="4036079820698952681">Cobalt brauzerining <ph name="BEGIN_LINK" />joriy sozlamalari<ph name="END_LINK" /> asosida hisobot yuboring va brauzerning ishlashini yaxshilashga yordamlashing</translation>
@@ -401,7 +401,7 @@ Cobalt sozlamalaringizni qaytadan tiklay olmadi.</translation>
 <translation id="8013436988911883588">Cobalt saytlarga ulanganda sizdan ruxsat so‘raydi.</translation>
 <translation id="80471789339884597">Oʻrnatganingiz uchun tashakkur! <ph name="BUNDLE_NAME" />ni ishlatishdan oldin barcha brauzerlarni qayta ishga tushirishingiz kerak.</translation>
 <translation id="8086881907087796310">Kompyuter minimal talablarga javob bermasligi sababli oʻrnatilmadi.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt bu saytda joylashuv axborotidan foydalanishiga ruxsat kerak</translation>
 <translation id="8133124826068723441">Domeningizda Sinxronlash xizmati mavjud emasligi sababli ChromiumOS maʼlumotlaringizni sinxronlay olmadi.</translation>
 <translation id="813913629614996137">Ishga tushirilmoqda...</translation>
@@ -434,7 +434,7 @@ Cobalt sozlamalaringizni qaytadan tiklay olmadi.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Bu axborotdan qanday foydalanamiz:<ph name="END_BOLD" /> Cobalt orqali saytlar qiziqishlaringiz haqidagi axborotni saqlashi mumkin. Misol uchun marafonda yugurish uchun poyabzal sotib olish saytini ochsangiz, sayt marafonda yugurishni qiziqishingiz deb aniqlashi mumkin. Keyin yugurish uchun boshqa saytga kirganingizda sayt qiziqishingiz asosida yugurish uchun poyabzal reklamasini chiqarishi mumkin.</translation>
 <translation id="8619360774459241877">Cobalt ishga tushmoqda...</translation>
 <translation id="8621669128220841554">O‘rnatish vaqtida kutilmagan xatolik yuz berdi. Cobalt‘ni qaytadan yuklab oling.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing asosiy brauzer boʻla olmaydi.</translation>
+<translation id="8648201657708811153">Cobalt for Testing asosiy brauzer boʻla olmaydi.</translation>
 <translation id="8697124171261953979">Bundan tashqari kengaytma Cobalt boshlash sahifasini va omniboksdagi so‘rovlar uchun foydalaniladigan birlamchi qidiruv tizimini o‘zgartirdi.</translation>
 <translation id="8704119203788522458">Bu sizning shaxsiy Cobalt brauzeringiz</translation>
 <translation id="8719993436687031146">Cobalt hisobiga kirasizmi?</translation>

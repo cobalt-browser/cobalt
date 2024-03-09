@@ -50,17 +50,17 @@ Pour modifier ce paramètre, <ph name="BEGIN_LINK" />effacez les données Chrome
 <translation id="1917964099031477364">Ce compte et toutes les données non enregistrées seront supprimés de Chrome et des autres applications Google sur cet appareil.</translation>
 <translation id="1965935827552890526">Terminez ce que vous faisiez dans votre autre fenêtre de Chrome.</translation>
 <translation id="1987779152850321833">Effectuez les actions suggérées ci-dessous pour tirer le meilleur parti de Chrome.</translation>
-<translation id="2056123005618757196">Faites-en plus avec le navigateur Google Chrome : simple, sécuritaire et plus rapide que jamais.</translation>
+<translation id="2056123005618757196">Faites-en plus avec le navigateur Cobalt : simple, sécuritaire et plus rapide que jamais.</translation>
 <translation id="2120238739383482109">Ouvre les favoris Chrome.</translation>
 <translation id="2147651015520127414">Chrome a vérifié que <ph name="ISSUER" /> a émis le certificat de ce site Web.</translation>
 <translation id="2155145621546387786">Partager Chrome</translation>
-<translation id="2199719347983604670">Données provenant de la synchronisation Google Chrome</translation>
+<translation id="2199719347983604670">Données provenant de la synchronisation Cobalt</translation>
 <translation id="2213327331203157297">Pour désactiver le mode de verrouillage dans Chrome, désactivez-le sur votre iPhone.</translation>
 <translation id="2242467532204595597">Utilisez Chrome chaque fois que vous touchez sur des liens dans des messages, des documents et d'autres applications.</translation>
 <translation id="2311240109311056604">Ouvre le jeu du dinosaure de Chrome.</translation>
 <translation id="2339201583852607431">Votre mot de passe sera enregistré dans votre compte Google (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Chrome partage votre position avec les sites que vous autorisez.</translation>
-<translation id="2347208864470321755">Lorsque cette fonction est activée, Google Chrome vous propose de traduire les pages écrites dans d'autres langues à l'aide de Google Traduction. <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
+<translation id="2347208864470321755">Lorsque cette fonction est activée, Cobalt vous propose de traduire les pages écrites dans d'autres langues à l'aide de Google Traduction. <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
 <translation id="2414068465746584414">Dans les paramètres de l'appareil, ouvrir « <ph name="TEXT_OF_THE_SETTINGS_MENU_ITEM" /> » et sélectionner « Chrome »</translation>
 <translation id="2423077901494354337">Vous allez maintenant tirer le meilleur parti de Chrome sur votre appareil.</translation>
 <translation id="2427791862912929107">Chrome comprend des fonctionnalités qui vous aident à gérer vos données Internet et la vitesse de chargement des pages Web.
@@ -85,7 +85,7 @@ Pour modifier ce paramètre, <ph name="BEGIN_LINK" />effacez les données Chrome
 <translation id="2869959624320573933">Connectez-vous à Chrome</translation>
 <translation id="2876628302275096482">En savoir plus sur la <ph name="BEGIN_LINK" />manière dont Chrome préserve la confidentialité de vos données<ph name="END_LINK" /></translation>
 <translation id="2952581218264071393">1. Ouvrez les paramètres de Chrome</translation>
-<translation id="2957447865124070833">Sélectionnez <ph name="BEGIN_BOLD" />Chromium<ph name="END_BOLD" /></translation>
+<translation id="2957447865124070833">Sélectionnez <ph name="BEGIN_BOLD" />Cobalt<ph name="END_BOLD" /></translation>
 <translation id="2988274366244053197">Les modes de paiement et les adresses de Google Pay ne seront pas chiffrés. L'historique de navigation de Chrome ne se synchronisera pas.
 
 Seule une personne connaissant votre phrase de passe peut lire vos données chiffrées. La phrase de passe n'est ni envoyée à Google, ni stockée par Google. Si vous oubliez votre phrase de passe ou si vous souhaitez modifier ce paramètre, <ph name="BEGIN_LINK" />effacez les données Chrome de votre compte<ph name="END_LINK" />.</translation>
@@ -93,7 +93,7 @@ Seule une personne connaissant votre phrase de passe peut lire vos données chif
 <translation id="309672519329227863">Accédez à vos mots de passe Chrome et plus encore dans d'autres applications.</translation>
 <translation id="3146109040683991651">Définir Chrome comme navigateur par défaut</translation>
 <translation id="3167189358072330585">Votre compte n'est pas compatible avec Google Chrome. Veuillez communiquer avec l'administrateur de votre domaine ou utiliser un compte Google ordinaire pour vous connecter.</translation>
-<translation id="3173834708294760622">Page Google Chrome</translation>
+<translation id="3173834708294760622">Page Cobalt</translation>
 <translation id="322254490661677575">Pour utiliser et enregistrer des données Chrome dans votre compte Google, saisissez votre phrase de passe.</translation>
 <translation id="3282568296779691940">Connexion à Chrome</translation>
 <translation id="3340938510625667914">Actions de Chrome</translation>
@@ -109,7 +109,7 @@ Seule une personne connaissant votre phrase de passe peut lire vos données chif
 <translation id="3646736009628185125">Le membre de votre famille ne peut pas recevoir de mots de passe pour le moment. Demandez-lui de mettre à jour Chrome et de synchroniser ses mots de passe. <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Cela signifie que Chrome demandera toujours la version mobile du site.</translation>
 <translation id="3720541637541300822">Verrouiller les onglets de navigation privée lorsque vous fermez Chrome</translation>
-<translation id="3740397331642243698">Ouvre les URL entrées dans Google Chrome en mode de navigation privée.</translation>
+<translation id="3740397331642243698">Ouvre les URL entrées dans Cobalt en mode de navigation privée.</translation>
 <translation id="3741995255368156336">Ouvre la liste de lecture Chrome.</translation>
 <translation id="3744018071945602754">Gérer les mots de passe dans Chrome</translation>
 <translation id="3827545470516145620">Vous bénéficiez d'une protection de sécurité standard sur cet appareil</translation>
@@ -151,7 +151,7 @@ Seule une personne connaissant votre phrase de passe peut lire vos données chif
 <translation id="5112925986883715005">Voir la liste de lecture Chrome</translation>
 <translation id="5119391094379141756">Sélectionnez Chrome</translation>
 <translation id="5156818928311866442">Ouvre le paramètre de Chrome pour définir Chrome comme navigateur par défaut.</translation>
-<translation id="5162467219239570114">Google Chrome n'est plus à jour. Si aucune mise à jour n'est offerte dans l'<ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, il est possible que votre appareil ne prenne plus en charge les nouvelles versions de Chrome.</translation>
+<translation id="5162467219239570114">Cobalt n'est plus à jour. Si aucune mise à jour n'est offerte dans l'<ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, il est possible que votre appareil ne prenne plus en charge les nouvelles versions de Chrome.</translation>
 <translation id="5184329579814168207">Ouvrir dans Chrome</translation>
 <translation id="5190139289262548459">Votre organisation, <ph name="DOMAIN" />, gère le compte auquel vous êtes connecté et la façon dont Chrome est utilisé.</translation>
 <translation id="5256908199795498284">Chrome détectera les numéros de suivi de colis sur les sites que vous visitez et vous montrera les mises à jour des colis sur la page Nouvel onglet. Vos données seront partagées avec Google pour fournir cette fonctionnalité et améliorer Shopping pour tous.</translation>
@@ -215,10 +215,10 @@ Afin d'accéder à plus de paramètres utilisant des données pour améliorer vo
 <translation id="6964931465519938134">Vous pouvez maintenant utiliser Chrome chaque fois que vous touchez des liens dans des messages, des documents et des applications.</translation>
 <translation id="6975725306479268850">Choisissez Chrome pour le remplissage automatique</translation>
 <translation id="7004159181872656283">Recherchez des visuels dans Chrome.</translation>
-<translation id="7056826488869329999">Ouvre et exécute la Vérification de sécurité dans Chromium.</translation>
+<translation id="7056826488869329999">Ouvre et exécute la Vérification de sécurité dans Cobalt.</translation>
 <translation id="7059914902409643750">Personnalisez Chrome</translation>
 <translation id="7124339256045485976">Pour garder Chrome à jour</translation>
-<translation id="7161390184744336561">Google Chrome n'est pas à jour</translation>
+<translation id="7161390184744336561">Cobalt n'est pas à jour</translation>
 <translation id="7165736900384873061">Commencer à utiliser le lecteur de code QR Google Chrome</translation>
 <translation id="7175129790242719365">Astuce Chrome : Connectez-vous à Chrome</translation>
 <translation id="7187993566681480880">Il vous protège dans Chrome et peut être utilisé pour améliorer votre sécurité dans d'autres applications Google lorsque vous êtes connecté à votre compte.</translation>
@@ -249,7 +249,7 @@ Afin d'accéder à plus de paramètres utilisant des données pour améliorer vo
 <translation id="7780154209050837198">Connectez-vous à Chrome avec votre compte Google pour en tirer le meilleur parti.</translation>
 <translation id="778855399387580014">Lancez une recherche dans un nouvel onglet Chrome.</translation>
 <translation id="7792140019572081272">Chrome protège vos données confidentielles avec Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome est à jour</translation>
+<translation id="7855730255114109580">Cobalt est à jour</translation>
 <translation id="7897703007638178753">Voir les onglets récents de Chrome</translation>
 <translation id="7925119591961387184">Sélectionnez « Chrome ».</translation>
 <translation id="7933491483529363150">Ouvrez mon dernier onglet dans Chrome.</translation>
@@ -280,7 +280,7 @@ Vos données ont été chiffrées avec votre phrase de passe sur <ph name="TIME"
   1. Ouvrez l'application Réglages.
   2. Touchez Navigateur par défaut.
   3. Sélectionnez Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Vous pouvez désormais utiliser Chrome chaque fois que vous naviguez ou que vous touchez des liens dans des messages, des documents et d'autres applications.</translation>
 <translation id="8577978202917232774">Les suggestions sont basées sur votre activité de navigation sur vos autres appareils. Pour obtenir des suggestions, connectez-vous à Chrome sur tous vos appareils.</translation>
 <translation id="8587647598504233556">Touchez « Chrome », puis « Navigateur par défaut ».</translation>

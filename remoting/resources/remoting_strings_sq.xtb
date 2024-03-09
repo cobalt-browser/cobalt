@@ -152,10 +152,10 @@ Nëse "<ph name="SERVICE_SCRIPT_NAME" />" është e zgjedhur tashmë, anulo zgje
 <translation id="7693372326588366043">Rifresko listën e strehuesve</translation>
 <translation id="7714222945760997814">Raportoje këtë</translation>
 <translation id="7868137160098754906">Fut kodin PIN për kompjuterin në distancë.</translation>
-<translation id="7881455334687220899">Të drejtat e autorit 2024 të "Autorëve të Chromium". Të gjitha të drejtat të rezervuara.</translation>
+<translation id="7881455334687220899">Të drejtat e autorit 2024 të "Autorëve të Cobalt". Të gjitha të drejtat të rezervuara.</translation>
 <translation id="7895403300744144251">Politikat e sigurisë në kompjuterin në distancë nuk lejojnë lidhje nga llogaria jote.</translation>
 <translation id="7936528439960309876">Staciono djathtas</translation>
-<translation id="7970576581263377361">Verifikimi dështoi. Identifikohu përsëri në Chromium.</translation>
+<translation id="7970576581263377361">Verifikimi dështoi. Identifikohu përsëri në Cobalt.</translation>
 <translation id="7981525049612125370">Sesioni në largësi ka skaduar.</translation>
 <translation id="8038111231936746805">(parazgjedhje)</translation>
 <translation id="8041089156583427627">Dërgo komentet</translation>
@@ -191,6 +191,6 @@ Nëse "<ph name="SERVICE_SCRIPT_NAME" />" është e zgjedhur tashmë, anulo zgje
 <translation id="9187628920394877737">Jepi autorizim "Regjistrimit të ekranit" në <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Konfigurim i pavlefshëm i strehuesit.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Autorët e Chromium</translation>
+<translation id="985602178874221306">Autorët e Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (për herë të fundit online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

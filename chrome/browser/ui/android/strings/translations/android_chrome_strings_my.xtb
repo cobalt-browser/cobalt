@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">အသေးစိတ်များ− <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">ဤဝဘ်ဆိုက်များကို ပြန်ဆိုရန် မကမ်းလှမ်းပါနှင့်</translation>
 <translation id="1145536944570833626">လက်ရှိဒေတာများကို ဖျက်ပါ</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> ကို Chrome တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Google Chrome နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> ကို Chrome တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Cobalt နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။</translation>
 <translation id="115483310321669804"><ph name="PASSWORD" /> စကားဝှက်သုံးရန်</translation>
 <translation id="1173894706177603556">အမည်ပြောင်းရန်</translation>
 <translation id="1174479719160874822">ဖန်သားပြင်ကျဉ်းသွားသောအခါ Chrome သည် မိုဘိုင်းဝဘ်ဆိုက်ကို တောင်းဆိုပါမည်</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">လိပ်စာသိမ်းရန် လုပ်ငန်းစဉ်ကို မြင်ကွင်းအပြည့်ဖွင့်ထားသည်</translation>
 <translation id="1327257854815634930">လမ်းညွှန်မှု မှတ်တမ်း ဖွင့်ထားသည်</translation>
 <translation id="1331212799747679585">Chrome ကို အပ်ဒိတ်လုပ်၍မရပါ။ နောက်ထပ်ရွေးချယ်စရာများ</translation>
-<translation id="1332501820983677155">Google Chrome ဝန်ဆောင်မှု ဖြတ်လမ်းလင့်ခ်များ</translation>
+<translation id="1332501820983677155">Cobalt ဝန်ဆောင်မှု ဖြတ်လမ်းလင့်ခ်များ</translation>
 <translation id="1344653310988386453">မြင်သာအောင်လုပ်ထားသော စာသားသို့ လင့်ခ်ကို ထည့်သွင်းပါ</translation>
 <translation id="1347468774581902829">လုပ်ဆောင်ချက်ကို စီမံခန့်ခွဲရန်</translation>
 <translation id="1360432990279830238">ထွက်ပြီး စင့်ခ်လုပ်ခြင်းကို ပိတ်လိုသလား။</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Chrome ရှိ သင်စိတ်ဝင်စားသော ဆောင်းပါးများ</translation>
 <translation id="3066573403916685335">အောက်သို့ရွှေ့</translation>
 <translation id="3070005020161560471">အလိုအလျောက် ဘာသာပြန်ပါ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> ကို Chrome တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Google Chrome နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_LINK3" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_LINK3" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> ကို Chrome တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Cobalt နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_LINK3" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_LINK3" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
 <translation id="3080525922482950719">စာမျက်နှာများကို နောက်မှဖတ်ရန် သို့မဟုတ် အော့ဖ်လိုင်းတွင်ဖတ်ရန် သိမ်းနိုင်သည်</translation>
 <translation id="3091010850649238832">ကလစ်ဘုတ်အကြောင်းအရာများကို ပြရန်</translation>
 <translation id="3098745985164956033">သင့်အတွက် ရှင်းလင်းချက်များ ပိုကောင်းမွန်စေရန် ပုံအချို့ကို Google သို့ ပို့သည်</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">သင်လက်မှတ်ထိုးဝင်သောအခါ <ph name="BEGIN_LINK1" />ရှာဖွေမှတ်တမ်း<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />အခြားသော လုပ်ဆောင်ချက်<ph name="END_LINK2" /> တို့ကို သင်၏ Google Account တွင် သိမ်းထားနိုင်သည်။ ၎င်းတို့ကို အချိန်မရွေး ဖျက်နိုင်သည်။</translation>
 <translation id="3220943972464248773">သင့်စကားဝှက်များကို စင့်ခ်လုပ်ရန် သင်ဖြစ်ကြောင်း အတည်ပြုပါ</translation>
 <translation id="3226612997184048185">သင့် Google Account တွင် လိပ်စာများလည်း သိမ်းထားပါက Chrome တွင် ထုတ်ကုန်ဈေးများကို ခြေရာခံနိုင်ပြီး ဈေးကျသွားပါက အကြောင်းကြားချက် ရယူနိုင်ပါသည်</translation>
-<translation id="3227557059438308877">Google Chrome ကို 'လုံခြုံရေးကီး' အဖြစ်</translation>
+<translation id="3227557059438308877">Cobalt ကို 'လုံခြုံရေးကီး' အဖြစ်</translation>
 <translation id="3232754137068452469">ဝဘ် အက်ပ်</translation>
 <translation id="3236059992281584593">၁ မိနစ် ကျန်သည်</translation>
 <translation id="3237087289225714896">ပုံမှန် ကြိုဖွင့်မှု-</translation>
@@ -1621,7 +1621,7 @@
 <translation id="9219103736887031265">ပုံများ</translation>
 <translation id="92381315203627188">ဝဘ်ဆိုက်က ၎င်းတို့၏ စာမျက်နှာတွင် လင့်ခ်များကို သီးသန့် ကြိုဖွင့်ရန် မေးပါက Chrome သည် Google ဆာဗာများမှတစ်ဆင့် ကွတ်ကီးများ မပါဘဲ စာမျက်နှာများကို အသွင်ဝှက်ပြီး ကြိုဖွင့်ပေးပါသည်။ ၎င်းက ကြိုဖွင့်ထားသော ဝဘ်ဆိုက်မှ သင့်အထောက်အထားကို ဖျောက်ပေးသည်။</translation>
 <translation id="926205370408745186">'ဒစ်ဂျစ်တယ် အာရောဂျံ' မှနေ၍ သင်၏ Chrome လုပ်ဆောင်ချက်ကို ဖယ်ရှားခြင်း</translation>
-<translation id="927968626442779827">Google Chrome တွင် အပေါ့စားမုဒ် သုံးရန်</translation>
+<translation id="927968626442779827">Cobalt တွင် အပေါ့စားမုဒ် သုံးရန်</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> ကို လိုက်ကြည့်နေသည်</translation>
 <translation id="93533588269984624">စကားဝှက်အားလုံးကို သင်၏စက်တွင် ဒေါင်းလုဒ်လုပ်ပြီး <ph name="CHROME_CHANNEL" /> မှ ဖယ်ရှားလိုက်မည်</translation>
 <translation id="938850635132480979">အမှား- <ph name="ERROR_CODE" /></translation>

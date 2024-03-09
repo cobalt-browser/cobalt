@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">હોસ્ટની સૂચિ રિફ્રેશ કરો</translation>
 <translation id="7714222945760997814">આની જાણ કરો</translation>
 <translation id="7868137160098754906">રિમોટ કમ્પ્યુટર માટે કૃપા કરીને તમારો PIN દાખલ કરો.</translation>
-<translation id="7881455334687220899">કૉપિરાઇટ 2024 The Chromium Authors. સર્વાધિકાર સુરક્ષિત.</translation>
+<translation id="7881455334687220899">કૉપિરાઇટ 2024 The Cobalt Authors. સર્વાધિકાર સુરક્ષિત.</translation>
 <translation id="7895403300744144251">રિમોટ કમ્પ્યુટર પરની સુરક્ષા પૉલિસીઓ તમારા એકાઉન્ટથી કનેક્શનની પરવાનગી આપતી નથી.</translation>
 <translation id="7936528439960309876">જમણે ડૉક કરો</translation>
-<translation id="7970576581263377361">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Chromium પર ફરીથી સાઇન ઇન કરો.</translation>
+<translation id="7970576581263377361">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Cobalt પર ફરીથી સાઇન ઇન કરો.</translation>
 <translation id="7981525049612125370">રિમોટ સત્ર સમાપ્ત થયું.</translation>
 <translation id="8038111231936746805">(ડિફૉલ્ટ)</translation>
 <translation id="8041089156583427627">પ્રતિસાદ મોકલો</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />ને 'સ્ક્રીન રેકોર્ડિંગ'ની પરવાનગી આપો</translation>
 <translation id="9213184081240281106">અમાન્ય હોસ્ટ ગોઠવણી.</translation>
 <translation id="981121421437150478">ઑફલાઇન</translation>
-<translation id="985602178874221306">Chromium લેખકો</translation>
+<translation id="985602178874221306">Cobalt લેખકો</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (છેલ્લે ઓનલાઇન <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

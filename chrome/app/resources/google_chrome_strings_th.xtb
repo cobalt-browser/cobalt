@@ -34,7 +34,7 @@
 <translation id="1553358976309200471">อัปเดต Chrome</translation>
 <translation id="1583073672411044740"><ph name="EXISTING_USER" /> ลงชื่อเข้าใช้โปรไฟล์ Chrome นี้แล้ว การดำเนินการนี้จะสร้างโปรไฟล์ Chrome ใหม่สำหรับ <ph name="USER_EMAIL_ADDRESS" /></translation>
 <translation id="1587223624401073077">Google Chrome ใช้กล้องของคุณอยู่</translation>
-<translation id="1587325591171447154"><ph name="FILE_NAME" /> เป็นอันตราย Chromium จึงบล็อกไว้</translation>
+<translation id="1587325591171447154"><ph name="FILE_NAME" /> เป็นอันตราย Cobalt จึงบล็อกไว้</translation>
 <translation id="1597911401261118146"><ph name="BEGIN_LINK" />ลงชื่อเข้าใช้ Chrome<ph name="END_LINK" /> เพื่อตรวจสอบว่ารหัสผ่านของคุณไม่ได้รับผลกระทบจากการละเมิดข้อมูลและปัญหาด้านความปลอดภัยอื่นๆ</translation>
 <translation id="1619887657840448962">เพื่อให้ Chrome ปลอดภัยขึ้น เราได้ปิดส่วนขยายต่อไปนี้ซึ่งไม่ได้แสดงอยู่ใน <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> และอาจมีการเพิ่มเข้ามาโดยที่คุณไม่รู้ตัว</translation>
 <translation id="1627304841979541023"><ph name="BEGIN_BOLD" />วิธีที่คุณจัดการข้อมูลของตัวเองได้:<ph name="END_BOLD" /> เราลบความสนใจที่เก่ากว่า 4 สัปดาห์โดยอัตโนมัติเพื่อปกป้องความเป็นส่วนตัวของคุณ ความสนใจอาจกลับมาปรากฏในรายการอีกเมื่อคุณท่องเว็บต่อ หรือคุณจะนำความสนใจที่ไม่ต้องการให้ Chrome พิจารณาออกก็ได้</translation>

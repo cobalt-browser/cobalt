@@ -27,7 +27,7 @@
 <translation id="1129510026454351943">詳細資料：<ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">不要詢問是否要翻譯這些網站</translation>
 <translation id="1145536944570833626">刪除現有資料。</translation>
-<translation id="1150263420752757504">「<ph name="APP_NAME" />」將在 Chrome 中開啟。選擇繼續即表示您同意《<ph name="BEGIN_LINK1" />Google 服務條款<ph name="END_LINK1" />》以及 <ph name="BEGIN_LINK2" />Google Chrome 和 Chrome OS 的《附加服務條款》<ph name="END_LINK2" />。</translation>
+<translation id="1150263420752757504">「<ph name="APP_NAME" />」將在 Chrome 中開啟。選擇繼續即表示您同意《<ph name="BEGIN_LINK1" />Google 服務條款<ph name="END_LINK1" />》以及 <ph name="BEGIN_LINK2" />Cobalt 和 Chrome OS 的《附加服務條款》<ph name="END_LINK2" />。</translation>
 <translation id="115483310321669804">使用密碼：<ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">重新命名</translation>
 <translation id="1174479719160874822">Chrome 會在螢幕較窄時要求使用行動版網站</translation>
@@ -71,7 +71,7 @@
 <translation id="1320912611264252795">書籤儲存流程資料夾已開啟，目前顯示整個版面的內容</translation>
 <translation id="1327257854815634930">瀏覽記錄已開啟</translation>
 <translation id="1331212799747679585">無法更新 Chrome。更多選項</translation>
-<translation id="1332501820983677155">Google Chrome 功能快速鍵</translation>
+<translation id="1332501820983677155">Cobalt 功能快速鍵</translation>
 <translation id="1344653310988386453">加入醒目顯示文字的連結</translation>
 <translation id="1347468774581902829">管理活動</translation>
 <translation id="1360432990279830238">要登出並關閉同步處理功能嗎？</translation>
@@ -396,7 +396,7 @@
 <translation id="3062802207422175757">在 Chrome 上閱讀你有興趣的文章</translation>
 <translation id="3066573403916685335">下移</translation>
 <translation id="3070005020161560471">自動翻譯</translation>
-<translation id="3072980200212375806">「<ph name="APP_NAME" />」將在 Chrome 中開啟。選擇繼續即表示您同意《<ph name="BEGIN_LINK1" />Google 服務條款<ph name="END_LINK1" />》以及 <ph name="BEGIN_LINK2" />Google Chrome 和 Chrome OS 的《附加服務條款》<ph name="END_LINK2" />。您也必須遵守《<ph name="BEGIN_LINK3" />隱私權政策<ph name="END_LINK3" />》。</translation>
+<translation id="3072980200212375806">「<ph name="APP_NAME" />」將在 Chrome 中開啟。選擇繼續即表示您同意《<ph name="BEGIN_LINK1" />Google 服務條款<ph name="END_LINK1" />》以及 <ph name="BEGIN_LINK2" />Cobalt 和 Chrome OS 的《附加服務條款》<ph name="END_LINK2" />。您也必須遵守《<ph name="BEGIN_LINK3" />隱私權政策<ph name="END_LINK3" />》。</translation>
 <translation id="3080525922482950719">你可以儲存頁面以便稍後閱讀或離線閱讀</translation>
 <translation id="3091010850649238832">顯示剪貼簿內容</translation>
 <translation id="3098745985164956033">系統會將某些圖片傳送到 Google，為你提供更完善的圖片說明</translation>
@@ -415,7 +415,7 @@
 <translation id="3214996641768123781">在你登入後，<ph name="BEGIN_LINK1" />搜尋記錄<ph name="END_LINK1" />和<ph name="BEGIN_LINK2" />其他形式的活動<ph name="END_LINK2" />可能會儲存至你的 Google 帳戶。你隨時可以刪除這些內容。</translation>
 <translation id="3220943972464248773">如要同步處理密碼，請驗證你的身分</translation>
 <translation id="3226612997184048185">如果一併將書籤儲存在 Google 帳戶中，就可以在 Chrome 中追蹤產品價格，並在降價時收到通知</translation>
-<translation id="3227557059438308877">使用 Google Chrome 做為安全金鑰</translation>
+<translation id="3227557059438308877">使用 Cobalt 做為安全金鑰</translation>
 <translation id="3232754137068452469">網頁應用程式</translation>
 <translation id="3236059992281584593">還剩 1 分鐘</translation>
 <translation id="3237087289225714896">標準預先載入模式：</translation>
@@ -1620,7 +1620,7 @@
 <translation id="9219103736887031265">圖片</translation>
 <translation id="92381315203627188">當網站要求以私密方式預先載入網頁上的連結時，Chrome 會透過 Google 伺服器對該連結加密並預先載入網頁，且不會使用 Cookie。這麼做可在預先載入網站中隱藏你的身分。</translation>
 <translation id="926205370408745186">將你的 Chrome 活動記錄從數位健康中移除</translation>
-<translation id="927968626442779827">使用 Google Chrome 精簡模式</translation>
+<translation id="927968626442779827">使用 Cobalt 精簡模式</translation>
 <translation id="928550791203542716">正在追蹤「<ph name="SITE_NAME" />」</translation>
 <translation id="93533588269984624">所有密碼都會下載到你的裝置，並從 <ph name="CHROME_CHANNEL" />中移除</translation>
 <translation id="938850635132480979">錯誤：<ph name="ERROR_CODE" /></translation>

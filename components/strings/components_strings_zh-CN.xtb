@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">正在准备文件</translation>
 <translation id="1015730422737071372">提供其他详细信息</translation>
 <translation id="1019413721762100891">已关闭</translation>
-<translation id="1021753677514347426">此问题是由您或他人在您设备上安装的某个证书导致的。该证书已知被用于监控和拦截网络，因此不受 Chromium 信任。尽管某些情况下的监控确实是合理的（例如监控学校网络或公司网络），但 Chromium 想确保您知道自己正被监控，即使您无法改变这一事实。监控可能会发生在已联网的任何浏览器或应用中。</translation>
+<translation id="1021753677514347426">此问题是由您或他人在您设备上安装的某个证书导致的。该证书已知被用于监控和拦截网络，因此不受 Cobalt 信任。尽管某些情况下的监控确实是合理的（例如监控学校网络或公司网络），但 Cobalt 想确保您知道自己正被监控，即使您无法改变这一事实。监控可能会发生在已联网的任何浏览器或应用中。</translation>
 <translation id="1024111578869940408">攻击者有时会对网址做些令人难以察觉的更改来仿冒网站。</translation>
 <translation id="1024913885641459127">商品评价与比价</translation>
 <translation id="1028781062521375153">查看详情</translation>
@@ -317,7 +317,7 @@
 <translation id="1567040042588613346">此政策正在正常运作，但与别处设置的值相同且已覆盖该值。</translation>
 <translation id="1567405528131216114">添加<ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">输入失效日期</translation>
-<translation id="1569694109004336106">Google Chrome 正在尝试开启 Windows Hello 来填充密码。</translation>
+<translation id="1569694109004336106">Cobalt 正在尝试开启 Windows Hello 来填充密码。</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> 英寸</translation>
 <translation id="1574714699824202614">正在验证付款方式</translation>
 <translation id="1576277203042721907">购物数据洞见</translation>
@@ -360,7 +360,7 @@
 <translation id="1645368109819982629">协议不受支持</translation>
 <translation id="1650602712345345441">管理您的 Google 设置</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">若要将密码管理工具与 macOS 钥匙串搭配使用，请重新启动 Chromium 并允许访问钥匙串。您的标签页会在重新启动后重新打开。</translation>
+<translation id="1652862280638399816">若要将密码管理工具与 macOS 钥匙串搭配使用，请重新启动 Cobalt 并允许访问钥匙串。您的标签页会在重新启动后重新打开。</translation>
 <translation id="1656024727720460136">Chrome 已简化该页面，让内容更易于阅读，并且通过安全的连接检索到了原始网页。</translation>
 <translation id="1656489000284462475">取货</translation>
 <translation id="1658111267661135323">电视节目和视频</translation>
@@ -430,7 +430,7 @@
 <translation id="1762779605905950734">街道名称</translation>
 <translation id="1763864636252898013">此服务器无法证明它是<ph name="DOMAIN" />；您设备的操作系统不信任其安全证书。出现此问题的原因可能是配置有误或您的连接被拦截了。</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />尝试运行 Windows 网络诊断<ph name="END_LINK" />。</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />详细了解 Chromium 中的无痕模式<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />详细了解 Cobalt 中的无痕模式<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">相纸（存档用）</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@
 <translation id="194174710521904357">您暂时允许了此网站使用第三方 Cookie，这意味着您选择采用较低级别的浏览保护措施，但网站功能更有可能会按预期运行。</translation>
 <translation id="1942498996464084801">图书与文学</translation>
 <translation id="1943994668912612445">设计</translation>
-<translation id="1945968466830820669">您可能会无法再访问所属组织的账号，或被他人盗用身份信息。Chromium 建议您立即更改密码。</translation>
+<translation id="1945968466830820669">您可能会无法再访问所属组织的账号，或被他人盗用身份信息。Cobalt 建议您立即更改密码。</translation>
 <translation id="1946849748901605102">12 x 15 英寸</translation>
 <translation id="1947454675006758438">钉装（右上角）</translation>
 <translation id="1953729392594614704">屏蔽“<ph name="TOPIC" />”会同时屏蔽所有相关的主题，即使该主题处于活跃状态也是如此</translation>
@@ -588,7 +588,7 @@
 <translation id="2083256696566019397">每次访问时都允许</translation>
 <translation id="2085876078937250610">保存…</translation>
 <translation id="2091887806945687916">声音</translation>
-<translation id="2093982008204312032">Google Chrome 正在尝试关闭 Windows Hello，以使其不再作为填充密码时的验证机制。</translation>
+<translation id="2093982008204312032">Cobalt 正在尝试关闭 Windows Hello，以使其不再作为填充密码时的验证机制。</translation>
 <translation id="2094505752054353250">网域不匹配</translation>
 <translation id="2094704029599359040">版本信息</translation>
 <translation id="2099652385553570808">三钉（左侧）</translation>
@@ -758,7 +758,7 @@
 <translation id="239429038616798445">该送货方式不可用。请另选一种方式。</translation>
 <translation id="2395840535409704129">水上运动</translation>
 <translation id="2396249848217231973">撤消删除(&amp;U)</translation>
-<translation id="2399868464369312507">Google Chrome 正在尝试修改付款方式。</translation>
+<translation id="2399868464369312507">Cobalt 正在尝试修改付款方式。</translation>
 <translation id="2400600116338235695">可以询问能否连接到串行端口</translation>
 <translation id="2404884497378469141">尝试重新复制文件</translation>
 <translation id="2413155254802890957">旧</translation>
@@ -1026,7 +1026,7 @@
 <translation id="2979424420072875974">写作资源</translation>
 <translation id="2980742331521553164">此卡的银行卡验证码 (CVC) 将会被加密并保存到您的 Google 账号中，以便您更快捷地结账</translation>
 <translation id="2983666748527428214">打开无痕式标签页</translation>
-<translation id="2985306909656435243">启用后，Chromium 会将您的信用卡副本存储在此设备上，以加快表单填写速度。</translation>
+<translation id="2985306909656435243">启用后，Cobalt 会将您的信用卡副本存储在此设备上，以加快表单填写速度。</translation>
 <translation id="2985398929374701810">请输入有效的送货地址</translation>
 <translation id="2987034854559945715">找不到任何相符的功能</translation>
 <translation id="2988216301273604645">Chrome 会限制网站可用于跟踪您浏览时的活动的信息量。您可更改设置以选择自己所需的保护级别。</translation>
@@ -1108,7 +1108,7 @@
 <translation id="3154506275960390542">此页包含一个可能无法安全提交的表单。他人可能会在传输过程中查看您所发送的数据；攻击者也可能会修改这些数据，从而改变服务器收到的内容。</translation>
 <translation id="3154987252551138431">使用“附近分享”功能时出了点问题</translation>
 <translation id="315504272643575312">您的账号由 <ph name="MANAGER" /> 管理。</translation>
-<translation id="3155163173539279776">重新启动 Chromium</translation>
+<translation id="3155163173539279776">重新启动 Cobalt</translation>
 <translation id="3157931365184549694">恢复</translation>
 <translation id="3158539265159265653">光碟</translation>
 <translation id="3162559335345991374">您要使用的 Wi-Fi 网络可能需要您访问其登录页面。</translation>
@@ -1160,7 +1160,7 @@
 <translation id="324180406144491771">“<ph name="HOST_NAME" />”链接已被禁用</translation>
 <translation id="3252772880526154546">建筑</translation>
 <translation id="3254301855501243548">18 x 22 英寸</translation>
-<translation id="3255926992597692024">Chromium 正在尝试修改用于填入付款方式的设置。</translation>
+<translation id="3255926992597692024">Cobalt 正在尝试修改用于填入付款方式的设置。</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />，依次按 Tab 键和 Enter 键即可在 Google 日历中快速创建新活动</translation>
 <translation id="3261488570342242926">了解虚拟卡</translation>
 <translation id="3262698603497362968">购买选项</translation>
@@ -1247,7 +1247,7 @@
 <translation id="3423742043356668186">系统指定</translation>
 <translation id="3427092606871434483">允许（默认）</translation>
 <translation id="3427342743765426898">恢复修改(&amp;R)</translation>
-<translation id="342781501876943858">如果您在其他网站上重复使用了您的密码，Chromium 建议您重置该密码。</translation>
+<translation id="342781501876943858">如果您在其他网站上重复使用了您的密码，Cobalt 建议您重置该密码。</translation>
 <translation id="3428151540071562330">一个或多个 DnsOverHttpsTemplates 服务器模板 URI 无效，因此不会被使用。</translation>
 <translation id="3428789896412418755">已分组的历史记录</translation>
 <translation id="3431216045099978607">按 |<ph name="ACCELERATOR" />| 键即可退出全屏模式以查看下载内容。</translation>
@@ -1433,7 +1433,7 @@
 <translation id="374325029554577103">健身技术产品</translation>
 <translation id="3744111561329211289">后台同步</translation>
 <translation id="3744212718085287312">下次使用虚拟卡以提高安全性？</translation>
-<translation id="3744899669254331632">您目前无法访问 <ph name="SITE" />，因为此网站发送了 Chromium 无法处理的杂乱凭据。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
+<translation id="3744899669254331632">您目前无法访问 <ph name="SITE" />，因为此网站发送了 Cobalt 无法处理的杂乱凭据。网络错误和攻击通常是暂时的，因此，此网页稍后可能会恢复正常。</translation>
 <translation id="3745599309295009257">系统会将您撰写的文字以及您书写时所在网页的内容和网址发送给 Google，然后由人工审核者进行审核，用来改进此功能。避免输入个人信息（如医疗或财务详细信息）或在包含私密信息或敏感信息的网站上使用此工具。</translation>
 <translation id="3748009735914587286">金属（高光）</translation>
 <translation id="3748148204939282805"><ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> 上的攻击者可能会诱骗您做一些危险的事情，例如安装软件或泄露您的个人信息（如密码、电话号码或信用卡信息）。<ph name="BEGIN_LEARN_MORE_LINK" />了解详情<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1567,7 +1567,7 @@
 <translation id="4047351652147966654">18 x 24 英寸</translation>
 <translation id="404831776305217138">ID 为“<ph name="EXTENSION_ID" />”的扩展程序的更新网址无效或使用的架构不受支持。受支持的架构包括：<ph name="HTTP_SCHEME" />、<ph name="HTTPS_SCHEME" /> 和 <ph name="FILE_SCHEME" />。</translation>
 <translation id="4050392779074832022">您将能在各种 Google 产品中使用它</translation>
-<translation id="4050599136622776556">Chromium 正在尝试修改付款方式。</translation>
+<translation id="4050599136622776556">Cobalt 正在尝试修改付款方式。</translation>
 <translation id="405399507749852140">当任一网站上的商品降价时，您会收到提醒</translation>
 <translation id="4056223980640387499">棕褐色调</translation>
 <translation id="4059523390906550209">详细了解敏感数据保护</translation>
@@ -1840,7 +1840,7 @@
 <translation id="4557573143631562971">住宅保险</translation>
 <translation id="4558551763791394412">尝试停用扩展程序。</translation>
 <translation id="4566017918361049074">户外活动</translation>
-<translation id="4567686777917670400">您的管理员可以远程更改您的浏览器设置。此设备上的活动可能也在接受 Chromium 外部的管理。<ph name="BEGIN_LINK" />了解详情<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">您的管理员可以远程更改您的浏览器设置。此设备上的活动可能也在接受 Cobalt 外部的管理。<ph name="BEGIN_LINK" />了解详情<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">已验证</translation>
 <translation id="457875822857220463">递送</translation>
 <translation id="4579699065574932398">银行服务</translation>
@@ -1870,7 +1870,7 @@
 <translation id="4631881646528206880">虚拟卡注册</translation>
 <translation id="4635278307999235413">正在将数据发送到管理控制台</translation>
 <translation id="4636930964841734540">信息</translation>
-<translation id="4638670630777875591">Chromium 中的无痕模式</translation>
+<translation id="4638670630777875591">Cobalt 中的无痕模式</translation>
 <translation id="464342062220857295">搜索功能</translation>
 <translation id="4644670975240021822">逆转顺序，正面朝下</translation>
 <translation id="4646534391647090355">立即前往</translation>
@@ -1915,7 +1915,7 @@
 <translation id="4732860731866514038">正在下载<ph name="LANGUAGE" />语言包…<ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> 想使用您设备的位置信息</translation>
 <translation id="473414950835101501">使用摄像头</translation>
-<translation id="4736825316280949806">重新启动 Chromium</translation>
+<translation id="4736825316280949806">重新启动 Cobalt</translation>
 <translation id="4736934858538408121">虚拟卡</translation>
 <translation id="473775607612524610">更新</translation>
 <translation id="4738601419177586157"><ph name="TEXT" />搜索建议</translation>
@@ -1932,7 +1932,7 @@
 <translation id="4756388243121344051">历史记录(&amp;H)</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">您的 Chrome 个人资料中的通行密钥</translation>
-<translation id="4757993714154412917">您刚刚在一个诈骗网站中输入了密码。为保护您的账号安全，Chromium 建议检查您已保存的密码。</translation>
+<translation id="4757993714154412917">您刚刚在一个诈骗网站中输入了密码。为保护您的账号安全，Cobalt 建议检查您已保存的密码。</translation>
 <translation id="4758311279753947758">添加联系信息</translation>
 <translation id="4761326898079498987">查看更多详情</translation>
 <translation id="4761869838909035636">运行 Chrome 安全检查</translation>
@@ -2019,7 +2019,7 @@
 <translation id="4918221908152712722">安装<ph name="APP_NAME" />（不需要下载）</translation>
 <translation id="4920457992177678649">民宿与短期住宿</translation>
 <translation id="4920710383559189047">套筒</translation>
-<translation id="4922104989726031751">若要在您的操作系统中使用密码管理工具，请重新启动 Chromium 并允许使用计算机的密码管理工具。待 Chromium 重新启动后，您的标签页会自动重新打开。</translation>
+<translation id="4922104989726031751">若要在您的操作系统中使用密码管理工具，请重新启动 Cobalt 并允许使用计算机的密码管理工具。待 Cobalt 重新启动后，您的标签页会自动重新打开。</translation>
 <translation id="4923459931733593730">付款</translation>
 <translation id="4926049483395192435">必须指定。</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> 显示</translation>
@@ -2131,7 +2131,7 @@
 <translation id="5137761395480718572">此应用请求您授权安装 Wi-Fi 凭据。设置完毕后，您的<ph name="DEVICE_TYPE" />将会自动连接到参与的 Wi-Fi 网络。如需移除这些凭据，请卸载该应用。<ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">暂时无法使用虚拟卡，请联系您的发卡行</translation>
 <translation id="5138227688689900538">收起</translation>
-<translation id="5143309888746105072">Chromium 会阻止网站使用第三方 Cookie 跟踪您在浏览时的活动。
+<translation id="5143309888746105072">Cobalt 会阻止网站使用第三方 Cookie 跟踪您在浏览时的活动。
             <ph name="NEW_LINE" />如果网站功能无法正常运作，请<ph name="START_LINK" />尝试暂时允许使用第三方 Cookie<ph name="END_LINK" />。</translation>
 <translation id="5145883236150621069">策略响应中存在错误代码</translation>
 <translation id="5146995429444047494"><ph name="ORIGIN" /> 网站上的通知已被屏蔽</translation>
@@ -2269,7 +2269,7 @@
 <translation id="5425082381151187189">家居与室内装潢</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> 想向您发送通知</translation>
 <translation id="5430298929874300616">移除书签</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />不会保存<ph name="END_EMPHASIS" />：
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />不会保存<ph name="END_EMPHASIS" />：
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />您的浏览记录
             <ph name="LIST_ITEM" />Cookie 和网站数据
@@ -2643,7 +2643,7 @@
 <translation id="6160391204859821737">开启一项广告隐私权功能</translation>
 <translation id="6165508094623778733">了解详情</translation>
 <translation id="6167577165590485365">上次尝试提取时的时间：</translation>
-<translation id="617256461084925519">Google Chrome 正在尝试验证您的身份，以便填写您的付款信息。</translation>
+<translation id="617256461084925519">Cobalt 正在尝试验证您的身份，以便填写您的付款信息。</translation>
 <translation id="6176387967264100435">此价格较高</translation>
 <translation id="6177128806592000436">您与此网站之间建立的连接不安全</translation>
 <translation id="6177531123306197852">C2 信封</translation>
@@ -2663,7 +2663,7 @@
 <translation id="6215936431492593050">金属（磨光）</translation>
 <translation id="6217950634729714357">厨房和餐厅家具</translation>
 <translation id="6218305986815100395">无法启用虚拟卡</translation>
-<translation id="6218753634732582820">要从 Chromium 中移除地址吗？</translation>
+<translation id="6218753634732582820">要从 Cobalt 中移除地址吗？</translation>
 <translation id="622039917539443112">平行折</translation>
 <translation id="6221311046884916259">要将这张卡的信息保存到您的 Google 账号中吗？</translation>
 <translation id="6221345481584921695">Google安全浏览功能最近在<ph name="SITE" />上<ph name="BEGIN_LINK" />检测到了恶意软件<ph name="END_LINK" />。平常非常安全的网站有时也会感染恶意软件。检测到的恶意内容来自于<ph name="SUBRESOURCE_HOST" />，这是个已知的恶意软件散布方。</translation>
@@ -2735,7 +2735,7 @@
 <translation id="6348220984832452017">使用中的变体</translation>
 <translation id="6349101878882523185">安装“<ph name="APP_NAME" />”</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{无}=1{1 个密码（用于 <ph name="DOMAIN_LIST" />，已同步）}=2{2 个密码（用于 <ph name="DOMAIN_LIST" />，已同步）}other{# 个密码（用于 <ph name="DOMAIN_LIST" />，已同步）}}</translation>
-<translation id="6355392890578844978">此浏览器并未由某个公司或其他组织管理。此设备上的活动可能在接受 Chromium 外部的管理。<ph name="BEGIN_LINK" />了解详情<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">此浏览器并未由某个公司或其他组织管理。此设备上的活动可能在接受 Cobalt 外部的管理。<ph name="BEGIN_LINK" />了解详情<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">修改付款方式</translation>
 <translation id="6358450015545214790">这分别意味着什么？</translation>
 <translation id="6360213755783740931">详细了解恶意软件防护</translation>
@@ -2777,7 +2777,7 @@
 <translation id="6410264514553301377">请输入“<ph name="CREDIT_CARD" />”的到期日期和银行卡验证码 (CVC)</translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">皮肤和指甲护理</translation>
-<translation id="6415778972515849510">Chromium 可以帮助您保护您的 Google 账号和更改密码。</translation>
+<translation id="6415778972515849510">Cobalt 可以帮助您保护您的 Google 账号和更改密码。</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">薪资管理服务</translation>
 <translation id="6424600253695044005">云端存储</translation>
@@ -2903,7 +2903,7 @@
 <translation id="6665553082534466207">三孔（右侧）</translation>
 <translation id="6668389483194953109">发现纸张尺寸名称为“custom”，但“custom_size”属性为空或无效。</translation>
 <translation id="6671169470640320959">汽车贷款</translation>
-<translation id="6671697161687535275">要从 Chromium 中移除表单填写建议吗？</translation>
+<translation id="6671697161687535275">要从 Cobalt 中移除表单填写建议吗？</translation>
 <translation id="6677351035258626477">快餐</translation>
 <translation id="6681790815630918386">已保存银行卡验证码 (CVC)</translation>
 <translation id="6683022854667115063">头戴式耳机</translation>
@@ -3016,7 +3016,7 @@
 <translation id="6897140037006041989">用户代理</translation>
 <translation id="6898699227549475383">组织 (O)</translation>
 <translation id="6907458757809079309">健身</translation>
-<translation id="6908168784986658395">当您关闭 Chromium 中的所有无痕式标签页后，系统会从此设备上移除您在这些标签页中的活动记录：
+<translation id="6908168784986658395">当您关闭 Cobalt 中的所有无痕式标签页后，系统会从此设备上移除您在这些标签页中的活动记录：
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />浏览活动<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />搜索记录<ph name="END_LIST_ITEM" />
@@ -3064,7 +3064,7 @@
 <translation id="6973988895180423160">3.5 x 5 英寸</translation>
 <translation id="6978121630131642226">搜索引擎</translation>
 <translation id="6978236010531171013">仍然共享</translation>
-<translation id="6978722349058177832">如果您与他人共用此设备，在您每次使用自动填充功能付款时，Chromium 都会要求您进行验证</translation>
+<translation id="6978722349058177832">如果您与他人共用此设备，在您每次使用自动填充功能付款时，Cobalt 都会要求您进行验证</translation>
 <translation id="6979158407327259162">Google 云端硬盘</translation>
 <translation id="6979440798594660689">静音（默认）</translation>
 <translation id="6987806006823772670">信封（涂布纸）</translation>
@@ -3229,7 +3229,7 @@
 <translation id="7308436126008021607">后台同步</translation>
 <translation id="7310392214323165548">设备很快就会重启</translation>
 <translation id="7311244614769792472">找不到任何结果</translation>
-<translation id="7311837626618954149">Chromium 会阻止网站使用第三方 Cookie 跟踪您在浏览时的活动。</translation>
+<translation id="7311837626618954149">Cobalt 会阻止网站使用第三方 Cookie 跟踪您在浏览时的活动。</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">与连接相关的帮助</translation>
 <translation id="7323804146520582233">隐藏“<ph name="SECTION" />”部分</translation>
@@ -3302,7 +3302,7 @@
 <translation id="7425878584435172632">视觉艺术与设计</translation>
 <translation id="7427079287360774240">外语学习</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">验证您的身份，以便 Chromium 能填写您的付款信息。</translation>
+<translation id="7432774160230062882">验证您的身份，以便 Cobalt 能填写您的付款信息。</translation>
 <translation id="7437289804838430631">添加联系信息</translation>
 <translation id="7438338505272634288">您正在尝试访问的网站上的攻击者可能会诱使您安装影响浏览体验的有害软件，例如，通过更改您的主页或在您访问的网站上展示额外的广告。Chrome 强烈建议您返回到安全的浏览环境，以免造成损害。<ph name="BEGIN_LEARN_MORE_LINK" />了解详情<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">离线浏览</translation>
@@ -3379,7 +3379,7 @@
 <translation id="7564049878696755256">您可能会无法再访问自己的 <ph name="ORG_NAME" /> 账号，或者身份信息遭到盗用。Chrome 建议您立即更改密码。</translation>
 <translation id="7564667064360547717">衬衫和上衣</translation>
 <translation id="7567204685887185387">此服务器无法证明它是<ph name="DOMAIN" />；其安全证书可能是由骗子发出的。出现此问题的原因可能是配置有误或您的连接被拦截了。</translation>
-<translation id="7568616151991626879">Google Chrome 正尝试在 <ph name="APP_NAME" /> 上填充您的密码。</translation>
+<translation id="7568616151991626879">Cobalt 正尝试在 <ph name="APP_NAME" /> 上填充您的密码。</translation>
 <translation id="7569490014721427265">高尔夫</translation>
 <translation id="7569952961197462199">从 Chrome 中移除信用卡信息？</translation>
 <translation id="7569983096843329377">黑色</translation>
@@ -3422,7 +3422,7 @@
 <translation id="7631527008834753063">娱乐竞赛类电视节目</translation>
 <translation id="7633909222644580952">性能数据和崩溃报告</translation>
 <translation id="7636346903338549690">经允许可使用第三方 Cookie 的网站</translation>
-<translation id="7637571805876720304">要从 Chromium 中移除信用卡吗？</translation>
+<translation id="7637571805876720304">要从 Cobalt 中移除信用卡吗？</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{无}=1{您的账号中保存了 1 个密码（关联的网域：<ph name="DOMAIN_LIST" />）}other{您的账号中保存了 # 个密码（关联的网域：<ph name="DOMAIN_LIST" />）}}</translation>
 <translation id="7638605456503525968">串行端口</translation>
 <translation id="7639968568612851608">深灰色</translation>
@@ -3643,7 +3643,7 @@
 <translation id="8061691770921837575">化妆品</translation>
 <translation id="8063875539456488183">保存并跟踪价格</translation>
 <translation id="8066225060526005217">通过 Cookie 设置管理</translation>
-<translation id="8067872629359326442">您刚刚在一个诈骗网站中输入了密码。Chromium 可以为您提供帮助。若要更改密码并让 Google 知晓您的账号可能处于危险状态，请点击“保护账号”。</translation>
+<translation id="8067872629359326442">您刚刚在一个诈骗网站中输入了密码。Cobalt 可以为您提供帮助。若要更改密码并让 Google 知晓您的账号可能处于危险状态，请点击“保护账号”。</translation>
 <translation id="8070439594494267500">应用图标</translation>
 <translation id="8070495475341517754">观光旅游</translation>
 <translation id="8073647227500388356">自动驾驶汽车</translation>
@@ -3902,7 +3902,7 @@
 <translation id="8542014550340843547">三钉（底部）</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">您可以<ph name="BEGIN_ERROR_LINK" />报告检测问题<ph name="END_ERROR_LINK" />；或者，如果您了解自己将面临的安全风险，则可以<ph name="BEGIN_LINK" />访问这个不安全的网站<ph name="END_LINK" />。</translation>
-<translation id="8544217240017914508">Google Chrome 正在尝试修改用于填入付款方式的设置。</translation>
+<translation id="8544217240017914508">Cobalt 正在尝试修改用于填入付款方式的设置。</translation>
 <translation id="8544303911974837265">聚酯纤维</translation>
 <translation id="854548366864113872">高价选项</translation>
 <translation id="8546254312340305428">请提供上传原因（必填）</translation>
@@ -3919,7 +3919,7 @@
 <translation id="8558347880669160417">这次可以使用摄像头和麦克风</translation>
 <translation id="8559762987265718583">您设备的日期和时间（<ph name="DATE_AND_TIME" />）不正确，因此无法与 <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> 建立私密连接。</translation>
 <translation id="8564182942834072828">单独的文档/非逐份打印的副本</translation>
-<translation id="8564985650692024650">如果您在其他网站上重复使用了您的 <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> 密码，Chromium 建议您重置该密码。</translation>
+<translation id="8564985650692024650">如果您在其他网站上重复使用了您的 <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> 密码，Cobalt 建议您重置该密码。</translation>
 <translation id="8570895683659698018">爱好与休闲</translation>
 <translation id="8574841453995331336">冰箱和冷柜</translation>
 <translation id="8577192028579836704">所有选项的一般价格为 <ph name="TYPICAL_PRICE" /></translation>
@@ -3994,7 +3994,7 @@
 <translation id="8736059027199600831">30 x 40 英寸</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />，依次按 Tab 键和 Enter 键即可打开一个新的无痕式窗口以私密浏览网页</translation>
 <translation id="8737685506611670901">打开<ph name="PROTOCOL" />链接而非“<ph name="REPLACED_HANDLER_TITLE" />”</translation>
-<translation id="8738058698779197622">要建立安全连接，您的时钟设置必须正确。这是因为，网站用于证明身份的证书仅在特定时间段有效。由于您设备的时钟不正确，因此 Chromium 无法验证这些证书。</translation>
+<translation id="8738058698779197622">要建立安全连接，您的时钟设置必须正确。这是因为，网站用于证明身份的证书仅在特定时间段有效。由于您设备的时钟不正确，因此 Cobalt 无法验证这些证书。</translation>
 <translation id="8740359287975076522">无法找到 <ph name="HOST_NAME" /> 的 &lt;abbr id="dnsDefinition"&gt;DNS 地址&lt;/abbr&gt;。正在诊断该问题。</translation>
 <translation id="8742371904523228557">您的 <ph name="ORIGIN" /> 验证码是 <ph name="ONE_TIME_CODE" /></translation>
 <translation id="874918643257405732">为此标签页添加书签</translation>
@@ -4021,7 +4021,7 @@
 <translation id="8785658048882205566">摩托车</translation>
 <translation id="8790007591277257123">恢复删除(&amp;R)</translation>
 <translation id="8792272652220298572">塑料（平滑）</translation>
-<translation id="8792621596287649091">您可能会无法再访问自己的 <ph name="ORG_NAME" /> 账号，或者身份信息遭到盗用。Chromium 建议您立即更改密码。</translation>
+<translation id="8792621596287649091">您可能会无法再访问自己的 <ph name="ORG_NAME" /> 账号，或者身份信息遭到盗用。Cobalt 建议您立即更改密码。</translation>
 <translation id="8792626944327216835">麦克风</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> 在您的浏览器中启用了 Chrome 企业版接口。这些接口可以访问您的部分数据。</translation>
 <translation id="8798099450830957504">默认</translation>
@@ -4170,7 +4170,7 @@
 <translation id="9095388113577226029">更多语言…</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />，依次按 Tab 键和 Enter 键即可在 iOS 设置中将 Chrome 设置为系统的默认浏览器</translation>
 <translation id="9101630580131696064">纸匣 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> 通常会使用加密技术来保护您的信息。Chromium 此次尝试连接到 <ph name="SITE" /> 时，此网站发回了异常的错误凭据。这可能是因为有攻击者在试图冒充 <ph name="SITE" />，或 Wi-Fi 登录屏幕中断了此次连接。请放心，您的信息仍然是安全的，因为 Chromium 尚未进行任何数据交换便停止了连接。</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> 通常会使用加密技术来保护您的信息。Cobalt 此次尝试连接到 <ph name="SITE" /> 时，此网站发回了异常的错误凭据。这可能是因为有攻击者在试图冒充 <ph name="SITE" />，或 Wi-Fi 登录屏幕中断了此次连接。请放心，您的信息仍然是安全的，因为 Cobalt 尚未进行任何数据交换便停止了连接。</translation>
 <translation id="9107467864910557787">您的浏览器由 <ph name="MANAGER" /> 管理</translation>
 <translation id="91108059142052966">管理员政策禁止在屏幕显示机密内容时与<ph name="APPLICATION_TITLE" />共享屏幕</translation>
 <translation id="9114524666733003316">正在确认信用卡…</translation>
@@ -4238,7 +4238,7 @@
 <translation id="93020190163435405">实习</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">要允许“<ph name="APP_NAME" />”应用设置 Wi-Fi 网络吗？</translation>
-<translation id="936602727769022409">您可能会无法再访问自己的 Google 账号。Chromium 建议您立即更改密码。系统会要求您登录。</translation>
+<translation id="936602727769022409">您可能会无法再访问自己的 Google 账号。Cobalt 建议您立即更改密码。系统会要求您登录。</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />会使用哪些数据<ph name="END_BOLD" />：为确定您的广告主题，系统会使用您近期的浏览记录，即您在此设备上使用 Chrome 访问过的网站的列表。</translation>
 <translation id="937885410143139026">数据已发送到管理控制台</translation>
 <translation id="939736085109172342">新建文件夹</translation>

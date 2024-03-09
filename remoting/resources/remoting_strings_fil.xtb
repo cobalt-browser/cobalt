@@ -152,10 +152,10 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="7693372326588366043">I-refresh ang listahan ng mga host</translation>
 <translation id="7714222945760997814">Iulat ito</translation>
 <translation id="7868137160098754906">Pakilagay ang iyong PIN para sa remote na computer.</translation>
-<translation id="7881455334687220899">Copyright 2024 Ang Mga Gumawa ng Chromium. Nakalaan ang Lahat ng Karapatan.</translation>
+<translation id="7881455334687220899">Copyright 2024 Ang Mga Gumawa ng Cobalt. Nakalaan ang Lahat ng Karapatan.</translation>
 <translation id="7895403300744144251">Hindi pinapayagan ng mga patakaran sa seguridad sa remote na computer ang mga koneksyon mula sa iyong account.</translation>
 <translation id="7936528439960309876">I-dock sa Kanan</translation>
-<translation id="7970576581263377361">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Chromium.</translation>
+<translation id="7970576581263377361">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Cobalt.</translation>
 <translation id="7981525049612125370">Nag-expire na ang remote na session.</translation>
 <translation id="8038111231936746805">(default)</translation>
 <translation id="8041089156583427627">Magpadala ng Feedback</translation>
@@ -191,6 +191,6 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="9187628920394877737">Magbigay ng pahintulot sa 'Pag-record ng Screen' sa <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Di-wastong configuration ng host.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Ang Mga May-akda ng Chromium</translation>
+<translation id="985602178874221306">Ang Mga May-akda ng Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (huling online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

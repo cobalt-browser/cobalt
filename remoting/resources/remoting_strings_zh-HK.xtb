@@ -152,10 +152,10 @@ host_ip =「<ph name="HOST_IP_ADDRESS_AND_PORT" />」版本=「<ph name="CHANNEL
 <translation id="7693372326588366043">重新整理主機清單</translation>
 <translation id="7714222945760997814">報告此問題</translation>
 <translation id="7868137160098754906">請為遠端電腦輸入您的 PIN。</translation>
-<translation id="7881455334687220899">版權所有 2024 Chromium 作者。保留所有權利。</translation>
+<translation id="7881455334687220899">版權所有 2024 Cobalt 作者。保留所有權利。</translation>
 <translation id="7895403300744144251">遠端電腦的安全政策不允許從您的帳戶連線。</translation>
 <translation id="7936528439960309876">靠右固定</translation>
-<translation id="7970576581263377361">驗證失敗，請重新登入 Chromium。</translation>
+<translation id="7970576581263377361">驗證失敗，請重新登入 Cobalt。</translation>
 <translation id="7981525049612125370">遠端工作階段已逾時。</translation>
 <translation id="8038111231936746805">(預設)</translation>
 <translation id="8041089156583427627">提供意見</translation>
@@ -191,6 +191,6 @@ host_ip =「<ph name="HOST_IP_ADDRESS_AND_PORT" />」版本=「<ph name="CHANNEL
 <translation id="9187628920394877737">將「畫面錄影功能」權限授予「<ph name="PRODUCT_NAME" />」</translation>
 <translation id="9213184081240281106">主機設定無效。</translation>
 <translation id="981121421437150478">離線</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (上次上網日期： <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

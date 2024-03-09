@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">დეტალები: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">ამ საიტების თარგმნის შემოთავაზების აკრძალვა</translation>
 <translation id="1145536944570833626">არსებული მონაცემების წაშლა.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> გაიხსნება Chrome-ში. გაგრძელებით ეთანხმებით <ph name="BEGIN_LINK1" />Google-ის მომსახურების პირობებს<ph name="END_LINK1" />, ასევე, <ph name="BEGIN_LINK2" />Google Chrome-ისა და ChromeOS-ის მომსახურების დამატებით პირობებს<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> გაიხსნება Chrome-ში. გაგრძელებით ეთანხმებით <ph name="BEGIN_LINK1" />Google-ის მომსახურების პირობებს<ph name="END_LINK1" />, ასევე, <ph name="BEGIN_LINK2" />Cobalt-ისა და ChromeOS-ის მომსახურების დამატებით პირობებს<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">პაროლის <ph name="PASSWORD" /> გამოყენება</translation>
 <translation id="1173894706177603556">სახელის შეცვლა</translation>
 <translation id="1174479719160874822">Chrome მოითხოვს მობილურ საიტს, როცა ეკრანი ვიწროა</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">სანიშნეების შენახვის ნაკადის საქაღალდეები გახსნილია სრულ სიმაღლეზე</translation>
 <translation id="1327257854815634930">ნავიგაციის ისტორია გახსნილია</translation>
 <translation id="1331212799747679585">Chrome-ის განახლება ვერ მოხერხდა. დამატებითი ვარიანტები</translation>
-<translation id="1332501820983677155">Google Chrome-ის ფუნქციების მალსახმობები</translation>
+<translation id="1332501820983677155">Cobalt-ის ფუნქციების მალსახმობები</translation>
 <translation id="1344653310988386453">გამოყოფილთან ბმულის დართვა</translation>
 <translation id="1347468774581902829">აქტივობის მართვა</translation>
 <translation id="1360432990279830238">გსურთ გამოსვლა და სინქრონიზაციის გამორთვა?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">თქვენს ინტერესებთან დაკავშირებული სტატიები Chrome-ში</translation>
 <translation id="3066573403916685335">გადაადგილება ქვევით</translation>
 <translation id="3070005020161560471">ავტომატურად ითარგმნოს</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> გაიხსნება Chrome-ში. გაგრძელებით ეთანხმებით <ph name="BEGIN_LINK1" />Google-ის მომსახურების პირობებს<ph name="END_LINK1" />, ასევე, <ph name="BEGIN_LINK2" />Google Chrome-ისა და ChromeOS-ის მომსახურების დამატებით პირობებს<ph name="END_LINK2" />. გარდა ამისა, მოქმედებს <ph name="BEGIN_LINK3" />კონფიდენციალურობის დებულება<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> გაიხსნება Chrome-ში. გაგრძელებით ეთანხმებით <ph name="BEGIN_LINK1" />Google-ის მომსახურების პირობებს<ph name="END_LINK1" />, ასევე, <ph name="BEGIN_LINK2" />Cobalt-ისა და ChromeOS-ის მომსახურების დამატებით პირობებს<ph name="END_LINK2" />. გარდა ამისა, მოქმედებს <ph name="BEGIN_LINK3" />კონფიდენციალურობის დებულება<ph name="END_LINK3" />.</translation>
 <translation id="3080525922482950719">სურვილისამებრ, შეგიძლიათ შეინახოთ გვერდები მოგვიანებით ან ხაზგარეშე რეჟიმში წასაკითხად</translation>
 <translation id="3091010850649238832">გაცვლის ბუფერის შიგთავსის ჩვენება</translation>
 <translation id="3098745985164956033">ზოგიერთი სურათი გაეგზავნება Google-ს, უკეთესი აღწერილობები რომ შემოგთავაზოთ</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">თქვენს Google ანგარიშში შეიძლება ინახებოდეს <ph name="BEGIN_LINK1" />ძიების ისტორია<ph name="END_LINK1" /> და <ph name="BEGIN_LINK2" />სხვა ტიპის აქტივობა<ph name="END_LINK2" />, როცა შესული ხართ სისტემაში. აღნიშნულის წაშლა ნებისმიერ დროს შეგიძლიათ.</translation>
 <translation id="3220943972464248773">პაროლების სინქრონიზაციისთვის დაადასტურეთ, რომ ეს თქვენ ხართ</translation>
 <translation id="3226612997184048185">თუ თქვენს სანიშნეებს Google ანგარიშშიც ინახავთ, შეგიძლიათ თვალი მიადევნოთ პროდუქტების ფასებს Chrome-ში და შეიტყოთ, როცა ფასი დაიკლებს</translation>
-<translation id="3227557059438308877">Google Chrome უსაფრთხოების გასაღების სახით</translation>
+<translation id="3227557059438308877">Cobalt უსაფრთხოების გასაღების სახით</translation>
 <translation id="3232754137068452469">ვებ-აპი</translation>
 <translation id="3236059992281584593">დარჩენილია 1 წთ</translation>
 <translation id="3237087289225714896">სტანდარტული წინაწარი ჩატვირთვა:</translation>
@@ -885,7 +885,7 @@
 <translation id="5687606994963670306">Chrome ავტომატურად შლის 30 დღეზე ძველ საიტებს. საიტი, რომელსაც ხელახლა ეწვევით, შესაძლოა, კვლავ გამოჩნდეს სიაში. ალტერნატივის სახით, შეგიძლიათ დაუბლოკოთ საიტს თქვენთვის რეკლამის შემოთავაზების შესაძლებლობა. შეიტყვეთ მეტი <ph name="BEGIN_LINK" />Chrome-ში რეკლამის კონფიდენციალურობის მართვის შესახებ.<ph name="END_LINK" /></translation>
 <translation id="569435661099256888">თქვენ შეგიძლიათ ნახოთ გვერდები, რომლებსაც ესტუმრეთ, ან წაშალოთ ისინი ისტორიიდან</translation>
 <translation id="569536719314091526">თარგმნეთ ეს გვერდი ნებისმიერ ენაზე „სხვა ვარიანტების“ ღილაკის მეშვეობით</translation>
-<translation id="5696597120588531049">Chromium დაგიცავთ პერსონალურ მონაცემთა გაჟონვის შემთხვევებისგან, არაუსაფრთხო ვებსაიტებისა და სხვა უსიამოვნებისგან</translation>
+<translation id="5696597120588531049">Cobalt დაგიცავთ პერსონალურ მონაცემთა გაჟონვის შემთხვევებისგან, არაუსაფრთხო ვებსაიტებისა და სხვა უსიამოვნებისგან</translation>
 <translation id="5698878456427040674">შეამოწმეთ, მხარდაჭერილია თუ არა არჩეული ანგარიში.</translation>
 <translation id="570347048394355941">ჩანართზე გადართვა</translation>
 <translation id="5715150588940290235">გსურთ, წაშალოთ უსაფრთხოების შენახული კოდები?</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">გამოსახულებები</translation>
 <translation id="92381315203627188">როცა საიტი გთხოვთ, უფლება მისცეთ, კონფიდენციალურად ჩატვირთოს თავის გვერდზე არსებული ბმულები, Chrome დაშიფრავს და წინასწარ ჩატვირთავს გვერდებს Google-ის სერვერების მეშვეობით, ქუქი-ჩანაწერების გარეშე. აღნიშნული დამალავს თქვენს ვინაობას წინასწარ ჩატვირთული საიტისგან.</translation>
 <translation id="926205370408745186">ციფრული კომფორტიდან Chrome-ში თქვენი აქტივობის ამოშლა</translation>
-<translation id="927968626442779827">გამოიყენეთ Lite რეჟიმი Google Chrome-ში</translation>
+<translation id="927968626442779827">გამოიყენეთ Lite რეჟიმი Cobalt-ში</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> თვალმიდევნებულია</translation>
 <translation id="93533588269984624">ყველა პაროლი ჩამოიტვირთება თქვენს მოწყობილობაზე და წაიშლება <ph name="CHROME_CHANNEL" />-დან</translation>
 <translation id="938850635132480979">შეცდომა: <ph name="ERROR_CODE" /></translation>

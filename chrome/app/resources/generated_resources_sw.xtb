@@ -890,7 +890,7 @@ Huenda ruhusa ambazo tayari umezipa programu zikatumika kwenye akaunti hii. Unaw
 <translation id="1651008383952180276">Lazima uweke kauli ya siri sawa mara mbili</translation>
 <translation id="1651609627703324721">Kichupo hiki kinawasilisha maudhui ya VR kwenye kifaa cha kutazama uhalisia pepe</translation>
 <translation id="1652326691684645429">Washa kipengele cha Uhamishaji wa Karibu</translation>
-<translation id="1652862280638399816">Ili utumie Kidhibiti cha Manenosiri na MacOS Keychain, fungua tena Chromium na uruhusu ufikiaji wa Keychain. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
+<translation id="1652862280638399816">Ili utumie Kidhibiti cha Manenosiri na MacOS Keychain, fungua tena Cobalt na uruhusu ufikiaji wa Keychain. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
 <translation id="1653958716132599769">Panga vichupo vinavyohusiana</translation>
 <translation id="1654580009054503925">Hakiruhusiwi kuonyesha maombi</translation>
 <translation id="1656528038316521561">Nuru ya mandharinyuma</translation>
@@ -1175,7 +1175,7 @@ Hatua hii haiathiri programu au maudhui kwenye vifaa vingine.</translation>
 <translation id="186594096341696655">Punguza kasi</translation>
 <translation id="186612162884103683">"<ph name="EXTENSION" />" inaweza kusoma na kuandika picha, video, na faili za sauti katika maeneo yaliyowekewa alama.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> iko tayari kukamilisha usakinishaji wako</translation>
-<translation id="1868553836791672080">Kipengele cha kukagua manenosiri hakipatikani katika Chromium</translation>
+<translation id="1868553836791672080">Kipengele cha kukagua manenosiri hakipatikani katika Cobalt</translation>
 <translation id="1868617395637139709">Tumia huduma ya mahali kwa ajili ya programu na huduma za Android.</translation>
 <translation id="1869433484041798909">Kitufe cha alamisho</translation>
 <translation id="1871098866036088250">Vifungue katika kivinjari cha Chrome</translation>
@@ -1945,7 +1945,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="2434449159125086437">Imeshindwa kuweka mipangilio ya printa. Tafadhali angalia mipangilio kisha ujaribu tena.</translation>
 <translation id="2434758125294431199">Chagua wanaoweza kushiriki nawe</translation>
 <translation id="2434915728183570229">Sasa unaweza kuangalia programu za simu yako</translation>
-<translation id="2435137177546457207">Sheria na Masharti ya Ziada ya Google Chrome na ChromeOS Flex</translation>
+<translation id="2435137177546457207">Sheria na Masharti ya Ziada ya Cobalt na ChromeOS Flex</translation>
 <translation id="2435248616906486374">Mtandao Umekatizwa</translation>
 <translation id="2435457462613246316">Onyesha nenosiri</translation>
 <translation id="2436385001956947090">Nakili kiungo</translation>
@@ -2882,7 +2882,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="3151562827395986343">Futa historia, vidakuzi, akiba na mengine mengi</translation>
 <translation id="3151786313568798007">Mkao</translation>
 <translation id="3152356229013609796">Tazama, ondoa na ujibu arifa za simu yako</translation>
-<translation id="3155163173539279776">Zindua upya Chromium</translation>
+<translation id="3155163173539279776">Zindua upya Cobalt</translation>
 <translation id="3157387275655328056">Ongeza kwenye Orodha ya Kusoma</translation>
 <translation id="3157931365184549694">Rejesha</translation>
 <translation id="3158033540161634471">Weka mipangilio ya alama ya kidole</translation>
@@ -3713,7 +3713,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="3798632811625902122">Kifaa chenye Bluetooth <ph name="DEVICE" /> kinaomba idhini ya kuoanisha.</translation>
 <translation id="3798670284305777884">Spika (ya ndani)</translation>
 <translation id="3799128412641261490">Mipangilio ya kufikia kupitia swichi</translation>
-<translation id="3800828618615365228">Sheria na Masharti ya Ziada ya Google Chrome na Mfumo wa Uendeshaji wa Chrome</translation>
+<translation id="3800828618615365228">Sheria na Masharti ya Ziada ya Cobalt na Mfumo wa Uendeshaji wa Chrome</translation>
 <translation id="3802486193901166966">Kiendelezi hiki hakihitaji ruhusa maalum na hakina idhini ya ziada ya kufikia tovuti</translation>
 <translation id="380329542618494757">Jina</translation>
 <translation id="3803345858388753269">Ubora wa Video</translation>
@@ -3734,7 +3734,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="3810973564298564668">Dhibiti</translation>
 <translation id="381202950560906753">Ongeza kingine</translation>
 <translation id="3812525830114410218">Cheti kina tatizo</translation>
-<translation id="3813296892522778813">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM" />Usaidizi wa Google Chrome<ph name="END_LINK_CHROMIUM" /> ikiwa hupati unachotafuta</translation>
+<translation id="3813296892522778813">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM" />Usaidizi wa Cobalt<ph name="END_LINK_CHROMIUM" /> ikiwa hupati unachotafuta</translation>
 <translation id="3813358687923336574">Lugha inayotumiwa kutafsiri kurasa na kwenye Majibu ya haraka</translation>
 <translation id="3813458570141926987">Orodha ya mada zilizokadiriwa na Chrome kulingana na historia yako ya kuvinjari ya hivi karibuni</translation>
 <translation id="3814529970604306954">Akaunti ya Shuleni</translation>
@@ -4158,7 +4158,7 @@ Hii inaweza kujumuisha maelezo kuhusu programu zilizosakinishwa, faili, kivinjar
 <translation id="4132969033912447558">Endeleza <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Fungua programu ili ubadilishe nenosiri lako</translation>
 <translation id="4134838386867070505">Hatua ya 1 kati ya 4: Fafanua hitilafu</translation>
-<translation id="4135746311382563554">Sheria na masharti ya ziada ya Google Chrome na mfumo wa uendeshaji wa Chrome</translation>
+<translation id="4135746311382563554">Sheria na masharti ya ziada ya Cobalt na mfumo wa uendeshaji wa Chrome</translation>
 <translation id="4136203100490971508">Kipengele cha Mwanga wa Usiku kitazimwa kiotomatiki wakati wa macheo</translation>
 <translation id="41365691917097717">Hatua ya kuendelea itawasha utatuzi wa ADB wa kusanidi na kujaribu programu za Android. Kumbuka kwamba hatua hii inaruhusu usakinishaji wa programu za Android ambazo hazijathibitishwa na Google na zinahitaji urejeshe mipangilio ambayo kifaa ilitoka nayo kiwandani ili kuzima.</translation>
 <translation id="4137923333452716643">Angazia maandishi unayotaka kufungua katika hali ya kusoma</translation>
@@ -5154,7 +5154,7 @@ Bonyeza kitufe cha Ctrl kisha Alt na kitufe cha Kupunguza Mwangaza kwa wakati mm
 <translation id="4918134162946436591">Onyesha lebo zilizowekelewa juu</translation>
 <translation id="4918762404810341788">Nakili na ufungue</translation>
 <translation id="4921348630401250116">Kusoma maandishi kwa sauti</translation>
-<translation id="4922104989726031751">Ili utumie Kidhibiti cha Manenosiri kwenye mfumo wa uendeshaji unaotumia, fungua tena Chromium na uruhusu ufikiaji wa kidhibiti cha manenosiri katika kompyuta yako. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
+<translation id="4922104989726031751">Ili utumie Kidhibiti cha Manenosiri kwenye mfumo wa uendeshaji unaotumia, fungua tena Cobalt na uruhusu ufikiaji wa kidhibiti cha manenosiri katika kompyuta yako. Vichupo vyako vitafunguka upya ukishafungua tena.</translation>
 <translation id="492299503953721473">Ondoa programu za Android</translation>
 <translation id="492363500327720082">Inaondoa <ph name="APP_NAME" />...</translation>
 <translation id="4924002401726507608">Tuma Maoni</translation>
@@ -7135,7 +7135,7 @@ Huenda ruhusa ambazo tayari umezipa tovuti na programu zikatumika kwenye akaunti
 <translation id="6511607461419653612">Funga kisha ufungue Chromebook yako kisha ujaribu tena</translation>
 <translation id="6511827214781912955">Hakikisha unafuta <ph name="FILENAME" />, ili watu wengine wanaotumia kifaa hiki wasione manenosiri yako</translation>
 <translation id="6512759338201777379">Umezalisha picha ya <ph name="INDEX" /> kwenye <ph name="SUBJECT" />, yenye hali ya <ph name="MOOD" />.</translation>
-<translation id="6513247462497316522">Google Chrome itatumia data ya simu ya mkononi ukiwa hujaunganishwa kwenye mtandao mwingine.</translation>
+<translation id="6513247462497316522">Cobalt itatumia data ya simu ya mkononi ukiwa hujaunganishwa kwenye mtandao mwingine.</translation>
 <translation id="6514010653036109809">Kifaa kinachopatikana:</translation>
 <translation id="6514565641373682518">Ukurasa huu umekilemza kiteuzi chako cha kipanya.</translation>
 <translation id="6517227424170598783">Ungependa kuondoa njia ya mkato ya "<ph name="SHORTCUT_NAME" /> - <ph name="APP_NAME" />"?</translation>
@@ -9814,7 +9814,7 @@ Weka faili yako ya funguo mahali salama. Utaihitaji kuunda matoleo mapya ya kien
 <translation id="8554899698005018844">Hakuna lugha</translation>
 <translation id="855604308879080518">Ruhusu programu za Android zifikie vifaa vya USB kwenye Chromebook hii. Utaombwa ruhusa kila wakati unapochomeka kifaa cha USB. Programu mahususi za Android zitaomba ruhusa za ziada.</translation>
 <translation id="8557022314818157177">Endelea kugusa ufunguo wako wa usalama hadi alama yako ya kidole inaswe</translation>
-<translation id="8557180006508471423">Washa "Google Chrome" katika Huduma za Mahali kwenye Mac yako</translation>
+<translation id="8557180006508471423">Washa "Cobalt" katika Huduma za Mahali kwenye Mac yako</translation>
 <translation id="8557856025359704738">Upakuaji unaofuata utafanyika <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Nenosiri la Akaunti ya Google</translation>
 <translation id="8559858985063901027">Manenosiri</translation>

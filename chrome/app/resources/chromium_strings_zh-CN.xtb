@@ -167,7 +167,7 @@
 <translation id="3941890832296813527">安装时出错：安装程序文件名无效或不受支持。</translation>
 <translation id="3945058413678539331">Cobalt 正在尝试复制密码。请输入您的 Windows 密码以允许此操作。</translation>
 <translation id="3962647064319009959">了解 Cobalt 如何保障您的安全</translation>
-<translation id="3975724895399328945">关于 Google Chrome for Testing(&amp;G)</translation>
+<translation id="3975724895399328945">关于 Cobalt for Testing(&amp;G)</translation>
 <translation id="3997429360543082038">关于 Cobalt 操作系统</translation>
 <translation id="4019629340646866719">与 <ph name="BEGIN_LINK_LINUX_OSS" />Linux 开发环境<ph name="END_LINK_LINUX_OSS" />一样，Cobalt 操作系统也是借助了其他<ph name="BEGIN_LINK_CROS_OSS" />开源软件<ph name="END_LINK_CROS_OSS" />才得以问世。</translation>
 <translation id="4036079820698952681">报告<ph name="BEGIN_LINK" />当前设置<ph name="END_LINK" />，协助我们改进 Cobalt</translation>
@@ -402,7 +402,7 @@ Cobalt 无法恢复您的设置。</translation>
 <translation id="8013436988911883588">一旦 Cobalt 获得了使用权限，网站便能请求您向其授予使用权限。</translation>
 <translation id="80471789339884597">感谢您完成安装。您必须重启所有浏览器才能使用 <ph name="BUNDLE_NAME" />。</translation>
 <translation id="8086881907087796310">安装失败，因为您的计算机未达到最低硬件要求。</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt 需要为此网站授予位置信息权限</translation>
 <translation id="8133124826068723441">由于您的网域不支持同步，Cobalt 操作系统无法同步您的数据。</translation>
 <translation id="813913629614996137">正在初始化…</translation>
@@ -435,7 +435,7 @@ Cobalt 无法恢复您的设置。</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />我们会如何使用这些数据<ph name="END_BOLD" />：网站可以将您的兴趣信息存储在 Cobalt 中。例如，如果您访问某个网站购买马拉松跑鞋，系统可能会根据该网站推测您对跑马拉松感兴趣。之后，如果您访问其他网站报名参加比赛，相应网站就可以根据您的兴趣向您展示跑鞋广告。</translation>
 <translation id="8619360774459241877">正在启动 Cobalt…</translation>
 <translation id="8621669128220841554">未指定的错误导致安装失败。请重新下载 Cobalt。</translation>
-<translation id="8648201657708811153">您无法将 Google Chrome for Testing 设为默认浏览器。</translation>
+<translation id="8648201657708811153">您无法将 Cobalt for Testing 设为默认浏览器。</translation>
 <translation id="8697124171261953979">它还能够控制您启动Chromium后或通过多功能框进行搜索时系统显示的页面。</translation>
 <translation id="8704119203788522458">这是您的专属Chromium</translation>
 <translation id="8719993436687031146">登录 Cobalt？</translation>

@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Bestanden voorbereiden</translation>
 <translation id="1015730422737071372">Aanvullende gegevens verzenden</translation>
 <translation id="1019413721762100891">Uit</translation>
-<translation id="1021753677514347426">Dit probleem doet zich voor als gevolg van een certificaat dat jij of iemand anders heeft geïnstalleerd op je apparaat. Het certificaat staat erom bekend dat het wordt gebruikt voor netwerkmonitoring en -onderschepping en wordt niet vertrouwd door Chromium. Hoewel er ook legitieme certificaten bestaan, bijvoorbeeld op een school- of zakelijk netwerk, wil Chromium zeker weten dat je begrijpt wat er gebeurt, ook als je het niet kunt tegenhouden. Monitoring kan plaatsvinden in elke browser of app met toegang tot internet.</translation>
+<translation id="1021753677514347426">Dit probleem doet zich voor als gevolg van een certificaat dat jij of iemand anders heeft geïnstalleerd op je apparaat. Het certificaat staat erom bekend dat het wordt gebruikt voor netwerkmonitoring en -onderschepping en wordt niet vertrouwd door Cobalt. Hoewel er ook legitieme certificaten bestaan, bijvoorbeeld op een school- of zakelijk netwerk, wil Cobalt zeker weten dat je begrijpt wat er gebeurt, ook als je het niet kunt tegenhouden. Monitoring kan plaatsvinden in elke browser of app met toegang tot internet.</translation>
 <translation id="1024111578869940408">Aanvallers maken sites soms na door wijzigingen in het webadres aan te brengen die je moeilijk kunt zien.</translation>
 <translation id="1024913885641459127">Productreviews en prijsvergelijkingen</translation>
 <translation id="1028781062521375153">Details bekijken</translation>
@@ -317,7 +317,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1567040042588613346">Dit beleid werkt zoals bedoeld, maar ergens anders is dezelfde waarde ingesteld die wordt vervangen door dit beleid.</translation>
 <translation id="1567405528131216114"><ph name="TOPIC" /> toevoegen</translation>
 <translation id="1569487616857761740">Vervaldatum invoeren</translation>
-<translation id="1569694109004336106">Google Chrome probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="1569694109004336106">Cobalt probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1574714699824202614">Betaalmethode verifiëren</translation>
 <translation id="1576277203042721907">Shopping-inzichten</translation>
@@ -360,7 +360,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1645368109819982629">Niet-ondersteund protocol</translation>
 <translation id="1650602712345345441">Je Chrome-instellingen beheren</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Als je Wachtwoordmanager wilt gebruiken met macOS-sleutelhanger, herstart je Chromium en sta je sleutelhangertoegang toe. Je tabbladen worden opnieuw geopend na de herstart.</translation>
+<translation id="1652862280638399816">Als je Wachtwoordmanager wilt gebruiken met macOS-sleutelhanger, herstart je Cobalt en sta je sleutelhangertoegang toe. Je tabbladen worden opnieuw geopend na de herstart.</translation>
 <translation id="1656024727720460136">Chrome heeft deze pagina vereenvoudigd om deze beter leesbaar te maken. Chrome heeft de originele pagina opgehaald via een beveiligde verbinding.</translation>
 <translation id="1656489000284462475">Ophaaltijd</translation>
 <translation id="1658111267661135323">Tv en video</translation>
@@ -430,7 +430,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="1762779605905950734">Straatnaam</translation>
 <translation id="1763864636252898013">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door het besturingssysteem van je apparaat. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Voer Windows Netwerkcontrole uit<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Meer informatie over incognito in Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Meer informatie over incognito in Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Foto (archief)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="194174710521904357">Je hebt deze site tijdelijk toestemming gegeven om cookies van derden te gebruiken. Je krijgt dan minder bescherming terwijl je browst, maar het is waarschijnlijker dat de sitefuncties werken zoals verwacht.</translation>
 <translation id="1942498996464084801">Boeken en literatuur</translation>
 <translation id="1943994668912612445">Ontwerp</translation>
-<translation id="1945968466830820669">Je kunt de toegang tot het account van je organisatie kwijtraken of slachtoffer worden van identiteitsdiefstal. Chromium raadt je aan je wachtwoord nu te wijzigen.</translation>
+<translation id="1945968466830820669">Je kunt de toegang tot het account van je organisatie kwijtraken of slachtoffer worden van identiteitsdiefstal. Cobalt raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="1946849748901605102">12 x 15 inch</translation>
 <translation id="1947454675006758438">Nietje rechtsboven</translation>
 <translation id="1953729392594614704">Als je <ph name="TOPIC" /> blokkeert, worden ook alle gerelateerde onderwerpen geblokkeerd, zelfs als het onderwerp actief is</translation>
@@ -588,7 +588,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2083256696566019397">Toestaan bij elk bezoek</translation>
 <translation id="2085876078937250610">Opslaan…</translation>
 <translation id="2091887806945687916">Geluid</translation>
-<translation id="2093982008204312032">Google Chrome probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="2093982008204312032">Cobalt probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="2094505752054353250">Domeinen komen niet overeen</translation>
 <translation id="2094704029599359040">Versiegegevens</translation>
 <translation id="2099652385553570808">Drie nietjes links</translation>
@@ -758,7 +758,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="239429038616798445">Deze verzendmethode is niet beschikbaar. Kies een andere methode.</translation>
 <translation id="2395840535409704129">Watersport</translation>
 <translation id="2396249848217231973">&amp;Verwijderen ongedaan maken</translation>
-<translation id="2399868464369312507">Google Chrome probeert betaalmethoden te bewerken.</translation>
+<translation id="2399868464369312507">Cobalt probeert betaalmethoden te bewerken.</translation>
 <translation id="2400600116338235695">Kan vragen of deze site verbinding mag maken met seriële poorten</translation>
 <translation id="2404884497378469141">Probeer je bestanden opnieuw te kopiëren</translation>
 <translation id="2413155254802890957">Oud</translation>
@@ -1026,7 +1026,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2979424420072875974">Bronnen voor schrijvers</translation>
 <translation id="2980742331521553164">De CVC van deze kaart wordt versleuteld en opgeslagen in je Google-account zodat je sneller kunt betalen</translation>
 <translation id="2983666748527428214">Incognitotabblad openen</translation>
-<translation id="2985306909656435243">Als deze instelling aanstaat, slaat Chromium een kopie van je pas op dit apparaat op zodat formulieren sneller kunnen worden ingevuld.</translation>
+<translation id="2985306909656435243">Als deze instelling aanstaat, slaat Cobalt een kopie van je pas op dit apparaat op zodat formulieren sneller kunnen worden ingevuld.</translation>
 <translation id="2985398929374701810">Geef een geldig adres op</translation>
 <translation id="2987034854559945715">Geen overeenkomende functies</translation>
 <translation id="2988216301273604645">Chrome beperkt de hoeveelheid informatie die sites kunnen gebruiken om je te volgen terwijl je browst. Je kunt de instellingen wijzigen om je eigen beveiligingsniveau te kiezen.</translation>
@@ -1108,7 +1108,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3154506275960390542">Deze pagina bevat een formulier dat mogelijk niet beveiligd wordt verzonden. Gegevens die je verzendt, kunnen tijdens de overdracht worden bekeken door anderen of kunnen worden aangepast door een aanvaller om te wijzigen wat de server ontvangt.</translation>
 <translation id="3154987252551138431">Er is iets misgegaan bij het gebruik van Dichtbij delen</translation>
 <translation id="315504272643575312">Je account wordt beheerd door <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Chromium opnieuw starten</translation>
+<translation id="3155163173539279776">Cobalt opnieuw starten</translation>
 <translation id="3157931365184549694">Herstellen</translation>
 <translation id="3158539265159265653">Schijf</translation>
 <translation id="3162559335345991374">Het is mogelijk dat je de inlogpagina moet bezoeken van het wifi-netwerk dat je gebruikt.</translation>
@@ -1159,7 +1159,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="324180406144491771">Links van <ph name="HOST_NAME" /> zijn geblokkeerd</translation>
 <translation id="3252772880526154546">Architectuur</translation>
 <translation id="3254301855501243548">18 x 22 inch</translation>
-<translation id="3255926992597692024">Chromium probeert instellingen voor het invullen van betaalmethoden aan te passen.</translation>
+<translation id="3255926992597692024">Cobalt probeert instellingen voor het invullen van betaalmethoden aan te passen.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om snel een nieuwe afspraak in Google Agenda te maken</translation>
 <translation id="3261488570342242926">Meer informatie over virtuele kaarten</translation>
 <translation id="3262698603497362968">Koopopties</translation>
@@ -1246,7 +1246,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="3423742043356668186">Systeem opgegeven</translation>
 <translation id="3427092606871434483">Toestaan (standaard)</translation>
 <translation id="3427342743765426898">&amp;Opnieuw bewerken</translation>
-<translation id="342781501876943858">Chromium raadt je aan je wachtwoord te resetten als je het voor andere sites hebt hergebruikt.</translation>
+<translation id="342781501876943858">Cobalt raadt je aan je wachtwoord te resetten als je het voor andere sites hebt hergebruikt.</translation>
 <translation id="3428151540071562330">Een of meer van de servertemplate-URI's voor DnsOverHttpsTemplates zijn ongeldig en worden niet gebruikt.</translation>
 <translation id="3428789896412418755">Gegroepeerde geschiedenis</translation>
 <translation id="3431216045099978607">Druk op |<ph name="ACCELERATOR" />| om het volledige scherm te sluiten en de download te bekijken.</translation>
@@ -1432,7 +1432,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="374325029554577103">Technologieproducten voor fitness</translation>
 <translation id="3744111561329211289">Synchronisatie op de achtergrond</translation>
 <translation id="3744212718085287312">Wil je deze kaart de volgende keer beter beveiligen met een virtuele kaart?</translation>
-<translation id="3744899669254331632">Je kunt <ph name="SITE" /> op dit moment niet bezoeken, omdat de website gecodeerde inloggegevens heeft verstuurd die niet door Chromium kunnen worden verwerkt. Aangezien netwerkfouten en aanvallen doorgaans van tijdelijke aard zijn, zal deze pagina later waarschijnlijk wel werken.</translation>
+<translation id="3744899669254331632">Je kunt <ph name="SITE" /> op dit moment niet bezoeken, omdat de website gecodeerde inloggegevens heeft verstuurd die niet door Cobalt kunnen worden verwerkt. Aangezien netwerkfouten en aanvallen doorgaans van tijdelijke aard zijn, zal deze pagina later waarschijnlijk wel werken.</translation>
 <translation id="3745599309295009257">Je tekst en de content en URL van de pagina waarop je schrijft, worden naar Google gestuurd, beoordeeld door mensen en gebruikt om deze functie te verbeteren. Voer geen persoonlijke informatie in (zoals medische of financiële gegevens) en gebruik deze tool niet op sites die persoonlijke of gevoelige informatie bevatten.</translation>
 <translation id="3748009735914587286">Metaal (hoogglans)</translation>
 <translation id="3748148204939282805">Cybercriminelen op <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> kunnen proberen om je te misleiden zodat je iets gevaarlijks doet, bijvoorbeeld software installeren of je persoonlijke informatie bekendmaken (zoals wachtwoorden, telefoonnummers of creditcardgegevens). <ph name="BEGIN_LEARN_MORE_LINK" />Meer informatie<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1566,7 +1566,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4047351652147966654">18 x 24 inch</translation>
 <translation id="404831776305217138">Update-URL voor extensie met ID <ph name="EXTENSION_ID" /> is ongeldig of gebruikt een niet-ondersteund schema. Ondersteunde schema's zijn: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> en <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Je kunt het gebruiken in meerdere Google-producten</translation>
-<translation id="4050599136622776556">Chromium probeert betaalmethoden te bewerken.</translation>
+<translation id="4050599136622776556">Cobalt probeert betaalmethoden te bewerken.</translation>
 <translation id="405399507749852140">Krijg meldingen bij een prijsdaling op een site</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Meer informatie over bescherming van gevoelige gegevens</translation>
@@ -1839,7 +1839,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4557573143631562971">Woningverzekeringen</translation>
 <translation id="4558551763791394412">Probeer je extensies uit te zetten.</translation>
 <translation id="4566017918361049074">Buitenactiviteiten</translation>
-<translation id="4567686777917670400">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Chromium worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Cobalt worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Geverifieerd</translation>
 <translation id="457875822857220463">Bezorging</translation>
 <translation id="4579699065574932398">Bankieren</translation>
@@ -1869,7 +1869,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4631881646528206880">Inschrijving via virtuele kaart</translation>
 <translation id="4635278307999235413">Gegevens naar de Beheerdersconsole sturen</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Incognito in Chromium</translation>
+<translation id="4638670630777875591">Incognito in Cobalt</translation>
 <translation id="464342062220857295">Zoekfuncties</translation>
 <translation id="4644670975240021822">Omgekeerde volgorde met de bedrukte zijde omlaag</translation>
 <translation id="4646534391647090355">Breng me daar nu naartoe</translation>
@@ -1914,7 +1914,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4732860731866514038">Taalpakket voor <ph name="LANGUAGE" /> downloaden… <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992"><ph name="URL" /> wil de locatie van je apparaat gebruiken</translation>
 <translation id="473414950835101501">Je camera's gebruiken</translation>
-<translation id="4736825316280949806">Chromium opnieuw starten</translation>
+<translation id="4736825316280949806">Cobalt opnieuw starten</translation>
 <translation id="4736934858538408121">Virtuele kaart</translation>
 <translation id="473775607612524610">Updaten</translation>
 <translation id="4738601419177586157">Zoeksuggestie: <ph name="TEXT" /></translation>
@@ -1931,7 +1931,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4756388243121344051">Gesc&amp;hiedenis</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Toegangssleutel uit je Chrome-profiel</translation>
-<translation id="4757993714154412917">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chromium raadt je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
+<translation id="4757993714154412917">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Cobalt raadt je aan je opgeslagen wachtwoorden te checken om je accounts te beveiligen.</translation>
 <translation id="4758311279753947758">Contactgegevens toevoegen</translation>
 <translation id="4761326898079498987">Meer informatie</translation>
 <translation id="4761869838909035636">Chrome-veiligheidscheck uitvoeren</translation>
@@ -2018,7 +2018,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="4918221908152712722"><ph name="APP_NAME" /> installeren (geen download vereist)</translation>
 <translation id="4920457992177678649">Vakantiehuizen en woningen voor kort verblijf</translation>
 <translation id="4920710383559189047">Hoes</translation>
-<translation id="4922104989726031751">Als je Wachtwoordmanager wilt gebruiken met je besturingssysteem, start je Chromium opnieuw en geef je toegang tot de wachtwoordmanager van je computer. Je tabbladen worden opnieuw geopend na de herstart.</translation>
+<translation id="4922104989726031751">Als je Wachtwoordmanager wilt gebruiken met je besturingssysteem, start je Cobalt opnieuw en geef je toegang tot de wachtwoordmanager van je computer. Je tabbladen worden opnieuw geopend na de herstart.</translation>
 <translation id="4923459931733593730">Betaling</translation>
 <translation id="4926049483395192435">Moet worden opgegeven.</translation>
 <translation id="4926159001844873046"><ph name="SITE" /> meldt het volgende</translation>
@@ -2103,7 +2103,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5087580092889165836">Pas toevoegen</translation>
 <translation id="5088142053160410913">Bericht aan bediener</translation>
 <translation id="5093232627742069661">Zigzagvouw</translation>
-<translation id="5094747076828555589">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door Chromium. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
+<translation id="5094747076828555589">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server wordt niet vertrouwd door Cobalt. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
 <translation id="5097099694988056070">Apparaatstatistieken zoals CPU-/RAM-gebruik rapporteren</translation>
 <translation id="5097468150760963273">27 x 39 inch</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2130,7 +2130,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5137761395480718572">Deze app wil rechten om wifi-inloggegevens te installeren. Na het instellen maakt je <ph name="DEVICE_TYPE" /> automatisch verbinding met deelnemende wifi-netwerken. Verwijder de app om deze inloggegevens te verwijderen. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuele kaart nu niet beschikbaar, neem contact op met je bank</translation>
 <translation id="5138227688689900538">Minder bekijken</translation>
-<translation id="5143309888746105072">Chromium voorkomt dat sites cookies van derden gebruiken om je te volgen terwijl je browst.
+<translation id="5143309888746105072">Cobalt voorkomt dat sites cookies van derden gebruiken om je te volgen terwijl je browst.
             <ph name="NEW_LINE" />Als sitefuncties niet werken, <ph name="START_LINK" />kun je cookies van derden tijdelijk toestaan<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Foutcode aanwezig in de beleidsreactie</translation>
 <translation id="5146995429444047494">Meldingen voor <ph name="ORIGIN" /> zijn geblokkeerd</translation>
@@ -2268,7 +2268,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="5425082381151187189">Huisinrichting en interieurdesign</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> wil meldingen sturen</translation>
 <translation id="5430298929874300616">Bookmark verwijderen</translation>
-<translation id="5434798570900738152">De volgende gegevens worden <ph name="BEGIN_EMPHASIS" />niet opgeslagen<ph name="END_EMPHASIS" /> in Chromium:
+<translation id="5434798570900738152">De volgende gegevens worden <ph name="BEGIN_EMPHASIS" />niet opgeslagen<ph name="END_EMPHASIS" /> in Cobalt:
 <ph name="BEGIN_LIST" />
 <ph name="LIST_ITEM" />Je browsegeschiedenis
 <ph name="LIST_ITEM" />Cookies en sitegegevens
@@ -2642,7 +2642,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6160391204859821737">Een functie voor advertentieprivacy aanzetten</translation>
 <translation id="6165508094623778733">Meer informatie</translation>
 <translation id="6167577165590485365">Laatste ophaalpoging:</translation>
-<translation id="617256461084925519">Google Chrome probeert te verifiëren dat jij het bent zodat je betalingsgegevens kunnen worden ingevuld.</translation>
+<translation id="617256461084925519">Cobalt probeert te verifiëren dat jij het bent zodat je betalingsgegevens kunnen worden ingevuld.</translation>
 <translation id="6176387967264100435">Deze prijs is hoog</translation>
 <translation id="6177128806592000436">Je verbinding met deze site is niet beveiligd</translation>
 <translation id="6177531123306197852">Envelop C2</translation>
@@ -2662,7 +2662,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6215936431492593050">Metaal (satijn)</translation>
 <translation id="6217950634729714357">Keuken- en eetkamermeubilair</translation>
 <translation id="6218305986815100395">Kan virtuele kaart niet activeren</translation>
-<translation id="6218753634732582820">Adres verwijderen uit Chromium?</translation>
+<translation id="6218753634732582820">Adres verwijderen uit Cobalt?</translation>
 <translation id="622039917539443112">Parallelvouw</translation>
 <translation id="6221311046884916259">Wil je deze kaart opslaan in je Google-account?</translation>
 <translation id="6221345481584921695">Google Safe Browsing heeft onlangs <ph name="BEGIN_LINK" />malware gedetecteerd<ph name="END_LINK" /> op <ph name="SITE" />. Websites die normaal gesproken veilig zijn, worden soms geïnfecteerd met malware. De schadelijke content is afkomstig van <ph name="SUBRESOURCE_HOST" />, een bekende distributeur van malware.</translation>
@@ -2734,7 +2734,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6348220984832452017">Actieve variaties</translation>
 <translation id="6349101878882523185"><ph name="APP_NAME" /> installeren</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Geen}=1{1 wachtwoord (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}=2{2 wachtwoorden (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}other{# wachtwoorden (voor <ph name="DOMAIN_LIST" />, gesynchroniseerd)}}</translation>
-<translation id="6355392890578844978">Deze browser wordt niet beheerd door een bedrijf of andere organisatie. Activiteit op dit apparaat kan buiten Chromium worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Deze browser wordt niet beheerd door een bedrijf of andere organisatie. Activiteit op dit apparaat kan buiten Cobalt worden beheerd. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">betaalmethoden bewerken</translation>
 <translation id="6358450015545214790">Wat betekent dit?</translation>
 <translation id="6360213755783740931">Meer informatie over bescherming tegen malware</translation>
@@ -2776,7 +2776,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6410264514553301377">Geef de vervaldatum en CVC-code op voor <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Huid- en nagelverzorging</translation>
-<translation id="6415778972515849510">Chromium kan je helpen je Google-account te beschermen en je wachtwoord te wijzigen.</translation>
+<translation id="6415778972515849510">Cobalt kan je helpen je Google-account te beschermen en je wachtwoord te wijzigen.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Salarisadministratieservices</translation>
 <translation id="6424600253695044005">Cloudopslag</translation>
@@ -2902,7 +2902,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6665553082534466207">Drie perforaties rechts</translation>
 <translation id="6668389483194953109">De papierformaatnaam 'custom' is gevonden, maar de property 'custom_size' is leeg of ongeldig.</translation>
 <translation id="6671169470640320959">Autofinanciering</translation>
-<translation id="6671697161687535275">Formuliersuggestie verwijderen uit Chromium?</translation>
+<translation id="6671697161687535275">Formuliersuggestie verwijderen uit Cobalt?</translation>
 <translation id="6677351035258626477">Fastfood</translation>
 <translation id="6681790815630918386">CVC opgeslagen</translation>
 <translation id="6683022854667115063">Hoofdtelefoon</translation>
@@ -3015,7 +3015,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6897140037006041989">User-agent</translation>
 <translation id="6898699227549475383">Organisatie (O)</translation>
 <translation id="6907458757809079309">Fitness</translation>
-<translation id="6908168784986658395">Als je alle Chromium-incognitotabbladen sluit, wordt je activiteit op die tabbladen van dit apparaat verwijderd:
+<translation id="6908168784986658395">Als je alle Cobalt-incognitotabbladen sluit, wordt je activiteit op die tabbladen van dit apparaat verwijderd:
 <ph name="BEGIN_LIST" />
 <ph name="LIST_ITEM" />Browse-activiteit<ph name="END_LIST_ITEM" />
 <ph name="LIST_ITEM" />Zoekgeschiedenis<ph name="END_LIST_ITEM" />
@@ -3063,7 +3063,7 @@ Het kan langer dan normaal duren voordat je app wordt gestart.</translation>
 <translation id="6973988895180423160">3,5 x 5 inch</translation>
 <translation id="6978121630131642226">Zoekmachines</translation>
 <translation id="6978236010531171013">Toch delen</translation>
-<translation id="6978722349058177832">Als je dit apparaat deelt, kan Chromium je vragen om elke keer te bevestigen dat jij het bent als je betaalt met automatisch invullen</translation>
+<translation id="6978722349058177832">Als je dit apparaat deelt, kan Cobalt je vragen om elke keer te bevestigen dat jij het bent als je betaalt met automatisch invullen</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Geluid uitzetten (standaard)</translation>
 <translation id="6987806006823772670">Envelop (gecoat)</translation>
@@ -3228,7 +3228,7 @@ Aanvullende informatie:
 <translation id="7308436126008021607">synchronisatie op de achtergrond</translation>
 <translation id="7310392214323165548">Het apparaat wordt zeer binnenkort opnieuw opgestart</translation>
 <translation id="7311244614769792472">Geen resultaten gevonden</translation>
-<translation id="7311837626618954149">Chromium voorkomt dat sites cookies van derden gebruiken om je te volgen terwijl je browst.</translation>
+<translation id="7311837626618954149">Cobalt voorkomt dat sites cookies van derden gebruiken om je te volgen terwijl je browst.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Hulp bij verbinding maken</translation>
 <translation id="7323804146520582233">Het gedeelte '<ph name="SECTION" />' verbergen</translation>
@@ -3301,7 +3301,7 @@ Aanvullende informatie:
 <translation id="7425878584435172632">Visuele kunst en visueel ontwerp</translation>
 <translation id="7427079287360774240">Studie vreemde talen</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Laat verifiëren dat jij het bent zodat Chromium je betalingsgegevens kan invullen.</translation>
+<translation id="7432774160230062882">Laat verifiëren dat jij het bent zodat Cobalt je betalingsgegevens kan invullen.</translation>
 <translation id="7437289804838430631">Contactgegevens toevoegen</translation>
 <translation id="7438338505272634288">Aanvallers op de site die je wilt bezoeken, kunnen je misleiden zodat je schadelijke software installeert die van invloed is op de manier waarop je browst, bijvoorbeeld door je homepage te wijzigen of extra advertenties te tonen op sites die je bezoekt. Chrome raadt je sterk aan terug te gaan naar een beveiligde website om schade te voorkomen. <ph name="BEGIN_LEARN_MORE_LINK" />Meer informatie<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Content bekijken wanneer je offline bent</translation>
@@ -3378,7 +3378,7 @@ Aanvullende informatie:
 <translation id="7564049878696755256">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Chrome raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="7564667064360547717">Overhemden, shirts en bovenstukjes</translation>
 <translation id="7567204685887185387">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server is mogelijk frauduleus verstrekt. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
-<translation id="7568616151991626879">Google Chrome probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Creditcard verwijderen uit Chrome?</translation>
 <translation id="7569983096843329377">Zwart</translation>
@@ -3421,7 +3421,7 @@ Aanvullende informatie:
 <translation id="7631527008834753063">Tv-gameshows</translation>
 <translation id="7633909222644580952">Prestatiegegevens en crashrapporten</translation>
 <translation id="7636346903338549690">Sites met toestemming om cookies van derden te gebruiken</translation>
-<translation id="7637571805876720304">Creditcard verwijderen uit Chromium?</translation>
+<translation id="7637571805876720304">Creditcard verwijderen uit Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Geen}=1{1 wachtwoord in je account (voor <ph name="DOMAIN_LIST" />)}other{# wachtwoorden in je account (voor <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Seriële poorten</translation>
 <translation id="7639968568612851608">Donkergrijs</translation>
@@ -3642,7 +3642,7 @@ Aanvullende informatie:
 <translation id="8061691770921837575">Make-up en cosmetica</translation>
 <translation id="8063875539456488183">Opslaan en prijs volgen</translation>
 <translation id="8066225060526005217">Beheerd door cookie-instellingen</translation>
-<translation id="8067872629359326442">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Chromium kan je laten zien wat je nu kunt doen. Klik op 'Account beschermen' om je wachtwoord te wijzigen en Google te laten weten dat je account mogelijk gevaar loopt.</translation>
+<translation id="8067872629359326442">Je hebt zojuist je wachtwoord opgegeven op een misleidende site. Cobalt kan je laten zien wat je nu kunt doen. Klik op 'Account beschermen' om je wachtwoord te wijzigen en Google te laten weten dat je account mogelijk gevaar loopt.</translation>
 <translation id="8070439594494267500">App-icoon</translation>
 <translation id="8070495475341517754">Sightseeing</translation>
 <translation id="8073647227500388356">Zelfrijdende voertuigen</translation>
@@ -3901,7 +3901,7 @@ Aanvullende informatie:
 <translation id="8542014550340843547">Drie nietjes onder</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Je kunt <ph name="BEGIN_ERROR_LINK" />een detectieprobleem melden<ph name="END_ERROR_LINK" />. Als je de veiligheidsrisico's begrijpt, kun je ook <ph name="BEGIN_LINK" />deze onveilige site bezoeken<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome probeert instellingen voor het invullen van betaalmethoden aan te passen.</translation>
+<translation id="8544217240017914508">Cobalt probeert instellingen voor het invullen van betaalmethoden aan te passen.</translation>
 <translation id="8544303911974837265">Polyester</translation>
 <translation id="854548366864113872">Dure optie</translation>
 <translation id="8546254312340305428">Waarom wil je dit uploaden? (vereist)</translation>
@@ -3918,7 +3918,7 @@ Aanvullende informatie:
 <translation id="8558347880669160417">Camera en microfoon deze keer toegestaan</translation>
 <translation id="8559762987265718583">Er kan geen privéverbinding met <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> tot stand worden gebracht, omdat de datum en tijd van je apparaat (<ph name="DATE_AND_TIME" />) onjuist zijn.</translation>
 <translation id="8564182942834072828">Afzonderlijke documenten/ongesorteerde exemplaren</translation>
-<translation id="8564985650692024650">Chromium raadt je aan het wachtwoord voor <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
+<translation id="8564985650692024650">Cobalt raadt je aan het wachtwoord voor <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> opnieuw in te stellen als je het voor andere sites hebt hergebruikt.</translation>
 <translation id="8570895683659698018">Hobby's en vrijetijdsbesteding</translation>
 <translation id="8574841453995331336">Koelkasten en diepvriezers</translation>
 <translation id="8577192028579836704">Alle opties zijn meestal <ph name="TYPICAL_PRICE" /></translation>
@@ -3992,7 +3992,7 @@ Aanvullende informatie:
 <translation id="8736059027199600831">30 x 40 inch</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Druk op Tab en vervolgens op Enter om een nieuw incognitovenster te openen om privé te browsen.</translation>
 <translation id="8737685506611670901">Links voor <ph name="PROTOCOL" /> openen in plaats van <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Als je een beveiligde verbinding tot stand wilt brengen, moet je klok goed zijn ingesteld. Dit moet omdat de certificaten die deze websites gebruiken om zichzelf te identificeren, slechts gedurende bepaalde perioden geldig zijn. Aangezien de klok van je apparaat niet goed is ingesteld, kan Chromium deze certificaten niet verifiëren.</translation>
+<translation id="8738058698779197622">Als je een beveiligde verbinding tot stand wilt brengen, moet je klok goed zijn ingesteld. Dit moet omdat de certificaten die deze websites gebruiken om zichzelf te identificeren, slechts gedurende bepaalde perioden geldig zijn. Aangezien de klok van je apparaat niet goed is ingesteld, kan Cobalt deze certificaten niet verifiëren.</translation>
 <translation id="8740359287975076522">Het &lt;abbr id="dnsDefinition"&gt;DNS-adres&lt;/abbr&gt; van <ph name="HOST_NAME" /> kan niet worden gevonden. Er wordt een diagnose van het probleem uitgevoerd.</translation>
 <translation id="8742371904523228557">Je code voor <ph name="ORIGIN" /> is<ph name="ONE_TIME_CODE" />.</translation>
 <translation id="874918643257405732">Bookmark toevoegen voor dit tabblad</translation>
@@ -4019,7 +4019,7 @@ Aanvullende informatie:
 <translation id="8785658048882205566">Motorfietsen</translation>
 <translation id="8790007591277257123">&amp;Opnieuw verwijderen</translation>
 <translation id="8792272652220298572">Plastic (glanzend)</translation>
-<translation id="8792621596287649091">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Chromium raadt je aan je wachtwoord nu te wijzigen.</translation>
+<translation id="8792621596287649091">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Cobalt raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="8792626944327216835">microfoon</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> heeft Chrome Enterprise Connectors voor je browser aangezet. Deze connectors hebben toegang tot sommige van je gegevens.</translation>
 <translation id="8798099450830957504">Standaard</translation>
@@ -4168,7 +4168,7 @@ Aanvullende informatie:
 <translation id="9095388113577226029">Meer talen...</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, druk op Tab en daarna op Enter om Chrome in te stellen als de standaardbrowser van het systeem in de iOS-instellingen</translation>
 <translation id="9101630580131696064">Lade 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> gebruikt gewoonlijk versleuteling om je gegevens te beschermen. Toen Chromium deze keer probeerde verbinding te maken met <ph name="SITE" />, retourneerde de website ongewone en onjuiste inloggegevens. Dit gebeurt wanneer een aanvaller probeert zich als <ph name="SITE" /> voor te doen of wanneer een wifi-inlogscherm de verbinding heeft verbroken. Je gegevens zijn nog steeds beveiligd omdat Chromium de verbinding heeft beëindigd voordat er gegevens konden worden uitgewisseld.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> gebruikt gewoonlijk versleuteling om je gegevens te beschermen. Toen Cobalt deze keer probeerde verbinding te maken met <ph name="SITE" />, retourneerde de website ongewone en onjuiste inloggegevens. Dit gebeurt wanneer een aanvaller probeert zich als <ph name="SITE" /> voor te doen of wanneer een wifi-inlogscherm de verbinding heeft verbroken. Je gegevens zijn nog steeds beveiligd omdat Cobalt de verbinding heeft beëindigd voordat er gegevens konden worden uitgewisseld.</translation>
 <translation id="9107467864910557787">Je browser wordt beheerd door <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Op basis van het beheerdersbeleid wordt scherm delen met <ph name="APPLICATION_TITLE" /> uitgezet als er vertrouwelijke content zichtbaar is</translation>
 <translation id="9114524666733003316">Creditcard bevestigen...</translation>
@@ -4236,7 +4236,7 @@ Aanvullende informatie:
 <translation id="93020190163435405">Stages</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Toestaan dat de <ph name="APP_NAME" />-app wifi-netwerken instelt?</translation>
-<translation id="936602727769022409">Je kunt de toegang tot je Google-account kwijtraken. Chromium raadt je aan je wachtwoord nu te wijzigen. Je wordt gevraagd in te loggen op je account.</translation>
+<translation id="936602727769022409">Je kunt de toegang tot je Google-account kwijtraken. Cobalt raadt je aan je wachtwoord nu te wijzigen. Je wordt gevraagd in te loggen op je account.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Welke gegevens worden gebruikt:<ph name="END_BOLD" /> Je advertentieonderwerpen zijn gebaseerd op je recente browsegeschiedenis. Dit is een lijst met sites die je via Chrome op dit apparaat hebt bezocht.</translation>
 <translation id="937885410143139026">Gegevens die naar de Beheerdersconsole zijn gestuurd</translation>
 <translation id="939736085109172342">Nieuwe map</translation>

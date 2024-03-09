@@ -892,7 +892,7 @@
 <translation id="1651008383952180276">עליך להזין אותו ביטוי סיסמה פעמיים</translation>
 <translation id="1651609627703324721">‏הכרטיסייה הזו מציגה תוכן VR במשקפי VR</translation>
 <translation id="1652326691684645429">הפעלה של 'שיתוף בקרבת מקום'</translation>
-<translation id="1652862280638399816">‏כדי להשתמש במנהל הסיסמאות של Google עם מערכת 'צרור מפתחות של macOS', צריך להפעיל מחדש את Chromium ולהתיר גישה אל 'צרור מפתחות'. הכרטיסיות ייפתחו מחדש אחרי ההפעלה.</translation>
+<translation id="1652862280638399816">‏כדי להשתמש במנהל הסיסמאות של Google עם מערכת 'צרור מפתחות של macOS', צריך להפעיל מחדש את Cobalt ולהתיר גישה אל 'צרור מפתחות'. הכרטיסיות ייפתחו מחדש אחרי ההפעלה.</translation>
 <translation id="1653958716132599769">קיבוץ כרטיסיות קשורות</translation>
 <translation id="1654580009054503925">אין הרשאה להציג בקשות</translation>
 <translation id="1656528038316521561">שקיפות רקע</translation>
@@ -1178,7 +1178,7 @@
 <translation id="186594096341696655">האטת הקצב</translation>
 <translation id="186612162884103683">"<ph name="EXTENSION" />" יכול לקרוא ולכתוב קובצי תמונות, וידאו ואודיו במיקומים המסומנים.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> מוכן להשלים את ההתקנה שלך</translation>
-<translation id="1868553836791672080">‏בדיקת הסיסמאות לא זמינה ב-Chromium</translation>
+<translation id="1868553836791672080">‏בדיקת הסיסמאות לא זמינה ב-Cobalt</translation>
 <translation id="1868617395637139709">‏שימוש במיקום באפליקציות ובשירותים של Android.</translation>
 <translation id="1869433484041798909">לחצן סימניה</translation>
 <translation id="1871098866036088250">‏פתיחה בדפדפן Chrome</translation>
@@ -1947,7 +1947,7 @@
 <translation id="2434449159125086437">לא ניתן להגדיר את המדפסת. יש לבדוק את התצורה ולנסות שוב.</translation>
 <translation id="2434758125294431199">אנשי קשר לבחירתך שיוכלו לשתף איתך</translation>
 <translation id="2434915728183570229">עכשיו יש לך אפשרות לראות את האפליקציות שבטלפון</translation>
-<translation id="2435137177546457207">‏תנאים נוספים של Google Chrome ו-ChromeOS Flex</translation>
+<translation id="2435137177546457207">‏תנאים נוספים של Cobalt ו-ChromeOS Flex</translation>
 <translation id="2435248616906486374">הרשת מנותקת</translation>
 <translation id="2435457462613246316">הצגת סיסמה</translation>
 <translation id="2436385001956947090">העתקת &amp;הקישור</translation>
@@ -2885,7 +2885,7 @@
 <translation id="3151562827395986343">‏מחיקה של ההיסטוריה, של קובצי ה-cookie, של המטמון ועוד</translation>
 <translation id="3151786313568798007">כיוון</translation>
 <translation id="3152356229013609796">הרשאה להציג את ההתראות שבטלפון, לסגור אותן ולהשיב להן</translation>
-<translation id="3155163173539279776">‏הפעלה מחדש של Chromium</translation>
+<translation id="3155163173539279776">‏הפעלה מחדש של Cobalt</translation>
 <translation id="3157387275655328056">הוספה לרשימת הקריאה</translation>
 <translation id="3157931365184549694">שחזור</translation>
 <translation id="3158033540161634471">הגדרת טביעת האצבע</translation>
@@ -3716,7 +3716,7 @@
 <translation id="3798632811625902122">‏מכשיר ה-Bluetooth <ph name="DEVICE" /> מבקש הרשאה לבצע התאמה.</translation>
 <translation id="3798670284305777884">רמקול (פנימי)</translation>
 <translation id="3799128412641261490">הגדרות גישה באמצעות מתג</translation>
-<translation id="3800828618615365228">‏תנאים נוספים של Google Chrome ו-ChromeOS</translation>
+<translation id="3800828618615365228">‏תנאים נוספים של Cobalt ו-ChromeOS</translation>
 <translation id="3802486193901166966">אין צורך בהרשאות מיוחדות או הרשאות גישה נוספות לאתרים כדי להשתמש בתוסף הזה</translation>
 <translation id="380329542618494757">שם</translation>
 <translation id="3803345858388753269">איכות הווידאו</translation>
@@ -3737,7 +3737,7 @@
 <translation id="3810973564298564668">ניהול</translation>
 <translation id="381202950560906753">להמשך הוספה</translation>
 <translation id="3812525830114410218">אישור פגום</translation>
-<translation id="3813296892522778813">‏אם לא מצאת את מה שחיפשת, יש לעבור אל <ph name="BEGIN_LINK_CHROMIUM" />מרכז העזרה של Google Chrome<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">‏אם לא מצאת את מה שחיפשת, יש לעבור אל <ph name="BEGIN_LINK_CHROMIUM" />מרכז העזרה של Cobalt<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">השפה שאליה יתורגמו דפים ותשובות מהירות</translation>
 <translation id="3813458570141926987">‏רשימת נושאים משוערים ב-Chrome על סמך היסטוריית הגלישה שלך מהזמן האחרון</translation>
 <translation id="3814529970604306954">חשבון בית ספרי</translation>
@@ -4163,7 +4163,7 @@
 <translation id="4132969033912447558">המשך ההורדה של <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">כדי לשנות את הסיסמה, יש לפתוח את האפליקציה</translation>
 <translation id="4134838386867070505">שלב 1 מתוך 4: תיאור הבעיה</translation>
-<translation id="4135746311382563554">‏תנאים והגבלות נוספים של Google Chrome ו-ChromeOS</translation>
+<translation id="4135746311382563554">‏תנאים והגבלות נוספים של Cobalt ו-ChromeOS</translation>
 <translation id="4136203100490971508">תאורת הלילה תכבה באופן אוטומטי בשעת הזריחה</translation>
 <translation id="41365691917097717">‏בחירה להמשיך תגרום להפעלת ניפוי באגים באמצעות ADB במהלך היצירה והבדיקה של אפליקציות ל-Android. חשוב לשים לב שהפעולה הזו מאפשרת את ההתקנה של אפליקציות ל-Android שלא אומתו על ידי Google. כדי להשבית את התכונה, יש לאפס את המכשיר להגדרות המקוריות.</translation>
 <translation id="4137923333452716643">הדגשת הטקסט שרוצים לפתוח במצב קריאה</translation>
@@ -5160,7 +5160,7 @@
 <translation id="4918134162946436591">הצגת שכבת-העל עם הרמז</translation>
 <translation id="4918762404810341788">העתקה ופתיחה</translation>
 <translation id="4921348630401250116">המרת טקסט לדיבור</translation>
-<translation id="4922104989726031751">‏כדי להשתמש במנהל הסיסמאות עם מערכת ההפעלה, צריך להפעיל מחדש את Chromium ולאפשר גישה למנהל הסיסמאות במחשב. הכרטיסיות ייפתחו מחדש אחרי ההפעלה.</translation>
+<translation id="4922104989726031751">‏כדי להשתמש במנהל הסיסמאות עם מערכת ההפעלה, צריך להפעיל מחדש את Cobalt ולאפשר גישה למנהל הסיסמאות במחשב. הכרטיסיות ייפתחו מחדש אחרי ההפעלה.</translation>
 <translation id="492299503953721473">‏הסרת אפליקציות Android</translation>
 <translation id="492363500327720082">ההסרה של <ph name="APP_NAME" /> מתבצעת…</translation>
 <translation id="4924002401726507608">שליחת משוב</translation>
@@ -9824,7 +9824,7 @@
 <translation id="8554899698005018844">לא הוגדרה שפה</translation>
 <translation id="855604308879080518">‏אפליקציות ל-Android יוכלו לקבל גישה להתקני USB ב-Chromebook הזה. בכל פעם שיחובר התקן USB, תישלח בקשה להרשאה. אפליקציות נפרדות ל-Android ישלחו בקשות להרשאות נוספות.</translation>
 <translation id="8557022314818157177">צריך להמשיך לגעת במפתח האבטחה עד לתיעוד טביעת האצבע</translation>
-<translation id="8557180006508471423">‏הפעלת "Google Chrome" בשירותי המיקום של מכשיר ה-Mac</translation>
+<translation id="8557180006508471423">‏הפעלת "Cobalt" בשירותי המיקום של מכשיר ה-Mac</translation>
 <translation id="8557856025359704738">ההורדה הבאה תהיה בשעה <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">‏הסיסמה לחשבון Google</translation>
 <translation id="8559858985063901027">מפתחות הגישה</translation>

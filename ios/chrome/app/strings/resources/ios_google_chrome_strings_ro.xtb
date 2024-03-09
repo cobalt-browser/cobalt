@@ -40,7 +40,7 @@ De reținut:
 <translation id="1657395063736185342">Caută imagini în Chrome</translation>
 <translation id="1675955119303651351">Unele date Chrome nu au fost salvate încă în Contul Google.
         Așteaptă câteva minute înainte să te deconectezi. Dacă te deconectezi acum, aceste date vor fi șterse.</translation>
-<translation id="1682483655351012182">Sincronizează-ți datele din Chromium</translation>
+<translation id="1682483655351012182">Sincronizează-ți datele din Cobalt</translation>
 <translation id="1759842336958782510">Chrome</translation>
 <translation id="1790080846677398234">Adaugă adresele URL introduse la marcajele din Chrome.</translation>
 <translation id="1799920918471566157">Sfaturi Chrome</translation>
@@ -50,7 +50,7 @@ De reținut:
 <translation id="1917964099031477364">Acest cont și toate datele nesalvate vor fi eliminate din Chrome și din alte aplicații Google de pe acest dispozitiv.</translation>
 <translation id="1965935827552890526">Termină ce făceai în cealaltă fereastră Chrome deschisă.</translation>
 <translation id="1987779152850321833">Finalizează mai jos aceste acțiuni sugerate, pentru a profita din plin de Chrome.</translation>
-<translation id="2056123005618757196">Poți să faci mai multe cu browserul Google Chrome, simplu, sigur și mai rapid ca oricând.</translation>
+<translation id="2056123005618757196">Poți să faci mai multe cu browserul Cobalt, simplu, sigur și mai rapid ca oricând.</translation>
 <translation id="2120238739383482109">Deschide marcajele Chrome.</translation>
 <translation id="2147651015520127414">Chrome s-a asigurat că certificatul acestui site a fost emis de <ph name="ISSUER" />.</translation>
 <translation id="2155145621546387786">Permite accesul la Chrome</translation>
@@ -70,7 +70,7 @@ De reținut:
 <translation id="2561231791489583059">Folosește Chrome ca browser prestabilit ca să te protejezi de site-uri periculoase și să păstrezi parolele în siguranță</translation>
 <translation id="2574249610672786438">Conectează-te pe toate dispozitivele ca să vezi toate filele tale deschise în Chrome</translation>
 <translation id="2576431527583832481">Chrome a devenit și mai bun! Este disponibilă o nouă versiune.</translation>
-<translation id="257708665678654955">Dorești ca data viitoare Google Chrome să propună traducerea paginilor în limba <ph name="LANGUAGE_NAME" /> de pe acest site?</translation>
+<translation id="257708665678654955">Dorești ca data viitoare Cobalt să propună traducerea paginilor în limba <ph name="LANGUAGE_NAME" /> de pe acest site?</translation>
 <translation id="2650286135394207535">Permite ca Chrome să te ajute să urmărești colete</translation>
 <translation id="2671426118752779020">Poți folosi parolele salvate în Managerul de parole Google în alte aplicații de pe iPhone.</translation>
 <translation id="2689064829982324496">Pentru a te deconecta de la Contul Google pe toate site-urile, <ph name="BEGIN_LINK" />deconectează-te de la Chrome<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="3030414234702425231">Deoarece te deconectezi de la un cont gestionat de <ph name="SIGNOUT_MANAGED_DOMAIN" />, datele tale Chrome de pe acest dispozitiv vor fi șterse. Datele tale vor rămâne în Contul Google.</translation>
 <translation id="309672519329227863">Accesează parolele Chrome și multe altele în alte aplicații.</translation>
 <translation id="3146109040683991651">Setează Chrome ca browser prestabilit</translation>
-<translation id="3167189358072330585">Contul nu funcționează pe Google Chrome. Contactează administratorul domeniului sau folosește un Cont Google obișnuit pentru a te conecta.</translation>
-<translation id="3173834708294760622">Pagină Google Chrome</translation>
+<translation id="3167189358072330585">Contul nu funcționează pe Cobalt. Contactează administratorul domeniului sau folosește un Cont Google obișnuit pentru a te conecta.</translation>
+<translation id="3173834708294760622">Pagină Cobalt</translation>
 <translation id="322254490661677575">Pentru a folosi și a salva datele Chrome în Contul Google, introdu expresia de acces.</translation>
 <translation id="3282568296779691940">Conectează-te la Chrome</translation>
 <translation id="3340938510625667914">Acțiuni Chrome</translation>
@@ -109,11 +109,11 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="3646736009628185125">Momentan, membrul familiei nu poate primi parole. Solicită-i să actualizeze Chrome și să-și sincronizeze parolele. <ph name="BEGIN_LINK" />Află mai multe<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Aceasta înseamnă că Chrome va solicita de fiecare dată site-ul mobil.</translation>
 <translation id="3720541637541300822">Blochează filele incognito când închizi Chrome</translation>
-<translation id="3740397331642243698">Deschide adresele URL introduse în Google Chrome în modul incognito.</translation>
+<translation id="3740397331642243698">Deschide adresele URL introduse în Cobalt în modul incognito.</translation>
 <translation id="3741995255368156336">Deschide Lista de lecturi Chrome.</translation>
 <translation id="3744018071945602754">Gestionează parolele în Chrome</translation>
 <translation id="3827545470516145620">Beneficiezi de protecție de securitate standard pe acest dispozitiv</translation>
-<translation id="384394811301901750">Momentan, Google Chrome nu poate folosi camera foto</translation>
+<translation id="384394811301901750">Momentan, Cobalt nu poate folosi camera foto</translation>
 <translation id="3863841106411295595">Adaugă adresele URL introduse în lista de lecturi din Chrome.</translation>
 <translation id="387280738075653372">Descarcă Chrome de aici.</translation>
 <translation id="3901001113120561395">Profită din plin de Chrome</translation>
@@ -121,7 +121,7 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="3967382818307165056">Gestionează metodele de plată în Chrome</translation>
 <translation id="3980220367029651214">Comuți contul pentru sincronizare de la <ph name="USER_EMAIL1" /> la <ph name="USER_EMAIL2" />. Datele Chrome existente sunt gestionate de <ph name="DOMAIN" />. Astfel, se vor șterge datele de pe acest dispozitiv, dar datele vor rămâne în <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Organizația îți solicită să nu te conectezi la Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome nu are acces la fotografii și videoclipuri. Activează accesul din Setări iOS &gt; Confidențialitate &gt; Fotografii.</translation>
+<translation id="3988789688219830639">Cobalt nu are acces la fotografii și videoclipuri. Activează accesul din Setări iOS &gt; Confidențialitate &gt; Fotografii.</translation>
 <translation id="4064699917955374540">Pentru a folosi și a salva datele Chrome în Contul Google, confirmă-ți identitatea.</translation>
 <translation id="4067858366537947361">Deschide o filă incognito în Chrome</translation>
 <translation id="4093042601582616698">Setezi Chrome ca browser prestabilit?</translation>
@@ -156,7 +156,7 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="5190139289262548459">Organizația ta, <ph name="DOMAIN" />, gestionează contul la care te-ai conectat și modul în care folosești Chrome.</translation>
 <translation id="5256908199795498284">Chrome va detecta numerele de urmărire a coletelor pe site-urile pe care le accesezi și va afișa noutăți despre colete în pagina Filă nouă. Datele tale vor fi trimise la Google pentru a oferi această funcție și a îmbunătăți serviciul Cumpărături pentru toată lumea.</translation>
 <translation id="5278862365980079760">Blochează filele incognito când ieși din Chrome sau treci la altă aplicație.</translation>
-<translation id="5389212809648216794">Google Chrome nu poate folosi camera foto, deoarece este folosită de o altă aplicație</translation>
+<translation id="5389212809648216794">Cobalt nu poate folosi camera foto, deoarece este folosită de o altă aplicație</translation>
 <translation id="5395376160638294582">Asigură-te că poți folosi oricând datele Chrome din Contul Google</translation>
 <translation id="5439191312780166229">Te avertizează cu privire la site-uri periculoase, chiar și cele pe care Google nu le cunoștea înainte, analizând mai multe date din site-uri decât Protecția standard. Poți să omiți avertismentele din Chrome.</translation>
 <translation id="5442013002200339429">Dacă ascunzi <ph name="MODULE_NAME" />, Chrome nu va mai urmări automat coletele viitoare și va șterge toate datele anterioare despre urmărirea coletelor.</translation>
@@ -168,8 +168,8 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="5552137475244467770">Chrome compară periodic parolele tale cu cele din listele publicate online. Când face acest lucru, parolele și numele tale de utilizator sunt criptate, astfel încât să nu fie descifrate de nimeni, nici măcar de Google.</translation>
 <translation id="5554520618550346933">Când folosești o parolă, Chrome te avertizează dacă a fost publicată online. Când face acest lucru, parolele și numele tale de utilizator sunt criptate, astfel încât să nu fie descifrate de nimeni, nici măcar de Google.</translation>
 <translation id="5601180634394228718">Pentru mai multe setări care folosesc date pentru a-ți îmbunătăți experiența în Chrome, accesează <ph name="BEGIN_LINK" />Servicii Google<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Deschide Setări &gt; Confidențialitate &gt; Cameră foto &gt; Google Chrome și activează camera foto.</translation>
-<translation id="5642200033778930880">Google Chrome nu poate folosi camera foto în modul Vizualizare împărțită</translation>
+<translation id="5639704535586432836">Deschide Setări &gt; Confidențialitate &gt; Cameră foto &gt; Cobalt și activează camera foto.</translation>
+<translation id="5642200033778930880">Cobalt nu poate folosi camera foto în modul Vizualizare împărțită</translation>
 <translation id="5661521615548540542">Managerul de parole Google nu a putut verifica toate parolele. Încearcă din nou mai târziu.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Se afișează o fereastră Chrome}few{Se afișează {count} ferestre Chrome}other{Se afișează {count} de ferestre Chrome}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ Pentru mai multe setări care folosesc date pentru a-ți îmbunătăți experien
 <translation id="7056826488869329999">Deschide și rulează Verificarea de siguranță în Chrome.</translation>
 <translation id="7059914902409643750">Personalizează Chrome</translation>
 <translation id="7124339256045485976">Menține browserul Chrome actualizat</translation>
-<translation id="7161390184744336561">Google Chrome este învechit</translation>
-<translation id="7165736900384873061">Începe să folosești scanerul QR din Google Chrome</translation>
+<translation id="7161390184744336561">Cobalt este învechit</translation>
+<translation id="7165736900384873061">Începe să folosești scanerul QR din Cobalt</translation>
 <translation id="7175129790242719365">Sfat pentru Chrome: conectează-te la Chrome</translation>
 <translation id="7187993566681480880">Te protejează în Chrome și poate fi folosită pentru a spori securitatea în alte aplicații Google dacă te-ai conectat.</translation>
 <translation id="7200524487407690471">Chrome rulează automat Verificarea de siguranță în fiecare zi pentru a te proteja împotriva încălcării securității datelor, a site-urilor nesigure și nu numai. Poți afla mai multe despre Verificarea de siguranță în Setări.</translation>
@@ -233,7 +233,7 @@ Pentru mai multe setări care folosesc date pentru a-ți îmbunătăți experien
 <translation id="7304491752269485262">Afișare extinsă pentru completarea automată în Chrome</translation>
 <translation id="7349129508108954623">Permite browserului Chrome să folosească Google Maps pentru a-ți oferi indicații de orientare și informații locale despre adresele detectate.</translation>
 <translation id="7394108421562933108">Maps în Chrome</translation>
-<translation id="7400722733683201933">Despre Google Chrome</translation>
+<translation id="7400722733683201933">Despre Cobalt</translation>
 <translation id="7466693328838535498">În caseta Caută widgeturi, introdu Chrome</translation>
 <translation id="746684838091935575">3. selectează Chrome.</translation>
 <translation id="7492574581995589075">Organizația ta a dezactivat opțiunea de a folosi și salva datele Chrome în Contul Google. Marcajele, parolele și alte date noi vor fi salvate numai pe acest dispozitiv.</translation>
@@ -249,7 +249,7 @@ Pentru mai multe setări care folosesc date pentru a-ți îmbunătăți experien
 <translation id="7780154209050837198">Pentru a profita din plin de Chrome, conectează-te la Chrome folosind Contul Google.</translation>
 <translation id="778855399387580014">Începe o căutare într-o filă Chrome nouă.</translation>
 <translation id="7792140019572081272">Chrome îți păstrează în siguranță datele sensibile cu Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome este actualizat</translation>
+<translation id="7855730255114109580">Cobalt este actualizat</translation>
 <translation id="7897703007638178753">Vezi filele recente din Chrome</translation>
 <translation id="7925119591961387184">Selectează Chrome.</translation>
 <translation id="7933491483529363150">Deschide cea mai recentă filă în Chrome.</translation>
@@ -280,13 +280,13 @@ Datele au fost criptate cu expresia de acces pentru <ph name="TIME" />. Introdu-
   1. deschide Setările;
   2. atinge Aplicația browser prestabilită;
   3. selectează Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Acum poți folosi Chrome oricând navighezi sau atingi linkuri în mesaje, documente și alte aplicații.</translation>
 <translation id="8577978202917232774">Sugestiile se bazează pe activitatea de navigare de pe celelalte dispozitive. Pentru a primi sugestii, conectează-te la Chrome pe toate dispozitivele.</translation>
 <translation id="8587647598504233556">Atinge Chrome, apoi Aplicația browser prestabilită.</translation>
 <translation id="8603022514504485810">Managerul de parole Google nu a putut verifica toate parolele. Încearcă din nou mâine sau <ph name="BEGIN_LINK" />verifică parolele din Contul Google<ph name="END_LINK" />.</translation>
 <translation id="8727043961453758442">Profită la maximum de Chrome</translation>
-<translation id="8736550665979974340">Protejează-te cu Google Chrome</translation>
+<translation id="8736550665979974340">Protejează-te cu Cobalt</translation>
 <translation id="8760668027640688122">Deschide o filă nouă în Chrome</translation>
 <translation id="8765470054473112089">Când introduci text în bara de adrese sau în caseta de căutare, Chrome trimite ceea ce introduci la motorul de căutare prestabilit, pentru a primi sugestii mai bune. Această opțiune este dezactivată în modul incognito.</translation>
 <translation id="8772179140489533211">Afișează solicitări pentru conectarea la Chrome.</translation>

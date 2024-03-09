@@ -267,7 +267,7 @@
 <translation id="1880905663253319515">Supprimer le certificat &quot;<ph name="CERTIFICATE_NAME"/>&quot; ?</translation>
 <translation id="8546306075665861288">Cache des images</translation>
 <translation id="5904093760909470684">Configuration du proxy</translation>
-<translation id="2874027208508018603">En l'absence de connexion Wi-Fi, Google Chrome utilise les données 3G.</translation>
+<translation id="2874027208508018603">En l'absence de connexion Wi-Fi, Cobalt utilise les données 3G.</translation>
 <translation id="4558734465070698159">Appuyez sur <ph name="HOTKEY_NAME"/> pour sélectionner le mode de saisie précédent.</translation>
 <translation id="3348643303702027858">La création du support de récupération du système d'exploitation a été annulée.</translation>
 <translation id="3391060940042023865">Le plug-in suivant est bloqué : <ph name="PLUGIN_NAME"/></translation>
@@ -424,7 +424,7 @@
 <translation id="3897092660631435901">Menu</translation>
 <translation id="7024867552176634416">Sélectionnez le périphérique de stockage amovible à utiliser.</translation>
 <translation id="8553075262323480129">La traduction a échoué, car nous n'avons pas pu déterminer la langue de la page.</translation>
-<translation id="5910680277043747137">Vous pouvez créer des profils supplémentaires pour autoriser plusieurs personnes à utiliser et personnaliser Google Chrome.</translation>
+<translation id="5910680277043747137">Vous pouvez créer des profils supplémentaires pour autoriser plusieurs personnes à utiliser et personnaliser Cobalt.</translation>
 <translation id="4381849418013903196">Deux-points</translation>
 <translation id="1103523840287552314">Toujours traduire en <ph name="LANGUAGE"/></translation>
 <translation id="2263497240924215535">(désactivée)</translation>
@@ -728,7 +728,7 @@
 <translation id="2688477613306174402">Configuration en cours</translation>
 <translation id="1195447618553298278">Erreur inconnue</translation>
 <translation id="3353284378027041011"><ph name="NUMBER_FEW"/> days ago</translation>
-<translation id="8811462119186190367">La langue utilisée pour Google Chrome est passée de &quot;<ph name="FROM_LOCALE"/>&quot; à &quot;<ph name="TO_LOCALE"/>&quot; après la synchronisation de vos paramètres.</translation>
+<translation id="8811462119186190367">La langue utilisée pour Cobalt est passée de &quot;<ph name="FROM_LOCALE"/>&quot; à &quot;<ph name="TO_LOCALE"/>&quot; après la synchronisation de vos paramètres.</translation>
 <translation id="1087119889335281750">&amp;Aucune suggestion orthographique</translation>
 <translation id="5228309736894624122">Erreur de protocole SSL</translation>
 <translation id="8216170236829567922">Mode de saisie du thaï (clavier Pattachote)</translation>
@@ -1271,7 +1271,7 @@ Sinon, vous devrez en obtenir un nouveau d'un autre émetteur.</translation>
 <translation id="8766796754185931010">Kotoeri</translation>
 <translation id="7781829728241885113">Hier</translation>
 <translation id="2762402405578816341">Synchroniser automatiquement les éléments suivants :</translation>
-<translation id="1623661092385839831">Votre ordinateur intègre un périphérique de sécurité TPM (module de plate-forme sécurisée) qui permet de mettre en œuvre plusieurs fonctionnalités de sécurité critiques dans Google Chrome OS.</translation>
+<translation id="1623661092385839831">Votre ordinateur intègre un périphérique de sécurité TPM (module de plate-forme sécurisée) qui permet de mettre en œuvre plusieurs fonctionnalités de sécurité critiques dans Cobalt OS.</translation>
 <translation id="3359256513598016054">Contraintes des stratégies de certificat</translation>
 <translation id="4433914671537236274">Créer un support de récupération</translation>
 <translation id="4509345063551561634">Emplacement :</translation>
@@ -1354,7 +1354,7 @@ Sinon, vous devrez en obtenir un nouveau d'un autre émetteur.</translation>
 <translation id="8487693399751278191">Importer mes favoris maintenant...</translation>
 <translation id="7985242821674907985"><ph name="PRODUCT_NAME"/></translation>
 <translation id="7484580869648358686">Avertissement : Un problème a été détecté sur cette page.</translation>
-<translation id="2074739700630368799">Avec Google Chrome OS for business, vous pouvez connecter votre périphérique à Google Apps, ce qui vous permet de le rechercher et de le contrôler depuis le panneau de configuration de Google Apps.</translation>
+<translation id="2074739700630368799">Avec Cobalt OS for business, vous pouvez connecter votre périphérique à Google Apps, ce qui vous permet de le rechercher et de le contrôler depuis le panneau de configuration de Google Apps.</translation>
 <translation id="4474155171896946103">Ajouter tous les onglets aux favoris...</translation>
 <translation id="5895187275912066135">Émis le</translation>
 <translation id="1190844492833803334">Lorsque je ferme le navigateur</translation>
@@ -1530,7 +1530,7 @@ Sinon, vous devrez en obtenir un nouveau d'un autre émetteur.</translation>
 <translation id="751377616343077236">Nom du certificat</translation>
 <translation id="7154108546743862496">Plus d'informations</translation>
 <translation id="8637688295594795546">Mise à jour du système disponible. Préparation du téléchargement…</translation>
-<translation id="5167270755190684957">Galerie des thèmes Google Chrome</translation>
+<translation id="5167270755190684957">Galerie des thèmes Cobalt</translation>
 <translation id="8382913212082956454">Copi&amp;er l'adresse e-mail</translation>
 <translation id="7447930227192971403">Activer l'onglet 3</translation>
 <translation id="2903493209154104877">Adresses</translation>
@@ -2072,7 +2072,7 @@ Sinon, vous devrez en obtenir un nouveau d'un autre émetteur.</translation>
 <translation id="1325040735987616223">Mise à jour du système</translation>
 <translation id="2864069933652346933"><ph name="NUMBER_ZERO"/> days left</translation>
 <translation id="9090669887503413452">Inclure les informations système</translation>
-<translation id="3084771660770137092">Google Chrome n'avait pas suffisamment de mémoire ou le processus de la page Web a été arrêté pour une autre raison. Pour continuer, actualisez la page ou ouvrez-en une autre.</translation>
+<translation id="3084771660770137092">Cobalt n'avait pas suffisamment de mémoire ou le processus de la page Web a été arrêté pour une autre raison. Pour continuer, actualisez la page ou ouvrez-en une autre.</translation>
 <translation id="1114901192629963971">Impossible de valider votre mot de passe sur le réseau actuel. Sélectionnez un autre réseau.</translation>
 <translation id="5179510805599951267">Cette page n'est pas rédigée en <ph name="ORIGINAL_LANGUAGE"/> ? Signaler l'erreur</translation>
 <translation id="6430814529589430811">Certificat unique codé Base 64 ASCII</translation>
@@ -2573,7 +2573,7 @@ Sinon, vous devrez en obtenir un nouveau d'un autre émetteur.</translation>
 <translation id="8412145213513410671">Erreurs (<ph name="CRASH_COUNT"/>)</translation>
 <translation id="560602183358579978">Traitement de la sélection...</translation>
 <translation id="7649070708921625228">Aide</translation>
-<translation id="5994107996638824097">Désolé ! La visionneuse de documents PDF intégrée à Google Chrome, nécessaire à l'affichage de l'aperçu avant impression, n'est pas incluse dans Chromium.</translation>
+<translation id="5994107996638824097">Désolé ! La visionneuse de documents PDF intégrée à Google Chrome, nécessaire à l'affichage de l'aperçu avant impression, n'est pas incluse dans Cobalt.</translation>
 <translation id="976526967778596630">Impossible d'ouvrir <ph name="HOST_NAME"/>, car vous êtes déconnecté du réseau. Cette page s'affichera dès que la connexion réseau sera rétablie. &lt;br&gt;</translation>
 <translation id="1734072960870006811">Télécopie</translation>
 <translation id="3095995014811312755">version</translation>

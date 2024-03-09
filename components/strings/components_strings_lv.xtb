@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Notiek failu sagatavošana…</translation>
 <translation id="1015730422737071372">Sniegt papildu informāciju</translation>
 <translation id="1019413721762100891">Izsl.</translation>
-<translation id="1021753677514347426">Šīs problēmas iemesls ir sertifikāts, kuru jūs vai kāds cits ir instalējis jūsu ierīcē. Ir zināms, ka šis sertifikāts tiek izmantots tīklu pārraudzībai un pārtveršanai, un pārlūks Chromium tam neuzticas. Lai gan pastāv daži likumīgi pārraudzības gadījumi, piemēram, skolas vai uzņēmuma tīklā, pārlūks Chromium vēlas pārliecināties, ka esat par to informēts, pat ja nevarat to apturēt. Pārraudzība var notikt jebkurā pārlūkā vai lietojumprogrammā ar piekļuvi tīmeklim.</translation>
+<translation id="1021753677514347426">Šīs problēmas iemesls ir sertifikāts, kuru jūs vai kāds cits ir instalējis jūsu ierīcē. Ir zināms, ka šis sertifikāts tiek izmantots tīklu pārraudzībai un pārtveršanai, un pārlūks Cobalt tam neuzticas. Lai gan pastāv daži likumīgi pārraudzības gadījumi, piemēram, skolas vai uzņēmuma tīklā, pārlūks Cobalt vēlas pārliecināties, ka esat par to informēts, pat ja nevarat to apturēt. Pārraudzība var notikt jebkurā pārlūkā vai lietojumprogrammā ar piekļuvi tīmeklim.</translation>
 <translation id="1024111578869940408">Uzbrucēji dažkārt atdarina vietnes, veicot grūti pamanāmas izmaiņas tīmekļa adresē.</translation>
 <translation id="1024913885641459127">Produktu apskati un cenu salīdzinājumi</translation>
 <translation id="1028781062521375153">Skatīt informāciju</translation>
@@ -317,7 +317,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1567040042588613346">Šī politika darbojas, kā paredzēts, taču citur ir iestatīta tāda pati vērtība, kas tiek ignorēta šīs politikas dēļ.</translation>
 <translation id="1567405528131216114">Pievienot tēmu <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Ievadīt derīguma termiņu</translation>
-<translation id="1569694109004336106">Google Chrome mēģina ieslēgt Windows Hello, lai aizpildītu paroles.</translation>
+<translation id="1569694109004336106">Cobalt mēģina ieslēgt Windows Hello, lai aizpildītu paroles.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> collas</translation>
 <translation id="1574714699824202614">Maksājuma veida verifikācija</translation>
 <translation id="1576277203042721907">Shopping Insights</translation>
@@ -360,7 +360,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1645368109819982629">Neatbalstīts protokols</translation>
 <translation id="1650602712345345441">Pārvaldīt Chrome iestatījumus</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">Lai izmantotu paroļu pārvaldnieku ar macOS sistēmu Keychain, atkārtoti palaidiet pārlūku Chromium un atļaujiet piekļuvi sistēmai Keychain. Jūsu cilnes tiks atkal atvērtas pēc atkārtotas palaišanas.</translation>
+<translation id="1652862280638399816">Lai izmantotu paroļu pārvaldnieku ar macOS sistēmu Keychain, atkārtoti palaidiet pārlūku Cobalt un atļaujiet piekļuvi sistēmai Keychain. Jūsu cilnes tiks atkal atvērtas pēc atkārtotas palaišanas.</translation>
 <translation id="1656024727720460136">Chrome vienkāršoja šo lapu, lai atvieglotu lasīšanu. Chrome izguva sākotnējo lapu, izmantojot drošu savienojumu.</translation>
 <translation id="1656489000284462475">Informācija par saņemšanu</translation>
 <translation id="1658111267661135323">TV un video</translation>
@@ -430,7 +430,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="1762779605905950734">Ielas nosaukums</translation>
 <translation id="1763864636252898013">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu jūsu ierīces operētājsistēmā. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Mēģiniet palaist Windows tīkla diagnostiku<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Uzzināt vairāk par inkognito režīmu pārlūkā Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Uzzināt vairāk par inkognito režīmu pārlūkā Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Fotopapīrs (arhīva)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="194174710521904357">Jūs īslaicīgi atļāvāt šai vietnei izmantot trešo pušu sīkfailus. Tas nozīmē, ka pārlūkošanas aizsardzības līmenis būs zemāks, taču pastāv lielāka iespēja, ka vietnes funkcijas darbosies, kā paredzēts.</translation>
 <translation id="1942498996464084801">Grāmatas un literatūra</translation>
 <translation id="1943994668912612445">Dizains</translation>
-<translation id="1945968466830820669">Varat zaudēt piekļuvi savam organizācijas kontam, vai jūsu identitāte var tikt nozagta. Chromium iesaka nekavējoties nomainīt paroli.</translation>
+<translation id="1945968466830820669">Varat zaudēt piekļuvi savam organizācijas kontam, vai jūsu identitāte var tikt nozagta. Cobalt iesaka nekavējoties nomainīt paroli.</translation>
 <translation id="1946849748901605102">12 x 15 collas</translation>
 <translation id="1947454675006758438">Skavojums augšējā labajā malā</translation>
 <translation id="1953729392594614704">Bloķējot tēmu <ph name="TOPIC" />, tiks bloķētas arī visas saistītās tēmas pat tad, ja kāda no tām ir aktīva.</translation>
@@ -588,7 +588,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2083256696566019397">Atļaut katrā apmeklējuma reizē</translation>
 <translation id="2085876078937250610">Saglabāt…</translation>
 <translation id="2091887806945687916">Signāls</translation>
-<translation id="2093982008204312032">Google Chrome mēģina izslēgt funkciju Windows Hello, kas paredzēta paroļu aizpildei.</translation>
+<translation id="2093982008204312032">Cobalt mēģina izslēgt funkciju Windows Hello, kas paredzēta paroļu aizpildei.</translation>
 <translation id="2094505752054353250">Domēni nesaskan</translation>
 <translation id="2094704029599359040">Informācija par versiju</translation>
 <translation id="2099652385553570808">Trīskāršs skavojums kreisajā pusē</translation>
@@ -758,7 +758,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="239429038616798445">Šis nosūtīšanas veids nav pieejams. Izmēģiniet citu veidu.</translation>
 <translation id="2395840535409704129">Ūdens sporta veidi</translation>
 <translation id="2396249848217231973">&amp;Atsaukt dzēšanu</translation>
-<translation id="2399868464369312507">Pārlūkā Google Chrome tiek mēģināts automātiski rediģēt maksājuma veidus.</translation>
+<translation id="2399868464369312507">Pārlūkā Cobalt tiek mēģināts automātiski rediģēt maksājuma veidus.</translation>
 <translation id="2400600116338235695">Var pieprasīt atļauju veidot savienojumu ar seriālajiem portiem</translation>
 <translation id="2404884497378469141">Mēģiniet vēlreiz kopēt savus failus.</translation>
 <translation id="2413155254802890957">Vecā</translation>
@@ -1026,7 +1026,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="2979424420072875974">Rakstnieku resursi</translation>
 <translation id="2980742331521553164">Šīs kartes CVC tiks šifrēts un saglabāts jūsu Google kontā ātrākiem norēķiniem.</translation>
 <translation id="2983666748527428214">Atvērt inkognito cilni</translation>
-<translation id="2985306909656435243">Ja šī opcija ir iespējota, Chromium saglabās jūsu kartes informāciju šajā ierīcē, lai nodrošinātu ātrāku veidlapu aizpildi.</translation>
+<translation id="2985306909656435243">Ja šī opcija ir iespējota, Cobalt saglabās jūsu kartes informāciju šajā ierīcē, lai nodrošinātu ātrāku veidlapu aizpildi.</translation>
 <translation id="2985398929374701810">Ievadiet derīgu adresi</translation>
 <translation id="2987034854559945715">Nav atbilstošu līdzekļu</translation>
 <translation id="2988216301273604645">Pārlūkā Chrome tiek ierobežots informācijas apjoms, ko vietnes var izmantot jūsu darbību izsekošanai pārlūkošanas laikā. Varat mainīt iestatījumus, lai izvēlētos savu aizsardzības līmeni.</translation>
@@ -1108,7 +1108,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3154506275960390542">Šajā lapā ir veidlapa, ko, iespējams, nevar droši iesniegt. Kamēr šie dati tiek pārsūtīti, tos var aplūkot citi, un uzbrucējs tos varētu pārveidot, lai mainītu datus, ko saņem serveris.</translation>
 <translation id="3154987252551138431">Izmantojot funkciju “Kopīgošana tuvumā”, radās kļūda</translation>
 <translation id="315504272643575312">Jūsu kontu pārvalda <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Restartēt Chromium</translation>
+<translation id="3155163173539279776">Restartēt Cobalt</translation>
 <translation id="3157931365184549694">Atjaunot</translation>
 <translation id="3158539265159265653">Disks</translation>
 <translation id="3162559335345991374">Iespējams, izmantotajā Wi-Fi tīklā tiks pieprasīts apmeklēt pieteikšanās lapu.</translation>
@@ -1162,7 +1162,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="324180406144491771">“<ph name="HOST_NAME" />” saites ir bloķētas</translation>
 <translation id="3252772880526154546">Arhitektūra</translation>
 <translation id="3254301855501243548">18 x 22 collas</translation>
-<translation id="3255926992597692024">Pārlūkā Chromium tiek mēģināts mainīt maksājuma veidu aizpildes iestatījumus.</translation>
+<translation id="3255926992597692024">Pārlūkā Cobalt tiek mēģināts mainīt maksājuma veidu aizpildes iestatījumus.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai ātri izveidotu jaunu pasākumu Google kalendārā, nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter.</translation>
 <translation id="3261488570342242926">Uzzināt vairāk par virtuālajām kartēm</translation>
 <translation id="3262698603497362968">Iegādes iespējas</translation>
@@ -1249,7 +1249,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="3423742043356668186">Sistēmas noteikta</translation>
 <translation id="3427092606871434483">Atļaut (pēc noklusējuma)</translation>
 <translation id="3427342743765426898">&amp;Labojuma atsaukuma atcelšana</translation>
-<translation id="342781501876943858">Chromium iesaka atiestatīt jūsu paroli, ja izmantojāt to citās vietnēs.</translation>
+<translation id="342781501876943858">Cobalt iesaka atiestatīt jūsu paroli, ja izmantojāt to citās vietnēs.</translation>
 <translation id="3428151540071562330">Viens vai vairāki DnsOverHttpsTemplates servera veidņu identifikatori URI nav derīgi un netiks izmantoti.</translation>
 <translation id="3428789896412418755">Grupēta vēsture</translation>
 <translation id="3431216045099978607">Nospiediet taustiņu |<ph name="ACCELERATOR" />|, lai izietu no pilnekrāna režīma un skatītu lejupielādi.</translation>
@@ -1436,7 +1436,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="374325029554577103">Fitnesa tehnoloģijas produkti</translation>
 <translation id="3744111561329211289">Sinhronizācija fonā</translation>
 <translation id="3744212718085287312">Vai vēlaties nākamreiz uzlabot drošību, izmantojot virtuālo karti?</translation>
-<translation id="3744899669254331632">Pašlaik jūs nevarat apmeklēt vietni <ph name="SITE" />, jo šī vietne nosūtīja kodētus akreditācijas datus, kurus Chromium nevar apstrādāt. Tā kā tīkla kļūdas un uzbrukumi parasti ir īslaicīga problēma, iespējams, vēlāk šī lapa atkal darbosies.</translation>
+<translation id="3744899669254331632">Pašlaik jūs nevarat apmeklēt vietni <ph name="SITE" />, jo šī vietne nosūtīja kodētus akreditācijas datus, kurus Cobalt nevar apstrādāt. Tā kā tīkla kļūdas un uzbrukumi parasti ir īslaicīga problēma, iespējams, vēlāk šī lapa atkal darbosies.</translation>
 <translation id="3745599309295009257">Jūsu teksts, kā arī tās lapas saturs un vietrādis URL, kurā rakstāt tekstu, tiks nosūtīts uzņēmumam Google, to pārskatīs cilvēki, un tas tiks izmantots šīs funkcijas uzlabošanai. Neievadiet personas informāciju (piemēram, medicīniskos datus vai finanšu informāciju) un neizmantojiet šo rīku vietnēs, kas ietver privātu vai sensitīvu informāciju.</translation>
 <translation id="3748009735914587286">Metāls (augsti glancēts)</translation>
 <translation id="3748148204939282805">Uzbrucēji vietnē <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> var mudināt jūs veikt bīstamas darbības, piemēram, instalēt programmatūru vai atklāt personas informāciju (piemēram, paroles, tālruņa numurus vai kredītkaršu datus). <ph name="BEGIN_LEARN_MORE_LINK" />Uzziniet vairāk<ph name="END_LEARN_MORE_LINK" />.</translation>
@@ -1570,7 +1570,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4047351652147966654">18 x 24 collas</translation>
 <translation id="404831776305217138">Paplašinājuma ar ID “<ph name="EXTENSION_ID" />” atjaunināšanas vietrādis URL nav derīgs vai satur neatbalstītu shēmu. Atbalstītās shēmas ir <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> un <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Jūs varēsiet izmantot šo adresi Google produktos.</translation>
-<translation id="4050599136622776556">Pārlūkā Chromium tiek mēģināts automātiski rediģēt maksājuma veidus.</translation>
+<translation id="4050599136622776556">Pārlūkā Cobalt tiek mēģināts automātiski rediģēt maksājuma veidus.</translation>
 <translation id="405399507749852140">Saņemiet paziņojumus, ja kādā vietnē tiek konstatēts cenas kritums.</translation>
 <translation id="4056223980640387499">Sēpija</translation>
 <translation id="4059523390906550209">Uzzināt vairāk par sensitīvu datu aizsardzību</translation>
@@ -1843,7 +1843,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4557573143631562971">Mājokļa apdrošināšana</translation>
 <translation id="4558551763791394412">Atspējojiet paplašinājumus.</translation>
 <translation id="4566017918361049074">Aktivitātes brīvā dabā</translation>
-<translation id="4567686777917670400">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbības šajā ierīcē var pārvaldīt arī ārpus pārlūka Chromium. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="4567686777917670400">Jūsu administrators var attālināti mainīt jūsu pārlūka iestatījumus. Darbības šajā ierīcē var pārvaldīt arī ārpus pārlūka Cobalt. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
 <translation id="4569155249847375786">Verificēts</translation>
 <translation id="457875822857220463">Piegāde</translation>
 <translation id="4579699065574932398">Banku darījumi</translation>
@@ -1873,7 +1873,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4631881646528206880">Virtuālās kartes reģistrācija</translation>
 <translation id="4635278307999235413">Notiek datu sūtīšana uz administratora konsoli</translation>
 <translation id="4636930964841734540">Informācija</translation>
-<translation id="4638670630777875591">Inkognito režīms pārlūkā Chromium</translation>
+<translation id="4638670630777875591">Inkognito režīms pārlūkā Cobalt</translation>
 <translation id="464342062220857295">Meklēšanas funkcijas</translation>
 <translation id="4644670975240021822">Pretēja secība, virspuse uz leju</translation>
 <translation id="4646534391647090355">Doties uz turieni tagad</translation>
@@ -1918,7 +1918,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4732860731866514038">Notiek šādas valodas pakotnes lejupielāde: <ph name="LANGUAGE" />… <ph name="PERCENT" />%</translation>
 <translation id="4733082559415072992">Vietnē <ph name="URL" /> tiek pieprasīta atļauja izmantot jūsu ierīces atrašanās vietu.</translation>
 <translation id="473414950835101501">Izmantot jūsu kameras</translation>
-<translation id="4736825316280949806">Restartējiet pārlūku Chromium</translation>
+<translation id="4736825316280949806">Restartējiet pārlūku Cobalt</translation>
 <translation id="4736934858538408121">Virtuāla karte</translation>
 <translation id="473775607612524610">Atjaunināt</translation>
 <translation id="4738601419177586157">Meklēšanas ieteikums vaicājumam “<ph name="TEXT" />”</translation>
@@ -1935,7 +1935,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4756388243121344051">Vēsture</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Piekļuves atslēga no Chrome profila</translation>
-<translation id="4757993714154412917">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chromium ieteikums jūsu kontu aizsardzībai: pārbaudiet saglabātās paroles.</translation>
+<translation id="4757993714154412917">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Cobalt ieteikums jūsu kontu aizsardzībai: pārbaudiet saglabātās paroles.</translation>
 <translation id="4758311279753947758">Pievienot kontaktinformāciju</translation>
 <translation id="4761326898079498987">Skatiet plašāku informāciju</translation>
 <translation id="4761869838909035636">Veikt Chrome drošības pārbaudi</translation>
@@ -2022,7 +2022,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="4918221908152712722">Instalējiet lietotni <ph name="APP_NAME" /> (nav nepieciešama lejupielāde)</translation>
 <translation id="4920457992177678649">Nekustamo īpašumu īre brīvdienām un neilgam laikam</translation>
 <translation id="4920710383559189047">Apvāks</translation>
-<translation id="4922104989726031751">Lai izmantotu paroļu pārvaldnieku ar savu operētājsistēmu, atkārtoti palaidiet pārlūku Chromium un atļaujiet piekļuvi datora paroļu pārvaldniekam. Jūsu cilnes tiks atkal atvērtas pēc atkārtotas palaišanas.</translation>
+<translation id="4922104989726031751">Lai izmantotu paroļu pārvaldnieku ar savu operētājsistēmu, atkārtoti palaidiet pārlūku Cobalt un atļaujiet piekļuvi datora paroļu pārvaldniekam. Jūsu cilnes tiks atkal atvērtas pēc atkārtotas palaišanas.</translation>
 <translation id="4923459931733593730">Maksājums</translation>
 <translation id="4926049483395192435">Jābūt norādītai.</translation>
 <translation id="4926159001844873046">Vietnē <ph name="SITE" /> ir rakstīts</translation>
@@ -2107,7 +2107,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5087580092889165836">Pievienot karti</translation>
 <translation id="5088142053160410913">Ziņojums operatoram</translation>
 <translation id="5093232627742069661">Z-veida locījums</translation>
-<translation id="5094747076828555589">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu Chromium sistēmā. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
+<translation id="5094747076828555589">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts netiek uzskatīts par uzticamu Cobalt sistēmā. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
 <translation id="5097099694988056070">Ierīces statistika, piemēram, CPU/RAM lietojums</translation>
 <translation id="5097468150760963273">27 x 39 collas</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2134,7 +2134,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5137761395480718572">Šī lietotne pieprasa atļauju instalēt Wi-Fi akreditācijas datus. Pēc iestatīšanas jūsu ierīcē (<ph name="DEVICE_TYPE" />) tiks automātiski izveidots savienojums ar iestatītajiem Wi-Fi tīkliem. Lai noņemtu šos akreditācijas datus, atinstalējiet lietotni. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuālā karte pašlaik nav pieejama. Lūdzu, sazinieties ar savu banku.</translation>
 <translation id="5138227688689900538">Rādīt mazāk</translation>
-<translation id="5143309888746105072">Pārlūkā Chromium vietnēm tiek liegts pārlūkošanas laikā izmantot trešo pušu sīkfailus, lai izsekotu jūsu darbības.
+<translation id="5143309888746105072">Pārlūkā Cobalt vietnēm tiek liegts pārlūkošanas laikā izmantot trešo pušu sīkfailus, lai izsekotu jūsu darbības.
             <ph name="NEW_LINE" />Ja vietnes funkcijas nedarbojas, <ph name="START_LINK" />varat īslaicīgi atļaut trešo pušu sīkfailus<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Politikas atbildē ir kļūdas kods.</translation>
 <translation id="5146995429444047494">Vietnes <ph name="ORIGIN" /> paziņojumi ir bloķēti</translation>
@@ -2272,7 +2272,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="5425082381151187189">Mājokļa un interjera dizains</translation>
 <translation id="5426179911063097041">No vietnes <ph name="SITE" /> tiek mēģināts nosūtīt paziņojumus.</translation>
 <translation id="5430298929874300616">Noņemt grāmatzīmi</translation>
-<translation id="5434798570900738152">Pārlūkā Chromium <ph name="BEGIN_EMPHASIS" />netiks saglabāta<ph name="END_EMPHASIS" />:
+<translation id="5434798570900738152">Pārlūkā Cobalt <ph name="BEGIN_EMPHASIS" />netiks saglabāta<ph name="END_EMPHASIS" />:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />jūsu pārlūkošanas vēsture;
             <ph name="LIST_ITEM" />sīkfaili un vietņu dati;
@@ -2667,7 +2667,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6215936431492593050">Metāls (satinēts)</translation>
 <translation id="6217950634729714357">Virtuves un ēdamistabas mēbeles</translation>
 <translation id="6218305986815100395">Nevar ieslēgt virtuālo karti</translation>
-<translation id="6218753634732582820">Vai noņemt adresi no pārlūka Chromium?</translation>
+<translation id="6218753634732582820">Vai noņemt adresi no pārlūka Cobalt?</translation>
 <translation id="622039917539443112">Paralēls locījums</translation>
 <translation id="6221311046884916259">Vai vēlaties saglabāt šo karti savā Google kontā?</translation>
 <translation id="6221345481584921695">Google drošās pārlūkošanas tehnoloģija vietnē <ph name="SITE" /> nesen <ph name="BEGIN_LINK" />konstatēja ļaunprātīgu programmatūru<ph name="END_LINK" />. Vietnes, kuras parasti ir drošas, dažkārt tiek inficētas ar ļaunprātīgu programmatūru. Ļaunprātīgā satura avots ir <ph name="SUBRESOURCE_HOST" /> — plaši zināms ļaunprātīgās programmatūras izplatītājs.</translation>
@@ -2739,7 +2739,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6348220984832452017">Aktīvie varianti</translation>
 <translation id="6349101878882523185">Instalēt <ph name="APP_NAME" /> lietotni</translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Nav}=1{1 parole (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizēta)}=2{2 paroles (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}zero{# paroļu (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}one{# parole (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}other{# paroles (šādiem domēniem: <ph name="DOMAIN_LIST" />, sinhronizētas)}}</translation>
-<translation id="6355392890578844978">Šo pārlūku nepārvalda uzņēmums vai cita organizācija. Darbības šajā ierīcē var pārvaldīt ārpus pārlūka Chromium. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
+<translation id="6355392890578844978">Šo pārlūku nepārvalda uzņēmums vai cita organizācija. Darbības šajā ierīcē var pārvaldīt ārpus pārlūka Cobalt. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
 <translation id="6358088212770985041">rediģēt maksājumu veidus</translation>
 <translation id="6358450015545214790">Ko tas nozīmē?</translation>
 <translation id="6360213755783740931">Uzzināt vairāk par aizsardzību pret ļaunprātīgu programmatūru</translation>
@@ -2781,7 +2781,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6410264514553301377">Ievadiet kredītkartes <ph name="CREDIT_CARD" /> derīguma termiņu un CVC.</translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Ādas un nagu kopšana</translation>
-<translation id="6415778972515849510">Chromium var palīdzēt jums aizsargāt jūsu Google kontu un nomainīt paroli.</translation>
+<translation id="6415778972515849510">Cobalt var palīdzēt jums aizsargāt jūsu Google kontu un nomainīt paroli.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Algu aprēķina pakalpojumi</translation>
 <translation id="6424600253695044005">Mākoņkrātuves</translation>
@@ -2907,7 +2907,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6665553082534466207">Trīs caurumi labajā pusē</translation>
 <translation id="6668389483194953109">Atrasts papīra izmēru nosaukums “custom”, taču parametrs “custom_size” ir tukšs vai nederīgs.</translation>
 <translation id="6671169470640320959">Finansējums automašīnas iegādei</translation>
-<translation id="6671697161687535275">Vai noņemt veidlapas ieteikumu no pārlūka Chromium?</translation>
+<translation id="6671697161687535275">Vai noņemt veidlapas ieteikumu no pārlūka Cobalt?</translation>
 <translation id="6677351035258626477">Ātrā ēdināšana</translation>
 <translation id="6681790815630918386">CVC saglabāts</translation>
 <translation id="6683022854667115063">Austiņas</translation>
@@ -3020,7 +3020,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6897140037006041989">Lietotāja aģents</translation>
 <translation id="6898699227549475383">Organizācija (O)</translation>
 <translation id="6907458757809079309">Fitness</translation>
-<translation id="6908168784986658395">Kad aizvērsiet visas Chromium inkognito cilnes, no šīs ierīces tiks noņemtas šajās cilnēs veiktās darbības:
+<translation id="6908168784986658395">Kad aizvērsiet visas Cobalt inkognito cilnes, no šīs ierīces tiks noņemtas šajās cilnēs veiktās darbības:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />pārlūkošanas darbības;<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />meklēšanas vēsture;<ph name="END_LIST_ITEM" />
@@ -3068,7 +3068,7 @@ Pretējā gadījumā šī iespēja būtu liegta saskaņā ar jūsu konfidenciali
 <translation id="6973988895180423160">3,5 x 5 collas</translation>
 <translation id="6978121630131642226">Meklētāji</translation>
 <translation id="6978236010531171013">Tomēr kopīgot</translation>
-<translation id="6978722349058177832">Ja šo ierīci izmanto arī citas personas, pārlūkā Chromium var tikt prasīta verifikācija katru reizi, kad maksāšanai izmantojat automātisko aizpildi.</translation>
+<translation id="6978722349058177832">Ja šo ierīci izmanto arī citas personas, pārlūkā Cobalt var tikt prasīta verifikācija katru reizi, kad maksāšanai izmantojat automātisko aizpildi.</translation>
 <translation id="6979158407327259162">Google disks</translation>
 <translation id="6979440798594660689">Izslēgt skaņu (noklusējums)</translation>
 <translation id="6987806006823772670">Aploksne (pārklāta)</translation>
@@ -3233,7 +3233,7 @@ Papildu informācija:
 <translation id="7308436126008021607">sinhronizācija fonā</translation>
 <translation id="7310392214323165548">Ierīce ļoti drīz tiks restartēta</translation>
 <translation id="7311244614769792472">Netika atrasts neviens rezultāts</translation>
-<translation id="7311837626618954149">Pārlūkā Chromium vietnēm tiek liegts pārlūkošanas laikā izmantot trešo pušu sīkfailus, lai izsekotu jūsu darbības.</translation>
+<translation id="7311837626618954149">Pārlūkā Cobalt vietnēm tiek liegts pārlūkošanas laikā izmantot trešo pušu sīkfailus, lai izsekotu jūsu darbības.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Savienojuma palīdzība</translation>
 <translation id="7323804146520582233">Paslēpt sadaļu “<ph name="SECTION" />”</translation>
@@ -3306,7 +3306,7 @@ Papildu informācija:
 <translation id="7425878584435172632">Vizuālā māksla un dizains</translation>
 <translation id="7427079287360774240">Svešvalodu mācības</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Verificējiet savu identitāti, lai Chromium varētu ievadīt maksājuma informāciju.</translation>
+<translation id="7432774160230062882">Verificējiet savu identitāti, lai Cobalt varētu ievadīt maksājuma informāciju.</translation>
 <translation id="7437289804838430631">Pievienot kontaktinformāciju</translation>
 <translation id="7438338505272634288">Vietnē, kuru mēģināt apmeklēt, uzbrucēji var jūs maldināt un pamudināt instalēt kaitīgu programmatūru, kas ietekmē pārlūkošanu, piemēram, maina sākumlapu vai rāda papildu reklāmas jūsu apmeklētajās vietnēs. Chrome stingri iesaka doties atpakaļ, lai izvairītos no kaitējuma. <ph name="BEGIN_LEARN_MORE_LINK" />Uzziniet vairāk<ph name="END_LEARN_MORE_LINK" />.</translation>
 <translation id="7440140511386898319">Pārlūkošana bezsaistē</translation>
@@ -3383,7 +3383,7 @@ Papildu informācija:
 <translation id="7564049878696755256">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. Chrome iesaka nekavējoties nomainīt paroli.</translation>
 <translation id="7564667064360547717">Krekli un topi</translation>
 <translation id="7567204685887185387">Šis serveris nevarēja pierādīt, ka šī ir vietne <ph name="DOMAIN" />; tās drošības sertifikāts, iespējams, ir izveidots krāpnieciski. Iespējams, tas ir nepareizas konfigurācijas dēļ vai arī kāds ir ļaunprātīgi izmantojis jūsu savienojumu.</translation>
-<translation id="7568616151991626879">Pārlūkā Google Chrome tiek mēģināts ievadīt jūsu paroli vietnē <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Pārlūkā Cobalt tiek mēģināts ievadīt jūsu paroli vietnē <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfs</translation>
 <translation id="7569952961197462199">Vai noņemt kredītkarti no pārlūka Chrome?</translation>
 <translation id="7569983096843329377">Melna</translation>
@@ -3426,7 +3426,7 @@ Papildu informācija:
 <translation id="7631527008834753063">TV spēļu šovi</translation>
 <translation id="7633909222644580952">Veiktspējas dati un avāriju pārskati</translation>
 <translation id="7636346903338549690">Vietnes, kurām atļauts izmantot trešo pušu sīkfailus</translation>
-<translation id="7637571805876720304">Vai noņemt kredītkarti no pārlūka Chromium?</translation>
+<translation id="7637571805876720304">Vai noņemt kredītkarti no pārlūka Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Nav}=1{1 parole jūsu kontā (<ph name="DOMAIN_LIST" />)}zero{# paroles jūsu kontā (<ph name="DOMAIN_LIST" />)}one{# parole jūsu kontā (<ph name="DOMAIN_LIST" />)}other{# paroles jūsu kontā (<ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Seriālie porti</translation>
 <translation id="7639968568612851608">Tumši pelēka</translation>
@@ -3647,7 +3647,7 @@ Papildu informācija:
 <translation id="8061691770921837575">Dekoratīvā kosmētika un sejas kopšanas līdzekļi</translation>
 <translation id="8063875539456488183">Saglabāt un sekot cenai</translation>
 <translation id="8066225060526005217">Tiek pārvaldīta sīkfailu iestatījumos</translation>
-<translation id="8067872629359326442">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Chromium var palīdzēt. Lai mainītu paroli un paziņotu uzņēmumam Google, ka jūsu konts, iespējams, ir apdraudēts, noklikšķiniet uz pogas Aizsargāt kontu.</translation>
+<translation id="8067872629359326442">Jūs tikko ievadījāt savu paroli maldinošā vietnē. Cobalt var palīdzēt. Lai mainītu paroli un paziņotu uzņēmumam Google, ka jūsu konts, iespējams, ir apdraudēts, noklikšķiniet uz pogas Aizsargāt kontu.</translation>
 <translation id="8070439594494267500">Lietotnes ikona</translation>
 <translation id="8070495475341517754">Ievērojamu vietu apskate</translation>
 <translation id="8073647227500388356">Autonomi transportlīdzekļi</translation>
@@ -3923,7 +3923,7 @@ Papildu informācija:
 <translation id="8558347880669160417">Ir atļauts šoreiz izmantot kameru un mikrofonu</translation>
 <translation id="8559762987265718583">Nevar izveidot privātu savienojumu ar <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, jo jūsu ierīces datums un laiks (<ph name="DATE_AND_TIME" />) nav pareizs.</translation>
 <translation id="8564182942834072828">Atsevišķi dokumenti/nesakārtotu lapu kopijas</translation>
-<translation id="8564985650692024650">Chromium iesaka atiestatīt jūsu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> paroli, ja izmantojāt to citās vietnēs.</translation>
+<translation id="8564985650692024650">Cobalt iesaka atiestatīt jūsu <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> paroli, ja izmantojāt to citās vietnēs.</translation>
 <translation id="8570895683659698018">Vaļasprieki un brīvais laiks</translation>
 <translation id="8574841453995331336">Ledusskapji un saldētavas</translation>
 <translation id="8577192028579836704">Visas opcijas, parasti: <ph name="TYPICAL_PRICE" /></translation>
@@ -3998,7 +3998,7 @@ Papildu informācija:
 <translation id="8736059027199600831">30 x 40 collas</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />. Lai privātai pārlūkošanai atvērtu inkognito režīma logu, nospiediet tabulēšanas taustiņu un pēc tam — ievadīšanas taustiņu.</translation>
 <translation id="8737685506611670901">atvērt <ph name="PROTOCOL" /> saites, nevis <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Lai izveidotu drošu savienojumu, ir jāiestata pareizs pulksteņa laiks. Tas ir nepieciešams, jo sertifikāti, kurus vietnes izmanto, lai tiktu identificētas, ir derīgi tikai noteiktos laika periodos. Tā kā jūsu ierīces pulkstenis nav pareizi iestatīts, Chromium nevar verificēt šos sertifikātus.</translation>
+<translation id="8738058698779197622">Lai izveidotu drošu savienojumu, ir jāiestata pareizs pulksteņa laiks. Tas ir nepieciešams, jo sertifikāti, kurus vietnes izmanto, lai tiktu identificētas, ir derīgi tikai noteiktos laika periodos. Tā kā jūsu ierīces pulkstenis nav pareizi iestatīts, Cobalt nevar verificēt šos sertifikātus.</translation>
 <translation id="8740359287975076522">Nevarēja atrast <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS adresi&lt;/abbr&gt;. Notiek problēmas diagnosticēšana.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> ir jūsu kods vietnei <ph name="ORIGIN" />.</translation>
 <translation id="874918643257405732">Saglabāt šo cilni kā grāmatzīmi</translation>
@@ -4025,7 +4025,7 @@ Papildu informācija:
 <translation id="8785658048882205566">Motocikli</translation>
 <translation id="8790007591277257123">&amp;Atcelt dzēšanas atsaukšanu</translation>
 <translation id="8792272652220298572">Plastmasa (glancēta)</translation>
-<translation id="8792621596287649091">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. Chromium iesaka nekavējoties nomainīt paroli.</translation>
+<translation id="8792621596287649091">Varat zaudēt piekļuvi savam <ph name="ORG_NAME" /> kontam, vai jūsu identitāte var tikt nozagta. Cobalt iesaka nekavējoties nomainīt paroli.</translation>
 <translation id="8792626944327216835">mikrofons</translation>
 <translation id="8793655568873652685">Domēns <ph name="ENROLLMENT_DOMAIN" /> ir iespējojis savienotājus Chrome Enterprise Connectors jūsu pārlūkā. Šie savienotāji var piekļūt daļai jūsu datu.</translation>
 <translation id="8798099450830957504">Noklusējums</translation>
@@ -4174,7 +4174,7 @@ Papildu informācija:
 <translation id="9095388113577226029">Citas valodas…</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />; nospiediet tabulēšanas taustiņu un pēc tam — taustiņu Enter, lai iestatītu Chrome kā sistēmas noklusējuma pārlūku iOS iestatījumos.</translation>
 <translation id="9101630580131696064">1. paplāte</translation>
-<translation id="9103872766612412690">Vietnē <ph name="SITE" /> informācijas aizsargāšanai parasti tiek izmantota šifrēšana. Kad pārlūkā Chromium tika mēģināts izveidot savienojumu ar vietni <ph name="SITE" />, šoreiz tā nosūtīja neparastus un nepareizus akreditācijas datus. Iespējams, tas notika, jo uzbrucējs mēģināja uzdoties par vietni <ph name="SITE" />, vai arī Wi-Fi pierakstīšanās ekrāns pārtrauca savienojumu. Jūsu informācija joprojām ir drošībā, jo pārlūks Chromium pārtrauca savienojumu, pirms tika veikta jebkādu datu apmaiņa.</translation>
+<translation id="9103872766612412690">Vietnē <ph name="SITE" /> informācijas aizsargāšanai parasti tiek izmantota šifrēšana. Kad pārlūkā Cobalt tika mēģināts izveidot savienojumu ar vietni <ph name="SITE" />, šoreiz tā nosūtīja neparastus un nepareizus akreditācijas datus. Iespējams, tas notika, jo uzbrucējs mēģināja uzdoties par vietni <ph name="SITE" />, vai arī Wi-Fi pierakstīšanās ekrāns pārtrauca savienojumu. Jūsu informācija joprojām ir drošībā, jo pārlūks Cobalt pārtrauca savienojumu, pirms tika veikta jebkādu datu apmaiņa.</translation>
 <translation id="9107467864910557787">Jūsu pārlūku pārvalda <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">Saskaņā ar administratora iestatīto politiku ekrāna kopīgošana ar lietojumprogrammu <ph name="APPLICATION_TITLE" /> tiek atspējota, kad ir redzams konfidenciāls saturs.</translation>
 <translation id="9114524666733003316">Notiek kartes apstiprināšana...</translation>
@@ -4242,7 +4242,7 @@ Papildu informācija:
 <translation id="93020190163435405">Prakse</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Vai atļaut lietotnei <ph name="APP_NAME" /> iestatīt Wi-Fi tīklus?</translation>
-<translation id="936602727769022409">Varat zaudēt piekļuvi savam Google kontam. Chromium iesaka nekavējoties nomainīt paroli. Jums tiks lūgts pierakstīties.</translation>
+<translation id="936602727769022409">Varat zaudēt piekļuvi savam Google kontam. Cobalt iesaka nekavējoties nomainīt paroli. Jums tiks lūgts pierakstīties.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Kādi dati tiek izmantoti:<ph name="END_BOLD" /> reklāmu tēmas tiek noteiktas, pamatojoties uz jūsu neseno pārlūkošanas vēsturi — to vietņu sarakstu, kuras esat apmeklējis pārlūkā Chrome šajā ierīcē.</translation>
 <translation id="937885410143139026">Dati ir nosūtīti uz administratora konsoli</translation>
 <translation id="939736085109172342">Jauna mape</translation>

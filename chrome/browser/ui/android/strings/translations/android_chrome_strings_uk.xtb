@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">Деталі. <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Не пропонувати перекладати ці сайти</translation>
 <translation id="1145536944570833626">Видалити наявні дані.</translation>
-<translation id="1150263420752757504">Додаток <ph name="APP_NAME" /> відкриється в Chrome. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Google Chrome та ОС Chrome<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Додаток <ph name="APP_NAME" /> відкриється в Chrome. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Cobalt та ОС Chrome<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">Використати пароль <ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">Перейменувати</translation>
 <translation id="1174479719160874822">Якщо екран вузький, Chrome надсилатиме запит на мобільний сайт</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Вікно зберігання закладки, відкрите на всю висоту</translation>
 <translation id="1327257854815634930">Історію навігації відкрито</translation>
 <translation id="1331212799747679585">Неможливо оновити Chrome. Більше опцій</translation>
-<translation id="1332501820983677155">Комбінації клавіш для функцій Google Chrome</translation>
+<translation id="1332501820983677155">Комбінації клавіш для функцій Cobalt</translation>
 <translation id="1344653310988386453">Включити посилання на виділений текст</translation>
 <translation id="1347468774581902829">Керувати діями</translation>
 <translation id="1360432990279830238">Вийти й вимкнути синхронізацію?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Статті на цікаві вам теми в Chrome</translation>
 <translation id="3066573403916685335">Перемістити курсор униз</translation>
 <translation id="3070005020161560471">Мови, з яких потрібно автоматично перекладати</translation>
-<translation id="3072980200212375806">Додаток <ph name="APP_NAME" /> відкриється в Chrome. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Google Chrome та ОС Chrome<ph name="END_LINK2" />. Також застосовується <ph name="BEGIN_LINK3" />Політика конфіденційності<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Додаток <ph name="APP_NAME" /> відкриється в Chrome. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Cobalt та ОС Chrome<ph name="END_LINK2" />. Також застосовується <ph name="BEGIN_LINK3" />Політика конфіденційності<ph name="END_LINK3" />.</translation>
 <translation id="3080525922482950719">Зберігайте сторінки, щоб читати їх пізніше або в режимі офлайн</translation>
 <translation id="3091010850649238832">Показати вміст буфера обміну</translation>
 <translation id="3098745985164956033">Деякі зображення надсилаються на сервери Google, що дає змогу покращувати їх описи</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">Коли ви входите в обліковий запис Google, у ньому можуть зберігатись <ph name="BEGIN_LINK1" />Історія пошуку<ph name="END_LINK1" /> та <ph name="BEGIN_LINK2" />дані про інші дії<ph name="END_LINK2" />. Ви можете будь-коли видалити їх.</translation>
 <translation id="3220943972464248773">Щоб синхронізувати паролі, підтвердьте свою особу</translation>
 <translation id="3226612997184048185">Щоб відстежувати ціни на товари в Chrome і отримувати сповіщення, якщо вони знизяться, також збережіть закладки в обліковому записі Google</translation>
-<translation id="3227557059438308877">Google Chrome як ключ безпеки</translation>
+<translation id="3227557059438308877">Cobalt як ключ безпеки</translation>
 <translation id="3232754137068452469">Веб-додаток</translation>
 <translation id="3236059992281584593">Залишилась 1 хв</translation>
 <translation id="3237087289225714896">Стандартне попереднє завантаження:</translation>
@@ -1111,7 +1111,7 @@
 <translation id="6767294960381293877">Список пристроїв, з якими можна ділитися вкладкою, відкрито на половину висоти.</translation>
 <translation id="6770602306803890733">Покращує захист усіх користувачів в Інтернеті</translation>
 <translation id="6775840696761158817">Якщо натиснути або почати вводити текст в адресному рядку чи полі пошуку, ви побачите підказки пошукової системи за умовчанням. В анонімному режимі цю функцію вимкнено.</translation>
-<translation id="6785476624617658922">Додаткові умови використання Google Chrome і ОС Chrome</translation>
+<translation id="6785476624617658922">Додаткові умови використання Cobalt і ОС Chrome</translation>
 <translation id="6795633245022906657">Швидко відкривайте нову вкладку. Щоб змінити функцію цієї кнопки, перейдіть у налаштування.</translation>
 <translation id="6802555630140434547">Вікно буде закрито</translation>
 <translation id="6811034713472274749">Сторінка готова для перегляду</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">Зображення</translation>
 <translation id="92381315203627188">Коли сайт надсилає запит на приватне попереднє завантаження посилань на його сторінці, Chrome шифрує та попередньо завантажує сторінки через сервери Google без файлів cookie. Таким чином вашу особу не можна визначити через попередньо завантажений сайт.</translation>
 <translation id="926205370408745186">Видалити активність у Chrome із Цифрового добробуту</translation>
-<translation id="927968626442779827">Користуйтеся спрощеним режимом у Google Chrome</translation>
+<translation id="927968626442779827">Користуйтеся спрощеним режимом у Cobalt</translation>
 <translation id="928550791203542716">Ви підписалися на сайт <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">Усі паролі буде завантажено на ваш пристрій і вилучено з <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Помилка: <ph name="ERROR_CODE" /></translation>

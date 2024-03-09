@@ -169,7 +169,7 @@ Toestemmings wat jy reeds aan webwerwe en apps gegee het, kan op hierdie rekenin
 <translation id="3941890832296813527">Installeerfout: Die installeerderlêernaam is ongeldig of word nie ondersteun nie.</translation>
 <translation id="3945058413678539331">Cobalt probeer tans om wagwoorde te kopieer. Tik jou Windows-wagwoord in om dit toe te laat.</translation>
 <translation id="3962647064319009959">Vind uit hoe Cobalt jou veilig hou</translation>
-<translation id="3975724895399328945">Meer oor &amp;Google Chrome-toetsweergawe</translation>
+<translation id="3975724895399328945">Meer oor &amp;Cobalt-toetsweergawe</translation>
 <translation id="3997429360543082038">Meer oor Cobalt-bedryfstelsel</translation>
 <translation id="4019629340646866719">Cobalt-bedryfstelsel word moontlik gemaak deur bykomende <ph name="BEGIN_LINK_CROS_OSS" />oopbronsagteware<ph name="END_LINK_CROS_OSS" />, soos die geval ook is met <ph name="BEGIN_LINK_LINUX_OSS" />Linux-ontwikkelingomgewing<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Help om Cobalt te verbeter deur die <ph name="BEGIN_LINK" />huidige instellings<ph name="END_LINK" /> aan te gee</translation>
@@ -405,7 +405,7 @@ Cobalt kan nie jou instellings herwin nie.</translation>
 <translation id="8013436988911883588">Sodra Cobalt toegang het, sal webwerwe jou kan vra vir toegang.</translation>
 <translation id="80471789339884597">Dankie dat jy geïnstalleer het. Jy moet al jou blaaiers herbegin voordat jy <ph name="BUNDLE_NAME" /> gebruik.</translation>
 <translation id="8086881907087796310">Installering het misluk omdat jou rekenaar nie aan die minimum hardewarevereistes voldoen nie.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome-toetsweergawe</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt-toetsweergawe</translation>
 <translation id="8105840573057009683">Cobalt het liggingtoestemming vir hierdie werf nodig</translation>
 <translation id="8133124826068723441">Cobalt-bedryfstelsel kon nie jou data sinkroniseer nie omdat sinkronisering nie vir jou domein beskikbaar is nie.</translation>
 <translation id="813913629614996137">Inisialiseer tans …</translation>
@@ -438,7 +438,7 @@ Cobalt kan nie jou instellings herwin nie.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Hoe ons hierdie data gebruik:<ph name="END_BOLD" /> Werwe kan inligting oor jou belangstellings in Cobalt stoor. As jy byvoorbeeld ’n werf besoek om skoene vir ’n marathon te koop, kan die werf jou belangstelling definieer as iemand wat marathons hardloop. As jy later ’n ander werf besoek om vir ’n wedloop te registreer, kan daardie werf vir jou ’n advertensie vir drafskoene op grond van jou belangstellings wys.</translation>
 <translation id="8619360774459241877">Begin tans Cobalt …</translation>
 <translation id="8621669128220841554">Kon weens 'n ongespesifiseerde fout nie installeer nie. Laai Cobalt asseblief weer af.</translation>
-<translation id="8648201657708811153">Google Chrome-toetsweergawe kan nie jou verstekblaaier gemaak word nie.</translation>
+<translation id="8648201657708811153">Cobalt-toetsweergawe kan nie jou verstekblaaier gemaak word nie.</translation>
 <translation id="8697124171261953979">Dit beheer ook watter bladsy gewys word wanneer jy Cobalt begin of vanuit die omnikassie soek.</translation>
 <translation id="8704119203788522458">Dit is jou Cobalt</translation>
 <translation id="8719993436687031146">Meld by Cobalt aan?</translation>

@@ -167,7 +167,7 @@
 <translation id="3941890832296813527">Сталася помилка. Назва файлу програми встановлення недійсна або не підтримується.</translation>
 <translation id="3945058413678539331">Cobalt намагається скопіювати паролі. Щоб дозволити, введіть свій пароль Windows.</translation>
 <translation id="3962647064319009959">Дізнайтесь, як Cobalt дбає про вашу безпеку</translation>
-<translation id="3975724895399328945">Про &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Про &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Про Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS і <ph name="BEGIN_LINK_LINUX_OSS" />середовище для розробки Linux<ph name="END_LINK_LINUX_OSS" /> працюють завдяки додатковому <ph name="BEGIN_LINK_CROS_OSS" />програмному забезпеченню з відкритим кодом<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="4036079820698952681">Допоможіть покращити Cobalt, надсилаючи звіти про <ph name="BEGIN_LINK" />поточні налаштування<ph name="END_LINK" /></translation>
@@ -403,7 +403,7 @@ Cobalt не може відновити ваші налаштування.</tran
 <translation id="8013436988911883588">Коли Cobalt отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.</translation>
 <translation id="80471789339884597">Дякуємо за встановлення. Щоб почати використовувати пакет <ph name="BUNDLE_NAME" />, потрібно перезапустити всі веб-переглядачі.</translation>
 <translation id="8086881907087796310">Не вдалося встановити, оскільки ваш комп’ютер не відповідає мінімальним вимогам до апаратного забезпечення.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Веб-переглядачу Cobalt потрібен дозвіл на доступ до геоданих для цього сайту</translation>
 <translation id="8133124826068723441">Cobalt OS не вдалося синхронізувати ваші дані, оскільки синхронізація для вашого домену недоступна.</translation>
 <translation id="813913629614996137">Ініціалізація...</translation>
@@ -436,7 +436,7 @@ Cobalt не може відновити ваші налаштування.</tran
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Як ми використовуємо ці дані.<ph name="END_BOLD" /> Сайти можуть зберігати в Cobalt інформацію про ваші інтереси. Наприклад, якщо ви перейшли на сайт, щоб придбати кросівки для марафону, цей сайт визначить, що вас цікавить марафонський біг. Тоді, якщо ви згодом відвідайте інший сайт, щоб зареєструватися на забіг, на ньому може з’явитися реклама кросівок.</translation>
 <translation id="8619360774459241877">Запускається Cobalt…</translation>
 <translation id="8621669128220841554">Не вдалося встановити через невизначену помилку. Завантажте Cobalt ще раз.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing не можна зробити веб-переглядачем за умовчанням.</translation>
+<translation id="8648201657708811153">Cobalt for Testing не можна зробити веб-переглядачем за умовчанням.</translation>
 <translation id="8697124171261953979">Розширення також змінило сторінку, яка відкривається під час запуску Cobalt або пошуку в універсальному вікні пошуку.</translation>
 <translation id="8704119203788522458">Це ваш Cobalt</translation>
 <translation id="8719993436687031146">Увійти в Cobalt?</translation>

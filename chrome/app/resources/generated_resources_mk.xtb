@@ -894,7 +894,7 @@
 <translation id="1651008383952180276">Мора да ја внесете истата лозинка двапати</translation>
 <translation id="1651609627703324721">Картичкава прикажува VR-содржини преку слушалки</translation>
 <translation id="1652326691684645429">Овозможете „Споделување во близина“</translation>
-<translation id="1652862280638399816">За да користите Google Password Manager со macOS Keychain, рестартирајте го Chromium и дозволете пристап до Keychain. Вашите картички ќе се отворат повторно по рестартирањето.</translation>
+<translation id="1652862280638399816">За да користите Google Password Manager со macOS Keychain, рестартирајте го Cobalt и дозволете пристап до Keychain. Вашите картички ќе се отворат повторно по рестартирањето.</translation>
 <translation id="1653958716132599769">Групирање поврзани картички</translation>
 <translation id="1654580009054503925">Не е дозволено да се прикажуваат барања</translation>
 <translation id="1656528038316521561">Непроѕирност на заднината</translation>
@@ -1180,7 +1180,7 @@
 <translation id="186594096341696655">Намали ја фреквенцијата</translation>
 <translation id="186612162884103683">„<ph name="EXTENSION" />“ може да чита слики, видео и аудиодатотеки на означените локации.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> е подготвен да ја комплетира инсталацијата</translation>
-<translation id="1868553836791672080">Проверката на лозинки не е достапна во Chromium</translation>
+<translation id="1868553836791672080">Проверката на лозинки не е достапна во Cobalt</translation>
 <translation id="1868617395637139709">Користете локација за апликациите и услугите на Android.</translation>
 <translation id="1869433484041798909">Копче за обележувач</translation>
 <translation id="1871098866036088250">Отворај во прелистувачот Chrome</translation>
@@ -2886,7 +2886,7 @@
 <translation id="3151562827395986343">Исчистете ги историјата, колачињата, кешот и друго</translation>
 <translation id="3151786313568798007">Ориентација</translation>
 <translation id="3152356229013609796">Прегледувајте ги, отфрлајте ги и одговарајте на известувањата од телефонот</translation>
-<translation id="3155163173539279776">Рестартирајте го Chromium</translation>
+<translation id="3155163173539279776">Рестартирајте го Cobalt</translation>
 <translation id="3157387275655328056">Додај во „Списокот за читање“</translation>
 <translation id="3157931365184549694">Обнови</translation>
 <translation id="3158033540161634471">Поставете го отпечатокот</translation>
@@ -5160,7 +5160,7 @@
 <translation id="4918134162946436591">Прикажи ја прекривката за навестување</translation>
 <translation id="4918762404810341788">Копирај и отвори</translation>
 <translation id="4921348630401250116">Од текст во говор</translation>
-<translation id="4922104989726031751">За да користите Password Manager со вашиот оперативен систем, рестартирајте го Chromium и дозволете пристап до Password Manager на вашиот компјутер. Вашите картички ќе се отворат повторно по рестартирањето.</translation>
+<translation id="4922104989726031751">За да користите Password Manager со вашиот оперативен систем, рестартирајте го Cobalt и дозволете пристап до Password Manager на вашиот компјутер. Вашите картички ќе се отворат повторно по рестартирањето.</translation>
 <translation id="492299503953721473">Отстрани ги апликациите за Android</translation>
 <translation id="492363500327720082">Се деинсталира <ph name="APP_NAME" />…</translation>
 <translation id="4924002401726507608">Испратете повратни информации</translation>

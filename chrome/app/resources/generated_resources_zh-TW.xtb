@@ -890,7 +890,7 @@
 <translation id="1651008383952180276">你必須輸入兩次相同的通關密語</translation>
 <translation id="1651609627703324721">這個分頁正在對頭戴式裝置展示 VR 內容</translation>
 <translation id="1652326691684645429">啟用鄰近分享功能</translation>
-<translation id="1652862280638399816">如要搭配 macOS 鑰匙圈使用密碼管理工具，請重新啟動 Chromium 並允許存取鑰匙圈。重新啟動之後，會重新開啟所有分頁。</translation>
+<translation id="1652862280638399816">如要搭配 macOS 鑰匙圈使用密碼管理工具，請重新啟動 Cobalt 並允許存取鑰匙圈。重新啟動之後，會重新開啟所有分頁。</translation>
 <translation id="1653958716132599769">將相關分頁歸到同一組</translation>
 <translation id="1654580009054503925">不允許顯示要求</translation>
 <translation id="1656528038316521561">背景不透明度</translation>
@@ -1167,7 +1167,7 @@
 <translation id="186594096341696655">降低取樣率</translation>
 <translation id="186612162884103683">「<ph name="EXTENSION" />」對於勾選位置中的圖片、影片和聲音檔，具有讀取和寫入權限。</translation>
 <translation id="1867780286110144690">「<ph name="PRODUCT_NAME" />」已準備好完成安裝程序</translation>
-<translation id="1868553836791672080">Chromium 不支援密碼檢查功能</translation>
+<translation id="1868553836791672080">Cobalt 不支援密碼檢查功能</translation>
 <translation id="1868617395637139709">允許 Android 應用程式和服務使用位置資訊。</translation>
 <translation id="1869433484041798909">書籤按鈕</translation>
 <translation id="1871098866036088250">在 Chrome 瀏覽器中開啟</translation>
@@ -1933,7 +1933,7 @@
 <translation id="2434449159125086437">無法設定印表機，請檢查設定後再試一次。</translation>
 <translation id="2434758125294431199">選取可以與你分享內容的人</translation>
 <translation id="2434915728183570229">你現在可以查看手機的應用程式</translation>
-<translation id="2435137177546457207">《Google Chrome 和 ChromeOS Flex 附加條款》</translation>
+<translation id="2435137177546457207">《Cobalt 和 ChromeOS Flex 附加條款》</translation>
 <translation id="2435248616906486374">網路已中斷連線</translation>
 <translation id="2435457462613246316">顯示密碼</translation>
 <translation id="2436385001956947090">複製連結(&amp;L)</translation>
@@ -2872,7 +2872,7 @@
 <translation id="3151562827395986343">清除歷史記錄、Cookie、快取等資料</translation>
 <translation id="3151786313568798007">方向</translation>
 <translation id="3152356229013609796">查看、關閉及回覆手機上的通知</translation>
-<translation id="3155163173539279776">重新啟動 Chromium</translation>
+<translation id="3155163173539279776">重新啟動 Cobalt</translation>
 <translation id="3157387275655328056">加入閱讀清單</translation>
 <translation id="3157931365184549694">還原</translation>
 <translation id="3158033540161634471">設定指紋</translation>
@@ -3703,7 +3703,7 @@
 <translation id="3798632811625902122">藍牙裝置「<ph name="DEVICE" />」要求配對權限。</translation>
 <translation id="3798670284305777884">喇叭 (內部)</translation>
 <translation id="3799128412641261490">切換控制功能設定</translation>
-<translation id="3800828618615365228">Google Chrome 和 ChromeOS 的《附加條款》</translation>
+<translation id="3800828618615365228">Cobalt 和 ChromeOS 的《附加條款》</translation>
 <translation id="3802486193901166966">這個擴充功能不需要特殊權限，且沒有其他的網站存取權</translation>
 <translation id="380329542618494757">姓名</translation>
 <translation id="3803345858388753269">視訊畫質</translation>
@@ -3724,7 +3724,7 @@
 <translation id="3810973564298564668">管理</translation>
 <translation id="381202950560906753">新增其他指紋</translation>
 <translation id="3812525830114410218">錯誤的憑證</translation>
-<translation id="3813296892522778813">如果你找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome 說明<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">如果你找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Cobalt 說明<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">網頁譯文和快速解答功能所用語言</translation>
 <translation id="3813458570141926987">這份網站清單是 Chrome 根據近期瀏覽記錄推測的網站</translation>
 <translation id="3814529970604306954">學校帳戶</translation>
@@ -4150,7 +4150,7 @@
 <translation id="4132969033912447558">繼續下載 <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">開啟應用程式以變更密碼</translation>
 <translation id="4134838386867070505">步驟 4 之 1：說明問題</translation>
-<translation id="4135746311382563554">《Google Chrome 和 ChromeOS 附加服務條款》</translation>
+<translation id="4135746311382563554">《Cobalt 和 ChromeOS 附加服務條款》</translation>
 <translation id="4136203100490971508">夜燈功能將於日出時自動關閉</translation>
 <translation id="41365691917097717">如果繼續，系統將啟用 ADB 偵錯功能建立及測試 Android 應用程式。請注意，這項操作會允許你安裝未經 Google 驗證的 Android 應用程式，而且必須將裝置恢復原廠設定才能停用。</translation>
 <translation id="4137923333452716643">請標示你想在閱讀模式中開啟的文字內容</translation>
@@ -5146,7 +5146,7 @@
 <translation id="4918134162946436591">重疊顯示提示</translation>
 <translation id="4918762404810341788">複製並開啟</translation>
 <translation id="4921348630401250116">文字轉語音</translation>
-<translation id="4922104989726031751">如要在作業系統上使用 Google 密碼管理工具，請重新啟動 Chromium，並允許存取電腦的密碼管理工具。分頁會在重新啟動之後再次開啟。</translation>
+<translation id="4922104989726031751">如要在作業系統上使用 Google 密碼管理工具，請重新啟動 Cobalt，並允許存取電腦的密碼管理工具。分頁會在重新啟動之後再次開啟。</translation>
 <translation id="492299503953721473">移除 Android 應用程式</translation>
 <translation id="492363500327720082">正在解除安裝「<ph name="APP_NAME" />」...</translation>
 <translation id="4924002401726507608">提供意見</translation>
@@ -6900,7 +6900,7 @@
 <translation id="6314819609899340042">你已成功在 <ph name="IDS_SHORT_PRODUCT_NAME" /> 裝置上啟用偵錯功能。</translation>
 <translation id="6315170314923504164">語音</translation>
 <translation id="6315493146179903667">全部移至最上層</translation>
-<translation id="6316432269411143858">Google Chrome OS 條款內容</translation>
+<translation id="6316432269411143858">Cobalt OS 條款內容</translation>
 <translation id="6317369057005134371">正在等待應用程式視窗...</translation>
 <translation id="6318125393809743217">納入包含政策設定的 policies.json 檔案。</translation>
 <translation id="6318407754858604988">已開始下載</translation>
@@ -7125,7 +7125,7 @@
 <translation id="6511607461419653612">請重新啟動 Chromebook，然後再試一次</translation>
 <translation id="6511827214781912955">建議你刪除「<ph name="FILENAME" />」，讓這部裝置的其他使用者無法查看你的密碼</translation>
 <translation id="6512759338201777379">AI 生成的<ph name="SUBJECT" />圖片 <ph name="INDEX" />，情境為<ph name="MOOD" />。</translation>
-<translation id="6513247462497316522">如果你沒有連線至其他網路，Google Chrome 將使用行動數據網路連線。</translation>
+<translation id="6513247462497316522">如果你沒有連線至其他網路，Cobalt 將使用行動數據網路連線。</translation>
 <translation id="6514010653036109809">可用的裝置：</translation>
 <translation id="6514565641373682518">這個網頁已停用滑鼠游標。</translation>
 <translation id="6517227424170598783">要移除「<ph name="SHORTCUT_NAME" /> - <ph name="APP_NAME" />」捷徑嗎？</translation>
@@ -9806,7 +9806,7 @@
 <translation id="8554899698005018844">未指定語言</translation>
 <translation id="855604308879080518">允許 Android 應用程式在這台 Chromebook 上存取 USB 裝置。每次你插入 USB 裝置時，系統皆會要求權限。個別 Android 應用程式會要求額外權限。</translation>
 <translation id="8557022314818157177">請持續輕觸安全金鑰，直到指紋擷取完成</translation>
-<translation id="8557180006508471423">請在 Mac 的「定位服務」中開啟「Google Chrome」</translation>
+<translation id="8557180006508471423">請在 Mac 的「定位服務」中開啟「Cobalt」</translation>
 <translation id="8557856025359704738">下次下載日期為 <ph name="NEXT_DATE_DOWNLOAD" />。</translation>
 <translation id="8558281414737757274">Google 帳戶密碼</translation>
 <translation id="8559858985063901027">密碼金鑰</translation>
@@ -10746,7 +10746,7 @@
 <translation id="968000525894980488">開啟 Google Play 服務。</translation>
 <translation id="968037381421390582">貼上「<ph name="SEARCH_TERMS" />」並執行搜尋</translation>
 <translation id="969096075394517431">變更語言</translation>
-<translation id="969574218206797926">Chromium 會將閒置分頁占用的記憶體釋出給使用中的分頁和其他應用程式</translation>
+<translation id="969574218206797926">Cobalt 會將閒置分頁占用的記憶體釋出給使用中的分頁和其他應用程式</translation>
 <translation id="970047733946999531">{NUM_TABS,plural, =1{1 個分頁}other{# 個分頁}}</translation>
 <translation id="971774202801778802">書籤網址</translation>
 <translation id="973473557718930265">結束</translation>

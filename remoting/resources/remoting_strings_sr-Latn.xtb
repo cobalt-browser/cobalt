@@ -152,10 +152,10 @@ Ako je stavka „<ph name="SERVICE_SCRIPT_NAME" />“ već označena, uklonite 
 <translation id="7693372326588366043">Osvežite listu hostova</translation>
 <translation id="7714222945760997814">Prijavi ovo</translation>
 <translation id="7868137160098754906">Unesite PIN za udaljeni računar.</translation>
-<translation id="7881455334687220899">Autorska prava 2024. Autori Chromium-a. Sva prava zadržana.</translation>
+<translation id="7881455334687220899">Autorska prava 2024. Autori Cobalt-a. Sva prava zadržana.</translation>
 <translation id="7895403300744144251">Smernice za bezbednost na udaljenom računaru ne dozvoljavaju veze sa vašeg naloga.</translation>
 <translation id="7936528439960309876">Usidri sa desne strane</translation>
-<translation id="7970576581263377361">Potvrda autentičnosti nije uspela. Prijavite se ponovo u Chromium.</translation>
+<translation id="7970576581263377361">Potvrda autentičnosti nije uspela. Prijavite se ponovo u Cobalt.</translation>
 <translation id="7981525049612125370">Daljinska sesija je istekla.</translation>
 <translation id="8038111231936746805">(podrazumevano)</translation>
 <translation id="8041089156583427627">Pošalji povratne informacije</translation>
@@ -191,6 +191,6 @@ Ako je polje pored stavke <ph name="SERVICE_SCRIPT_NAME" /> već označeno, ukl
 <translation id="9187628920394877737">Dajte dozvolu za „Snimanje ekrana“ proizvodu <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Konfiguracija hosta je nevažeća.</translation>
 <translation id="981121421437150478">Oflajn</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (poslednji put onlajn <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

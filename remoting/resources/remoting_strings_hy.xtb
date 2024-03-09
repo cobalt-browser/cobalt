@@ -152,10 +152,10 @@
 <translation id="7693372326588366043">Թարմացնել խնամորդների ցանկը</translation>
 <translation id="7714222945760997814">Հաղորդել այս մասին</translation>
 <translation id="7868137160098754906">Մուտքագրեք ձեր PIN-ը հեռակա համակարգչի համար:</translation>
-<translation id="7881455334687220899">© 2024 The Chromium Authors։ Բոլոր իրավունքները պահպանված են։</translation>
+<translation id="7881455334687220899">© 2024 The Cobalt Authors։ Բոլոր իրավունքները պահպանված են։</translation>
 <translation id="7895403300744144251">Հեռակա համակարգչի անվտանգության քաղաքականությունը թույլ չի տալիս միանալ ձեր հաշվից:</translation>
 <translation id="7936528439960309876">Ամրակցել աջ կողմում</translation>
-<translation id="7970576581263377361">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Chromium:</translation>
+<translation id="7970576581263377361">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Cobalt:</translation>
 <translation id="7981525049612125370">Հեռակա աշխատաշրջանի ժամկետը սպառվել է:</translation>
 <translation id="8038111231936746805">(կանխադրված)</translation>
 <translation id="8041089156583427627">Կարծիք հայտնել</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737">Տրամադրեք «Էկրանի տեսագրման» թույլտվություն <ph name="PRODUCT_NAME" />ին</translation>
 <translation id="9213184081240281106">Հանգույցի կազմաձևումն անվավեր է:</translation>
 <translation id="981121421437150478">Անցանց</translation>
-<translation id="985602178874221306">Chromium Authors</translation>
+<translation id="985602178874221306">Cobalt Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (վերջին անգամ առցանց է եղել <ph name="DATE_OR_TIME" />-ին)</translation>
 </translationbundle>

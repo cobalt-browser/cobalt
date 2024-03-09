@@ -165,7 +165,7 @@
 <translation id="3941890832296813527">ఇన్‌స్టలేషన్ ఎర్రర్: ఇన్‌స్టాలర్ ఫైల్ పేరు చెల్లదు లేదా సపోర్ట్ చేయదు.</translation>
 <translation id="3945058413678539331">పాస్‌వర్డ్‌లను కాపీ చేయడానికి Cobalt ప్రయత్నిస్తోంది. దీన్ని అనుమతించడానికి మీ Windows పాస్‌వర్డ్‌ను టైప్ చేయండి.</translation>
 <translation id="3962647064319009959">Cobalt మిమ్మల్ని ఎలా సురక్షితంగా ఉంచుతుందో తెలుసుకోండి</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing పరిచయం</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing పరిచయం</translation>
 <translation id="3997429360543082038">ChromiumOS గురించి</translation>
 <translation id="4019629340646866719">ChromiumOS అనేది <ph name="BEGIN_LINK_LINUX_OSS" />Linux డెవలప్‌మెంట్ ఎన్విరాన్‌మెంట్<ph name="END_LINK_LINUX_OSS" /> తరహాలోనే, అదనపు <ph name="BEGIN_LINK_CROS_OSS" />ఓపెన్ సోర్స్ సాఫ్ట్‌వేర్<ph name="END_LINK_CROS_OSS" /> ద్వారా సాధ్యమైంది.</translation>
 <translation id="4036079820698952681"><ph name="BEGIN_LINK" />ప్రస్తుత సెట్టింగ్‌లను<ph name="END_LINK" /> రిపోర్ట్ చేయడం ద్వారా Chromiumను మెరుగుపరచడంలో సహాయపడండి</translation>
@@ -399,7 +399,7 @@
 <translation id="8013436988911883588">ఓసారి Chromiumకి యాక్సెస్ లభించాక, ఆపై వెబ్‌సైట్‌లకు ఏమైనా యాక్సెస్‌ కావాలంటే అవి మిమ్మల్ని అడగవచ్చు.</translation>
 <translation id="80471789339884597">ఇన్‌స్టాల్ చేసినందుకు ధన్యవాదాలు. <ph name="BUNDLE_NAME" />‌ను ఉపయోగించే ముందు మీరు తప్పకుండా మీ అన్ని బ్రౌజర్‌లను రీస్టార్ట్ చేయాలి.</translation>
 <translation id="8086881907087796310">మీ కంప్యూటర్ కనీస హార్డ్‌వేర్ అవసరాలకు అనుగుణంగా లేనందున ఇన్‌స్టాలేషన్ విఫలమైంది.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">ఈ సైట్ కోసం Chromiumకు లొకేషన్ అనుమతి అవసరం</translation>
 <translation id="8133124826068723441">మీ డొమైన్ కోసం సింక్ అందుబాటులో లేనందున, ChromiumOS మీ డేటాను సింక్ చేయలేకపోయింది.</translation>
 <translation id="813913629614996137">ప్రారంభిస్తోంది...</translation>

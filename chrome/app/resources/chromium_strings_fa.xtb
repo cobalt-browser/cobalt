@@ -166,7 +166,7 @@
 <translation id="3941890832296813527">خطای نصب: نام فایل نصب‌کننده نامعتبر است یا از آن پشتیبانی نمی‌شود.</translation>
 <translation id="3945058413678539331">‏Chromium می‌خواهد گذرواژه‌ها را کپی کند. برای اینکه اجازه دهید این کار انجام شود، گذرواژه Windows خود را تایپ کنید.</translation>
 <translation id="3962647064319009959">‏ببینید Cobalt چگونه ایمنی شما را حفظ می‌کند</translation>
-<translation id="3975724895399328945">‏درباره Google Chrome for Testing</translation>
+<translation id="3975724895399328945">‏درباره Cobalt for Testing</translation>
 <translation id="3997429360543082038">‏درباره ChromiumOS</translation>
 <translation id="4019629340646866719">‏ارائه ChromiumOS به‌کمک <ph name="BEGIN_LINK_CROS_OSS" />نرم‌افزارهای متن‌باز<ph name="END_LINK_CROS_OSS" /> تکمیلی مثل <ph name="BEGIN_LINK_LINUX_OSS" />محیط توسعه نرم‌افزار Linux<ph name="END_LINK_LINUX_OSS" /> ممکن شده است.</translation>
 <translation id="4036079820698952681">‏با گزارش <ph name="BEGIN_LINK" />تنظیمات کنونی<ph name="END_LINK" />، به بهتر شدن Cobalt کمک کنید</translation>
@@ -401,7 +401,7 @@ Cobalt قادر به بازیابی تنظیمات شما نیست.</translation
 <translation id="8013436988911883588">‏وقتی Cobalt دسترسی داشته باشد، وب‌سایت‌ها می‌توانند مجوز دسترسی درخواست کنند.</translation>
 <translation id="80471789339884597">بابت نصب از شما سپاس‌گزاریم. قبل‌از استفاده از <ph name="BUNDLE_NAME" />، باید همه مرورگرها را بازراه‌اندازی کنید.</translation>
 <translation id="8086881907087796310">نصب انجام نشد زیرا رایانه شما با حداقل شرایط سخت‌افزاری مطابقت ندارد.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">‏Chromium برای این سایت به اجازه مکان نیاز دارد</translation>
 <translation id="8133124826068723441">‏ChromiumOS نتوانست داده‌هایتان را همگام‌سازی کند زیرا «همگام‌سازی» برای دامنه شما دردسترس نیست.</translation>
 <translation id="813913629614996137">درحال مقداردهی اولیه…</translation>
@@ -434,7 +434,7 @@ Cobalt قادر به بازیابی تنظیمات شما نیست.</translation
 <translation id="8608079656141766906">‏<ph name="BEGIN_BOLD" />نحوه استفاده ما از این داده‌ها:<ph name="END_BOLD" /> سایت‌ها می‌توانند بااستفاده از Cobalt اطلاعاتی درباره علایقتان ذخیره کنند. برای مثال، اگر برای خرید کفش مخصوص ماراتون از سایتی بازدید کنید، ممکن است آن سایت علاقه شما را به‌صورت دونده ماراتون مشخص کند. بعداً، اگر برای ثبت‌نام در مسابقه‌ای به سایتی دیگر مراجعه کردید، آن سایت می‌تواند براساس علایقتان آگهی‌ای برای کفش مخصوص دویدن به شما نشان دهد.</translation>
 <translation id="8619360774459241877">‏درحال راه‌اندازی Cobalt…</translation>
 <translation id="8621669128220841554">‏به دلیل خطای نامشخص، نصب ناموفق بود. لطفاً دوباره Cobalt را بارگیری کنید.</translation>
-<translation id="8648201657708811153">‏نمی‌توان Google Chrome for Testing را به‌عنوان مرورگر پیش‌فرض تنظیم کرد.</translation>
+<translation id="8648201657708811153">‏نمی‌توان Cobalt for Testing را به‌عنوان مرورگر پیش‌فرض تنظیم کرد.</translation>
 <translation id="8697124171261953979">‏این برنامه همچنین صفحه‌ای را که هنگام راه‌اندازی Cobalt یا جستجو از Omnibox نشان داده می‌شود، کنترل می‌کند.</translation>
 <translation id="8704119203788522458">‏این Cobalt شماست</translation>
 <translation id="8719993436687031146">‏به سیستم Cobalt وارد می‌شوید؟</translation>

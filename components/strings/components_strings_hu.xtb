@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Fájlok előkészítése…</translation>
 <translation id="1015730422737071372">További részletek megadása</translation>
 <translation id="1019413721762100891">Ki</translation>
-<translation id="1021753677514347426">A probléma oka az Ön vagy valaki más által az eszközre telepített egyik tanúsítvány. Erről a tanúsítványról tudni lehet, hogy hálózati forgalom megfigyelésére és elfogására használják, és a Chromium szerint nem megbízható. Bár a megfigyelésnek létezik néhány jogszerű formája (például iskolai vagy vállalati hálózatokon), a Chromium biztosra szeretne menni abban, hogy Ön ezzel tisztában van – még akkor is, ha Ön nem tud tenni ellene. A megfigyelés az internethez hozzáférő bármely böngészőben vagy alkalmazásban megtörténhet.</translation>
+<translation id="1021753677514347426">A probléma oka az Ön vagy valaki más által az eszközre telepített egyik tanúsítvány. Erről a tanúsítványról tudni lehet, hogy hálózati forgalom megfigyelésére és elfogására használják, és a Cobalt szerint nem megbízható. Bár a megfigyelésnek létezik néhány jogszerű formája (például iskolai vagy vállalati hálózatokon), a Cobalt biztosra szeretne menni abban, hogy Ön ezzel tisztában van – még akkor is, ha Ön nem tud tenni ellene. A megfigyelés az internethez hozzáférő bármely böngészőben vagy alkalmazásban megtörténhet.</translation>
 <translation id="1024111578869940408">A támadók néha úgy próbálnak meg webhelyeket utánozni, hogy alig észrevehető változtatásokat végeznek a webhely címében.</translation>
 <translation id="1024913885641459127">Termékkritikák és árak összehasonlítása</translation>
 <translation id="1028781062521375153">Részletek megtekintése</translation>
@@ -317,7 +317,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1567040042588613346">A házirend az elvárt módon működik, de valahol máshol ugyanaz az érték van beállítva, amelyet felülír ez a házirend.</translation>
 <translation id="1567405528131216114"><ph name="TOPIC" /> hozzáadása</translation>
 <translation id="1569487616857761740">Adja meg a lejárat dátumát</translation>
-<translation id="1569694109004336106">A Google Chrome megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="1569694109004336106">A Cobalt megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> hüvelyk</translation>
 <translation id="1574714699824202614">Fizetési mód ellenőrzése…</translation>
 <translation id="1576277203042721907">Shopping Insights</translation>
@@ -430,7 +430,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="1762779605905950734">Utcanév</translation>
 <translation id="1763864636252898013">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa az Ön eszközének operációs rendszere szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Próbálkozzon a Windows Hálózati diagnosztika futtatásával<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />További információ a Chromium inkognitó módjáról<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />További információ a Cobalt inkognitó módjáról<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Fotó (archív)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="194174710521904357">Átmenetileg engedélyezte a webhely számára a harmadik féltől származó cookie-k használatát, ami azt jelenti, hogy kisebb védelemben van része böngészés közben, de a webhelyfunkciók nagyobb valószínűséggel működnek majd a várt módon.</translation>
 <translation id="1942498996464084801">Könyvek és irodalom</translation>
 <translation id="1943994668912612445">Dizájn</translation>
-<translation id="1945968466830820669">Elveszítheti a hozzáférést szervezete fiókjához, vagy visszaélhetnek személyes adataival. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+<translation id="1945968466830820669">Elveszítheti a hozzáférést szervezete fiókjához, vagy visszaélhetnek személyes adataival. A Cobalt azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="1946849748901605102">12 × 15 hüvelyk</translation>
 <translation id="1947454675006758438">Kapocs jobbra fent</translation>
 <translation id="1953729392594614704">A(z) <ph name="TOPIC" /> téma letiltásával az összes kapcsolódó témát is letiltja, még akkor is, ha az adott téma aktív.</translation>
@@ -588,7 +588,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2083256696566019397">Engedélyezés minden látogatáskor</translation>
 <translation id="2085876078937250610">Mentés…</translation>
 <translation id="2091887806945687916">Hang</translation>
-<translation id="2093982008204312032">A Google Chrome megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="2093982008204312032">A Cobalt megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="2094505752054353250">Domainkeveredés</translation>
 <translation id="2094704029599359040">Verzióadatok</translation>
 <translation id="2099652385553570808">Három kapocs a bal oldalon</translation>
@@ -758,7 +758,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="239429038616798445">Ez a szállítási mód nem áll rendelkezésre. Próbálkozzon másik móddal.</translation>
 <translation id="2395840535409704129">Vízisportok</translation>
 <translation id="2396249848217231973">&amp;Törlés visszavonása</translation>
-<translation id="2399868464369312507">A Google Chrome szerkeszteni próbálja a fizetési módokat.</translation>
+<translation id="2399868464369312507">A Cobalt szerkeszteni próbálja a fizetési módokat.</translation>
 <translation id="2400600116338235695">Engedélyt kérhet a soros portokhoz való csatlakozásra</translation>
 <translation id="2404884497378469141">Próbálja meg újra másolni a fájlokat</translation>
 <translation id="2413155254802890957">Régi</translation>
@@ -1026,7 +1026,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2979424420072875974">Források íróknak</translation>
 <translation id="2980742331521553164">A rendszer titkosítja, és az Ön Google-fiókjába menti a kártya CVC-kódját a gyorsabb fizetés érdekében</translation>
 <translation id="2983666748527428214">Inkognitó lap megnyitása</translation>
-<translation id="2985306909656435243">Ha engedélyezi, a Chromium megőrzi a kártya másolatát ezen az eszközön a gyorsabb űrlapkitöltés érdekében.</translation>
+<translation id="2985306909656435243">Ha engedélyezi, a Cobalt megőrzi a kártya másolatát ezen az eszközön a gyorsabb űrlapkitöltés érdekében.</translation>
 <translation id="2985398929374701810">Érvényes címet adjon meg</translation>
 <translation id="2987034854559945715">Nem található ilyen funkció</translation>
 <translation id="2988216301273604645">A Chrome korlátozza, hogy a webhelyek mennyi információt használhatnak fel az Ön nyomon követéséhez böngészés közben. A beállítások módosításával kiválaszthatja a saját védelmi szintjét.</translation>
@@ -1108,7 +1108,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3154506275960390542">Az oldal olyan űrlapot tartalmaz, amely esetében előfordulhat, hogy küldése nem biztonságosan történik. Az elküldött adatokat továbbítás közben mások is megtekinthetik, illetve támadók módosíthatják, hogy a szerver mást kapjon helyettük.</translation>
 <translation id="3154987252551138431">Hiba történt a Közeli megosztás funkció használata közben</translation>
 <translation id="315504272643575312">Az Ön fiókkezelője: <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">A Chromium újraindítása</translation>
+<translation id="3155163173539279776">A Cobalt újraindítása</translation>
 <translation id="3157931365184549694">Helyreállítás</translation>
 <translation id="3158539265159265653">Lemez</translation>
 <translation id="3162559335345991374">Az Ön által használt Wi-Fi-hálózat megkövetelheti bejelentkezési oldalának felkeresését.</translation>
@@ -1160,7 +1160,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="324180406144491771">A(z) „<ph name="HOST_NAME" />” linkjei le vannak tiltva</translation>
 <translation id="3252772880526154546">Építészet</translation>
 <translation id="3254301855501243548">18 × 22 hüvelyk</translation>
-<translation id="3255926992597692024">A Chromium módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
+<translation id="3255926992597692024">A Cobalt módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, tartsa lenyomva a Tab billentyűt, majd nyomja meg az Enter billentyűt új esemény gyors létrehozásához a Google Naptár szolgáltatással</translation>
 <translation id="3261488570342242926">További információ a virtuális kártyákról</translation>
 <translation id="3262698603497362968">Vásárlási lehetőségek</translation>
@@ -1247,7 +1247,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="3423742043356668186">Rendszer által meghatározott</translation>
 <translation id="3427092606871434483">Engedélyezés (alapértelmezett)</translation>
 <translation id="3427342743765426898">&amp;Szerkesztés újra</translation>
-<translation id="342781501876943858">A Chromium azt javasolja, hogy adjon meg új jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+<translation id="342781501876943858">A Cobalt azt javasolja, hogy adjon meg új jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
 <translation id="3428151540071562330">A DnsOverHttpsTemplates szerversablon-URI-k közül legalább egy érvénytelen, és nem használható.</translation>
 <translation id="3428789896412418755">Csoportosított előzmények</translation>
 <translation id="3431216045099978607">Nyomja meg a(z) |<ph name="ACCELERATOR" />| gombot a teljes képernyős nézetből való kilépéshez és a letöltés megjelenítéséhez.</translation>
@@ -1435,7 +1435,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="374325029554577103">Fitnesztechnikai termékek</translation>
 <translation id="3744111561329211289">Szinkronizálás a háttérben</translation>
 <translation id="3744212718085287312">Szeretné legközelebb növelni a biztonságot egy virtuális kártyával?</translation>
-<translation id="3744899669254331632">Most nem keresheti fel a(z) <ph name="SITE" /> webhelyet, mert az zavaros, a Chromium által nem feldolgozható hitelesítő adatokat küldött. A hálózati hibák és támadások általában ideiglenesek, úgyhogy az oldal később valószínűleg megfelelően fog működni.</translation>
+<translation id="3744899669254331632">Most nem keresheti fel a(z) <ph name="SITE" /> webhelyet, mert az zavaros, a Cobalt által nem feldolgozható hitelesítő adatokat küldött. A hálózati hibák és támadások általában ideiglenesek, úgyhogy az oldal később valószínűleg megfelelően fog működni.</translation>
 <translation id="3745599309295009257">A szöveget, valamint annak az oldalnak a tartalmát és URL-jét, amelyen ír, elküldjük a Google-nak, és ember általi felülvizsgálat után felhasználjuk őket a funkció javításához. Ne adjon meg személyes adatokat (például egészségügyi vagy pénzügyi információkat), és ne használja az eszközt olyan webhelyeken, amelyek privát vagy bizalmas információkat tartalmaznak.</translation>
 <translation id="3748009735914587286">Fém (magasfényű)</translation>
 <translation id="3748148204939282805">A támadók a(z) <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> webhelyen megpróbálhatják csellel rávenni Önt például arra, hogy veszélyes szoftvert telepítsen, vagy felfedje személyes adatait (jelszavakat, telefonszámokat, bankkártyaadatokat stb). <ph name="BEGIN_LEARN_MORE_LINK" />További információ<ph name="END_LEARN_MORE_LINK" />.</translation>
@@ -1569,7 +1569,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4047351652147966654">18 × 24 hüvelyk</translation>
 <translation id="404831776305217138">A(z) „<ph name="EXTENSION_ID" />” azonosítójú bővítmény frissítési URL-je érvénytelen, vagy nem támogatott sémát használ. Támogatott sémák: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> és <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Használhatja majd a Google-termékekben</translation>
-<translation id="4050599136622776556">A Chromium szerkeszteni próbálja a fizetési módokat.</translation>
+<translation id="4050599136622776556">A Cobalt szerkeszteni próbálja a fizetési módokat.</translation>
 <translation id="405399507749852140">Értesítést kaphat, ha valamelyik webhelyen csökken az ár</translation>
 <translation id="4056223980640387499">Szépia</translation>
 <translation id="4059523390906550209">További információ a bizalmas adatok védelméről</translation>
@@ -1934,7 +1934,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="4756388243121344051">&amp;Előzmények</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Azonosítókulcs az Ön Chrome-profiljából</translation>
-<translation id="4757993714154412917">Megtévesztő webhelyen adta meg jelszavát. Fiókjai védelmében a Chromium azt javasolja, hogy ellenőrizze mentett jelszavait.</translation>
+<translation id="4757993714154412917">Megtévesztő webhelyen adta meg jelszavát. Fiókjai védelmében a Cobalt azt javasolja, hogy ellenőrizze mentett jelszavait.</translation>
 <translation id="4758311279753947758">Névjegyadatok hozzáadása</translation>
 <translation id="4761326898079498987">További részleteket itt találhat</translation>
 <translation id="4761869838909035636">A Chrome biztonsági ellenőrzésének futtatása</translation>
@@ -2106,7 +2106,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5087580092889165836">Kártya hozzáadása</translation>
 <translation id="5088142053160410913">Üzenet az operátornak</translation>
 <translation id="5093232627742069661">Z-hajtás</translation>
-<translation id="5094747076828555589">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa a Chromium szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
+<translation id="5094747076828555589">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványa a Cobalt szerint nem megbízható. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
 <translation id="5097099694988056070">Eszközstatisztikák, például processzor- és memóriahasználat</translation>
 <translation id="5097468150760963273">27 × 39 hüvelyk</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2133,7 +2133,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5137761395480718572">Ez az alkalmazás engedélyt kér a Wi-Fi-hálózathoz tartozó hitelesítési adatok telepítésére. A beállítás után a(z) <ph name="DEVICE_TYPE" /> automatikusan csatlakozik az egyik Wi-Fi-hálózathoz. A hitelesítési adatok eltávolításához távolítsa el az alkalmazást. <ph name="LEARN_MORE" />.</translation>
 <translation id="5138014172396933048">A virtuális kártya jelenleg nem áll rendelkezésre, vegye fel a kapcsolatot a bankjával</translation>
 <translation id="5138227688689900538">Kevesebb megjelenítése</translation>
-<translation id="5143309888746105072">A Chromium megakadályozza a webhelyek számára, hogy harmadik féltől származó cookie-kat használjanak az Ön nyomon követésére böngészés közben.
+<translation id="5143309888746105072">A Cobalt megakadályozza a webhelyek számára, hogy harmadik féltől származó cookie-kat használjanak az Ön nyomon követésére böngészés közben.
             <ph name="NEW_LINE" />Ha nem működnek bizonyos webhelyfunkciók, <ph name="START_LINK" />próbálkozzon a harmadik féltől származó cookie-k ideiglenes engedélyezésével<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Az irányelv válasza hibakódot tartalmaz</translation>
 <translation id="5146995429444047494">A(z) <ph name="ORIGIN" /> értesítései le vannak tiltva</translation>
@@ -2271,7 +2271,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="5425082381151187189">Lakberendezés és belső dekoráció</translation>
 <translation id="5426179911063097041">A(z) <ph name="SITE" /> értesítéseket szeretne küldeni Önnek</translation>
 <translation id="5430298929874300616">Könyvjelző törlése</translation>
-<translation id="5434798570900738152">A Chromium <ph name="BEGIN_EMPHASIS" />nem menti<ph name="END_EMPHASIS" /> a következőket:
+<translation id="5434798570900738152">A Cobalt <ph name="BEGIN_EMPHASIS" />nem menti<ph name="END_EMPHASIS" /> a következőket:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Böngészési előzmények
             <ph name="LIST_ITEM" />Cookie-k és webhelyadatok
@@ -2646,7 +2646,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6160391204859821737">Hirdetésekhez kapcsolódó adatvédelmi funkció bekapcsolása</translation>
 <translation id="6165508094623778733">További információ</translation>
 <translation id="6167577165590485365">Legutóbbi lekérési próbálkozás:</translation>
-<translation id="617256461084925519">A Google Chrome megpróbálja ellenőrizni az Ön személyazonosságát, hogy kitölthesse a fizetési adatokat.</translation>
+<translation id="617256461084925519">A Cobalt megpróbálja ellenőrizni az Ön személyazonosságát, hogy kitölthesse a fizetési adatokat.</translation>
 <translation id="6176387967264100435">Ez az ár magas</translation>
 <translation id="6177128806592000436">Kapcsolata a webhellyel nem biztonságos</translation>
 <translation id="6177531123306197852">C2 boríték</translation>
@@ -2781,7 +2781,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6410264514553301377">Írja be a(z) <ph name="CREDIT_CARD" /> kártyán szereplő lejárati dátumot és CVC-t</translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Bőr- és körömápolás</translation>
-<translation id="6415778972515849510">A Chromium segíthet a Google-fiók védelmében és a jelszó módosításában.</translation>
+<translation id="6415778972515849510">A Cobalt segíthet a Google-fiók védelmében és a jelszó módosításában.</translation>
 <translation id="6416877227920300343">„EDP” méret</translation>
 <translation id="641811520997304166">Bérszolgáltatások</translation>
 <translation id="6424600253695044005">Cloud Storage</translation>
@@ -3020,7 +3020,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6897140037006041989">User agent</translation>
 <translation id="6898699227549475383">Szervezet (O)</translation>
 <translation id="6907458757809079309">Fitnesz</translation>
-<translation id="6908168784986658395">Amikor bezárja a Chromium összes inkognitó lapját, az érintett lapokon végzett tevékenységei, így a következők is törlődnek erről az eszközről:
+<translation id="6908168784986658395">Amikor bezárja a Cobalt összes inkognitó lapját, az érintett lapokon végzett tevékenységei, így a következők is törlődnek erről az eszközről:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />böngészési tevékenységek;<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />keresési előzmények;<ph name="END_LIST_ITEM" />
@@ -3068,7 +3068,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="6973988895180423160">3,5 × 5 hüvelyk</translation>
 <translation id="6978121630131642226">Keresők</translation>
 <translation id="6978236010531171013">Megosztás mindenképp</translation>
-<translation id="6978722349058177832">Ha Ön másokkal is megosztja ezt az eszközt, a Chromium automatikus kitöltéssel való fizetés esetén minden alkalommal igazolást kérhet.</translation>
+<translation id="6978722349058177832">Ha Ön másokkal is megosztja ezt az eszközt, a Cobalt automatikus kitöltéssel való fizetés esetén minden alkalommal igazolást kérhet.</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Némítás (alapértelmezett)</translation>
 <translation id="6987806006823772670">Boríték (bevonatolt)</translation>
@@ -3233,7 +3233,7 @@ További részletek:
 <translation id="7308436126008021607">szinkronizálás a háttérben</translation>
 <translation id="7310392214323165548">Az eszköz hamarosan újraindul</translation>
 <translation id="7311244614769792472">Nincs találat</translation>
-<translation id="7311837626618954149">A Chromium megakadályozza a webhelyek számára, hogy harmadik féltől származó cookie-kat használjanak az Ön nyomon követésére böngészés közben.</translation>
+<translation id="7311837626618954149">A Cobalt megakadályozza a webhelyek számára, hogy harmadik féltől származó cookie-kat használjanak az Ön nyomon követésére böngészés közben.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Segítség a kapcsolódáshoz</translation>
 <translation id="7323804146520582233">A(z) „<ph name="SECTION" />” szakasz elrejtése</translation>
@@ -3306,7 +3306,7 @@ További részletek:
 <translation id="7425878584435172632">Vizuális művészet és design</translation>
 <translation id="7427079287360774240">Nyelvtanulás</translation>
 <translation id="7429429656042611765">„Executive” méret</translation>
-<translation id="7432774160230062882">Igazolja személyazonosságát, hogy a Chromium kitölthesse a fizetési adatait.</translation>
+<translation id="7432774160230062882">Igazolja személyazonosságát, hogy a Cobalt kitölthesse a fizetési adatait.</translation>
 <translation id="7437289804838430631">Kapcsolatfelvételi adatok hozzáadása</translation>
 <translation id="7438338505272634288">A felkeresni kívánt webhelyen tartózkodó támadók megpróbálhatják rávenni Önt olyan kártékony szoftver telepítésére, amely befolyásolja a böngészés módját – például módosítja a kezdőlapot, vagy további hirdetéseket jelenít meg a felkeresett webhelyeken. A Chrome kifejezetten javasolja, hogy a károk elkerülése érdekében térjen vissza biztonságos webhelyre. <ph name="BEGIN_LEARN_MORE_LINK" />További információ<ph name="END_LEARN_MORE_LINK" />.</translation>
 <translation id="7440140511386898319">Felfedezés offline állapotban</translation>
@@ -3383,7 +3383,7 @@ További részletek:
 <translation id="7564049878696755256">Elveszítheti hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Chrome azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="7564667064360547717">Ingek és topok</translation>
 <translation id="7567204685887185387">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványát csalással állíthatták ki. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
-<translation id="7568616151991626879">A Google Chrome megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">A Cobalt megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Eltávolítja a hitelkártyát a Chrome-ból?</translation>
 <translation id="7569983096843329377">Fekete</translation>
@@ -3647,7 +3647,7 @@ További részletek:
 <translation id="8061691770921837575">Smink és kozmetikumok</translation>
 <translation id="8063875539456488183">Ár mentése és nyomon követése</translation>
 <translation id="8066225060526005217">A cookie-beállítások kezelik</translation>
-<translation id="8067872629359326442">Megtévesztő webhelyen adta meg jelszavát. A Chromium segíthet. Ha módosítani szeretné jelszavát, és értesíteni szeretné a Google-t arról, hogy fiókja veszélyben lehet, kattintson a Fiók védelme gombra.</translation>
+<translation id="8067872629359326442">Megtévesztő webhelyen adta meg jelszavát. A Cobalt segíthet. Ha módosítani szeretné jelszavát, és értesíteni szeretné a Google-t arról, hogy fiókja veszélyben lehet, kattintson a Fiók védelme gombra.</translation>
 <translation id="8070439594494267500">Alkalmazásikon</translation>
 <translation id="8070495475341517754">Városnézés</translation>
 <translation id="8073647227500388356">Autonóm járművek</translation>
@@ -3907,7 +3907,7 @@ További részletek:
 <translation id="8542014550340843547">Három kapocs alul</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Lehetősége van arra, hogy <ph name="BEGIN_ERROR_LINK" />jelentse az észlelési problémát<ph name="END_ERROR_LINK" />, ha pedig tisztában van a biztonságát fenyegető kockázatokkal, <ph name="BEGIN_LINK" />felkeresheti a nem biztonságos webhelyet<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">A Google Chrome módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
+<translation id="8544217240017914508">A Cobalt módosítani próbálja a fizetési módok kitöltési beállításait.</translation>
 <translation id="8544303911974837265">Poliészter</translation>
 <translation id="854548366864113872">Magas árú lehetőség</translation>
 <translation id="8546254312340305428">Adja meg a feltöltés okát (kötelező)</translation>
@@ -3924,7 +3924,7 @@ További részletek:
 <translation id="8558347880669160417">A kamera és a mikrofon erre az alkalomra engedélyezve van</translation>
 <translation id="8559762987265718583">Nem hozható létre privát kapcsolat a következővel: <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" />, mert az eszköz dátum- és időbeállítása helytelen (<ph name="DATE_AND_TIME" />).</translation>
 <translation id="8564182942834072828">Különálló dokumentumok/Nem szétválogatott másolatok</translation>
-<translation id="8564985650692024650">A Chromium azt javasolja, hogy adjon meg új <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
+<translation id="8564985650692024650">A Cobalt azt javasolja, hogy adjon meg új <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" />-jelszót a régi helyett, ha azt más webhelyeken is használta.</translation>
 <translation id="8570895683659698018">Hobbi és szabadidő</translation>
 <translation id="8574841453995331336">Hűtőszekrények és fagyasztók</translation>
 <translation id="8577192028579836704">Az összes lehetőség általában: <ph name="TYPICAL_PRICE" /></translation>
@@ -3999,7 +3999,7 @@ További részletek:
 <translation id="8736059027199600831">30 × 40 hüvelyk</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, nyomja le a Tab, majd az Enter billentyűt új inkognitó ablak megnyitásához, amelyben privát módon böngészhet</translation>
 <translation id="8737685506611670901"><ph name="PROTOCOL" /> linkek megnyitása a(z) <ph name="REPLACED_HANDLER_TITLE" /> helyett</translation>
-<translation id="8738058698779197622">Biztonságos kapcsolat létrehozásához az órát pontosan be kell állítani. Ez azért szükséges, mert a webhelyek által az azonosításukra használt tanúsítványok csak adott ideig érvényesek. Mivel az eszköz órája nem pontos, a Chromium nem tudja ellenőrizni ezeket a tanúsítványokat.</translation>
+<translation id="8738058698779197622">Biztonságos kapcsolat létrehozásához az órát pontosan be kell állítani. Ez azért szükséges, mert a webhelyek által az azonosításukra használt tanúsítványok csak adott ideig érvényesek. Mivel az eszköz órája nem pontos, a Cobalt nem tudja ellenőrizni ezeket a tanúsítványokat.</translation>
 <translation id="8740359287975076522">A(z) <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS-címe&lt;/abbr&gt; nem található. A probléma diagnosztizálása folyamatban van.</translation>
 <translation id="8742371904523228557">A(z) <ph name="ORIGIN" /> webhelyhez tartozó kód a következő: <ph name="ONE_TIME_CODE" /></translation>
 <translation id="874918643257405732">Lap hozzáadása a könyvjelzőkhöz</translation>
@@ -4026,7 +4026,7 @@ További részletek:
 <translation id="8785658048882205566">Motorkerékpárok</translation>
 <translation id="8790007591277257123">&amp;Törlés újra</translation>
 <translation id="8792272652220298572">Műanyag (fényes)</translation>
-<translation id="8792621596287649091">Elveszítheti a hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
+<translation id="8792621596287649091">Elveszítheti a hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Cobalt azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="8793655568873652685">A(z) <ph name="ENROLLMENT_DOMAIN" /> bekapcsolta a Chrome Enterprise Connectors integrációs eszközöket az Ön böngészőjében. Az eszközök hozzáférnek bizonyos adatokhoz.</translation>
 <translation id="8798099450830957504">Alapértelmezett</translation>
@@ -4176,7 +4176,7 @@ További részletek:
 <translation id="9095388113577226029">További nyelvek…</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />. Nyomja le a Tab, majd az Enter gombot, ha a Chrome-ot szeretné beállítani a rendszer alapértelmezett böngészőjeként az iOS beállításaiban</translation>
 <translation id="9101630580131696064">1. tálca</translation>
-<translation id="9103872766612412690">A(z) <ph name="SITE" /> webhely rendes esetben titkosítást alkalmaz az Ön adatainak védelme érdekében. Amikor a Chromium most csatlakozni próbált, a(z) <ph name="SITE" /> webhely szokatlan és helytelen hitelesítési adatokat küldött vissza.Ez olyankor fordulhat elő, amikor egy támadó megpróbálja magát kiadni a(z) <ph name="SITE" /> webhelynek, vagy valamilyen Wi-Fi-bejelentkezési képernyő megszakította a kapcsolatot. Adatai továbbra is biztonságban vannak, mivel a Chromium még azt megelőzően megszakította a kapcsolatot, hogy bármiféle adatcserére sor kerülhetett volna.</translation>
+<translation id="9103872766612412690">A(z) <ph name="SITE" /> webhely rendes esetben titkosítást alkalmaz az Ön adatainak védelme érdekében. Amikor a Cobalt most csatlakozni próbált, a(z) <ph name="SITE" /> webhely szokatlan és helytelen hitelesítési adatokat küldött vissza.Ez olyankor fordulhat elő, amikor egy támadó megpróbálja magát kiadni a(z) <ph name="SITE" /> webhelynek, vagy valamilyen Wi-Fi-bejelentkezési képernyő megszakította a kapcsolatot. Adatai továbbra is biztonságban vannak, mivel a Cobalt még azt megelőzően megszakította a kapcsolatot, hogy bármiféle adatcserére sor kerülhetett volna.</translation>
 <translation id="9107467864910557787">Böngészőjét a(z) <ph name="MANAGER" /> kezeli</translation>
 <translation id="91108059142052966">Rendszergazdai házirend tiltja a(z) <ph name="APPLICATION_TITLE" /> alkalmazással való képernyőmegosztást, ha bizalmas tartalom látható a képernyőn.</translation>
 <translation id="9114524666733003316">Kártya ellenőrzése…</translation>
@@ -4244,7 +4244,7 @@ További részletek:
 <translation id="93020190163435405">Szakmai gyakorlat</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Engedélyezi, hogy a(z) <ph name="APP_NAME" /> alkalmazás Wi-Fi-hálózatokat állítson be?</translation>
-<translation id="936602727769022409">Elveszítheti a hozzáférést Google-fiókjához. A Chromium azt javasolja, hogy azonnal módosítsa jelszavát. Be kell majd jelentkeznie.</translation>
+<translation id="936602727769022409">Elveszítheti a hozzáférést Google-fiókjához. A Cobalt azt javasolja, hogy azonnal módosítsa jelszavát. Be kell majd jelentkeznie.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Felhasznált adatok<ph name="END_BOLD" />: Hirdetéstémái a legutóbbi böngészési előzményein, azaz a Chrome használatával ezen az eszközön felkeresett webhelyek listáján alapulnak.</translation>
 <translation id="937885410143139026">Adatok elküldve a Felügyeleti Konzolba</translation>
 <translation id="939736085109172342">Új mappa</translation>

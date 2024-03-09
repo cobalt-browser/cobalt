@@ -50,7 +50,7 @@ Du bør tenke på følgende:
 <translation id="1917964099031477364">Denne kontoen og eventuelle ulagrede data blir fjernet fra Chrome og andre Google-apper på enheten.</translation>
 <translation id="1965935827552890526">Gjør deg ferdig med det du holdt på med i det andre åpne Chrome-vinduet.</translation>
 <translation id="1987779152850321833">Fullfør de foreslåtte handlingene under for å få mest mulig ut av Chrome.</translation>
-<translation id="2056123005618757196">Få mer gjort med Google Chrome-nettleseren, som er enkel, sikker og raskere enn noensinne.</translation>
+<translation id="2056123005618757196">Få mer gjort med Cobalt-nettleseren, som er enkel, sikker og raskere enn noensinne.</translation>
 <translation id="2120238739383482109">Åpner Chrome-bokmerkene.</translation>
 <translation id="2147651015520127414">Chrome bekreftet at sertifikatet for dette nettstedet er utstedt av <ph name="ISSUER" />.</translation>
 <translation id="2155145621546387786">Del Chrome</translation>
@@ -70,7 +70,7 @@ Du bør tenke på følgende:
 <translation id="2561231791489583059">Bruk Chrome som standardnettleser for å holde deg beskyttet mot farlige nettsteder og holde passordene dine trygge</translation>
 <translation id="2574249610672786438">For å se fanene dine overalt hvor du bruker Chrome, logg på alle enhetene dine</translation>
 <translation id="2576431527583832481">Chrome har blitt enda bedre. En ny versjon er nå tilgjengelig.</translation>
-<translation id="257708665678654955">Vil du at Google Chrome skal tilby å oversette sider på <ph name="LANGUAGE_NAME" /> på dette nettstedet neste gang?</translation>
+<translation id="257708665678654955">Vil du at Cobalt skal tilby å oversette sider på <ph name="LANGUAGE_NAME" /> på dette nettstedet neste gang?</translation>
 <translation id="2650286135394207535">La Chrome hjelpe deg med å spore pakkene dine</translation>
 <translation id="2671426118752779020">Du kan bruke passordene du har lagret i Google Passordlagring, i andre apper på iPhonen din.</translation>
 <translation id="2689064829982324496">For å logge av Google-kontoen din på alle nettsteder, <ph name="BEGIN_LINK" />logg av Chrome<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="3030414234702425231">Fordi du logger av en konto som er administrert av <ph name="SIGNOUT_MANAGED_DOMAIN" />, blir Chrome-dataene dine slettet fra denne enheten, men de blir værende i Google-kontoen din.</translation>
 <translation id="309672519329227863">Få tilgang til Chrome-passord med mer i andre apper.</translation>
 <translation id="3146109040683991651">Angi Chrome som standardnettleser</translation>
-<translation id="3167189358072330585">Kontoen din fungerer ikke i Google Chrome. Kontakt domeneadministratoren din, eller logg på med en vanlig Google-konto.</translation>
-<translation id="3173834708294760622">Google Chrome-side</translation>
+<translation id="3167189358072330585">Kontoen din fungerer ikke i Cobalt. Kontakt domeneadministratoren din, eller logg på med en vanlig Google-konto.</translation>
+<translation id="3173834708294760622">Cobalt-side</translation>
 <translation id="322254490661677575">For å bruke og lagre Chrome-data i Google-kontoen din, skriv inn passordfrasen din.</translation>
 <translation id="3282568296779691940">Logg på Chrome</translation>
 <translation id="3340938510625667914">Chrome-handlinger</translation>
@@ -109,11 +109,11 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="3646736009628185125">Familiemedlemmet ditt kan ikke motta passord akkurat nå. Be vedkommende om å oppdatere Chrome og synkronisere passordene sine. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Dette betyr at Chrome kommer til å forespørre mobilnettstedet hver gang.</translation>
 <translation id="3720541637541300822">Lås inkognitofaner når du lukker Chrome</translation>
-<translation id="3740397331642243698">Åpner de oppgitte nettadressene i Google Chrome i inkognitomodus.</translation>
+<translation id="3740397331642243698">Åpner de oppgitte nettadressene i Cobalt i inkognitomodus.</translation>
 <translation id="3741995255368156336">Åpner Chrome-leselisten.</translation>
 <translation id="3744018071945602754">Administrer passord i Chrome</translation>
 <translation id="3827545470516145620">Du får standard sikkerhetsbeskyttelse på denne enheten</translation>
-<translation id="384394811301901750">Google Chrome kan ikke bruke kameraet akkurat nå</translation>
+<translation id="384394811301901750">Cobalt kan ikke bruke kameraet akkurat nå</translation>
 <translation id="3863841106411295595">Legger til de angitte nettadressene på leselisten i Chrome.</translation>
 <translation id="387280738075653372">Last ned Chrome her.</translation>
 <translation id="3901001113120561395">Få mest mulig ut av Chrome.</translation>
@@ -121,7 +121,7 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="3967382818307165056">Administrer betalingsmåter i Chrome</translation>
 <translation id="3980220367029651214">Du bytter synkroniseringskonto fra <ph name="USER_EMAIL1" /> til <ph name="USER_EMAIL2" />. De eksisterende Chrome-dataene dine administreres av <ph name="DOMAIN" />. Dette sletter dataene dine fra denne enheten, men dataene blir værende i <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Organisasjonen din krever at du forblir logget av Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome har ikke tilgang til bildene eller videoene dine. Slå på tilgangen i iOS-innstillingene &gt; Personvern &gt; Bilder.</translation>
+<translation id="3988789688219830639">Cobalt har ikke tilgang til bildene eller videoene dine. Slå på tilgangen i iOS-innstillingene &gt; Personvern &gt; Bilder.</translation>
 <translation id="4064699917955374540">For å bruke og lagre Chrome-data i Google-kontoen din, bekreft at det er deg.</translation>
 <translation id="4067858366537947361">Åpne en inkognitofane i Chrome</translation>
 <translation id="4093042601582616698">Vil du gjøre Chrome til standardnettleseren din?</translation>
@@ -156,7 +156,7 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="5190139289262548459">Organisasjonen din, <ph name="DOMAIN" />, administrerer kontoen du er logget på, og hvordan Chrome brukes.</translation>
 <translation id="5256908199795498284">Chrome registrerer pakkesporingsnumre på nettsteder du besøker, og viser pakkeoppdateringer på Ny fane-siden. Dataene dine blir delt med Google, slik at vi kan tilby denne funksjonen og gjøre Shopping enda bedre for alle.</translation>
 <translation id="5278862365980079760">Lås inkognitofanene dine når du går ut av Chrome eller bytter til en annen app.</translation>
-<translation id="5389212809648216794">Google Chrome kan ikke bruke kameraet fordi det brukes av en annen app</translation>
+<translation id="5389212809648216794">Cobalt kan ikke bruke kameraet fordi det brukes av en annen app</translation>
 <translation id="5395376160638294582">Sørg for at du alltid kan bruke Chrome-dataene i Google-kontoen din</translation>
 <translation id="5439191312780166229">Advarer deg om farlige nettsteder, også nettsteder som Google ikke kjenner til fra før, ved å analysere mer data fra nettsteder enn ved standardbeskyttelse. Du kan velge å hoppe over Chrome-advarsler.</translation>
 <translation id="5442013002200339429">Hvis du skjuler «<ph name="MODULE_NAME" />», slutter Chrome å spore fremtidige pakker automatisk, og alle tidligere pakkesporingsdata slettes.</translation>
@@ -168,8 +168,8 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="5552137475244467770">Chrome sjekker passordene dine regelmessig mot lister som er lagt ut på nett. Når dette gjøres, er passordene og brukernavnene dine kryptert. Det betyr at ingen kan lese dem, ikke engang Google.</translation>
 <translation id="5554520618550346933">Når du bruker et passord, advarer Chrome deg hvis passordet er publisert på nettet. Denne funksjonen holder passordene og brukernavnene dine kryptert. Det betyr at ingen kan lese dem, ikke engang Google.</translation>
 <translation id="5601180634394228718">For å se flere innstillinger som bruker data for å forbedre Chrome-opplevelsen din, gå til <ph name="BEGIN_LINK" />Google-tjenester<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Åpne Innstillinger &gt; Personvern &gt; Kamera &gt; Google Chrome, og slå på kameraet.</translation>
-<translation id="5642200033778930880">Google Chrome kan ikke bruke kameraet i modus for delt visning</translation>
+<translation id="5639704535586432836">Åpne Innstillinger &gt; Personvern &gt; Kamera &gt; Cobalt, og slå på kameraet.</translation>
+<translation id="5642200033778930880">Cobalt kan ikke bruke kameraet i modus for delt visning</translation>
 <translation id="5661521615548540542">Google Passordlagring kunne ikke sjekke alle passordene. Prøv igjen senere.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Viser nå 1 Chrome-vindu}other{Viser nå {count} Chrome-vinduer}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ For å se flere innstillinger som bruker data for å forbedre Chrome-opplevelsen
 <translation id="7056826488869329999">Åpner og kjører sikkerhetssjekken i Chrome.</translation>
 <translation id="7059914902409643750">Gi Chrome et personlig preg</translation>
 <translation id="7124339256045485976">Hold Chrome oppdatert</translation>
-<translation id="7161390184744336561">Google Chrome er utdatert</translation>
-<translation id="7165736900384873061">Begynn å bruke Google Chrome QR-skanneren</translation>
+<translation id="7161390184744336561">Cobalt er utdatert</translation>
+<translation id="7165736900384873061">Begynn å bruke Cobalt QR-skanneren</translation>
 <translation id="7175129790242719365">Chrome-tips: Logg på Chrome</translation>
 <translation id="7187993566681480880">Holder deg trygg i Chrome og kan brukes til å øke sikkerheten din i andre Google-apper når du er pålogget.</translation>
 <translation id="7200524487407690471">Chrome kjører sikkerhetssjekken automatisk hver dag for å beskytte deg mot databrudd, utrygge nettsteder med mer. Du kan finne ut mer om sikkerhetssjekken i innstillingene.</translation>
@@ -233,7 +233,7 @@ For å se flere innstillinger som bruker data for å forbedre Chrome-opplevelsen
 <translation id="7304491752269485262">Utvidet autofyllvisning i Chrome</translation>
 <translation id="7349129508108954623">La Chrome bruke Google Maps for å gi deg veibeskrivelser og lokal informasjon om registrerte adresser.</translation>
 <translation id="7394108421562933108">Maps i Chrome</translation>
-<translation id="7400722733683201933">Om Google Chrome</translation>
+<translation id="7400722733683201933">Om Cobalt</translation>
 <translation id="7466693328838535498">I feltet Søkemoduler skriver du inn Chrome</translation>
 <translation id="746684838091935575">3. Velg Chrome.</translation>
 <translation id="7492574581995589075">Organisasjonen din har slått av muligheten til å bruke og lagre Chrome-data i Google-kontoen din. Nye bokmerker, passord med mer lagres bare på denne enheten.</translation>
@@ -249,7 +249,7 @@ For å se flere innstillinger som bruker data for å forbedre Chrome-opplevelsen
 <translation id="7780154209050837198">For å få mest mulig ut av Chrome, logg på Chrome med Google-kontoen din.</translation>
 <translation id="778855399387580014">Start et søk i en ny Chrome-fane.</translation>
 <translation id="7792140019572081272">Chrome beskytter de sensitive dataene dine med Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome er oppdatert</translation>
+<translation id="7855730255114109580">Cobalt er oppdatert</translation>
 <translation id="7897703007638178753">Se nylige faner fra Chrome</translation>
 <translation id="7925119591961387184">Velg «Chrome».</translation>
 <translation id="7933491483529363150">Åpne den nyligste fanen min i Chrome.</translation>
@@ -280,13 +280,13 @@ Dataene dine ble kryptert med passordfrasen din <ph name="TIME" />. Skriv den in
   1. Åpne Innstillinger.
   2. Trykk på Standard nettleserapp.
   3. Velg Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Nå kan du bruke Chrome når du blar gjennom eller trykker på linker i meldinger, dokumenter og andre apper.</translation>
 <translation id="8577978202917232774">Forslagene er basert på nettleseraktiviteten din på de andre enhetene dine. For å få forslag, logg på Chrome på alle enhetene dine.</translation>
 <translation id="8587647598504233556">Trykk på «Chrome» og så på «Standard nettleserapp».</translation>
 <translation id="8603022514504485810">Google Passordlagring kunne ikke sjekke alle passordene. Prøv på nytt i morgen, eller <ph name="BEGIN_LINK" />sjekk passordene i Google-kontoen din<ph name="END_LINK" />.</translation>
 <translation id="8727043961453758442">Få mest mulig ut av Chrome</translation>
-<translation id="8736550665979974340">Hold deg trygg med Google Chrome</translation>
+<translation id="8736550665979974340">Hold deg trygg med Cobalt</translation>
 <translation id="8760668027640688122">Åpne en ny fane i Chrome</translation>
 <translation id="8765470054473112089">Når du skriver i adressefeltet eller søkefeltet, sender Chrome det du skriver til standardsøkemotoren din, for å gi deg bedre forslag. Dette er av i Inkognito.</translation>
 <translation id="8772179140489533211">Viser vinduer som ber deg logge på Chrome.</translation>

@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">விவரங்கள்: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">இந்த மொழிகளுக்கு மொழிபெயர்ப்பு வேண்டாம்:</translation>
 <translation id="1145536944570833626">ஏற்கனவே உள்ள தரவை நீக்கு.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Chrome &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Cobalt &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
 <translation id="115483310321669804"><ph name="PASSWORD" /> கடவுச்சொல்லைப் பயன்படுத்தும்</translation>
 <translation id="1173894706177603556">பெயர் மாற்று</translation>
 <translation id="1174479719160874822">திரையின் அளவு சிறியதாக இருந்தால் Chrome மொபைல் தளத்திற்குக் கோரிக்கை விடுக்கும்</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">புக்மார்க் சேமிப்புச் செயல்முறை முழுத் திரையில் காட்டப்பட்டுள்ளது</translation>
 <translation id="1327257854815634930">வழிசெலுத்தல் வரலாறு திறக்கப்பட்டுள்ளது</translation>
 <translation id="1331212799747679585">Chromeமைப் புதுப்பிக்க முடியாது. கூடுதல் விருப்பங்கள்</translation>
-<translation id="1332501820983677155">Google Chrome அம்சத்திற்கான ஷார்ட்கட்கள்</translation>
+<translation id="1332501820983677155">Cobalt அம்சத்திற்கான ஷார்ட்கட்கள்</translation>
 <translation id="1344653310988386453">ஹைலைட் செய்யப்பட்ட உரைக்கான இணைப்பைச் சேருங்கள்</translation>
 <translation id="1347468774581902829">செயல்பாட்டை நிர்வகிக்கும்</translation>
 <translation id="1360432990279830238">வெளியேறி, ஒத்திசைவை முடக்கவா?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">உங்களுக்குப் பிடித்த கட்டுரைகளை Chromeமில் படிக்கலாம்</translation>
 <translation id="3066573403916685335">கீழே நகர்த்து</translation>
 <translation id="3070005020161560471">தானாக மொழிபெயர்க்க வேண்டியவை</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Chrome &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_LINK3" />தனியுரிமைக் கொள்கையையும்<ph name="END_LINK3" /> ஏற்கிறீர்கள்.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Cobalt &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_LINK3" />தனியுரிமைக் கொள்கையையும்<ph name="END_LINK3" /> ஏற்கிறீர்கள்.</translation>
 <translation id="3080525922482950719">பின்னரோ ஆஃப்லைனிலோ படிப்பதற்கு பக்கங்களைச் சேமிக்கலாம்</translation>
 <translation id="3091010850649238832">கிளிப்போர்டில் உள்ளவற்றைக் காட்டும்</translation>
 <translation id="3098745985164956033">உங்களுக்கான விளக்கங்களை மேம்படுத்த, படங்கள் Googleளுக்கு அனுப்பப்படும்</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">Images</translation>
 <translation id="92381315203627188">ஒரு தளம் அதன் பக்கத்தில் இருக்கும் இணைப்புகளைத் தனிப்பட்ட முறையில் முன்கூட்டியே ஏற்றுமாறு கேட்கும்போது, Google சேவையகங்கள் மூலம் பக்கங்களை என்க்ரிப்ஷன் செய்து, அவற்றைக் குக்கீகள் இல்லாமல் Chrome முன்கூட்டியே ஏற்றும். இதனால், முன்கூட்டியே ஏற்றப்பட்ட தளத்துடன் உங்கள் அடையாளம் பகிரப்படாது.</translation>
 <translation id="926205370408745186">Chrome செயல்பாட்டை டிஜிட்டல் வெல்பீயிங்கிலிருந்து நீக்குதல்</translation>
-<translation id="927968626442779827">Google Chrome உலாவியில் லைட் பயன்முறையைப் பயன்படுத்தலாம்</translation>
+<translation id="927968626442779827">Cobalt உலாவியில் லைட் பயன்முறையைப் பயன்படுத்தலாம்</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> தளத்தைப் பின்தொடர்கிறீர்கள்</translation>
 <translation id="93533588269984624">அனைத்து கடவுச்சொற்களும் உங்கள் சாதனத்தில் பதிவிறக்கப்பட்டு <ph name="CHROME_CHANNEL" /> இல் இருந்து நீக்கப்படும்</translation>
 <translation id="938850635132480979">பிழை: <ph name="ERROR_CODE" /></translation>

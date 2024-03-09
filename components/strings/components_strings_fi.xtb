@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Valmistellaan tiedostoja</translation>
 <translation id="1015730422737071372">Lisätietoja</translation>
 <translation id="1019413721762100891">Pois päältä</translation>
-<translation id="1021753677514347426">Tämän virheen syynä on varmenne, jonka sinä tai joku muu asensi laitteellesi. Varmennetta on aiemmin käytetty verkkojen valvontaan ja kaappaamiseen, eikä Chromium luota siihen. Valvomiselle voi olla oikea syy esimerkiksi oppilaitoksen tai yrityksen verkossa, mutta Chromium haluaa sinun tietävän valvonnasta, vaikket voi lopettaa sitä. Valvonta voi tapahtua missä tahansa selaimessa tai sovelluksessa, jolla on pääsy verkkoon.</translation>
+<translation id="1021753677514347426">Tämän virheen syynä on varmenne, jonka sinä tai joku muu asensi laitteellesi. Varmennetta on aiemmin käytetty verkkojen valvontaan ja kaappaamiseen, eikä Cobalt luota siihen. Valvomiselle voi olla oikea syy esimerkiksi oppilaitoksen tai yrityksen verkossa, mutta Cobalt haluaa sinun tietävän valvonnasta, vaikket voi lopettaa sitä. Valvonta voi tapahtua missä tahansa selaimessa tai sovelluksessa, jolla on pääsy verkkoon.</translation>
 <translation id="1024111578869940408">Hyökkääjät jäljittelevät joskus sivustoja tekemällä verkko-osoitteeseen vaikeasti havaittavia muutoksia.</translation>
 <translation id="1024913885641459127">Tuotearvostelut ja hintavertailut</translation>
 <translation id="1028781062521375153">Katso tiedot</translation>
@@ -317,7 +317,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1567040042588613346">Tämä käytäntö toimii odotetusti, mutta sama arvo on asetettu muualla, ja tämä käytäntö korvaa sen.</translation>
 <translation id="1567405528131216114">Lisää <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Lisää viimeinen voimassaolopäivä</translation>
-<translation id="1569694109004336106">Google Chrome yrittää laittaa Windows Hellon päälle salasanojen täyttämistä varten.</translation>
+<translation id="1569694109004336106">Cobalt yrittää laittaa Windows Hellon päälle salasanojen täyttämistä varten.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> tuumaa</translation>
 <translation id="1574714699824202614">Maksutapaa vahvistetaan</translation>
 <translation id="1576277203042721907">Shopping-vinkit</translation>
@@ -360,7 +360,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="1645368109819982629">Protokollaa ei tueta</translation>
 <translation id="1650602712345345441">Muuta Chromen asetuksia</translation>
 <translation id="1652415888492971589">JIS B8 (64 mm x 91 mm)</translation>
-<translation id="1652862280638399816">Jos haluat käyttää Salasanoja macOS-avainnipun kanssa, käynnistä Chromium uudelleen ja salli pääsy avainnippuun. Välilehdet avataan uudelleen uudelleenkäynnistyksen jälkeen.</translation>
+<translation id="1652862280638399816">Jos haluat käyttää Salasanoja macOS-avainnipun kanssa, käynnistä Cobalt uudelleen ja salli pääsy avainnippuun. Välilehdet avataan uudelleen uudelleenkäynnistyksen jälkeen.</translation>
 <translation id="1656024727720460136">Chrome teki sivusta yksinkertaisemman, jotta sen lukeminen olisi helpompaa. Chrome nouti alkuperäisen sivun suojatun yhteyden kautta.</translation>
 <translation id="1656489000284462475">Noutoaika</translation>
 <translation id="1658111267661135323">TV ja video</translation>
@@ -509,7 +509,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="194174710521904357">Olet väliaikaisesti sallinut tämän sivuston käyttää kolmannen osapuolen evästeitä. Selauksen suojaus ei tällöin ole niin vahva, mutta sivuston ominaisuudet toimivat todennäköisemmin oikein.</translation>
 <translation id="1942498996464084801">Kirjat ja kirjallisuus</translation>
 <translation id="1943994668912612445">Suunnittelu</translation>
-<translation id="1945968466830820669">Voit menettää organisaatiosi tilin käyttöoikeuden tai joutua identiteettivarkauden uhriksi. Chromium suosittelee vaihtamaan salasanan välittömästi.</translation>
+<translation id="1945968466830820669">Voit menettää organisaatiosi tilin käyttöoikeuden tai joutua identiteettivarkauden uhriksi. Cobalt suosittelee vaihtamaan salasanan välittömästi.</translation>
 <translation id="1946849748901605102">12 x 15 tuumaa</translation>
 <translation id="1947454675006758438">Niitti oikeassa yläkulmassa</translation>
 <translation id="1953729392594614704">Jos <ph name="TOPIC" /> estetään, myös kaikki siihen liittyvät aiheet estetään, vaikka aihe olisi aktiivinen</translation>
@@ -588,7 +588,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2083256696566019397">Salli jokaisella käynnillä</translation>
 <translation id="2085876078937250610">Tallenna…</translation>
 <translation id="2091887806945687916">Ääni</translation>
-<translation id="2093982008204312032">Google Chrome yrittää laittaa Windows Hellon pois päältä salasanojen täyttämistä varten.</translation>
+<translation id="2093982008204312032">Cobalt yrittää laittaa Windows Hellon pois päältä salasanojen täyttämistä varten.</translation>
 <translation id="2094505752054353250">Verkkotunnukset eivät ole yhteensopivat</translation>
 <translation id="2094704029599359040">Versiotiedot</translation>
 <translation id="2099652385553570808">Kolme niittiä vasemmalla</translation>
@@ -758,7 +758,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="239429038616798445">Lähetystapa ei ole käytettävissä. Kokeile toista tapaa.</translation>
 <translation id="2395840535409704129">Vesiurheilu</translation>
 <translation id="2396249848217231973">K&amp;umoa poisto</translation>
-<translation id="2399868464369312507">Google Chrome yrittää muokata maksutapoja.</translation>
+<translation id="2399868464369312507">Cobalt yrittää muokata maksutapoja.</translation>
 <translation id="2400600116338235695">Saa pyytää lupaa sarjaportteihin yhdistämiseen</translation>
 <translation id="2404884497378469141">Yritä kopioida tiedostot uudelleen</translation>
 <translation id="2413155254802890957">Vanha</translation>
@@ -1026,7 +1026,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="2979424420072875974">Kirjoittajan oppaat</translation>
 <translation id="2980742331521553164">Kortin CVC-koodi salataan ja tallennetaan Google-tilillesi nopeampaa maksamista varten</translation>
 <translation id="2983666748527428214">Avaa incognito-välilehti</translation>
-<translation id="2985306909656435243">Jos tämä on käytössä, Chromium tallentaa kortin kopion tälle laitteelle nopeuttaakseen lomakkeiden täyttöä.</translation>
+<translation id="2985306909656435243">Jos tämä on käytössä, Cobalt tallentaa kortin kopion tälle laitteelle nopeuttaakseen lomakkeiden täyttöä.</translation>
 <translation id="2985398929374701810">Anna kelvollinen osoite.</translation>
 <translation id="2987034854559945715">Ei hakua vastaavia ominaisuuksia</translation>
 <translation id="2988216301273604645">Chrome rajoittaa tiedon määrää, jolla sivustot voivat seurata sinua selaamisen aikana. Voit valita haluamasi suojaustason asetuksista.</translation>
@@ -1108,7 +1108,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3154506275960390542">Tällä sivulla on taulukko, jota ei ehkä voi lähettää turvallisesti. Muut voivat nähdä lähettämäsi tiedot siirron aikana tai hyökkääjä voi muuttaa niitä, ennen kuin ne saapuvat palvelimelle.</translation>
 <translation id="3154987252551138431">Jotain meni pieleen käytettäessä lähijakamista</translation>
 <translation id="315504272643575312"><ph name="MANAGER" /> ylläpitää tiliäsi.</translation>
-<translation id="3155163173539279776">Käynnistä Chromium uudelleen</translation>
+<translation id="3155163173539279776">Käynnistä Cobalt uudelleen</translation>
 <translation id="3157931365184549694">Palauta</translation>
 <translation id="3158539265159265653">Levy</translation>
 <translation id="3162559335345991374">Käyttämäsi Wi-Fi saattaa edellyttää kirjautumista.</translation>
@@ -1163,7 +1163,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="324180406144491771"><ph name="HOST_NAME" />‑linkit on estetty</translation>
 <translation id="3252772880526154546">Arkkitehtuuri</translation>
 <translation id="3254301855501243548">18 x 22 tuumaa</translation>
-<translation id="3255926992597692024">Chromium yrittää muuttaa maksutapojen täyttämisen asetuksia.</translation>
+<translation id="3255926992597692024">Cobalt yrittää muuttaa maksutapojen täyttämisen asetuksia.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" />, luo uusi tapahtuma nopeasti Google Kalenterissa painamalla sarkainta ja sitten Enter</translation>
 <translation id="3261488570342242926">Lue lisää virtuaalikorteista</translation>
 <translation id="3262698603497362968">Ostovalinnat</translation>
@@ -1250,7 +1250,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="3423742043356668186">Järjestelmän määrittämä</translation>
 <translation id="3427092606871434483">Salli (oletus)</translation>
 <translation id="3427342743765426898">&amp;Toista muokkaus</translation>
-<translation id="342781501876943858">Chromium suosittelee salasanan vaihtamista, jos olet käyttänyt sitä myös muilla sivustoilla.</translation>
+<translation id="342781501876943858">Cobalt suosittelee salasanan vaihtamista, jos olet käyttänyt sitä myös muilla sivustoilla.</translation>
 <translation id="3428151540071562330">Yksi tai useampi DnsOverHttpsTemplates-palvelinmallien URI-tunnuksista on virheellinen, eikä niitä käytetä.</translation>
 <translation id="3428789896412418755">Ryhmittelyhistoria</translation>
 <translation id="3431216045099978607">Voit poistua koko näytön tilasta ja nähdä latauksen painamalla |<ph name="ACCELERATOR" />|.</translation>
@@ -1438,7 +1438,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="374325029554577103">Kuntoilutekniikkatuotteet</translation>
 <translation id="3744111561329211289">Taustasynkronointi</translation>
 <translation id="3744212718085287312">Tehdäänkö siitä turvallisempi seuraavaa kertaa varten virtuaalisella kortilla?</translation>
-<translation id="3744899669254331632">Et voi siirtyä sivustoon <ph name="SITE" /> tällä hetkellä, koska sivusto lähetti salatut kirjautumistiedot, joita Chromium ei osaa käsitellä. Verkkovirheet ja hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii luultavasti myöhemmin.</translation>
+<translation id="3744899669254331632">Et voi siirtyä sivustoon <ph name="SITE" /> tällä hetkellä, koska sivusto lähetti salatut kirjautumistiedot, joita Cobalt ei osaa käsitellä. Verkkovirheet ja hyökkäykset ovat yleensä väliaikaisia, joten sivu toimii luultavasti myöhemmin.</translation>
 <translation id="3745599309295009257">Kun kirjoitat sivulle, teksti, sisältö ja URL-osoite lähetetään Googlelle ihmisten tarkistettavaksi ja niitä käytetään ominaisuuden parantamiseen. Vältä henkilökohtaisten tietojen (esimerkiksi terveys- tai taloustietojen) antamista tai tämän työkalun käyttämistä yksityisiä tai arkaluontoisia tietoja sisältävillä sivustoilla.</translation>
 <translation id="3748009735914587286">Metalli (erittäin kiiltävä)</translation>
 <translation id="3748148204939282805">Sivustolle <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> hyökännyt taho voi yrittää huijata sinua tekemään jotain vaarallista, kuten asentamaan ohjelmia tai paljastamaan henkilötietojasi (esimerkiksi salasanoja, puhelinnumeroita tai luottokorttitietoja). <ph name="BEGIN_LEARN_MORE_LINK" />Lisätietoja<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1572,7 +1572,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4047351652147966654">18 x 24 tuumaa</translation>
 <translation id="404831776305217138">Päivitysosoite laajennukselle (tunnus "<ph name="EXTENSION_ID" />") on virheellinen tai sen mallia ei tueta. Tuetut mallit ovat <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> ja <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Voit käyttää sitä Googlen tuotteissa</translation>
-<translation id="4050599136622776556">Chromium yrittää muokata maksutapoja.</translation>
+<translation id="4050599136622776556">Cobalt yrittää muokata maksutapoja.</translation>
 <translation id="405399507749852140">Voit saada ilmoituksen, jos hinta laskee jollakin sivustolla</translation>
 <translation id="4056223980640387499">Seepia</translation>
 <translation id="4059523390906550209">Lue lisää arkaluontoisten tietojen suojauksesta</translation>
@@ -1920,7 +1920,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4732860731866514038">Ladataan kielipakettia (<ph name="LANGUAGE" />)… <ph name="PERCENT" /> %</translation>
 <translation id="4733082559415072992"><ph name="URL" /> haluaa käyttää laitteesi sijaintia.</translation>
 <translation id="473414950835101501">Käyttää kameraasi</translation>
-<translation id="4736825316280949806">Käynnistä Chromium uudelleen.</translation>
+<translation id="4736825316280949806">Käynnistä Cobalt uudelleen.</translation>
 <translation id="4736934858538408121">Virtuaalinen kortti</translation>
 <translation id="473775607612524610">Päivitä</translation>
 <translation id="4738601419177586157">Hakuehdotus <ph name="TEXT" /></translation>
@@ -1937,7 +1937,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4756388243121344051">&amp;Historia</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Avainkoodi Chrome-profiilistasi</translation>
-<translation id="4757993714154412917">Lisäsit juuri salasanasi petolliselle sivustolle. Chromium suosittelee tarkistamaan tallennetut salasanasi tilisi suojaamiseksi.</translation>
+<translation id="4757993714154412917">Lisäsit juuri salasanasi petolliselle sivustolle. Cobalt suosittelee tarkistamaan tallennetut salasanasi tilisi suojaamiseksi.</translation>
 <translation id="4758311279753947758">Lisää yhteystiedot</translation>
 <translation id="4761326898079498987">Katso lisätietoja</translation>
 <translation id="4761869838909035636">Tee Chromen turvatarkistus</translation>
@@ -2024,7 +2024,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="4918221908152712722">Asenna <ph name="APP_NAME" /> (ei vaadi lataamista)</translation>
 <translation id="4920457992177678649">Loma-asunnot ja lyhytaikainen majoitus</translation>
 <translation id="4920710383559189047">Tasku</translation>
-<translation id="4922104989726031751">Jos haluat käyttää Salasanoja käyttöjärjestelmäsi kanssa, käynnistä Chromium uudelleen ja salli pääsy tietokoneesi Salasanoihin. Välilehdet avataan uudelleen uudelleenkäynnistyksen jälkeen.</translation>
+<translation id="4922104989726031751">Jos haluat käyttää Salasanoja käyttöjärjestelmäsi kanssa, käynnistä Cobalt uudelleen ja salli pääsy tietokoneesi Salasanoihin. Välilehdet avataan uudelleen uudelleenkäynnistyksen jälkeen.</translation>
 <translation id="4923459931733593730">Maksu</translation>
 <translation id="4926049483395192435">On määritettävä.</translation>
 <translation id="4926159001844873046">Viesti osoitteesta <ph name="SITE" /></translation>
@@ -2109,7 +2109,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5087580092889165836">Lisää kortti</translation>
 <translation id="5088142053160410913">Viesti operaattorille</translation>
 <translation id="5093232627742069661">Kolmoistaite</translation>
-<translation id="5094747076828555589">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN" />; Chromium ei luota sen suojausvarmenteeseen. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
+<translation id="5094747076828555589">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN" />; Cobalt ei luota sen suojausvarmenteeseen. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
 <translation id="5097099694988056070">Laitetilastot esim. CPU:n/RAM-muistin käytöstä</translation>
 <translation id="5097468150760963273">27 x 39 tuumaa</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2136,7 +2136,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5137761395480718572">Sovellus pyytää lupaa asentaa Wi-Fi-verkon kirjautumistietoja. Käyttöönoton jälkeen <ph name="DEVICE_TYPE" /> muodostaa yhteyden käyttöönotettuihin Wi-Fi-verkkoihin automaattisesti. Voit poistaa kirjautumistiedot poistamalla sovelluksen. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuaalinen kortti ei ole juuri nyt käytettävissä, ota yhteyttä pankkiin</translation>
 <translation id="5138227688689900538">Näytä vähemmän</translation>
-<translation id="5143309888746105072">Chromium estää sivustoja seuraamasta sinua selaamisen aikana kolmansien osapuolten evästeiden avulla.
+<translation id="5143309888746105072">Cobalt estää sivustoja seuraamasta sinua selaamisen aikana kolmansien osapuolten evästeiden avulla.
             <ph name="NEW_LINE" />Jos sivuston ominaisuudet eivät toimi, <ph name="START_LINK" />kokeile sallia kolmannen osapuolen evästeet tilapäisesti<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Käytäntövastaus sisältää virhekoodin</translation>
 <translation id="5146995429444047494">Ilmoitukset on estetty: <ph name="ORIGIN" /></translation>
@@ -2274,7 +2274,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="5425082381151187189">Kodinsisustus ja sisustussuunnittelu</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> haluaa lähettää sinulle ilmoituksia</translation>
 <translation id="5430298929874300616">Poista kirjanmerkki</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />ei tallenna<ph name="END_EMPHASIS" /> näitä tietoja:
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />ei tallenna<ph name="END_EMPHASIS" /> näitä tietoja:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Selaushistoriasi
             <ph name="LIST_ITEM" />Evästeet ja sivustodata
@@ -2649,7 +2649,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6160391204859821737">Laita yksityisyyteen liittyvät mainosominaisuudet päälle</translation>
 <translation id="6165508094623778733">Lisätietoja</translation>
 <translation id="6167577165590485365">Hakua yritetty viimeksi:</translation>
-<translation id="617256461084925519">Google Chrome yrittää vahvistaa henkilöllisyytesi, jotta se voi täyttää maksutietosi.</translation>
+<translation id="617256461084925519">Cobalt yrittää vahvistaa henkilöllisyytesi, jotta se voi täyttää maksutietosi.</translation>
 <translation id="6176387967264100435">Tämä hinta on korkea</translation>
 <translation id="6177128806592000436">Sivustoon ei ole muodostettu turvallista yhteyttä.</translation>
 <translation id="6177531123306197852">Kirjekuori C2</translation>
@@ -2783,7 +2783,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6410264514553301377">Anna kortin <ph name="CREDIT_CARD" /> vanhentumispäivä ja CVC</translation>
 <translation id="6411107829285739505">A4 x 8</translation>
 <translation id="6414010576370319452">Ihon- ja kynsienhoito</translation>
-<translation id="6415778972515849510">Chromium voi auttaa suojaamaan Google-tiliäsi ja vaihtamaan salasanasi.</translation>
+<translation id="6415778972515849510">Cobalt voi auttaa suojaamaan Google-tiliäsi ja vaihtamaan salasanasi.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Palkanmaksupalvelut</translation>
 <translation id="6424600253695044005">Pilvitallennus</translation>
@@ -3070,7 +3070,7 @@ Muussa tapauksessa tämä estetään tietosuoja-asetuksilla. Jos sallit tämän,
 <translation id="6973988895180423160">3,5 x 5 tuumaa</translation>
 <translation id="6978121630131642226">Hakukoneet</translation>
 <translation id="6978236010531171013">Jaa silti</translation>
-<translation id="6978722349058177832">Jos jaat tämän laitteen, Chromium voi pyytää sinua tekemään vahvistuksen aina, kun maksat automaattisen täytön avulla</translation>
+<translation id="6978722349058177832">Jos jaat tämän laitteen, Cobalt voi pyytää sinua tekemään vahvistuksen aina, kun maksat automaattisen täytön avulla</translation>
 <translation id="6979158407327259162">Google Drive</translation>
 <translation id="6979440798594660689">Mykistä (oletus)</translation>
 <translation id="6987806006823772670">Kirjekuori (päällystetty)</translation>
@@ -3235,7 +3235,7 @@ Lisätietoja:
 <translation id="7308436126008021607">taustasynkronointi</translation>
 <translation id="7310392214323165548">Laite käynnistyy pian uudelleen</translation>
 <translation id="7311244614769792472">Ei tuloksia</translation>
-<translation id="7311837626618954149">Chromium estää sivustoja seuraamasta sinua kolmansien osapuolten evästeiden avulla selaamisen aikana.</translation>
+<translation id="7311837626618954149">Cobalt estää sivustoja seuraamasta sinua kolmansien osapuolten evästeiden avulla selaamisen aikana.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Yhteysohjeet</translation>
 <translation id="7323804146520582233">Piilota osio <ph name="SECTION" /></translation>
@@ -3308,7 +3308,7 @@ Lisätietoja:
 <translation id="7425878584435172632">Kuvataide ja suunnittelu</translation>
 <translation id="7427079287360774240">Kieliopinnot</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Vahvistaa henkilöllisyytesi, jotta Chromium voi täyttää maksutietosi.</translation>
+<translation id="7432774160230062882">Vahvistaa henkilöllisyytesi, jotta Cobalt voi täyttää maksutietosi.</translation>
 <translation id="7437289804838430631">Lisää yhteystieto</translation>
 <translation id="7438338505272634288">Hyökkääjät sivustolla, jolle yrität siirtyä, voivat yrittää huijata sinua asentamaan haittaohjelmia, jotka vaikuttavat selauskokemukseen. Ne voivat esimerkiksi vaihtaa aloitussivusi tai näyttää ylimääräisiä mainoksia avaamillasi sivustoilla. Chrome suosittelee, että siirryt takaisin turvalliselle sivustolle. <ph name="BEGIN_LEARN_MORE_LINK" />Lue lisää<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Tutki offline-tilassa</translation>
@@ -3385,7 +3385,7 @@ Lisätietoja:
 <translation id="7564049878696755256">Saatat menettää <ph name="ORG_NAME" />-tilisi käyttöoikeuden tai joutua identiteettivarkauden uhriksi. Chrome suosittelee salasanan vaihtamista välittömästi.</translation>
 <translation id="7564667064360547717">Paidat ja topit</translation>
 <translation id="7567204685887185387">Palvelin ei voinut todistaa olevansa <ph name="DOMAIN" />; sen suojausvarmenne on ehkä luotu vilpillisesti. Tämä voi johtua määritysvirheestä tai verkkoyhteytesi siepanneesta hyökkääjästä.</translation>
-<translation id="7568616151991626879">Google Chrome yrittää täyttää salasanasi: <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt yrittää täyttää salasanasi: <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Poistetaanko luottokortti Chromen tiedoista?</translation>
 <translation id="7569983096843329377">Musta</translation>
@@ -3649,7 +3649,7 @@ Lisätietoja:
 <translation id="8061691770921837575">Meikit ja kosmetiikka</translation>
 <translation id="8063875539456488183">Tallenna ja seuraa hintoja</translation>
 <translation id="8066225060526005217">Evästeasetusten ylläpitämä</translation>
-<translation id="8067872629359326442">Lisäsit juuri salasanasi petolliselle sivustolle. Chromium voi auttaa. Valitse Suojaa tili, niin voit vaihtaa salasanasi ja Googlelle ilmoitetaan tilin mahdollisesta vaarantumisesta.</translation>
+<translation id="8067872629359326442">Lisäsit juuri salasanasi petolliselle sivustolle. Cobalt voi auttaa. Valitse Suojaa tili, niin voit vaihtaa salasanasi ja Googlelle ilmoitetaan tilin mahdollisesta vaarantumisesta.</translation>
 <translation id="8070439594494267500">Sovelluskuvake</translation>
 <translation id="8070495475341517754">Nähtävyyskierrokset</translation>
 <translation id="8073647227500388356">Itseohjautuvat ajoneuvot</translation>
@@ -3908,7 +3908,7 @@ Lisätietoja:
 <translation id="8542014550340843547">Kolme niittiä alareunassa</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Voit <ph name="BEGIN_ERROR_LINK" />ilmoittaa löytyneestä ongelmasta<ph name="END_ERROR_LINK" /> tai <ph name="BEGIN_LINK" />siirtyä mahdollisesti haitalliselle sivustolle<ph name="END_LINK" />, jos ymmärrät tietoturvariskit.</translation>
-<translation id="8544217240017914508">Google Chrome yrittää muuttaa maksutapojen täytön asetuksia.</translation>
+<translation id="8544217240017914508">Cobalt yrittää muuttaa maksutapojen täytön asetuksia.</translation>
 <translation id="8544303911974837265">Polyesteri</translation>
 <translation id="854548366864113872">Kalliimpi vaihtoehto</translation>
 <translation id="8546254312340305428">Ilmoita latauksen syy (pakollinen)</translation>
@@ -3925,7 +3925,7 @@ Lisätietoja:
 <translation id="8558347880669160417">Kamera ja mikrofoni sallittu tällä kertaa</translation>
 <translation id="8559762987265718583">Verkkotunnukseen <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> ei voi muodostaa salattua yhteyttä, koska laitteesi aika ja päivämäärä (<ph name="DATE_AND_TIME" />) ovat virheelliset.</translation>
 <translation id="8564182942834072828">Erilliset dokumentit / Kokoamattomat kopiot</translation>
-<translation id="8564985650692024650">Chromium suosittelee organisaation <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> salasanasi vaihtamista, jos olet käyttänyt sitä myös muilla sivustoilla.</translation>
+<translation id="8564985650692024650">Cobalt suosittelee organisaation <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> salasanasi vaihtamista, jos olet käyttänyt sitä myös muilla sivustoilla.</translation>
 <translation id="8570895683659698018">Harrastukset ja vapaa-aika</translation>
 <translation id="8574841453995331336">Jääkaapit ja pakastimet</translation>
 <translation id="8577192028579836704">Kaikki vaihtoehdot yleensä <ph name="TYPICAL_PRICE" /></translation>
@@ -4000,7 +4000,7 @@ Lisätietoja:
 <translation id="8736059027199600831">30 x 40 tuumaa</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" />, paina ensin sarkainta ja sitten Enter avataksesi uuden incognito-ikkunan, niin voit selata yksityisesti</translation>
 <translation id="8737685506611670901">Avata <ph name="PROTOCOL" />-linkit palvelun <ph name="REPLACED_HANDLER_TITLE" /> sijaan.</translation>
-<translation id="8738058698779197622">Kellosi täytyy asettaa oikeaan aikaan, jotta salattu yhteys voidaan muodostaa. Tämä johtuu siitä, että verkkosivustojen tunnistamisessa käytettävät varmenteet ovat voimassa vain tiettyinä ajanjaksoina. Chromium ei voi vahvistaa varmenteita, koska laitteesi kello on väärässä ajassa.</translation>
+<translation id="8738058698779197622">Kellosi täytyy asettaa oikeaan aikaan, jotta salattu yhteys voidaan muodostaa. Tämä johtuu siitä, että verkkosivustojen tunnistamisessa käytettävät varmenteet ovat voimassa vain tiettyinä ajanjaksoina. Cobalt ei voi vahvistaa varmenteita, koska laitteesi kello on väärässä ajassa.</translation>
 <translation id="8740359287975076522">Sivuston <ph name="HOST_NAME" /> &lt;abbr id="dnsDefinition"&gt;DNS-osoitetta&lt;/abbr&gt; ei löydy. Ongelmaa diagnosoidaan.</translation>
 <translation id="8742371904523228557">Koodisi on <ph name="ONE_TIME_CODE" /> (<ph name="ORIGIN" />)</translation>
 <translation id="874918643257405732">Aseta tämä välilehti kirjanmerkiksi</translation>
@@ -4027,7 +4027,7 @@ Lisätietoja:
 <translation id="8785658048882205566">Moottoripyörät</translation>
 <translation id="8790007591277257123">&amp;Toista poisto</translation>
 <translation id="8792272652220298572">Muovi (kiiltävä)</translation>
-<translation id="8792621596287649091">Saatat menettää <ph name="ORG_NAME" />-tilisi käyttöoikeuden tai joutua identiteettivarkauden uhriksi. Chromium suosittelee salasanan vaihtamista välittömästi.</translation>
+<translation id="8792621596287649091">Saatat menettää <ph name="ORG_NAME" />-tilisi käyttöoikeuden tai joutua identiteettivarkauden uhriksi. Cobalt suosittelee salasanan vaihtamista välittömästi.</translation>
 <translation id="8792626944327216835">mikrofoni</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> on laittanut Chrome Enterprise Connectorsin päälle selaimessasi. Nämä liittimet pääsevät osaan datastasi.</translation>
 <translation id="8798099450830957504">Oletus</translation>
@@ -4177,7 +4177,7 @@ Lisätietoja:
 <translation id="9095388113577226029">Lisää kieliä…</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" />, paina ensin sarkainta ja sitten Enter, niin voit valita Chromen järjestelmän oletusselaimeksi iOS-asetuksista</translation>
 <translation id="9101630580131696064">Lokero 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> suojaa tietosi normaalisti salauksen avulla. Kun Chromium yritti tällä kertaa yhdistää sivustoon <ph name="SITE" />, sivusto palautti epätavalliset ja virheelliset kirjautumistiedot. Hyökkääjä saattaa yrittää esiintyä sivustona <ph name="SITE" />, tai Wi-Fi-kirjautumisruutu on keskeyttänyt yhteyden. Tietosi ovat edelleen turvassa, sillä Chromium katkaisi yhteyden, ennen kuin mitään tietoja vaihdettiin.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> suojaa tietosi normaalisti salauksen avulla. Kun Cobalt yritti tällä kertaa yhdistää sivustoon <ph name="SITE" />, sivusto palautti epätavalliset ja virheelliset kirjautumistiedot. Hyökkääjä saattaa yrittää esiintyä sivustona <ph name="SITE" />, tai Wi-Fi-kirjautumisruutu on keskeyttänyt yhteyden. Tietosi ovat edelleen turvassa, sillä Cobalt katkaisi yhteyden, ennen kuin mitään tietoja vaihdettiin.</translation>
 <translation id="9107467864910557787"><ph name="MANAGER" /> ylläpitää selaintasi</translation>
 <translation id="91108059142052966">Järjestelmänvalvojakäytäntö poistaa näytön jakamisen (<ph name="APPLICATION_TITLE" />) käytöstä, kun näkyvissä on luottamuksellista sisältöä</translation>
 <translation id="9114524666733003316">Vahvistetaan korttia…</translation>
@@ -4245,7 +4245,7 @@ Lisätietoja:
 <translation id="93020190163435405">Harjoittelujaksot</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Saako sovellus (<ph name="APP_NAME" />) ottaa Wi-Fi-verkkoja käyttöön?</translation>
-<translation id="936602727769022409">Saatat menettää Google-tilisi käyttöoikeuden. Chromium suosittelee vaihtamaan salasanan nyt. Sinua pyydetään kirjautumaan sisään.</translation>
+<translation id="936602727769022409">Saatat menettää Google-tilisi käyttöoikeuden. Cobalt suosittelee vaihtamaan salasanan nyt. Sinua pyydetään kirjautumaan sisään.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Mitä dataa käytetään:<ph name="END_BOLD" /> Mainosaiheet perustuvat viimeaikaiseen selaushistoriaasi, luetteloon sivustoista, joilla olet käynyt Chromella tällä laitteella.</translation>
 <translation id="937885410143139026">Data lähetetty hallintakonsoliin</translation>
 <translation id="939736085109172342">Uusi kansio</translation>

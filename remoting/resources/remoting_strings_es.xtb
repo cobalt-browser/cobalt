@@ -152,10 +152,10 @@ Si la casilla <ph name="SERVICE_SCRIPT_NAME" /> ya está marcada, desmárcala y 
 <translation id="7693372326588366043">Actualiza la lista de hosts</translation>
 <translation id="7714222945760997814">Informar de este error</translation>
 <translation id="7868137160098754906">Introduce tu código PIN para el ordenador remoto.</translation>
-<translation id="7881455334687220899">Copyright 2024 The Chromium Authors. Todos los derechos reservados.</translation>
+<translation id="7881455334687220899">Copyright 2024 The Cobalt Authors. Todos los derechos reservados.</translation>
 <translation id="7895403300744144251">Las políticas de seguridad del ordenador remoto no permiten conexiones desde tu cuenta.</translation>
 <translation id="7936528439960309876">Anclar a la derecha</translation>
-<translation id="7970576581263377361">Error de autenticación. Vuelve a iniciar sesión en Chromium.</translation>
+<translation id="7970576581263377361">Error de autenticación. Vuelve a iniciar sesión en Cobalt.</translation>
 <translation id="7981525049612125370">La sesión remota ha caducado.</translation>
 <translation id="8038111231936746805">(acción predeterminada)</translation>
 <translation id="8041089156583427627">Enviar</translation>
@@ -191,6 +191,6 @@ Si la casilla <ph name="SERVICE_SCRIPT_NAME" /> ya está marcada, desmárcala y 
 <translation id="9187628920394877737">Conceder permiso de grabación de la pantalla a <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Configuración del host no válida.</translation>
 <translation id="981121421437150478">Sin conexión</translation>
-<translation id="985602178874221306">Los creadores de Chromium</translation>
+<translation id="985602178874221306">Los creadores de Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (fecha de la última conexión <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

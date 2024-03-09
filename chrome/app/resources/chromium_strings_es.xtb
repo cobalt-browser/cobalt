@@ -169,7 +169,7 @@ Los permisos que hayas dado a sitios web y aplicaciones se pueden aplicar a esta
 <translation id="3941890832296813527">Error de instalación: el nombre de archivo del instalador no es válido o no se admite.</translation>
 <translation id="3945058413678539331">Cobalt está intentando copiar contraseñas. Para permitirlo, escribe tu contraseña de Windows.</translation>
 <translation id="3962647064319009959">Descubre cómo te protege Cobalt</translation>
-<translation id="3975724895399328945">Información de &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">Información de &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">Información de ChromiumOS</translation>
 <translation id="4019629340646866719">ChromiumOS se ha creado gracias a <ph name="BEGIN_LINK_CROS_OSS" />software libre<ph name="END_LINK_CROS_OSS" /> adicional, como el <ph name="BEGIN_LINK_LINUX_OSS" />entorno de desarrollo de Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Genera un informe de la <ph name="BEGIN_LINK" />configuración actual<ph name="END_LINK" /> para ayudar a mejorar Cobalt</translation>
@@ -405,7 +405,7 @@ Cobalt no puede recuperar tu configuración.</translation>
 <translation id="8013436988911883588">Una vez que Cobalt tenga acceso, los sitios web podrán solicitarlo también.</translation>
 <translation id="80471789339884597">Gracias por realizar la instalación. Debes reiniciar todos tus navegadores para poder usar <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">No se ha podido realizar la instalación porque tu ordenador no cumple los requisitos mínimos de hardware.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt necesita el permiso de ubicación para este sitio</translation>
 <translation id="8133124826068723441">ChromiumOS no ha podido sincronizar tus datos porque la función de sincronización no está disponible para tu dominio.</translation>
 <translation id="813913629614996137">Inicializando…</translation>
@@ -438,7 +438,7 @@ Cobalt no puede recuperar tu configuración.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Cómo usamos estos datos:<ph name="END_BOLD" /> los sitios pueden almacenar información con Cobalt sobre tus intereses. Por ejemplo, si visitas un sitio para comprar zapatillas para una maratón, es posible que el sitio considere que te interesa correr maratones. Si más tarde visitas un sitio diferente para registrarte en una carrera, ese sitio puede mostrarte un anuncio de zapatillas de correr basándose en tus intereses.</translation>
 <translation id="8619360774459241877">Iniciando Cobalt...</translation>
 <translation id="8621669128220841554">La instalación ha fallado debido a un error no especificado. Vuelve a descargar Cobalt.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing no se puede establecer como navegador predeterminado.</translation>
+<translation id="8648201657708811153">Cobalt for Testing no se puede establecer como navegador predeterminado.</translation>
 <translation id="8697124171261953979">También controla qué página se muestra al iniciar Cobalt o al hacer búsquedas desde el omnibox.</translation>
 <translation id="8704119203788522458">Aquí tienes tu navegador Cobalt</translation>
 <translation id="8719993436687031146">¿Iniciar sesión en Cobalt?</translation>

@@ -887,7 +887,7 @@
 <translation id="1651008383952180276">Бір құпия фразаны екі рет енгізу керек</translation>
 <translation id="1651609627703324721">Бұл қойынды гарнитураға VR контентін көрсетіп жатыр</translation>
 <translation id="1652326691684645429">Nearby Share функциясын қосу</translation>
-<translation id="1652862280638399816">Password Manager қызметін macOS кілттер тізбегімен бірге пайдалану үшін Chromium-ді қайта іске қосып, кілттер тізбегін пайдалануға рұқсат беріңіз. Қайта іске қосқаннан кейін, қойындылар қайта ашылады.</translation>
+<translation id="1652862280638399816">Password Manager қызметін macOS кілттер тізбегімен бірге пайдалану үшін Cobalt-ді қайта іске қосып, кілттер тізбегін пайдалануға рұқсат беріңіз. Қайта іске қосқаннан кейін, қойындылар қайта ашылады.</translation>
 <translation id="1653958716132599769">Бір-біріне қатысты қойындыларды топтау</translation>
 <translation id="1654580009054503925">Сұрауларды көрсету рұқсат етілмеген</translation>
 <translation id="1656528038316521561">Фон бұлдырлығы</translation>
@@ -1164,7 +1164,7 @@
 <translation id="186594096341696655">Жылдамдықты көбейту</translation>
 <translation id="186612162884103683">Таңдалған орындарда "<ph name="EXTENSION" />" кескіндерді, бейнені және дыбыстық файлдарды оқи және жаза алады.</translation>
 <translation id="1867780286110144690"><ph name="PRODUCT_NAME" /> орнатуды аяқтауға дайын</translation>
-<translation id="1868553836791672080">Chromium браузерінде құпия сөзді тексеру мүмкін емес.</translation>
+<translation id="1868553836791672080">Cobalt браузерінде құпия сөзді тексеру мүмкін емес.</translation>
 <translation id="1868617395637139709">Android қолданбалары мен қызметтері үшін локацияны пайдаланыңыз.</translation>
 <translation id="1869433484041798909">Бетбелгі түймесі</translation>
 <translation id="1871098866036088250">Chrome браузерінде ашу</translation>
@@ -1930,7 +1930,7 @@
 <translation id="2434449159125086437">Принтер орнатылмады. Конфигурацияны тексеріп, қайта орнатып көріңіз.</translation>
 <translation id="2434758125294431199">Сізбен бөлісе алатындарды таңдаңыз.</translation>
 <translation id="2434915728183570229">Енді телефондағы қолданбаларды көре аласыз</translation>
-<translation id="2435137177546457207">Google Chrome және ChromeOS Flex Қосымша шарттары</translation>
+<translation id="2435137177546457207">Cobalt және ChromeOS Flex Қосымша шарттары</translation>
 <translation id="2435248616906486374">Желі ажыратылды</translation>
 <translation id="2435457462613246316">Құпия сөзді көрсету</translation>
 <translation id="2436385001956947090">&amp;Сілтемені көшіру</translation>
@@ -2867,7 +2867,7 @@
 <translation id="3151562827395986343">Тарих, cookie файлдары, кэш, т.б. деректерін өшіру</translation>
 <translation id="3151786313568798007">Бағдары</translation>
 <translation id="3152356229013609796">Телефондағы хабарландыруларды көріңіз, жабыңыз және оларға жауап беріңіз.</translation>
-<translation id="3155163173539279776">Chromium қолданбасын қайта іске қосу</translation>
+<translation id="3155163173539279776">Cobalt қолданбасын қайта іске қосу</translation>
 <translation id="3157387275655328056">Оқу тізіміне қосу</translation>
 <translation id="3157931365184549694">Қалпына келтіру</translation>
 <translation id="3158033540161634471">Саусақ ізін орнату</translation>
@@ -3698,7 +3698,7 @@
 <translation id="3798632811625902122">"<ph name="DEVICE" />" Bluetooth құрылғысы жұптасуға рұқсат сұрайды.</translation>
 <translation id="3798670284305777884">Динамик (ішкі)</translation>
 <translation id="3799128412641261490">Switch Access параметрлері</translation>
-<translation id="3800828618615365228">Google Chrome және ChromeOS қосымша шарттары</translation>
+<translation id="3800828618615365228">Cobalt және ChromeOS қосымша шарттары</translation>
 <translation id="3802486193901166966">Бұл кеңейтім үшін арнайы рұқсаттар қажет емес және онда сайтқа қосымша кіру рұқсаты жоқ.</translation>
 <translation id="380329542618494757">Аты</translation>
 <translation id="3803345858388753269">Бейне сапасы</translation>
@@ -3719,7 +3719,7 @@
 <translation id="3810973564298564668">Басқару</translation>
 <translation id="381202950560906753">Тағы біреуін қосу</translation>
 <translation id="3812525830114410218">Сертификат жарамсыз</translation>
-<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
+<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Cobalt анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
 <translation id="3813358687923336574">Беттерді аудару және жылдам жауаптар алу үшін қолданылатын тіл</translation>
 <translation id="3813458570141926987">Соңғы браузерді қолдану тарихыңызға негізделген Chrome бағалаған тақырыптар тізімі</translation>
 <translation id="3814529970604306954">Оқу аккаунты</translation>
@@ -4145,7 +4145,7 @@
 <translation id="4132969033912447558"><ph name="FILE_NAME" /> файлын жалғастыру</translation>
 <translation id="4133076602192971179">Құпия сөзіңізді өзгерту үшін қолданбаны ашу</translation>
 <translation id="4134838386867070505">1/4 қадамы: мәселені сипаттау</translation>
-<translation id="4135746311382563554">Google Chrome және Chrome OS Қосымша қызмет көрсету шарттары</translation>
+<translation id="4135746311382563554">Cobalt және Chrome OS Қосымша қызмет көрсету шарттары</translation>
 <translation id="4136203100490971508">Күн шыққанда, түнгі шам автоматты түрде өшеді</translation>
 <translation id="41365691917097717">Жалғастырсаңыз, ADB түзетуі іске қосылып, Android қолданбалары жасалады және тексеріледі. Бұл — Google растамаған Android қолданбаларының орнатылуына мүмкіндік беретінін ескеріңіз. Құралды өшіру үшін зауыттық параметрлерге қайтару қажет болады.</translation>
 <translation id="4137923333452716643">Оқу режимінде ашқыңыз келетін мәтінді ерекшелеу</translation>
@@ -5140,7 +5140,7 @@
 <translation id="4918134162946436591">Сөзкөмекті үстінен көрсету</translation>
 <translation id="4918762404810341788">Көшіру және ашу</translation>
 <translation id="4921348630401250116">Мәтінді дыбыстау</translation>
-<translation id="4922104989726031751">Password Manager қызметін операциялық жүйемен бірге пайдалану үшін Chromium-ді қайта іске қосып, компьютердің Password Manager қызметін пайдалануға рұқсат беріңіз. Қайта іске қосқаннан кейін, қойындылар қайта ашылады.</translation>
+<translation id="4922104989726031751">Password Manager қызметін операциялық жүйемен бірге пайдалану үшін Cobalt-ді қайта іске қосып, компьютердің Password Manager қызметін пайдалануға рұқсат беріңіз. Қайта іске қосқаннан кейін, қойындылар қайта ашылады.</translation>
 <translation id="492299503953721473">Android қолданбаларын өшіру</translation>
 <translation id="492363500327720082"><ph name="APP_NAME" /> жойылуда…</translation>
 <translation id="4924002401726507608">Пікір жіберу</translation>
@@ -7118,7 +7118,7 @@
 <translation id="6511607461419653612">Chromebook-ты өшіріп қосып, әрекетті қайталаңыз.</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> файлын жойып көріңіз, мұндайда осы құрылғыны пайдаланатын басқа адамдар құпия сөздеріңізді көре алмайды.</translation>
 <translation id="6512759338201777379">Келесі сипаттарға ие жасалған сурет: <ph name="INDEX" />, <ph name="SUBJECT" />, <ph name="MOOD" /> реңкі.</translation>
-<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Google Chrome ұялы деректерді пайдаланады.</translation>
+<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Cobalt ұялы деректерді пайдаланады.</translation>
 <translation id="6514010653036109809">Қолжетімді құрылғы:</translation>
 <translation id="6514565641373682518">Бұл бет тінтуір жүгіргісін өшірді.</translation>
 <translation id="6517227424170598783">"<ph name="SHORTCUT_NAME" /> — <ph name="APP_NAME" />" таңбашасын өшіру қажет пе?</translation>
@@ -9793,7 +9793,7 @@
 <translation id="8554899698005018844">Тілі көрсетілмеген</translation>
 <translation id="855604308879080518">Android қолданбаларына Chromebook-та USB құрылғыларын пайдалануға рұқсат етіледі. Рұқсат USB құрылғысын жалғаған сайын сұралады. Жеке Android қолданбалары қосымша рұқсаттар сұрайды.</translation>
 <translation id="8557022314818157177">Саусақ ізі түскенше, қауіпсіздік кілтін басып тұрыңыз.</translation>
-<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Google Chrome-ды қосыңыз</translation>
+<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Cobalt-ды қосыңыз</translation>
 <translation id="8557856025359704738">Келесі жүктеп алу күні: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Google аккаунтының құпия сөзі</translation>
 <translation id="8559858985063901027">Кіру кілттері</translation>

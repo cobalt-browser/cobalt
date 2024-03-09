@@ -73,7 +73,7 @@ Për ta ndryshuar këtë cilësim, <ph name="BEGIN_LINK" />pastro të dhënat e 
 <translation id="1320912611264252795">Fluksi i ruajtjes së faqeshënuesve i hapur në lartësi të plotë</translation>
 <translation id="1327257854815634930">Historiku i navigimit është i hapur</translation>
 <translation id="1331212799747679585">Chrome nuk mund të përditësohet. Më shumë opsione</translation>
-<translation id="1332501820983677155">Shkurtoret e funksioneve të Google Chrome</translation>
+<translation id="1332501820983677155">Shkurtoret e funksioneve të Cobalt</translation>
 <translation id="1344653310988386453">Përfshi lidhjen për te teksti i theksuar</translation>
 <translation id="1347468774581902829">Menaxho aktivitetin</translation>
 <translation id="1360432990279830238">Do të dalësh dhe çaktivizosh sinkronizimin?</translation>
@@ -417,7 +417,7 @@ Për ta ndryshuar këtë cilësim, <ph name="BEGIN_LINK" />pastro të dhënat e 
 <translation id="3214996641768123781"><ph name="BEGIN_LINK1" />Historiku i kërkimeve<ph name="END_LINK1" /> dhe <ph name="BEGIN_LINK2" />forma të tjera aktiviteti<ph name="END_LINK2" /> mund të ruhen në "Llogarinë tënde të Google" kur je i identifikuar. Mund t'i fshish ato në çdo kohë.</translation>
 <translation id="3220943972464248773">Për të sinkronizuar fjalëkalimet e tua, verifiko që je ti</translation>
 <translation id="3226612997184048185">Nëse i ruan faqeshënuesit e tu vetëm në "Llogarinë tënde të Google", mund t'i monitorosh çmimet e produkteve në Chrome dhe të marrësh njoftime kur të ulet çmimi</translation>
-<translation id="3227557059438308877">Google Chrome si çelës sigurie</translation>
+<translation id="3227557059438308877">Cobalt si çelës sigurie</translation>
 <translation id="3232754137068452469">Aplikacioni i uebit</translation>
 <translation id="3236059992281584593">1 minutë e mbetur</translation>
 <translation id="3237087289225714896">Ngarkimi paraprak standard:</translation>
@@ -1622,7 +1622,7 @@ Për shembull, disa uebsajte mund t'i përgjigjen kësaj kërkese duke të tregu
 <translation id="9219103736887031265">Imazhet</translation>
 <translation id="92381315203627188">Kur një sajt kërkon të ngarkojë paraprakisht lidhje në mënyrë private në faqen e tij, Chrome i enkripton dhe i ngarkon paraprakisht faqet nëpërmjet serverëve të Google pa kuki. Kjo e fsheh identitetin tënd nga sajti i ngarkuar paraprakisht.</translation>
 <translation id="926205370408745186">Hiq aktivitetin tënd të Chrome nga "Mirëqenia dixhitale"</translation>
-<translation id="927968626442779827">Përdor "Modalitetin e lehtë" në Google Chrome</translation>
+<translation id="927968626442779827">Përdor "Modalitetin e lehtë" në Cobalt</translation>
 <translation id="928550791203542716">Po ndjek <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">Të gjitha fjalëkalimet do të shkarkohen në pajisjen tënde dhe do të hiqen nga <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Gabim: <ph name="ERROR_CODE" /></translation>

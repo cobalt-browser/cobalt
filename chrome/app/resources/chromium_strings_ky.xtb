@@ -169,7 +169,7 @@
 <translation id="3941890832296813527">Орнотуу катасы: Орнотуу файлынын аталышы жараксыз же колдоого алынбайт.</translation>
 <translation id="3945058413678539331">Cobalt сырсөздөрдү көчүрүүгө аракет кылууда. Уруксат берүү үчүн Windows сырсөзүңүздү жазыңыз.</translation>
 <translation id="3962647064319009959">Cobalt коопсуздугуңузду кантип камсыздаганын билип алыңыз</translation>
-<translation id="3975724895399328945">&amp;Google Chrome for Testing жөнүндө</translation>
+<translation id="3975724895399328945">&amp;Cobalt for Testing жөнүндө</translation>
 <translation id="3997429360543082038">ChromiumOS жөнүндө</translation>
 <translation id="4019629340646866719">ChromiumOS тутуму, <ph name="BEGIN_LINK_LINUX_OSS" />Linux'ту өнүктүрүү чөйрөсү<ph name="END_LINK_LINUX_OSS" /> сыяктуу, кошумча <ph name="BEGIN_LINK_CROS_OSS" />баштапкы коду ачык программалык камсыздоонун<ph name="END_LINK_CROS_OSS" /> жардамы менен иштейт.</translation>
 <translation id="4036079820698952681"><ph name="BEGIN_LINK" />Учурдагы жөндөөлөр<ph name="END_LINK" /> жөнүндө кабар берип, Cobalt'ду өркүндөтүүгө кол кабыш кылыңыз</translation>
@@ -405,7 +405,7 @@ Cobalt параметрлериңизди калыбына келтире алб
 <translation id="8013436988911883588">Cobalt'га уруксат берилгенден кийин вебсайттар уруксат сурай алышат.</translation>
 <translation id="80471789339884597">Орнотуп алганыңыз үчүн рахмат. <ph name="BUNDLE_NAME" /> топтомун колдонуп баштоодон мурда бардык серепчилерди өчүрүп күйгүзүңүз.</translation>
 <translation id="8086881907087796310">Компьютериңиз аппараттык камсыздоого коюлган минималдуу талаптарга жооп бербегендиктер, орнотулбай калды.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> - Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt'га бул сайтта жайгашкан жерди колдонууга уруксат бериңиз</translation>
 <translation id="8133124826068723441">Сиздин домениңизде шайкештештирүү мүмкүнчүлүгү жок болгондуктан, ChromiumOS дайын-даректериңизди шайкештештире алган жок.</translation>
 <translation id="813913629614996137">Баштапкы маанини берүүдө...</translation>
@@ -438,7 +438,7 @@ Cobalt параметрлериңизди калыбына келтире алб
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Бул маалыматты кантип колдонобуз:<ph name="END_BOLD" /> Сайттар кызыккан нерселериңиз тууралуу маалыматты Cobalt'да сакташы мүмкүн. Мисалы, марафон үчүн бут кийим сатып алуу үчүн сайтка баш баксаңыз, ал сайт "марафондо чуркоону" кызыккан нерсеңиз катары аныктайт. Кийинчерээк, жарышууга катталуу үчүн башка бир сайтка баш баксаңыз, ал сайт кызыккан нерселериңиздин негизинде чуркоо үчүн бут кийимдин жарнамасын көрсөтүшү мүмкүн.</translation>
 <translation id="8619360774459241877">Cobalt иштетилүүдө…</translation>
 <translation id="8621669128220841554">Белгиси катадан улам, орнотулбай калды. Cobalt'ду кайра жүктөп алыңыз.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing версиясын демейки серепчиңиз катары тандай албайсыз.</translation>
+<translation id="8648201657708811153">Cobalt for Testing версиясын демейки серепчиңиз катары тандай албайсыз.</translation>
 <translation id="8697124171261953979">Cobalt иштеп баштаганда же Omnibox'тон изделгенде, кайсы бет көрсөтүлө тургандыгын көзөмөлдөйт.</translation>
 <translation id="8704119203788522458">Бул сиздин Cobalt</translation>
 <translation id="8719993436687031146">Cobalt'га киресизби?</translation>

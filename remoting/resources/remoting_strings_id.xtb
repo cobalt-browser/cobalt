@@ -152,10 +152,10 @@ Jika '<ph name="SERVICE_SCRIPT_NAME" />' sudah dicentang, hapus centangnya, lalu
 <translation id="7693372326588366043">Menyegarkan daftar host</translation>
 <translation id="7714222945760997814">Laporkan ini</translation>
 <translation id="7868137160098754906">Masukkan PIN komputer jarak jauh Anda.</translation>
-<translation id="7881455334687220899">Hak Cipta 2024 The Chromium Authors. Semua Hak Dilindungi Undang-Undang.</translation>
+<translation id="7881455334687220899">Hak Cipta 2024 The Cobalt Authors. Semua Hak Dilindungi Undang-Undang.</translation>
 <translation id="7895403300744144251">Kebijakan keamanan di komputer jarak jauh tidak mengizinkan sambungan dari akun Anda.</translation>
 <translation id="7936528439960309876">Pasang ke Dok Sebelah Kanan</translation>
-<translation id="7970576581263377361">Autentikasi gagal. Login ke Chromium lagi.</translation>
+<translation id="7970576581263377361">Autentikasi gagal. Login ke Cobalt lagi.</translation>
 <translation id="7981525049612125370">Sesi jarak jauh telah berakhir.</translation>
 <translation id="8038111231936746805">(default)</translation>
 <translation id="8041089156583427627">Kirim Masukan</translation>
@@ -191,6 +191,6 @@ Jika '<ph name="SERVICE_SCRIPT_NAME" />' sudah dicentang, hapus centangnya, lalu
 <translation id="9187628920394877737">Beri izin 'Screen Recording' ke <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Konfigurasi host tidak valid.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Pengarang Chromium</translation>
+<translation id="985602178874221306">Pengarang Cobalt</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (terakhir kali online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

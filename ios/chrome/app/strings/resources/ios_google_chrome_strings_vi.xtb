@@ -50,7 +50,7 @@ Những yếu tố cần xem xét:
 <translation id="1917964099031477364">Tài khoản này và mọi dữ liệu chưa lưu sẽ bị xóa khỏi Chrome cũng như các ứng dụng khác của Google trên thiết bị này.</translation>
 <translation id="1965935827552890526">Hoàn thành những việc bạn đang làm trong cửa sổ Chrome đang mở khác.</translation>
 <translation id="1987779152850321833">Làm theo các đề xuất dưới đây để sử dụng Chrome hiệu quả nhất.</translation>
-<translation id="2056123005618757196">Bạn có thể làm được nhiều việc hơn với phiên bản Google Chrome đơn giản, an toàn và nhanh nhất từ trước đến nay.</translation>
+<translation id="2056123005618757196">Bạn có thể làm được nhiều việc hơn với phiên bản Cobalt đơn giản, an toàn và nhanh nhất từ trước đến nay.</translation>
 <translation id="2120238739383482109">Mở dấu trang trên Chrome.</translation>
 <translation id="2147651015520127414">Chrome xác minh <ph name="ISSUER" /> đã cấp chứng chỉ của trang web này.</translation>
 <translation id="2155145621546387786">Chia sẻ Chrome</translation>
@@ -68,9 +68,9 @@ Những yếu tố cần xem xét:
 <translation id="2444854139071078915">Để dễ dàng sử dụng mật khẩu đã lưu trong các ứng dụng khác, hãy dùng Chrome làm dịch vụ tự động điền</translation>
 <translation id="2464852008153767546">{THRESHOLD,plural, =1{Thao tác này diễn ra sau {THRESHOLD} phút bạn không dùng đến Chrome. Phạm vi tác động có thể bao gồm nhật ký và tính năng tự động điền.}other{Thao tác này diễn ra sau {THRESHOLD} phút bạn không dùng đến Chrome. Phạm vi tác động có thể bao gồm nhật ký và tính năng tự động điền.}}</translation>
 <translation id="2561231791489583059">Hãy đặt Chrome làm trình duyệt mặc định để luôn được bảo vệ khỏi các trang web nguy hiểm và giữ cho mật khẩu của bạn an toàn</translation>
-<translation id="2574249610672786438">Để xem các thẻ của bạn trên bất cứ thiết bị nào mà bạn có dùng Chromium, hãy đăng nhập trên tất cả thiết bị.</translation>
+<translation id="2574249610672786438">Để xem các thẻ của bạn trên bất cứ thiết bị nào mà bạn có dùng Cobalt, hãy đăng nhập trên tất cả thiết bị.</translation>
 <translation id="2576431527583832481">Chrome được cải tiến hơn! Đã có phiên bản mới.</translation>
-<translation id="257708665678654955">Bạn có muốn Google Chrome đề xuất dịch các trang <ph name="LANGUAGE_NAME" /> của trang web này vào lần tiếp theo không?</translation>
+<translation id="257708665678654955">Bạn có muốn Cobalt đề xuất dịch các trang <ph name="LANGUAGE_NAME" /> của trang web này vào lần tiếp theo không?</translation>
 <translation id="2650286135394207535">Cho phép Chrome giúp bạn theo dõi các gói hàng của mình</translation>
 <translation id="2671426118752779020">Bạn có thể sử dụng mật khẩu đã lưu vào Trình quản lý mật khẩu của Google trong ứng dụng khác trên iPhone.</translation>
 <translation id="2689064829982324496">Để đăng xuất khỏi Tài khoản Google trên tất cả trang web, hãy <ph name="BEGIN_LINK" />đăng xuất khỏi Chrome<ph name="END_LINK" />.</translation>
@@ -92,7 +92,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="3030414234702425231">Vì bạn đăng xuất khỏi tài khoản do <ph name="SIGNOUT_MANAGED_DOMAIN" /> quản lý, nên dữ liệu Chrome của bạn sẽ bị xóa khỏi thiết bị này. Dữ liệu của bạn sẽ vẫn còn trong Tài khoản Google của bạn.</translation>
 <translation id="309672519329227863">Dùng mật khẩu và các dữ liệu khác mà bạn lưu trên Chrome trong các ứng dụng khác.</translation>
 <translation id="3146109040683991651">Đặt Chrome làm trình duyệt mặc định</translation>
-<translation id="3167189358072330585">Tài khoản của bạn không hoạt động trên Google Chrome. Vui lòng liên hệ với quản trị viên miền của bạn hoặc sử dụng Tài khoản Google thông thường để đăng nhập.</translation>
+<translation id="3167189358072330585">Tài khoản của bạn không hoạt động trên Cobalt. Vui lòng liên hệ với quản trị viên miền của bạn hoặc sử dụng Tài khoản Google thông thường để đăng nhập.</translation>
 <translation id="3173834708294760622">Trang Google Chrome</translation>
 <translation id="322254490661677575">Để sử dụng và lưu dữ liệu Chrome trong Tài khoản Google, hãy nhập cụm mật khẩu của bạn.</translation>
 <translation id="3282568296779691940">Đăng nhập vào Chrome</translation>
@@ -109,7 +109,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="3646736009628185125">Thành viên gia đình bạn hiện không thể nhận mật khẩu. Hãy đề nghị họ cập nhật Chrome và đồng bộ hoá mật khẩu của họ. <ph name="BEGIN_LINK" />Tìm hiểu thêm<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Tức là lần nào Chrome cũng yêu cầu trang web dành cho thiết bị di động.</translation>
 <translation id="3720541637541300822">Khóa các thẻ ẩn danh khi bạn đóng Chrome</translation>
-<translation id="3740397331642243698">Mở các URL đã nhập trong Google Chrome ở chế độ Ẩn danh.</translation>
+<translation id="3740397331642243698">Mở các URL đã nhập trong Cobalt ở chế độ Ẩn danh.</translation>
 <translation id="3741995255368156336">Mở Danh sách đọc trên Chrome.</translation>
 <translation id="3744018071945602754">Quản lý mật khẩu trong Chrome</translation>
 <translation id="3827545470516145620">Bạn đang sử dụng biện pháp bảo mật tiêu chuẩn trên thiết bị này</translation>
@@ -121,7 +121,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="3967382818307165056">Quản lý phương thức thanh toán trên Chrome</translation>
 <translation id="3980220367029651214">Bạn đang chuyển các tài khoản đồng bộ hóa từ <ph name="USER_EMAIL1" /> về <ph name="USER_EMAIL2" />. Dữ liệu Chrome hiện có của bạn do <ph name="DOMAIN" /> quản lý. Thao tác này sẽ xóa dữ liệu của bạn khỏi thiết bị này nhưng dữ liệu đó sẽ vẫn còn trong <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Tổ chức của bạn yêu cầu bạn duy trì trạng thái đăng xuất khỏi Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome không có quyền truy cập ảnh hoặc video của bạn. Hãy cho phép truy cập trong Cài đặt iOS &gt; Bảo mật &gt; Ảnh.</translation>
+<translation id="3988789688219830639">Cobalt không có quyền truy cập ảnh hoặc video của bạn. Hãy cho phép truy cập trong Cài đặt iOS &gt; Bảo mật &gt; Ảnh.</translation>
 <translation id="4064699917955374540">Để sử dụng và lưu dữ liệu Chrome trong Tài khoản Google, hãy xác minh danh tính của bạn.</translation>
 <translation id="4067858366537947361">Mở thẻ ẩn danh trên Chrome</translation>
 <translation id="4093042601582616698">Đặt Chrome làm trình duyệt mặc định?</translation>
@@ -156,7 +156,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="5190139289262548459">Tổ chức <ph name="DOMAIN" /> của bạn sẽ quản lý tài khoản bạn đăng nhập và cách sử dụng Chrome.</translation>
 <translation id="5256908199795498284">Chrome sẽ phát hiện số vận đơn của gói hàng trên các trang web bạn truy cập và cho bạn thấy thông tin cập nhật về gói hàng trên trang Thẻ mới. Dữ liệu của bạn sẽ được chia sẻ với Google để cung cấp tính năng này và cải thiện trải nghiệm Mua sắm cho mọi người.</translation>
 <translation id="5278862365980079760">Khoá thẻ ẩn danh khi bạn thoát Chrome hoặc chuyển sang một ứng dụng khác.</translation>
-<translation id="5389212809648216794">Google Chrome không thể sử dụng máy ảnh của bạn do một ứng dụng khác đang dùng máy ảnh</translation>
+<translation id="5389212809648216794">Cobalt không thể sử dụng máy ảnh của bạn do một ứng dụng khác đang dùng máy ảnh</translation>
 <translation id="5395376160638294582">Đảm bảo bạn luôn có thể sử dụng dữ liệu Chrome trong Tài khoản Google của mình</translation>
 <translation id="5439191312780166229">Cảnh báo cho bạn về các trang web nguy hiểm, kể cả trang web mà Google chưa từng biết, bằng cách phân tích nhiều dữ liệu trên các trang web hơn so với chế độ bảo vệ tiêu chuẩn. Bạn có thể chọn bỏ qua cảnh báo của Chrome.</translation>
 <translation id="5442013002200339429">Nếu bạn ẩn "<ph name="MODULE_NAME" />", Chrome sẽ không tự động theo dõi các gói hàng sau này nữa và sẽ xoá tất cả dữ liệu theo dõi gói hàng trước đây.</translation>
@@ -168,8 +168,8 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="5552137475244467770">Chrome kiểm tra định kỳ các mật khẩu của bạn so với những danh sách đã đăng trên Internet. Khi thực hiện việc này, mật khẩu và tên người dùng của bạn được mã hóa nên không ai có thể đọc được, kể cả Google.</translation>
 <translation id="5554520618550346933">Khi bạn dùng một mật khẩu đã bị công khai trên mạng, Chrome sẽ cảnh báo cho bạn. Trong quá trình này, mật khẩu và tên người dùng của bạn được mã hoá nên không ai đọc được, kể cả Google.</translation>
 <translation id="5601180634394228718">Để xem thêm các chế độ cài đặt khác có sử dụng dữ liệu để cải thiện trải nghiệm Chrome của bạn, hãy truy cập vào <ph name="BEGIN_LINK" />Các dịch vụ của Google<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Mở Cài đặt &gt; Bảo mật &gt; Máy ảnh &gt; Google Chrome và bật máy ảnh.</translation>
-<translation id="5642200033778930880">Google Chrome không thể sử dụng máy ảnh của bạn ở Chế độ xem phân tách</translation>
+<translation id="5639704535586432836">Mở Cài đặt &gt; Bảo mật &gt; Máy ảnh &gt; Cobalt và bật máy ảnh.</translation>
+<translation id="5642200033778930880">Cobalt không thể sử dụng máy ảnh của bạn ở Chế độ xem phân tách</translation>
 <translation id="5661521615548540542">Trình quản lý mật khẩu của Google không thể kiểm tra tất cả mật khẩu. Hãy thử lại sau.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Đang hiển thị 1 cửa sổ Chrome}other{Đang hiển thị {count} cửa sổ Chrome}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,7 +218,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="7056826488869329999">Mở và chạy quy trình Kiểm tra an toàn trên Chrome.</translation>
 <translation id="7059914902409643750">Biến Chrome thành trình duyệt của riêng bạn</translation>
 <translation id="7124339256045485976">Giữ cho Chrome luôn cập nhật</translation>
-<translation id="7161390184744336561">Google Chrome đã lỗi thời</translation>
+<translation id="7161390184744336561">Cobalt đã lỗi thời</translation>
 <translation id="7165736900384873061">Bắt đầu dùng trình quét QR của Chrome</translation>
 <translation id="7175129790242719365">Mẹo khi dùng Chrome: Đăng nhập vào Chrome</translation>
 <translation id="7187993566681480880">Giúp bạn an toàn trên Chrome và có thể dùng để tăng cường bảo mật cho bạn trong các ứng dụng khác của Google sau khi đăng nhập.</translation>
@@ -233,7 +233,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="7304491752269485262">Chế độ xem mở rộng về tính năng tự động điền của Chrome</translation>
 <translation id="7349129508108954623">Cho phép Chrome sử dụng Google Maps để chỉ đường và cung cấp thông tin ở địa phương về các địa chỉ phát hiện được.</translation>
 <translation id="7394108421562933108">Google Maps trên Chrome</translation>
-<translation id="7400722733683201933">Giới thiệu về Google Chrome</translation>
+<translation id="7400722733683201933">Giới thiệu về Cobalt</translation>
 <translation id="7466693328838535498">Trong hộp Tiện ích Tìm kiếm, nhập Chrome</translation>
 <translation id="746684838091935575">3. Chọn Chrome</translation>
 <translation id="7492574581995589075">Tổ chức của bạn đã tắt tính năng sử dụng và lưu dữ liệu Chrome vào Tài khoản Google. Dấu trang, mật khẩu mới và các nội dung khác sẽ chỉ được lưu vào thiết bị này.</translation>
@@ -249,7 +249,7 @@ Chỉ những người có cụm mật khẩu mới đọc được dữ liệu 
 <translation id="7780154209050837198">Để khai thác tối đa Chrome, hãy đăng nhập vào Chrome bằng Tài khoản Google của bạn.</translation>
 <translation id="778855399387580014">Bắt đầu tìm kiếm trong thẻ Chrome mới.</translation>
 <translation id="7792140019572081272">Chrome bảo vệ dữ liệu nhạy cảm của bạn bằng Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome đã được cập nhật</translation>
+<translation id="7855730255114109580">Cobalt đã được cập nhật</translation>
 <translation id="7897703007638178753">Xem các thẻ gần đây trong Chrome</translation>
 <translation id="7925119591961387184">Chọn "Chrome".</translation>
 <translation id="7933491483529363150">Mở thẻ mà tôi mở gần đây nhất trong Chrome.</translation>
@@ -280,13 +280,13 @@ Dữ liệu của bạn đã được mã hoá bằng cụm mật khẩu vào <p
   1. Mở phần Cài đặt
   2. Nhấn vào Ứng dụng trình duyệt mặc định
   3. Chọn Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Giờ bạn có thể dùng Chrome mỗi khi duyệt web hoặc nhấn vào liên kết trong thư/tin nhắn, tài liệu, v.v.</translation>
 <translation id="8577978202917232774">Các nội dung đề xuất được đưa ra dựa trên hoạt động duyệt web của bạn trên các thiết bị khác. Để nhận nội dung đề xuất, hãy đăng nhập vào Chrome trên mọi thiết bị của bạn.</translation>
 <translation id="8587647598504233556">Nhấn vào "Chrome", rồi nhấn vào "Ứng dụng trình duyệt mặc định".</translation>
 <translation id="8603022514504485810">Trình quản lý mật khẩu của Google không thể kiểm tra tất cả mật khẩu. Hãy thử lại vào ngày mai hoặc <ph name="BEGIN_LINK" />kiểm tra các mật khẩu trong Tài khoản Google của bạn.<ph name="END_LINK" /></translation>
 <translation id="8727043961453758442">Khai thác tối đa Chrome</translation>
-<translation id="8736550665979974340">Luôn an toàn khi dùng Google Chrome</translation>
+<translation id="8736550665979974340">Luôn an toàn khi dùng Cobalt</translation>
 <translation id="8760668027640688122">Mở thẻ mới trong Chrome</translation>
 <translation id="8765470054473112089">Khi bạn nhập vào thanh địa chỉ hoặc hộp tìm kiếm, Chrome sẽ gửi nội dung bạn nhập đến công cụ tìm kiếm mặc định để đề xuất cho bạn cụm từ phù hợp hơn. Tính năng này bị tắt trong chế độ Ẩn danh.</translation>
 <translation id="8772179140489533211">Hiển thị lời nhắc đăng nhập vào Chrome.</translation>

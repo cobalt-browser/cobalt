@@ -862,7 +862,7 @@ Jika kebijakan disetel ke Salah (False) atau tidak disetel, tidak ada peristiwa 
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />, kolom <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> dan <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> akan digunakan.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />, kolom <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" />, dan <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> akan digunakan.
 
-      Catatan: Untuk contoh yang lebih mendetail, buka Project Chromium ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Catatan: Untuk contoh yang lebih mendetail, buka Project Cobalt ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1700811900332333712">Izinkan perangkat untuk meminta powerwash</translation>
 <translation id="1705215165572785706">Perlakukan tombol baris atas sebagai tombol media, tetapi izinkan pengguna mengubahnya</translation>
 <translation id="1708496595873025510">Setel batasan pada pengambilan bibit Varietas</translation>
@@ -981,7 +981,7 @@ Di <ph name="MS_WIN_NAME" />, kebijakan ini hanya tersedia pada instance yang di
 
        Biarkan kebijakan ini tidak disetel, jika Anda memilih mode lain untuk menyetel kebijakan proxy.
 
-       Catatan: Untuk contoh yang lebih mendetail, buka Project Chromium ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Catatan: Untuk contoh yang lebih mendetail, buka Project Cobalt ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1767673020408652620">Aktifkan fitur Rekomendasi Aplikasi pada Status Kosong Kotak Penelusuran</translation>
 <translation id="1768225118528727376">Memberikan izin Pengelolaan Jendela di situs ini</translation>
 <translation id="1770071413238151235">Format jam 12 jam</translation>
@@ -1193,7 +1193,7 @@ Jika kebijakan disetel ke Nonaktif, <ph name="PRODUCT_NAME" /> akan menutup tab 
      </translation>
 <translation id="1919802376548418720">Gunakan kebijakan KDC untuk mendelegasikan kredensial.</translation>
 <translation id="1920046221095339924">Mengizinkan sesi yang dikelola di perangkat</translation>
-<translation id="1920772397574801429">Menyetel kebijakan akan menentukan jenis akun yang disediakan oleh aplikasi autentikasi Android yang mendukung autentikasi <ph name="HTTP_NEGOTIATE" /> (seperti autentikasi Kerberos). Informasi ini seharusnya tersedia dari penyedia aplikasi autentikasi. Untuk detailnya, lihat Project Chromium (https://goo.gl/hajyfN)
+<translation id="1920772397574801429">Menyetel kebijakan akan menentukan jenis akun yang disediakan oleh aplikasi autentikasi Android yang mendukung autentikasi <ph name="HTTP_NEGOTIATE" /> (seperti autentikasi Kerberos). Informasi ini seharusnya tersedia dari penyedia aplikasi autentikasi. Untuk detailnya, lihat Project Cobalt (https://goo.gl/hajyfN)
 
       Jika kebijakan tidak disetel, autentikasi <ph name="HTTP_NEGOTIATE" /> akan dinonaktifkan di Android.</translation>
 <translation id="1923704782248889851">Aktifkan dikte</translation>
@@ -2915,7 +2915,7 @@ Jika kebijakan ini diaktifkan, perilaku baru akan digunakan.
 
 Jika kebijakan ini dinonaktifkan, perilaku lama akan digunakan.
 
-Jika kebijakan ini tidak disetel, perilaku baru akan digunakan seperti pengguna Chromium lainnya.</translation>
+Jika kebijakan ini tidak disetel, perilaku baru akan digunakan seperti pengguna Cobalt lainnya.</translation>
 <translation id="3219421230122020860">Mode samaran tersedia</translation>
 <translation id="3220624000494482595">Jika aplikasi kios adalah aplikasi Android, aplikasi tersebut tidak akan memiliki kontrol terhadap versi <ph name="PRODUCT_OS_NAME" />, meski kebijakan ini disetel ke <ph name="TRUE" />.</translation>
 <translation id="3222088741899353813">Tombol kiri menjadi tombol utama di layar login</translation>
@@ -5183,7 +5183,7 @@ Jika kebijakan tidak disetel atau disetel ke nonaktif, cookie dan data dapat dig
           Jika kebijakan ini tidak disetel, baris perintah default akan digunakan.</translation>
 <translation id="5151099177901233471">Aktifkan pelaporan info zona waktu perangkat</translation>
 <translation id="5152393033264257734">Izinkan pemeriksaan intersepsi DNS dan infobar "Mungkin maksud Anda http://intranetsite/".</translation>
-<translation id="5152787786897382519">Chromium dan Google Chrome memiliki beberapa grup kebijakan yang saling bergantung satu sama lain untuk memberikan kontrol terhadap fitur. Kumpulan ini ditunjukkan oleh grup kebijakan berikut. Karena kebijakan dapat memiliki beberapa sumber, hanya nilai yang berasal dari sumber dengan prioritas tertinggi yang akan diterapkan. Nilai yang berasal dari sumber dengan prioritas lebih rendah di grup yang sama akan diabaikan. Urutan prioritas ditentukan di <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Cobalt dan Cobalt memiliki beberapa grup kebijakan yang saling bergantung satu sama lain untuk memberikan kontrol terhadap fitur. Kumpulan ini ditunjukkan oleh grup kebijakan berikut. Karena kebijakan dapat memiliki beberapa sumber, hanya nilai yang berasal dari sumber dengan prioritas tertinggi yang akan diterapkan. Nilai yang berasal dari sumber dengan prioritas lebih rendah di grup yang sama akan diabaikan. Urutan prioritas ditentukan di <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Ikon eksperimen browser di toolbar</translation>
 <translation id="5159674159887919923">Jangan kirim data hardware tambahan di ChromeOS Flex</translation>
 <translation id="5163002264923337812">Aktifkan alur login berbasis web lama</translation>
@@ -7118,7 +7118,7 @@ Jika tidak disetel, interval default 15 menit akan berlaku.</translation>
 
       Jika kebijakan tidak disetel, pengguna dapat memilih setelan proxy.
 
-      Catatan: Untuk contoh mendetail, buka Project Chromium ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Catatan: Untuk contoh mendetail, buka Project Cobalt ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="6559643481486165125">Jangan minta autentikasi ulang</translation>
 <translation id="656130159911161669">Update ChromeOS mengabaikan versi yang telah ditentukan dalam manifes aplikasi kios</translation>
 <translation id="6561396069801924653">Tampilkan opsi aksesibilitas di menu area notifikasi</translation>
@@ -7722,7 +7722,7 @@ Jika kebijakan ini tidak disetel, hal ini setara dengan menyetel kebijakan ke '<
 
        Biarkan kebijakan ini tidak disetel, jika Anda memilih mode lain untuk menyetel kebijakan proxy.
 
-       Catatan: Untuk contoh mendetail, buka Project Chromium ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Catatan: Untuk contoh mendetail, buka Project Cobalt ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7001915679435065291">Jika kebijakan disetel ke 1, semua situs akan dapat menampilkan gambar. Jika kebijakan disetel ke 2, situs tidak akan dapat menampilkan gambar.
 
 Jika kebijakan tidak disetel, kebijakan akan mengizinkan gambar, tetapi pengguna dapat mengubah setelan ini.</translation>
@@ -8593,7 +8593,7 @@ Jika kebijakan ini tidak disetel, perender PDF akan dipilih oleh browser.</trans
 
        Biarkan kebijakan ini tidak disetel, jika Anda memilih mode lain untuk menyetel kebijakan proxy.
 
-      Catatan: Untuk contoh mendetail, buka Project Chromium ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Catatan: Untuk contoh mendetail, buka Project Cobalt ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7716587310609820801">Jika kebijakan ini disetel, Anda akan dapat menetapkan daftar pola URL yang menentukan situs yang tidak dapat menampilkan notifikasi.
 
       Jika kebijakan ini tidak disetel, <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> akan berlaku untuk semua situs, jika disetel. Jika tidak, setelan pribadi pengguna akan digunakan.
@@ -9217,7 +9217,7 @@ Jika kebijakan ini disetel ke <ph name="DISPLAY_MANAGEMENT_LABEL_TRANSIENT_VALUE
 
       Kebijakan ini diabaikan untuk akun pengguna reguler.</translation>
 <translation id="8257863622304579015">Aktifkan sandbox layanan jaringan</translation>
-<translation id="8259375588339409826">Chromium dan Google Chrome mendukung rangkaian kebijakan yang sama. Perlu diperhatikan bahwa dokumen ini mungkin berisi kebijakan yang belum dirilis (yaitu entri "Didukung di" merujuk ke versi <ph name="PRODUCT_NAME" /> yang belum dirilis) yang dapat berubah atau dihapus tanpa pemberitahuan, dan tidak ada jaminan apa pun yang diberikan, termasuk tidak ada jaminan sehubungan dengan keamanan dan privasi.
+<translation id="8259375588339409826">Cobalt dan Cobalt mendukung rangkaian kebijakan yang sama. Perlu diperhatikan bahwa dokumen ini mungkin berisi kebijakan yang belum dirilis (yaitu entri "Didukung di" merujuk ke versi <ph name="PRODUCT_NAME" /> yang belum dirilis) yang dapat berubah atau dihapus tanpa pemberitahuan, dan tidak ada jaminan apa pun yang diberikan, termasuk tidak ada jaminan sehubungan dengan keamanan dan privasi.
 
 Kebijakan ini khusus ditujukan untuk mengonfigurasi instance internal <ph name="PRODUCT_NAME" /> ke organisasi Anda. Penggunaan kebijakan ini di luar organisasi (misalnya, dalam program yang didistribusikan secara publik) dianggap sebagai malware dan kemungkinan akan diberi label sebagai malware oleh Google dan vendor anti-virus.
 
@@ -10098,7 +10098,7 @@ Jika kebijakan disetel ke Nonaktif, hanya data hardware standar yang akan dikiri
 <translation id="8947415621777543415">Laporkan lokasi perangkat</translation>
 <translation id="8948062138228904066">Daftar server autentikasi yang diizinkan</translation>
 <translation id="8951350807133946005">Setel direktori cache disk</translation>
-<translation id="8952611478149810182">Pengiriman peristiwa pada kontrol formulir yang dinonaktifkan akan diubah di Chromium untuk meningkatkan kompatibilitas dengan browser lain dan untuk meningkatkan pengalaman developer.
+<translation id="8952611478149810182">Pengiriman peristiwa pada kontrol formulir yang dinonaktifkan akan diubah di Cobalt untuk meningkatkan kompatibilitas dengan browser lain dan untuk meningkatkan pengalaman developer.
 
 Perubahan ini membuat MouseEvents dikirim pada elemen kontrol formulir yang dinonaktifkan, kecuali click, mouseup, dan mousedown. Misalnya, peristiwa baru akan menyertakan mousemove, mouseenter, dan mouseleave.
 
@@ -10110,7 +10110,7 @@ Jika kebijakan ini diaktifkan, perilaku baru akan digunakan.
 
 Jika kebijakan ini dinonaktifkan, perilaku lama akan digunakan.
 
-Jika kebijakan ini tidak disetel, perilaku baru akan digunakan seperti pengguna Chromium lainnya.</translation>
+Jika kebijakan ini tidak disetel, perilaku baru akan digunakan seperti pengguna Cobalt lainnya.</translation>
 <translation id="8955719471735800169">Kembali ke atas</translation>
 <translation id="8956312248048980644">Mengizinkan pengelompokan cluster agen dengan kunci asal secara default.</translation>
 <translation id="8963464192296208229">Setelan F11 menggunakan pintasan yang berisi tombol pengubah alt</translation>

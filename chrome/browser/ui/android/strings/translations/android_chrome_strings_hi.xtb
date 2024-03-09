@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">विवरण: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">इन साइटों का अनुवाद करने की सुविधा न दें</translation>
 <translation id="1145536944570833626">मौजूदा डेटा मिटाएं.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" />, Chrome में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Google Chrome और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" />, Chrome में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Cobalt और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं.</translation>
 <translation id="115483310321669804"><ph name="PASSWORD" /> पासवर्ड डालें</translation>
 <translation id="1173894706177603556">नाम बदलें</translation>
 <translation id="1174479719160874822">स्क्रीन छोटी होने पर Chrome, मोबाइल साइट का अनुरोध करेगा</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">बुकमार्क सेव फ़्लो के फ़ोल्डर, पूरी स्क्रीन पर खुले हैं</translation>
 <translation id="1327257854815634930">नेविगेशन का इतिहास अपने पूरे आकार में खुला हुआ है</translation>
 <translation id="1331212799747679585">Chrome अपडेट नहीं किया जा सकता. ज़्यादा विकल्प</translation>
-<translation id="1332501820983677155">Google Chrome सुविधा शॉर्टकट</translation>
+<translation id="1332501820983677155">Cobalt सुविधा शॉर्टकट</translation>
 <translation id="1344653310988386453">हाइलाइट किए गए टेक्स्ट का लिंक शामिल करें</translation>
 <translation id="1347468774581902829">गतिविधि प्रबंधित करें</translation>
 <translation id="1360432990279830238">साइन आउट करें और सिंक बंद करें?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Chrome पर आपकी पसंद के लेख</translation>
 <translation id="3066573403916685335">नीचे ले जाएं</translation>
 <translation id="3070005020161560471">अपने-आप अनुवाद करें</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" />, Chrome में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Google Chrome और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं. साथ ही, <ph name="BEGIN_LINK3" />निजता नीति<ph name="END_LINK3" /> भी लागू होगी.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" />, Chrome में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Cobalt और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं. साथ ही, <ph name="BEGIN_LINK3" />निजता नीति<ph name="END_LINK3" /> भी लागू होगी.</translation>
 <translation id="3080525922482950719">पेजों को सेव किया जा सकता है, ताकि उन्हें बाद में या ऑफ़लाइन पढ़ा जा सके</translation>
 <translation id="3091010850649238832">क्लिपबोर्ड का कॉन्टेंट दिखाएं</translation>
 <translation id="3098745985164956033">कुछ इमेज Google को भेजी जाती हैं, ताकि आपको मिलने वाली जानकारी को बेहतर बनाया जा सके</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781">साइन इन रहने पर, <ph name="BEGIN_LINK1" />खोज इतिहास<ph name="END_LINK1" /> और <ph name="BEGIN_LINK2" />अन्य तरह की गतिविधियां<ph name="END_LINK2" /> आपके Google खाते में सेव हो सकती हैं. आपके पास इन्हें मिटाने का भी विकल्प है.</translation>
 <translation id="3220943972464248773">पासवर्ड सिंक करने के लिए अपनी पहचान की पुष्टि करें</translation>
 <translation id="3226612997184048185">अगर आपने बुकमार्क Google खाते में भी सेव किए हैं, तो आपको Chrome में प्रॉडक्ट की कीमतें ट्रैक करने का विकल्प मिलेगा. साथ ही, प्रॉडक्ट की कीमत में गिरावट आने पर आपको सूचना दी जाएगी</translation>
-<translation id="3227557059438308877">Google Chrome, सुरक्षा कुंजी के रूप में</translation>
+<translation id="3227557059438308877">Cobalt, सुरक्षा कुंजी के रूप में</translation>
 <translation id="3232754137068452469">वेब ऐप्लिकेशन</translation>
 <translation id="3236059992281584593">1 मिनट शेष</translation>
 <translation id="3237087289225714896">पहले से लोड करने की स्टैंडर्ड सुविधा:</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">इमेज</translation>
 <translation id="92381315203627188">जब कोई साइट अपने पेज पर, लिंक को निजी तौर पर पहले से लोड करने के लिए कहती है, तो Chrome, Google के सर्वर की मदद से पेजों को एन्क्रिप्ट करके पहले से लोड कर देता है. इसके लिए, Chrome कुकी का इस्तेमाल नहीं करता है. इससे, पहले से लोड की गई साइट से आपकी पहचान को छिपाया जा सकता है.</translation>
 <translation id="926205370408745186">'डिजिटल वेलबीइंग' से अपनी Chrome गतिविधि हटाएं</translation>
-<translation id="927968626442779827">Google Chrome पर लाइट मोड का इस्तेमाल करें</translation>
+<translation id="927968626442779827">Cobalt पर लाइट मोड का इस्तेमाल करें</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> को फ़ॉलो किया जा रहा है</translation>
 <translation id="93533588269984624">सभी पासवर्ड आपके डिवाइस पर डाउनलोड किए जाएंगे और उन्हें <ph name="CHROME_CHANNEL" /> से हटा दिया जाएगा</translation>
 <translation id="938850635132480979">गड़बड़ी: <ph name="ERROR_CODE" /></translation>

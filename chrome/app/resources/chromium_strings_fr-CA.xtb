@@ -68,7 +68,7 @@ Les autorisations que vous avez déjà accordées à des sites Web et à des app
 <translation id="2174917724755363426">L'installation n'est pas terminée. Voulez-vous vraiment annuler?</translation>
 <translation id="2185166961232948079">Cobalt – Connexion au réseau – <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Erreur de vérification de la mise à jour : <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2241627712206172106">Si vous partagez un ordinateur avec vos proches, ceux-ci peuvent configurer Google Chrome comme bon leur semble et naviguer sur le Web à leur manière.</translation>
+<translation id="2241627712206172106">Si vous partagez un ordinateur avec vos proches, ceux-ci peuvent configurer Cobalt comme bon leur semble et naviguer sur le Web à leur manière.</translation>
 <translation id="2313870531055795960">Il vérifie les URL en fonction d'une liste de sites non sécuritaires stockée dans Cobalt. Si un site tente de voler votre mot de passe ou si vous téléchargez un fichier dangereux, Cobalt peut également envoyer les URL concernées, y compris des extraits du contenu de pages, à la navigation sécurisée.</translation>
 <translation id="2329088755516916767">Lorsqu'il est activé, Cobalt précharge les pages, ce qui accélère la navigation et la recherche.</translation>
 <translation id="2343156876103232566">Pour envoyer un numéro d'ici vers votre téléphone Android, connectez-vous à Cobalt sur vos deux appareils.</translation>
@@ -122,7 +122,7 @@ Les autorisations que vous avez déjà accordées à des sites Web et à des app
 <translation id="3155163173539279776">Relancer Cobalt</translation>
 <translation id="3179665906251668410">Ouvrir le lien dans une fenêtre de navi&amp;gation privée Cobalt</translation>
 <translation id="3185330573522821672">Personnaliser votre nouveau profil Cobalt</translation>
-<translation id="3190315855212034486">Google Chrome a planté. Voulez-vous le relancer maintenant?</translation>
+<translation id="3190315855212034486">Cobalt a planté. Voulez-vous le relancer maintenant?</translation>
 <translation id="3258596308407688501">Cobalt ne peut pas lire et écrire dans son répertoire de données :
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
@@ -153,7 +153,7 @@ Les autorisations que vous avez déjà accordées à des sites Web et à des app
 <translation id="370962675267501463">{COUNT,plural, =0{Votre administrateur vous recommande de relancer Cobalt pour appliquer cette mise à jour}=1{Votre administrateur vous recommande de relancer Cobalt pour appliquer cette mise à jour. Votre fenêtre de navigation privée ne sera pas rouverte.}one{Votre administrateur vous recommande de relancer Cobalt pour appliquer cette mise à jour. Votre fenêtre de navigation privée ne sera pas rouverte.}other{Votre administrateur vous recommande de relancer Cobalt pour appliquer cette mise à jour. Vos # fenêtres de navigation privée ne seront pas rouvertes.}}</translation>
 <translation id="3713809861844741608">Ouvrir le lien dans un nouvel ongle&amp;t Cobalt</translation>
 <translation id="3788675262216168505">Gérer les profils Cobalt</translation>
-<translation id="378917192836375108">Google Chrome vous permet de cliquer sur un numéro de téléphone dans une page Web pour faire un appel avec Skype!</translation>
+<translation id="378917192836375108">Cobalt vous permet de cliquer sur un numéro de téléphone dans une page Web pour faire un appel avec Skype!</translation>
 <translation id="3790262771324122253">Découvrir pourquoi Cobalt bloque certains téléchargements</translation>
 <translation id="379589255253486813">Cobalt vous informera si vous devez examiner quelque chose</translation>
 <translation id="3802055581630249637">Cobalt précharge les pages que vous êtes susceptible de visiter, afin qu'elles se chargent plus rapidement lorsque vous le faites.</translation>
@@ -169,7 +169,7 @@ Les autorisations que vous avez déjà accordées à des sites Web et à des app
 <translation id="3941890832296813527">Erreur d'installation : le nom du fichier du programme d'installation n'est pas valide ou n'est pas pris en charge.</translation>
 <translation id="3945058413678539331">Cobalt essaie de copier des mots de passe. Pour autoriser cette action, entrez votre mot de passe Windows.</translation>
 <translation id="3962647064319009959">Découvrez comment Cobalt assure votre sécurité</translation>
-<translation id="3975724895399328945">À propos de &amp;Google Chrome for Testing</translation>
+<translation id="3975724895399328945">À propos de &amp;Cobalt for Testing</translation>
 <translation id="3997429360543082038">À propos de Cobalt OS</translation>
 <translation id="4019629340646866719">Cobalt OS fonctionne grâce à d'autres <ph name="BEGIN_LINK_CROS_OSS" />logiciels libres<ph name="END_LINK_CROS_OSS" />, tout comme l'<ph name="BEGIN_LINK_LINUX_OSS" />environnement de conception Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="4036079820698952681">Aidez-nous à améliorer Cobalt en nous signalant les <ph name="BEGIN_LINK" />paramètres actuels<ph name="END_LINK" /></translation>
@@ -266,7 +266,7 @@ Les autorisations que vous avez déjà accordées à des sites Web et à des app
 <translation id="5988505247484123880">Les sites que vous visitez mémorisent couramment les sujets qui vous intéressent afin de personnaliser votre expérience. Les sites peuvent également stocker des renseignements sur vos centres d'intérêt dans Cobalt.</translation>
 <translation id="6003112304606738118">Téléchargement en cours… <ph name="HOURS" /> heure(s) restante(s)</translation>
 <translation id="6040143037577758943">Fermer</translation>
-<translation id="6055895534982063517">Une nouvelle version de Google Chrome est maintenant offerte. Il est plus rapide que jamais.</translation>
+<translation id="6055895534982063517">Une nouvelle version de Cobalt est maintenant offerte. Il est plus rapide que jamais.</translation>
 <translation id="6058380562449900225">Pour protéger vos données, laissez Cobalt retirer les autorisations des sites que vous n'avez pas visités récemment. Cela n'arrêtera pas les notifications.</translation>
 <translation id="6063093106622310249">&amp;Ouvrir dans Cobalt</translation>
 <translation id="6072279588547424923">L'extension « <ph name="EXTENSION_NAME" /> » a été ajoutée à Cobalt</translation>
@@ -404,7 +404,7 @@ Cobalt est incapable de récupérer vos paramètres.</translation>
 <translation id="8013436988911883588">Lorsque Cobalt y aura accès, les sites Web pourront vous demander l'accès.</translation>
 <translation id="80471789339884597">Merci pour l'installation. Vous devez redémarrer tous vos navigateurs avant d'utiliser <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">L'installation a échoué, car votre ordinateur ne répond pas aux exigences minimales concernant le matériel.</translation>
-<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Google Chrome for Testing</translation>
+<translation id="8096472344908884505"><ph name="PAGE_TITLE" /> – Cobalt for Testing</translation>
 <translation id="8105840573057009683">Cobalt requiert l'autorisation de localisation pour ce site</translation>
 <translation id="8133124826068723441">Cobalt OS n'a pas pu synchroniser vos données, car la synchronisation n'est pas offerte pour votre domaine.</translation>
 <translation id="813913629614996137">Initialisation en cours...</translation>
@@ -437,7 +437,7 @@ Cobalt est incapable de récupérer vos paramètres.</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Comment nous utilisons ces données :<ph name="END_BOLD" /> les sites peuvent stocker des renseignements sur vos centres d'intérêt dans Cobalt. Par exemple, si vous visitez un site pour acheter des chaussures pour un marathon, le site pourrait définir votre centre d'intérêt comme la course de marathons. Ultérieurement, si vous visitez un autre site pour vous inscrire à une course, celui-ci peut vous montrer une annonce pour des chaussures de course en fonction de vos centres d'intérêt.</translation>
 <translation id="8619360774459241877">Lancement de Cobalt en cours…</translation>
 <translation id="8621669128220841554">Échec de l'installation en raison d'une erreur non spécifiée. Veuillez télécharger Cobalt à nouveau.</translation>
-<translation id="8648201657708811153">Google Chrome for Testing ne peut pas être défini comme votre navigateur par défaut.</translation>
+<translation id="8648201657708811153">Cobalt for Testing ne peut pas être défini comme votre navigateur par défaut.</translation>
 <translation id="8697124171261953979">Elle définit également quelle page s'affiche lorsque vous démarrez Cobalt ou que vous effectuez une recherche dans l'omnibox.</translation>
 <translation id="8704119203788522458">Voici votre Cobalt</translation>
 <translation id="8719993436687031146">Se connecter à Cobalt?</translation>

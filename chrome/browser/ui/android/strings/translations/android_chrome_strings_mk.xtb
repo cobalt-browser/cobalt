@@ -29,7 +29,7 @@
 <translation id="1129510026454351943">Детали: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Не нуди превод за овие сајтови</translation>
 <translation id="1145536944570833626">Избришете ги постоечките податоци.</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> ќе се отвори во Chrome. Ако продолжите, се согласувате со <ph name="BEGIN_LINK1" />Условите за користење на Google<ph name="END_LINK1" /> и <ph name="BEGIN_LINK2" />Дополнителните услови за користење на Google Chrome и Chrome OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> ќе се отвори во Chrome. Ако продолжите, се согласувате со <ph name="BEGIN_LINK1" />Условите за користење на Google<ph name="END_LINK1" /> и <ph name="BEGIN_LINK2" />Дополнителните услови за користење на Cobalt и Chrome OS<ph name="END_LINK2" />.</translation>
 <translation id="115483310321669804">Користи ја лозинката <ph name="PASSWORD" /></translation>
 <translation id="1173894706177603556">Преименувај</translation>
 <translation id="1174479719160874822">Кога е тесен екранот, Chrome ќе го побара сајтот за мобилен</translation>
@@ -73,7 +73,7 @@
 <translation id="1320912611264252795">Текот за зачувување обележувач е отворен на цел екран</translation>
 <translation id="1327257854815634930">Отворена е историјата на навигација</translation>
 <translation id="1331212799747679585">Chrome не може да се ажурира. Повеќе опции</translation>
-<translation id="1332501820983677155">Кратенки за функциите на Google Chrome</translation>
+<translation id="1332501820983677155">Кратенки за функциите на Cobalt</translation>
 <translation id="1344653310988386453">Вклучи линк до нагласената ставка</translation>
 <translation id="1347468774581902829">Управувајте со активноста</translation>
 <translation id="1360432990279830238">Одјавете се и исклучете синхронизација?</translation>
@@ -398,7 +398,7 @@
 <translation id="3062802207422175757">Статии за она што ве интересира на Chrome</translation>
 <translation id="3066573403916685335">Премести долу</translation>
 <translation id="3070005020161560471">Автоматски преведувај</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> ќе се отвори во Chrome. Ако продолжите, се согласувате со <ph name="BEGIN_LINK1" />Условите за користење на Google<ph name="END_LINK1" /> и <ph name="BEGIN_LINK2" />Дополнителните услови за користење на Google Chrome и Chrome OS<ph name="END_LINK2" />. Важи и <ph name="BEGIN_LINK3" />Политиката за приватност<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> ќе се отвори во Chrome. Ако продолжите, се согласувате со <ph name="BEGIN_LINK1" />Условите за користење на Google<ph name="END_LINK1" /> и <ph name="BEGIN_LINK2" />Дополнителните услови за користење на Cobalt и Chrome OS<ph name="END_LINK2" />. Важи и <ph name="BEGIN_LINK3" />Политиката за приватност<ph name="END_LINK3" />.</translation>
 <translation id="3080525922482950719">Може да зачувувате страници за да ги читате подоцна или офлајн</translation>
 <translation id="3091010850649238832">Прикажи содржини од привремената меморија</translation>
 <translation id="3098745985164956033">Некои слики се испраќаат во Google за да им се подобрат описите</translation>
@@ -417,7 +417,7 @@
 <translation id="3214996641768123781"><ph name="BEGIN_LINK1" />Историјата на пребарување<ph name="END_LINK1" /> и <ph name="BEGIN_LINK2" />други форми на активност<ph name="END_LINK2" /> може да се зачувуваат во вашата сметка на Google кога сте најавени. Може да ги избришете во секое време.</translation>
 <translation id="3220943972464248773">За да ги синхронизирате лозинките, потврдете дека сте вие</translation>
 <translation id="3226612997184048185">Ако ги зачувувате и вашите обележувачи во вашата сметка на Google, може да ги следите цените на производите во Chrome и да добивате известувања кога ќе се намали цената</translation>
-<translation id="3227557059438308877">Google Chrome како безбедносен клуч</translation>
+<translation id="3227557059438308877">Cobalt како безбедносен клуч</translation>
 <translation id="3232754137068452469">Веб-апликација</translation>
 <translation id="3236059992281584593">Остана 1 минута</translation>
 <translation id="3237087289225714896">Стандардно вчитување однапред:</translation>
@@ -1622,7 +1622,7 @@
 <translation id="9219103736887031265">Слики</translation>
 <translation id="92381315203627188">Кога одреден сајт ќе ви побара приватно вчитување однапред на линковите на неговата страница, Chrome ги шифрира и однапред ги вчитува страниците преку серверите на Google без колачиња. Вака се сокрива вашиот идентитет од однапред вчитаниот сајт.</translation>
 <translation id="926205370408745186">Отстранете ја вашата активност на Chrome од „Дигитална благосостојба“</translation>
-<translation id="927968626442779827">Користете „Лесен режим“ на Google Chrome</translation>
+<translation id="927968626442779827">Користете „Лесен режим“ на Cobalt</translation>
 <translation id="928550791203542716">Се следи <ph name="SITE_NAME" /></translation>
 <translation id="93533588269984624">Сите лозинки ќе се преземат на вашиот уред и ќе се отстранат од <ph name="CHROME_CHANNEL" /></translation>
 <translation id="938850635132480979">Грешка: <ph name="ERROR_CODE" /></translation>

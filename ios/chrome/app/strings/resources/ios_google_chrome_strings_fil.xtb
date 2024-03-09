@@ -50,7 +50,7 @@ Mga bagay na dapat isaalang-alang:
 <translation id="1917964099031477364">Aalisin sa Chrome at sa iba pang Google app sa device na ito ang account na ito at anumang hindi naka-save na data.</translation>
 <translation id="1965935827552890526">Tapusin ang ginagawa mo sa iyong iba pang nakabukas na window ng Chrome.</translation>
 <translation id="1987779152850321833">Kumpletuhin ang mga iminumungkahing pagkilos na ito sa ibaba para masulit ang Chrome.</translation>
-<translation id="2056123005618757196">Makagawa ng mas maraming bagay gamit ang simple, secure, at mas mabilis na ngayong Google Chrome.</translation>
+<translation id="2056123005618757196">Makagawa ng mas maraming bagay gamit ang simple, secure, at mas mabilis na ngayong Cobalt.</translation>
 <translation id="2120238739383482109">Mabubuksan ang mga bookmark sa Chrome.</translation>
 <translation id="2147651015520127414">Na-verify ng Chrome na ang <ph name="ISSUER" /> ang nagbigay sa certificate ng website na ito.</translation>
 <translation id="2155145621546387786">Ibahagi ang Chrome</translation>
@@ -70,7 +70,7 @@ Mga bagay na dapat isaalang-alang:
 <translation id="2561231791489583059">Gamitin ang Chrome bilang iyong default na browser para manatiling protektado laban sa mga mapanganib na site at mapanatiling ligtas ang mga password mo</translation>
 <translation id="2574249610672786438">Para makita ang iyong mga tab sa kahit saan ka man gumagamit ng Chrome, mag-sign in sa lahat ng device mo</translation>
 <translation id="2576431527583832481">Naging mas mahusay na ang Chrome! Available na ang bagong bersyon.</translation>
-<translation id="257708665678654955">Gusto mo bang mag-alok ang Google Chrome na isalin ang mga <ph name="LANGUAGE_NAME" /> page mula sa site na ito sa susunod na pagkakataon?</translation>
+<translation id="257708665678654955">Gusto mo bang mag-alok ang Cobalt na isalin ang mga <ph name="LANGUAGE_NAME" /> page mula sa site na ito sa susunod na pagkakataon?</translation>
 <translation id="2650286135394207535">Payagan ang Chrome na tulungan kang i-track ang iyong mga package</translation>
 <translation id="2671426118752779020">Puwede mong gamitin ang mga password na na-save mo sa Google Password Manager sa iba pang app sa iyong iPhone.</translation>
 <translation id="2689064829982324496">Para mag-sign out sa iyong Google Account sa lahat ng website, <ph name="BEGIN_LINK" />mag-sign out sa Chrome<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@ Ang taong may passphrase mo lang ang makakapagbasa sa iyong naka-encrypt na data
 <translation id="3030414234702425231">Dahil magsa-sign out ka sa account na pinapamahalaan ng <ph name="SIGNOUT_MANAGED_DOMAIN" />, made-delete ang iyong data sa Chrome sa device na ito. Mananatili ang data mo sa iyong Google Account.</translation>
 <translation id="309672519329227863">I-access ang iyong mga password sa Chrome at higit pa sa iba pang app.</translation>
 <translation id="3146109040683991651">Itakda ang Chrome bilang Default na Browser</translation>
-<translation id="3167189358072330585">Hindi gumagana ang iyong account sa Google Chrome. Mangyaring makipag-ugnayan sa iyong administrator ng domain o gumamit ng regular na Google Account upang mag-sign in.</translation>
-<translation id="3173834708294760622">Page ng Google Chrome</translation>
+<translation id="3167189358072330585">Hindi gumagana ang iyong account sa Cobalt. Mangyaring makipag-ugnayan sa iyong administrator ng domain o gumamit ng regular na Google Account upang mag-sign in.</translation>
+<translation id="3173834708294760622">Page ng Cobalt</translation>
 <translation id="322254490661677575">Para magamit at ma-save ang data ng Chrome sa iyong Google Account, ilagay ang passphrase mo.</translation>
 <translation id="3282568296779691940">Mag-sign in sa Chrome</translation>
 <translation id="3340938510625667914">Mga Pagkilos sa Chrome</translation>
@@ -109,11 +109,11 @@ Ang taong may passphrase mo lang ang makakapagbasa sa iyong naka-encrypt na data
 <translation id="3646736009628185125">Hindi makakatanggap ng mga password ang iyong miyembro ng pamilya sa ngayon. Hilingin sa kanyang i-update ang Chrome at i-sync ang mga password niya. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Nangangahulugan itong hihilingin ng Chrome ang pang-mobile na site sa lahat ng pagkakataon.</translation>
 <translation id="3720541637541300822">I-lock ang Mga Tab na Incognito Kapag Isinara Mo ang Chrome</translation>
-<translation id="3740397331642243698">Bubuksan sa Incognito ang mga inilagay na URL sa Google Chrome.</translation>
+<translation id="3740397331642243698">Bubuksan sa Incognito ang mga inilagay na URL sa Cobalt.</translation>
 <translation id="3741995255368156336">Mabubuksan ang Listahan ng Babasahin sa Chrome.</translation>
 <translation id="3744018071945602754">Pamahalaan ang Mga Password sa Chrome</translation>
 <translation id="3827545470516145620">Mayroon kang standard na proteksyon sa seguridad sa device na ito</translation>
-<translation id="384394811301901750">Hindi magamit ng Google Chrome ang camera mo ngayon</translation>
+<translation id="384394811301901750">Hindi magamit ng Cobalt ang camera mo ngayon</translation>
 <translation id="3863841106411295595">Idaragdag ang mga in-input na URL sa iyong listahan ng babasahin sa Chrome.</translation>
 <translation id="387280738075653372">I-download ang Chrome dito.</translation>
 <translation id="3901001113120561395">Sulitin ang Chrome.</translation>
@@ -121,7 +121,7 @@ Ang taong may passphrase mo lang ang makakapagbasa sa iyong naka-encrypt na data
 <translation id="3967382818307165056">Mamahala ng Mga Paraan ng Pagbabayad sa Chrome</translation>
 <translation id="3980220367029651214">Lumilipat ka mula sa naka-sync na account na <ph name="USER_EMAIL1" /> papunta sa <ph name="USER_EMAIL2" />. Pinamamahalaan ng <ph name="DOMAIN" /> ang kasalukuyan mong data sa Chrome. Ide-delete nito ang data mo sa device na ito, ngunit mananatili ang iyong data sa <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Hinihiling sa iyo ng organisasyon mo na manatiling naka-sign out sa Chrome.</translation>
-<translation id="3988789688219830639">Walang access ang Google Chrome sa larawan o video. I-enable ang access sa Mga Setting ng iOS &gt; Privacy &gt; Mga Larawan.</translation>
+<translation id="3988789688219830639">Walang access ang Cobalt sa larawan o video. I-enable ang access sa Mga Setting ng iOS &gt; Privacy &gt; Mga Larawan.</translation>
 <translation id="4064699917955374540">Para magamit at ma-save ang data ng Chrome sa iyong Google Account, i-verify na ikaw ito.</translation>
 <translation id="4067858366537947361">Buksan ang Tab na Incognito sa Chrome</translation>
 <translation id="4093042601582616698">Gawing Default na Browser Mo ang Chrome?</translation>
@@ -156,7 +156,7 @@ Ang taong may passphrase mo lang ang makakapagbasa sa iyong naka-encrypt na data
 <translation id="5190139289262548459">Pinapamahalaan ng iyong organisasyon at <ph name="DOMAIN" /> ang account kung saan ka naka-sign in at kung paano ginagamit ang Chrome.</translation>
 <translation id="5256908199795498284">Made-detect ng Chrome ang mga tracking number ng package sa mga site na binibisita mo at magpapakita ito sa iyo ng mga update sa package sa page na Bagong Tab. Ishe-share sa Google ang iyong data para maibigay ang feature na ito at mapahusay ang Shopping para sa lahat.</translation>
 <translation id="5278862365980079760">I-lock ang iyong mga tab na incognito kapag umalis ka sa Chrome o lumipat ka sa ibang app.</translation>
-<translation id="5389212809648216794">Hindi magamit ng Google Chrome ang iyong camera ngayon dahil ginagamit ito sa isa pang application</translation>
+<translation id="5389212809648216794">Hindi magamit ng Cobalt ang iyong camera ngayon dahil ginagamit ito sa isa pang application</translation>
 <translation id="5395376160638294582">Tiyaking magagamit mo sa anumang oras ang data ng Chrome sa iyong Google Account</translation>
 <translation id="5439191312780166229">Babalaan ka tungkol sa mga mapanganib na site, kahit iyong mga hindi alam ng Google noon, sa pamamagitan ng pagsusuri sa higit pang data mula sa mga site kaysa sa karaniwang proteksyon. Puwede mong piliing laktawan ang mga babala ng Chrome.</translation>
 <translation id="5442013002200339429">Kung iha-hide mo ang "<ph name="MODULE_NAME" />," hindi na awtomatikong susubaybayan ng Chrome ang iyong mga package sa hinaharap at ide-delete nito ang lahat ng dati mong data ng pagsubaybay sa package.</translation>
@@ -168,8 +168,8 @@ Ang taong may passphrase mo lang ang makakapagbasa sa iyong naka-encrypt na data
 <translation id="5552137475244467770">Pana-panahong sinusuri ng Chrome ang iyong mga password sa mga listahang na-publish online. Kapag ginagawa ito, naka-encrypt ang iyong mga password at username, para hindi mabasa ng sinuman ang mga ito, kabilang ang Google.</translation>
 <translation id="5554520618550346933">Kapag gumamit ka ng password, babalaan ka ng Chrome kung na-publish na ito online. Kapag ginagawa ito, naka-encrypt ang iyong mga password at username para hindi mabasa ng sinuman ang mga ito, kabilang ang Google.</translation>
 <translation id="5601180634394228718">Para sa higit pang setting na gumagamit ng data para pahusayin ang iyong experience sa Chrome, pumunta sa <ph name="BEGIN_LINK" />Mga Serbisyo ng Google<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Buksan ang Settings &gt; Privacy &gt; Camera &gt; Google Chrome at i-on ang camera.</translation>
-<translation id="5642200033778930880">Hindi magamit ng Google Chrome ang iyong camera sa Split View mode</translation>
+<translation id="5639704535586432836">Buksan ang Settings &gt; Privacy &gt; Camera &gt; Cobalt at i-on ang camera.</translation>
+<translation id="5642200033778930880">Hindi magamit ng Cobalt ang iyong camera sa Split View mode</translation>
 <translation id="5661521615548540542">Hindi masuri ng Google Password Manager ang lahat ng password. Subukan ulit sa ibang pagkakataon.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Nagpapakita ngayon ng 1 window ng Chrome}one{Nagpapakita ngayon ng {count} window ng Chrome}other{Nagpapakita ngayon ng {count} na window ng Chrome}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ Para sa higit pang setting na gumagamit ng data para pahusayin ang iyong experie
 <translation id="7056826488869329999">Magbubukas at Magpapatakbo ng Pag-check sa Kaligtasan sa Chrome.</translation>
 <translation id="7059914902409643750">Gawing Iyo ang Chrome</translation>
 <translation id="7124339256045485976">Panatilihing up to date ang Chrome</translation>
-<translation id="7161390184744336561">Luma na ang Google Chrome</translation>
-<translation id="7165736900384873061">Simulan ang paggamit ng QR scanner ng Google Chrome</translation>
+<translation id="7161390184744336561">Luma na ang Cobalt</translation>
+<translation id="7165736900384873061">Simulan ang paggamit ng QR scanner ng Cobalt</translation>
 <translation id="7175129790242719365">Tip sa Chrome: Mag-sign in sa Chrome</translation>
 <translation id="7187993566681480880">Pinapanatili kang ligtas sa Chrome at puwedeng gamitin para paigtingin ang iyong seguridad sa iba pang Google app kapag naka-sign in ka.</translation>
 <translation id="7200524487407690471">Awtomatikong pinapatakbo ng Chrome ang Pag-check sa Kaligtasan araw-araw para panatilihin kang ligtas laban sa mga paglabag sa data, hindi ligtas na website, at higit pa. Makakakita ka ng higit pa tungkol sa Pag-check sa Kaligtasan sa Mga Setting.</translation>
@@ -233,7 +233,7 @@ Para sa higit pang setting na gumagamit ng data para pahusayin ang iyong experie
 <translation id="7304491752269485262">Na-expand na View ng Autofill ng Chrome</translation>
 <translation id="7349129508108954623">Payagan ang Chrome na gamitin ang Google Maps para bigyan ka ng mga direksyon at lokal na impormasyon tungkol sa mga na-detect na address.</translation>
 <translation id="7394108421562933108">Maps sa Chrome</translation>
-<translation id="7400722733683201933">Tungkol sa Google Chrome</translation>
+<translation id="7400722733683201933">Tungkol sa Cobalt</translation>
 <translation id="7466693328838535498">Sa box ng Mga Search Widget, ilagay ang salitang Chrome</translation>
 <translation id="746684838091935575">3. Piliin ang Chrome</translation>
 <translation id="7492574581995589075">Ini-off ng iyong organisasyon ang kakayahang gumamit at mag-save ng data sa Chrome sa iyong Google Account. Sa device na ito lang mase-save ang mga bagong bookmark, password, at higit pa.</translation>
@@ -249,7 +249,7 @@ Para sa higit pang setting na gumagamit ng data para pahusayin ang iyong experie
 <translation id="7780154209050837198">Para masulit ang Chrome, mag-sign in sa Chrome gamit ang iyong Google Account.</translation>
 <translation id="778855399387580014">Start a search in a new Chrome tab.</translation>
 <translation id="7792140019572081272">Pinapanatiling secure ng Chrome ang iyong sensitibong data gamit ang Face ID.</translation>
-<translation id="7855730255114109580">Napapanahon ang Google Chrome</translation>
+<translation id="7855730255114109580">Napapanahon ang Cobalt</translation>
 <translation id="7897703007638178753">Tingnan ang Mga Kamakailang Tab sa Chrome</translation>
 <translation id="7925119591961387184">Piliin ang "Chrome."</translation>
 <translation id="7933491483529363150">Buksan ang Aking Pinakabagong Tab sa Chrome.</translation>
@@ -280,13 +280,13 @@ Na-encrypt ang iyong data gamit ang passphrase mo noong <ph name="TIME" />. Ilag
   1. Buksan ang Mga Setting
   2. I-tap ang Default na Browser App
   3. Piliin ang Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Magagamit mo na ngayon ang Chrome sa tuwing magbo-browse o magta-tap ka ng mga link sa mga mensahe, dokumento, at iba pang app.</translation>
 <translation id="8577978202917232774">Batay ang mga suhestyon sa iyong aktibidad sa pag-browse sa iba mo pang device. Para makatanggap ng mga suhestyon, mag-sign in sa Chrome sa lahat ng iyong device.</translation>
 <translation id="8587647598504233556">I-tap ang "Chrome" pagkatapos ay "Default na Browser App."</translation>
 <translation id="8603022514504485810">Hindi masuri ng Google Password Manager ang lahat ng password. Subukan ulit bukas o <ph name="BEGIN_LINK" />suriin ang mga password sa iyong Google Account.<ph name="END_LINK" /></translation>
 <translation id="8727043961453758442">Sulitin ang Chrome</translation>
-<translation id="8736550665979974340">Manatiling Ligtas sa Google Chrome</translation>
+<translation id="8736550665979974340">Manatiling Ligtas sa Cobalt</translation>
 <translation id="8760668027640688122">Magbukas ng Bagong Tab sa Chrome</translation>
 <translation id="8765470054473112089">Kapag nag-type ka sa address bar o sa box para sa paghahanap, ipapadala ng Chrome kung ano ang tina-type mo sa iyong default na search engine para makakuha ng mas magagandang suhestyon. Naka-off ito sa Incognito.</translation>
 <translation id="8772179140489533211">Nagpapakita ng mga prompt na mag-sign in sa Chrome.</translation>

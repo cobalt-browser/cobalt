@@ -50,7 +50,7 @@ Aspetti da considerare:
 <translation id="1917964099031477364">Questo account e gli eventuali dati non salvati verranno rimossi da Chrome e da altre app Google su questo dispositivo.</translation>
 <translation id="1965935827552890526">Finisci ciò che stavi facendo in un'altra finestra di Chrome aperta.</translation>
 <translation id="1987779152850321833">Completa le azioni suggerite di seguito per usare al meglio Chrome.</translation>
-<translation id="2056123005618757196">Aumenta la tua produttività grazie a Google Chrome, che ti offre semplicità, sicurezza e velocità senza precedenti.</translation>
+<translation id="2056123005618757196">Aumenta la tua produttività grazie a Cobalt, che ti offre semplicità, sicurezza e velocità senza precedenti.</translation>
 <translation id="2120238739383482109">Consente di aprire i preferiti di Chrome.</translation>
 <translation id="2147651015520127414">Chrome ha verificato che <ph name="ISSUER" /> ha emesso il certificato del sito web.</translation>
 <translation id="2155145621546387786">Condividi Chrome</translation>
@@ -70,7 +70,7 @@ Aspetti da considerare:
 <translation id="2561231791489583059">Usa Chrome come browser predefinito per proteggerti da siti pericolosi e tenere al sicuro le tue password</translation>
 <translation id="2574249610672786438">Esegui l'accesso su tutti i dispositivi su cui utilizzi Chrome per visualizzare le tue schede</translation>
 <translation id="2576431527583832481">Chrome è stato migliorato. È disponibile una nuova versione.</translation>
-<translation id="257708665678654955">Vuoi che Google Chrome ti proponga di tradurre le pagine di questo sito in <ph name="LANGUAGE_NAME" /> al prossimo accesso?</translation>
+<translation id="257708665678654955">Vuoi che Cobalt ti proponga di tradurre le pagine di questo sito in <ph name="LANGUAGE_NAME" /> al prossimo accesso?</translation>
 <translation id="2650286135394207535">Consenti a Chrome di aiutarti a monitorare i tuoi pacchi</translation>
 <translation id="2671426118752779020">Puoi utilizzare le password salvate con Gestore delle password di Google in altre app sull'iPhone.</translation>
 <translation id="2689064829982324496">Per uscire dal tuo Account Google su tutti i siti web, <ph name="BEGIN_LINK" />esci da Chrome<ph name="END_LINK" />.</translation>
@@ -92,8 +92,8 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="3030414234702425231">Dal momento che stai per uscire da un account gestito da <ph name="SIGNOUT_MANAGED_DOMAIN" />, i dati di Chrome verranno eliminati da questo dispositivo, ma rimarranno memorizzati nel tuo Account Google.</translation>
 <translation id="309672519329227863">Accedi alle tue password di Chrome e ad altri dati in altre app.</translation>
 <translation id="3146109040683991651">Imposta Chrome come browser predefinito</translation>
-<translation id="3167189358072330585">Il tuo account non funziona su Google Chrome. Contatta l'amministratore di dominio o utilizza un normale Account Google per accedere.</translation>
-<translation id="3173834708294760622">Pagina di Google Chrome</translation>
+<translation id="3167189358072330585">Il tuo account non funziona su Cobalt. Contatta l'amministratore di dominio o utilizza un normale Account Google per accedere.</translation>
+<translation id="3173834708294760622">Pagina di Cobalt</translation>
 <translation id="322254490661677575">Per usare e salvare i dati di Chrome nel tuo Account Google, inserisci la tua passphrase.</translation>
 <translation id="3282568296779691940">Accedi a Chrome</translation>
 <translation id="3340938510625667914">Azioni di Chrome</translation>
@@ -109,11 +109,11 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="3646736009628185125">Al momento il tuo membro del gruppo Famiglia non può ricevere password. Chiedi di aggiornare Chrome e sincronizzare le sue password. <ph name="BEGIN_LINK" />Scopri di più<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Ciò significa che Chrome richiederà ogni volta il sito per dispositivi mobili.</translation>
 <translation id="3720541637541300822">Blocca le schede di navigazione in incognito quando chiudi Chrome</translation>
-<translation id="3740397331642243698">Consente di aprire gli URL inseriti in Google Chrome nella modalità in incognito.</translation>
+<translation id="3740397331642243698">Consente di aprire gli URL inseriti in Cobalt nella modalità in incognito.</translation>
 <translation id="3741995255368156336">Consente di aprire l'elenco di lettura di Chrome.</translation>
 <translation id="3744018071945602754">Gestisci le password in Chrome</translation>
 <translation id="3827545470516145620">Otterrai la protezione di sicurezza standard su questo dispositivo</translation>
-<translation id="384394811301901750">Google Chrome non può utilizzare la videocamera al momento</translation>
+<translation id="384394811301901750">Cobalt non può utilizzare la videocamera al momento</translation>
 <translation id="3863841106411295595">Aggiunge gli URL inseriti al tuo elenco di lettura in Chrome.</translation>
 <translation id="387280738075653372">Scarica Chrome qui.</translation>
 <translation id="3901001113120561395">Usa al meglio Chrome.</translation>
@@ -121,7 +121,7 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="3967382818307165056">Gestisci i metodi di pagamento in Chrome</translation>
 <translation id="3980220367029651214">Stai per cambiare account di sincronizzazione, passando dall'account <ph name="USER_EMAIL1" /> all'account <ph name="USER_EMAIL2" />. I tuoi attuali dati di Chrome vengono gestiti da <ph name="DOMAIN" />. I dati verranno eliminati da questo dispositivo, ma rimarranno memorizzati nell'account <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">La tua organizzazione ti richiede di non effettuare l'accesso a Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome non ha accesso alle tue foto o ai tuoi video. Attiva l'accesso in Impostazioni iOS &gt; Privacy &gt; Foto.</translation>
+<translation id="3988789688219830639">Cobalt non ha accesso alle tue foto o ai tuoi video. Attiva l'accesso in Impostazioni iOS &gt; Privacy &gt; Foto.</translation>
 <translation id="4064699917955374540">Per usare e salvare i dati di Chrome nel tuo Account Google, verifica la tua identità.</translation>
 <translation id="4067858366537947361">Apri la scheda di navigazione in incognito Chrome</translation>
 <translation id="4093042601582616698">Vuoi impostare Chrome come browser predefinito?</translation>
@@ -156,7 +156,7 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="5190139289262548459">La tua organizzazione, <ph name="DOMAIN" />, gestisce l'account a cui hai eseguito l'accesso e la modalità di utilizzo di Chrome.</translation>
 <translation id="5256908199795498284">Chrome rileverà i numeri di tracciamento delle spedizioni sui siti che visiti e mostrerà gli aggiornamenti relativi ai pacchetti nella pagina Nuova scheda. I tuoi dati verranno condivisi con Google per fornire questa funzionalità e migliorare Shopping per tutti.</translation>
 <translation id="5278862365980079760">Blocca le schede di navigazione in incognito quando esci da Chrome o passi a un'altra app.</translation>
-<translation id="5389212809648216794">Google Chrome non può utilizzare la videocamera perché è attualmente utilizzata da un'altra applicazione</translation>
+<translation id="5389212809648216794">Cobalt non può utilizzare la videocamera perché è attualmente utilizzata da un'altra applicazione</translation>
 <translation id="5395376160638294582">Assicurati di poter usare sempre i dati di Chrome nel tuo Account Google</translation>
 <translation id="5439191312780166229">Ricevi un avviso in caso di siti pericolosi, inclusi quelli di cui Google non era a conoscenza, analizzando più dati provenienti dai siti rispetto al livello Protezione standard. Puoi scegliere di ignorare gli avvisi di Chrome.</translation>
 <translation id="5442013002200339429">Se nascondi "<ph name="MODULE_NAME" />", Chrome non traccerà più automaticamente i tuoi futuri pacchetti ed eliminerà tutti i dati di tracciamento delle spedizioni precedenti.</translation>
@@ -168,8 +168,8 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="5552137475244467770">Chrome confronta periodicamente le tue password con gli elenchi pubblicati online. Durante questa operazione, le tue password e i tuoi nomi utente vengono criptati, quindi non possono essere letti da nessuno, Google compresa.</translation>
 <translation id="5554520618550346933">Quando utilizzi una password, Chrome ti avvisa se è stata pubblicata online. Durante questa operazione, le tue password e i tuoi nomi utente vengono criptati, quindi non possono essere letti da nessuno, Google compresa.</translation>
 <translation id="5601180634394228718">Per altre impostazioni che utilizzano i dati per migliorare la tua esperienza con Chrome, vai alle impostazioni dei <ph name="BEGIN_LINK" />servizi Google<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Apri impostazioni &gt; Privacy &gt; Fotocamera &gt; Google Chrome e attiva la videocamera.</translation>
-<translation id="5642200033778930880">Google Chrome non può utilizzare la videocamera in modalità Visualizzazione divisa</translation>
+<translation id="5639704535586432836">Apri impostazioni &gt; Privacy &gt; Fotocamera &gt; Cobalt e attiva la videocamera.</translation>
+<translation id="5642200033778930880">Cobalt non può utilizzare la videocamera in modalità Visualizzazione divisa</translation>
 <translation id="5661521615548540542">Gestore delle password di Google non ha potuto controllare tutte le password. Riprova più tardi.</translation>
 <translation id="5690398455483874150">{count,plural, =1{1 finestra di Chrome visualizzata}other{{count} finestre di Chrome visualizzate}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ Per altre impostazioni che utilizzano i dati per migliorare la tua esperienza co
 <translation id="7056826488869329999">Apre ed esegue il controllo di sicurezza in Chrome.</translation>
 <translation id="7059914902409643750">Personalizza Chrome</translation>
 <translation id="7124339256045485976">Mantieni Chrome aggiornato</translation>
-<translation id="7161390184744336561">Google Chrome non è aggiornato</translation>
-<translation id="7165736900384873061">Inizia a utilizzare lo scanner QR di Google Chrome</translation>
+<translation id="7161390184744336561">Cobalt non è aggiornato</translation>
+<translation id="7165736900384873061">Inizia a utilizzare lo scanner QR di Cobalt</translation>
 <translation id="7175129790242719365">Suggerimento per Chrome: accedi a Chrome</translation>
 <translation id="7187993566681480880">Ti protegge su Chrome e potrebbe essere utilizzata per migliorare la sicurezza su altre app Google se esegui l'accesso.</translation>
 <translation id="7200524487407690471">Chrome esegue automaticamente il controllo di sicurezza ogni giorno per proteggerti da violazioni dei dati, siti web non sicuri e altro ancora. Puoi trovare ulteriori informazioni sul controllo di sicurezza nelle Impostazioni.</translation>
@@ -233,7 +233,7 @@ Per altre impostazioni che utilizzano i dati per migliorare la tua esperienza co
 <translation id="7304491752269485262">Visualizzazione espansa della compilazione automatica di Chrome</translation>
 <translation id="7349129508108954623">Consenti a Chrome di usare Google Maps per darti indicazioni stradali e informazioni locali relative agli indirizzi rilevati.</translation>
 <translation id="7394108421562933108">Maps in Chrome</translation>
-<translation id="7400722733683201933">Informazioni su Google Chrome</translation>
+<translation id="7400722733683201933">Informazioni su Cobalt</translation>
 <translation id="7466693328838535498">Nella casella Cerca nei widget, inserisci la parola Chrome</translation>
 <translation id="746684838091935575">3. Seleziona Chrome</translation>
 <translation id="7492574581995589075">La tua organizzazione ha disattivato la possibilità di usare e salvare i dati di Chrome nel tuo Account Google. I nuovi preferiti, le nuove password e altri dati verranno salvati solo su questo dispositivo.</translation>
@@ -249,7 +249,7 @@ Per altre impostazioni che utilizzano i dati per migliorare la tua esperienza co
 <translation id="7780154209050837198">Accedi con il tuo Account Google a Chrome per usare al meglio questo browser.</translation>
 <translation id="778855399387580014">Avvia una ricerca in una nuova scheda di Chrome.</translation>
 <translation id="7792140019572081272">Chrome protegge i tuoi dati sensibili con Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome è aggiornato</translation>
+<translation id="7855730255114109580">Cobalt è aggiornato</translation>
 <translation id="7897703007638178753">Visualizza le schede recenti di Chrome</translation>
 <translation id="7925119591961387184">Seleziona "Chrome".</translation>
 <translation id="7933491483529363150">Apri La mia scheda più recente in Chrome.</translation>
@@ -280,13 +280,13 @@ I tuoi dati sono stati criptati con la tua passphrase il giorno <ph name="TIME" 
   1. Apri le Impostazioni.
   2. Tocca App browser predefinita.
   3. Seleziona Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Ora puoi usare Chrome ogni volta che navighi o tocchi link in messaggi, documenti e altre app.</translation>
 <translation id="8577978202917232774">I suggerimenti sono basati sulla tua attività di navigazione sugli altri dispositivi. Per ricevere suggerimenti, accedi a Chrome su tutti i tuoi dispositivi.</translation>
 <translation id="8587647598504233556">Tocca "Chrome" e poi "App browser predefinita".</translation>
 <translation id="8603022514504485810">Gestore delle password di Google non ha potuto controllare tutte le password. Riprova domani oppure <ph name="BEGIN_LINK" />controlla le password nel tuo Account Google<ph name="END_LINK" />.</translation>
 <translation id="8727043961453758442">Ottieni il massimo da Chrome</translation>
-<translation id="8736550665979974340">Resta al sicuro con Google Chrome</translation>
+<translation id="8736550665979974340">Resta al sicuro con Cobalt</translation>
 <translation id="8760668027640688122">Apri nuova scheda in Chrome</translation>
 <translation id="8765470054473112089">Quando digiti nella barra degli indirizzi o nella casella di ricerca, Chrome invia ciò che digiti al tuo motore di ricerca predefinito per ricevere suggerimenti migliori. Questa opzione è disattivata nella modalità di navigazione in incognito</translation>
 <translation id="8772179140489533211">Vengono mostrate richieste di accesso a Chrome.</translation>

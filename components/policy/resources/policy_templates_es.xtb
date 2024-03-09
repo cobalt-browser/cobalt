@@ -845,7 +845,7 @@ Si se le asigna el valor False a esta política o no se define, no se capturará
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />: se usarán los campos <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />: se usarán los campos <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
 
-      Nota: Puedes consultar ejemplos más detallados en The Chromium Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
+      Nota: Puedes consultar ejemplos más detallados en The Cobalt Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
 <translation id="1700811900332333712">Permite el uso de Powerwash en el dispositivo</translation>
 <translation id="1705215165572785706">Tratar las teclas de la fila superior como teclas multimedia, pero permitir que el usuario cambie este ajuste</translation>
 <translation id="1708496595873025510">Establecer restricción en obtención de base de variaciones</translation>
@@ -941,7 +941,7 @@ En <ph name="MS_WIN_NAME" />, esta política solo está disponible en instancias
 
        Deja esta política sin establecer si has seleccionado otro modo para configurar las políticas de proxy.
 
-       Nota: Puedes consultar más ejemplos detallados en The Chromium Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett</translation>
+       Nota: Puedes consultar más ejemplos detallados en The Cobalt Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett</translation>
 <translation id="1767673020408652620">Habilitar la opción Aplicaciones recomendadas en estado cero del cuadro de búsqueda.</translation>
 <translation id="1768225118528727376">Permitir permiso de gestión de ventanas en estos sitios</translation>
 <translation id="1770071413238151235">Formato de reloj de 12 horas</translation>
@@ -1151,7 +1151,7 @@ Si se inhabilita, <ph name="PRODUCT_NAME" /> cerrará la pestaña después de ca
      </translation>
 <translation id="1919802376548418720">Usa la política del centro de distribución de llaves (KDC) para delegar credenciales.</translation>
 <translation id="1920046221095339924">Permitir sesión gestionada en el dispositivo</translation>
-<translation id="1920772397574801429">Si se define esta política, se especificará el tipo de cuentas proporcionadas por la aplicación de autenticación de Android compatible con la autenticación <ph name="HTTP_NEGOTIATE" /> (como la autenticación Kerberos). Esta información debe estar disponible desde el proveedor de la aplicación de autenticación. Para obtener más información, consulta The Chromium Projects (https://goo.gl/hajyfN).
+<translation id="1920772397574801429">Si se define esta política, se especificará el tipo de cuentas proporcionadas por la aplicación de autenticación de Android compatible con la autenticación <ph name="HTTP_NEGOTIATE" /> (como la autenticación Kerberos). Esta información debe estar disponible desde el proveedor de la aplicación de autenticación. Para obtener más información, consulta The Cobalt Projects (https://goo.gl/hajyfN).
 
       Si no se define esta política, se desactivará la autenticación <ph name="HTTP_NEGOTIATE" /> en Android.</translation>
 <translation id="1923704782248889851">Habilitar el dictado</translation>
@@ -2820,7 +2820,7 @@ Si esta política se habilita, se usará el nuevo comportamiento.
 
 Si se inhabilita, se usará el comportamiento anterior.
 
-Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Chromium.</translation>
+Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Cobalt.</translation>
 <translation id="3219421230122020860">Modo Incógnito disponible</translation>
 <translation id="3220624000494482595">Si la aplicación de kiosco es una aplicación para Android, no tendrá control sobre la versión de <ph name="PRODUCT_OS_NAME" />, incluso si se asigna el valor <ph name="TRUE" /> a esta política.</translation>
 <translation id="3222088741899353813">El botón izquierdo es el principal en la pantalla de inicio de sesión</translation>
@@ -5028,7 +5028,7 @@ Si no se establece esta política o se inhabilita, las cookies y los datos se po
           Si no se establece esta política, se utilizará la línea de comandos predeterminada.</translation>
 <translation id="5151099177901233471">Habilitar los informes sobre la zona horaria del dispositivo</translation>
 <translation id="5152393033264257734">Permitir las comprobaciones de interceptación de DNS y las barras de información aclaratorias "http://intranetsite/".</translation>
-<translation id="5152787786897382519">Tanto Chromium como Google Chrome cuentan con algunos grupos de políticas que tienen dependencia mutua para asumir el control de una función. Estos conjuntos están representados por los grupos de políticas que se indican a continuación. Dado que las políticas pueden tener varias fuentes, solo se aplicarán los valores procedentes de la fuente que tenga la mayor prioridad. Se ignorarán los valores procedentes de las fuentes del mismo grupo que tengan menor prioridad. El orden de prioridad se define en la página <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Tanto Cobalt como Cobalt cuentan con algunos grupos de políticas que tienen dependencia mutua para asumir el control de una función. Estos conjuntos están representados por los grupos de políticas que se indican a continuación. Dado que las políticas pueden tener varias fuentes, solo se aplicarán los valores procedentes de la fuente que tenga la mayor prioridad. Se ignorarán los valores procedentes de las fuentes del mismo grupo que tengan menor prioridad. El orden de prioridad se define en la página <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Icono de experimentos del navegador en la barra de herramientas</translation>
 <translation id="5159674159887919923">No enviar datos adicionales de hardware con ChromeOS Flex</translation>
 <translation id="5163002264923337812">Habilitar el inicio de sesión basado en la Web antiguo</translation>
@@ -6877,7 +6877,7 @@ Si no se establece esta política, se aplicará el intervalo predeterminado de 1
 
       Si no se asigna ningún valor a esta política, los usuarios pueden elegir los ajustes del proxy.
 
-      Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Puedes consultar ejemplos detallados en The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="6559643481486165125">No solicitar reautenticación</translation>
 <translation id="656130159911161669">Las actualizaciones de ChromeOS ignoran la versión definida en el manifiesto de la aplicación de kiosco</translation>
 <translation id="6561396069801924653">Mostrar opciones de accesibilidad en el menú de la bandeja del sistema</translation>
@@ -7465,7 +7465,7 @@ Si esta política no se define, funcionará igual que si se le asigna el valor <
 
        Si se ha seleccionado otro modo para la configuración de las políticas de proxy, no se le debe asignar ningún valor a esta política.
 
-       Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Nota: Puedes consultar ejemplos detallados en The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7001915679435065291">Si se asigna el valor 1 a esta política, todos los sitios web podrán mostrar imágenes. Si se le asigna el valor 2, no se permitirá la visualización de imágenes.
 
 Si no se establece, podrán mostrarse imágenes, pero los usuarios podrán cambiar esta opción.</translation>
@@ -8328,7 +8328,7 @@ Si no se establece esta política, el navegador seleccionará el renderizador de
 
        Si se ha seleccionado otro modo para la configuración de las políticas de proxy, no se le debe asignar ningún valor a esta política.
 
-      Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Puedes consultar ejemplos detallados en The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7716587310609820801">Si se establece la política, podrás definir una lista de patrones de URL donde se especifique qué sitios no pueden mostrar notificaciones.
 
       Si no se establece la política, <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> se aplicará a todos los sitios, si se ha definido. Si no, se aplicará la configuración personal del usuario.
@@ -8947,7 +8947,7 @@ Si se le asigna el valor <ph name="DISPLAY_MANAGEMENT_LABEL_TRANSIENT_VALUE" /> 
 
       Esta política no se aplica a cuentas de usuario normales.</translation>
 <translation id="8257863622304579015">Habilitar el entorno aislado del servicio de red</translation>
-<translation id="8259375588339409826">Tanto Chromium como Google Chrome admiten el mismo conjunto de políticas. Ten en cuenta que en este documento se pueden incluir políticas no publicadas (es decir, cuya entrada "Compatible con" hace referencia a una versión no publicada de <ph name="PRODUCT_NAME" />), que pueden modificarse o retirarse sin previo aviso y que no tienen ningún tipo de garantía, ni siquiera las referentes a las propiedades de privacidad y seguridad.
+<translation id="8259375588339409826">Tanto Cobalt como Cobalt admiten el mismo conjunto de políticas. Ten en cuenta que en este documento se pueden incluir políticas no publicadas (es decir, cuya entrada "Compatible con" hace referencia a una versión no publicada de <ph name="PRODUCT_NAME" />), que pueden modificarse o retirarse sin previo aviso y que no tienen ningún tipo de garantía, ni siquiera las referentes a las propiedades de privacidad y seguridad.
 
 Estas políticas están destinadas exclusivamente a la configuración de instancias de <ph name="PRODUCT_NAME" /> internas de tu organización. El uso de estas políticas fuera de tu organización (por ejemplo, en un programa distribuido públicamente) se considera malware y es probable que Google y los proveedores de antivirus lo designen como tal.
 
@@ -9801,7 +9801,7 @@ Si se inhabilita, solo se enviarán los datos de hardware estándar.</translatio
 <translation id="8947415621777543415">Informar de ubicación del dispositivo</translation>
 <translation id="8948062138228904066">Lista de permitidos de servidores de autenticación</translation>
 <translation id="8951350807133946005">Establecer directorio de caché de disco</translation>
-<translation id="8952611478149810182">El envío de eventos en controles de formulario inhabilitados se va a modificar en Chromium para mejorar la compatibilidad con otros navegadores y la experiencia de los desarrolladores.
+<translation id="8952611478149810182">El envío de eventos en controles de formulario inhabilitados se va a modificar en Cobalt para mejorar la compatibilidad con otros navegadores y la experiencia de los desarrolladores.
 
 Este cambio hace que los MouseEvents se envíen en elementos de control de formulario inhabilitados, a excepción de click, mouseup y mousedown. Por ejemplo, entre los nuevos eventos se incluirán mousemove, mouseenter y mouseleave.
 
@@ -9813,7 +9813,7 @@ Si esta política se habilita, se usará el nuevo comportamiento.
 
 Si se inhabilita, se usará el comportamiento anterior.
 
-Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Chromium.</translation>
+Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Cobalt.</translation>
 <translation id="8955719471735800169">Volver al principio</translation>
 <translation id="8956312248048980644">Permite los clústeres de agentes con clave de origen de forma predeterminada.</translation>
 <translation id="8963464192296208229">Los ajustes de F11 usan la combinación de teclas que incluye la tecla modificadora Alt</translation>

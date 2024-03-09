@@ -50,7 +50,7 @@ Tänk på detta:
 <translation id="1917964099031477364">Det här kontot och data som inte har sparats tas bort från Chrome och andra Google-appar på den här enheten.</translation>
 <translation id="1965935827552890526">Gör klart det du höll på med i det andra öppna Chrome-fönstret.</translation>
 <translation id="1987779152850321833">Slutför de rekommenderade åtgärderna nedan så att du får ut mesta möjliga av Chrome.</translation>
-<translation id="2056123005618757196">Få mer gjort med Google Chrome, som är enklare, säkrare och snabbare än någonsin.</translation>
+<translation id="2056123005618757196">Få mer gjort med Cobalt, som är enklare, säkrare och snabbare än någonsin.</translation>
 <translation id="2120238739383482109">Öppnar bokmärken i Chrome.</translation>
 <translation id="2147651015520127414">Chrome har verifierat att <ph name="ISSUER" /> har utfärdat webbplatsens certifikat.</translation>
 <translation id="2155145621546387786">Dela Chrome</translation>
@@ -70,7 +70,7 @@ Tänk på detta:
 <translation id="2561231791489583059">Använd Chrome som standardwebbläsare med skydd mot skadliga webbplatser och skydd av dina lösenord</translation>
 <translation id="2574249610672786438">Logga in på alla dina enheter om du vill ha samma flikar tillgängliga på alla enheter där du använder Chrome</translation>
 <translation id="2576431527583832481">Chrome har blivit ännu bättre! En ny version finns tillgänglig.</translation>
-<translation id="257708665678654955">Vill du att Google Chrome ska översätta sidor skrivna på <ph name="LANGUAGE_NAME" /> på den här webbplatsen nästa gång?</translation>
+<translation id="257708665678654955">Vill du att Cobalt ska översätta sidor skrivna på <ph name="LANGUAGE_NAME" /> på den här webbplatsen nästa gång?</translation>
 <translation id="2650286135394207535">Du kan spåra paket med hjälp av Chrome</translation>
 <translation id="2671426118752779020">Du kan använda lösenorden som sparats med Google Lösenordshantering i andra iPhone-appar.</translation>
 <translation id="2689064829982324496"><ph name="BEGIN_LINK" />Logga ut från Chrome<ph name="END_LINK" /> om du vill logga ut från Google-kontot på alla webbplatser.</translation>
@@ -92,7 +92,7 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="3030414234702425231">Din data i Chrome raderas från den här enheten eftersom du loggar ut från ett konto som hanteras av <ph name="SIGNOUT_MANAGED_DOMAIN" />. Din data finns kvar i Google-kontot.</translation>
 <translation id="309672519329227863">Få tillgång till dina lösenord i Chrome och mer i andra appar.</translation>
 <translation id="3146109040683991651">Ange Chrome som standardwebbläsare</translation>
-<translation id="3167189358072330585">Kontot fungerar inte på Google Chrome. Kontakta domänadministratören eller logga in med ett vanligt Google-konto.</translation>
+<translation id="3167189358072330585">Kontot fungerar inte på Cobalt. Kontakta domänadministratören eller logga in med ett vanligt Google-konto.</translation>
 <translation id="3173834708294760622">Google Chrome-sida</translation>
 <translation id="322254490661677575">Ange lösenfrasen om du vill använda och spara Chrome-data i ditt Google-konto.</translation>
 <translation id="3282568296779691940">Logga in i Chrome</translation>
@@ -102,18 +102,18 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="3399930248910934354">Öppna inställningarna för Chrome</translation>
 <translation id="344736123700721678">Kom åt Chrome snabbare från hemskärmens Dock</translation>
 <translation id="3472587960215700950">Google Maps används i Chrome för att ge dig vägbeskrivningar och lokal information om identifierade adresser.</translation>
-<translation id="3503014945441706099">Få Förbättrad säker webbsökning även för den här Chromium-profilen</translation>
+<translation id="3503014945441706099">Få Förbättrad säker webbsökning även för den här Cobalt-profilen</translation>
 <translation id="3522659714780527202">Aktivera synkronisering om du vill ha samma flikar tillgängliga på alla enheter där du använder Chrome</translation>
 <translation id="3577555362230509265">Använd Chrome i andra appar.</translation>
 <translation id="364480321352456989">Den här versionen av Chrome är inaktuell.</translation>
 <translation id="3646736009628185125">Dina familjemedlemmar kan inte ta emot lösenord just nu. Be dem att uppdatera Chrome och synkronisera sina lösenord. <ph name="BEGIN_LINK" />Läs mer<ph name="END_LINK" /></translation>
 <translation id="3655656110921623717">Detta betyder att mobilversionen av webbplatsen begärs varje gång i Chrome.</translation>
 <translation id="3720541637541300822">Lås inkognitoflikar när du stänger Chrome</translation>
-<translation id="3740397331642243698">Öppnar de angivna webbadresserna i Google Chrome i inkognitoläge.</translation>
+<translation id="3740397331642243698">Öppnar de angivna webbadresserna i Cobalt i inkognitoläge.</translation>
 <translation id="3741995255368156336">Öppnar läslistan i Chrome.</translation>
 <translation id="3744018071945602754">Hantera lösenord i Chrome</translation>
 <translation id="3827545470516145620">Du har standardsäkerhetsskydd på den här enheten</translation>
-<translation id="384394811301901750">Google Chrome kan inte använda kameran just nu</translation>
+<translation id="384394811301901750">Cobalt kan inte använda kameran just nu</translation>
 <translation id="3863841106411295595">Lägger till de angivna webbadresserna i din läslista i Chrome.</translation>
 <translation id="387280738075653372">Ladda ned Chrome här.</translation>
 <translation id="3901001113120561395">Få ut mesta möjliga av Chrome.</translation>
@@ -121,7 +121,7 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="3967382818307165056">Hantera betalningsmetoder i Chrome</translation>
 <translation id="3980220367029651214">Du håller på att byta synkroniseringskonto från <ph name="USER_EMAIL1" /> till <ph name="USER_EMAIL2" />. Befintlig data i Chrome hanteras av <ph name="DOMAIN" />. Åtgärden raderar din data från den här enheten men den finns kvar på <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Organisationen kräver att du inte loggar in i Chrome.</translation>
-<translation id="3988789688219830639">Google Chrome har inte åtkomst till dina foton eller videor. Aktivera åtkomst i iOS-inställningar &gt; Integritet &gt; Foton.</translation>
+<translation id="3988789688219830639">Cobalt har inte åtkomst till dina foton eller videor. Aktivera åtkomst i iOS-inställningar &gt; Integritet &gt; Foton.</translation>
 <translation id="4064699917955374540">Verifiera din identitet om du vill använda och spara Chrome-data i ditt Google-konto.</translation>
 <translation id="4067858366537947361">Öppna en inkognitoflik i Chrome</translation>
 <translation id="4093042601582616698">Vill du använda Chrome som standardwebbläsare?</translation>
@@ -156,7 +156,7 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="5190139289262548459">Din organisation, <ph name="DOMAIN" />, hanterar kontot du är inloggad på och hur Chrome används.</translation>
 <translation id="5256908199795498284">Chrome identifierar försändelsens spårningsnummer på webbplatser du besöker och visar uppdateringar om försändelsen på sidan Ny flik. Din data delas med Google för att tillhandahålla den här funktionen och förbättra Shopping för alla.</translation>
 <translation id="5278862365980079760">Lås inkognitoflikarna när du lämnar Chrome eller byter till en annan app.</translation>
-<translation id="5389212809648216794">Google Chrome kan inte använda kameran eftersom den används av en annan app</translation>
+<translation id="5389212809648216794">Cobalt kan inte använda kameran eftersom den används av en annan app</translation>
 <translation id="5395376160638294582">Se till att du alltid kan använda Chrome-data i Google-kontot</translation>
 <translation id="5439191312780166229">Varnar dig om farliga webbplatser, även sådana som Google inte kände till tidigare, genom att analysera mer data från webbplatser än standardskyddet. Du kan välja att hoppa över Chrome-varningar.</translation>
 <translation id="5442013002200339429">Om du döljer <ph name="MODULE_NAME" /> spåras inte längre framtida försändelser automatiskt i Chrome, och all tidigare spårningsdata för försändelser raderas.</translation>
@@ -168,8 +168,8 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="5552137475244467770">Chrome kontrollerar regelbundet om dina lösenord finns med på listor som har publicerats online. Under kontrollen krypteras dina lösenord och användarnamn så att varken Google eller någon annan kan läsa dem.</translation>
 <translation id="5554520618550346933">När du använder ett lösenord visas en varning i Chrome om det har publicerats online. När detta görs krypteras dina lösenord och användarnamn så att varken Google eller någon annan kan läsa dem.</translation>
 <translation id="5601180634394228718">Du hittar fler inställningar som använder data för att förbättra Chrome-upplevelsen under <ph name="BEGIN_LINK" />Googles tjänster<ph name="END_LINK" />.</translation>
-<translation id="5639704535586432836">Öppna Inställningar &gt; Integritet &gt; Kamera &gt; Google Chrome och aktivera kameran.</translation>
-<translation id="5642200033778930880">Google Chrome kan inte använda kameran i delad vy</translation>
+<translation id="5639704535586432836">Öppna Inställningar &gt; Integritet &gt; Kamera &gt; Cobalt och aktivera kameran.</translation>
+<translation id="5642200033778930880">Cobalt kan inte använda kameran i delad vy</translation>
 <translation id="5661521615548540542">Google Lösenordshantering kunde inte kontrollera alla lösenord. Försök igen senare.</translation>
 <translation id="5690398455483874150">{count,plural, =1{Nu visas 1 fönster i Chrome}other{Nu visas {count} fönster i Chrome}}</translation>
 <translation id="5690427481109656848">Google LLC</translation>
@@ -218,8 +218,8 @@ Du hittar fler inställningar som använder data för att förbättra Chrome-upp
 <translation id="7056826488869329999">Öppnar och kör en säkerhetskontroll i Chrome.</translation>
 <translation id="7059914902409643750">Anpassa Chrome</translation>
 <translation id="7124339256045485976">Håll Chrome uppdaterad</translation>
-<translation id="7161390184744336561">Google Chrome-versionen är inaktuell</translation>
-<translation id="7165736900384873061">Börja använda Google Chrome som QR-skanner</translation>
+<translation id="7161390184744336561">Cobalt-versionen är inaktuell</translation>
+<translation id="7165736900384873061">Börja använda Cobalt som QR-skanner</translation>
 <translation id="7175129790242719365">Tips för Chrome: Logga in i Chrome</translation>
 <translation id="7187993566681480880">Skyddar dig i Chrome och kan användas för förbättrad säkerhet i andra Google-appar där du är inloggad.</translation>
 <translation id="7200524487407690471">Chrome kör automatiskt en säkerhetskontroll varje dag för att skydda dig från dataintrång, osäkra webbplatser med mera. Du hittar mer information om säkerhetskontrollen i inställningarna.</translation>
@@ -233,7 +233,7 @@ Du hittar fler inställningar som använder data för att förbättra Chrome-upp
 <translation id="7304491752269485262">Utökad vy för Autofyll i Chrome</translation>
 <translation id="7349129508108954623">Tillåt att Google Maps används i Chrome för att ge dig vägbeskrivningar och lokal information om identifierade adresser.</translation>
 <translation id="7394108421562933108">Maps i Chrome</translation>
-<translation id="7400722733683201933">Om Google Chrome</translation>
+<translation id="7400722733683201933">Om Cobalt</translation>
 <translation id="7466693328838535498">Skriv ”Chrome” i rutan Sökwidgetar</translation>
 <translation id="746684838091935575">3. Välj Chrome</translation>
 <translation id="7492574581995589075">Din organisation har inaktiverat möjligheten att använda och spara Chrome-data i ditt Google-konto. Nya bokmärken, lösenord med mera sparas endast på den här enheten.</translation>
@@ -249,7 +249,7 @@ Du hittar fler inställningar som använder data för att förbättra Chrome-upp
 <translation id="7780154209050837198">Logga in med Google-kontot i Chrome så att du får ut mesta möjliga av programmet.</translation>
 <translation id="778855399387580014">Börja söka på en ny Chrome-flik.</translation>
 <translation id="7792140019572081272">Chrome skyddar dina känsliga uppgifter med Face ID.</translation>
-<translation id="7855730255114109580">Google Chrome behöver inte uppdateras</translation>
+<translation id="7855730255114109580">Cobalt behöver inte uppdateras</translation>
 <translation id="7897703007638178753">Visa de senaste flikarna i Chrome</translation>
 <translation id="7925119591961387184">Välj Chrome.</translation>
 <translation id="7933491483529363150">Öppna Min senaste flik i Chrome.</translation>
@@ -280,13 +280,13 @@ Din data krypterades med lösenfrasen den <ph name="TIME" />. Ange den om du vil
   1. Öppna inställningarna
   2. Tryck på Standardwebbläsarapp
   3. Välj Chrome.</translation>
-<translation id="8540666473246803645">Google Chrome</translation>
+<translation id="8540666473246803645">Cobalt</translation>
 <translation id="8558480467877843976">Nu kan du använda Chrome varje gång du surfar eller trycker på länkar i meddelanden, dokument och andra appar.</translation>
 <translation id="8577978202917232774">Förslagen baseras på din webbaktivitet på dina andra enheter. Logga in i Chrome på alla dina enheter om du vill få förslag.</translation>
 <translation id="8587647598504233556">Tryck på Chrome och sedan på Standardwebbläsarapp.</translation>
 <translation id="8603022514504485810">Google Lösenordshantering kunde inte kontrollera alla lösenord. Försök igen i morgon eller <ph name="BEGIN_LINK" />kontrollera lösenorden i ditt Google-konto<ph name="END_LINK" />.</translation>
 <translation id="8727043961453758442">Få ut mesta möjliga av Chrome</translation>
-<translation id="8736550665979974340">Surfa säkert med Google Chrome</translation>
+<translation id="8736550665979974340">Surfa säkert med Cobalt</translation>
 <translation id="8760668027640688122">Öppna en ny flik i Chrome</translation>
 <translation id="8765470054473112089">När du skriver i adressfältet eller sökrutan skickar Chrome det du skriver till standardsökmotorn för att du ska få bättre förslag. Detta är inaktiverat i inkognitoläge.</translation>
 <translation id="8772179140489533211">Visar meddelanden om att logga in i Chrome.</translation>

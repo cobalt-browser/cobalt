@@ -1946,7 +1946,7 @@
 <translation id="2434449159125086437">ప్రింటర్‌ను సెటప్ చేయలేకపోయింది. దయచేసి కాన్ఫిగరేషన్‌ను సరిచూసుకుని, ఆపై మళ్లీ ట్రై చేయండి.</translation>
 <translation id="2434758125294431199">మీతో ఎవరు షేర్ చేయవచ్చో ఎంచుకోండి</translation>
 <translation id="2434915728183570229">మీరు ఇప్పుడు మీ ఫోన్ యాప్‌లను చూడవచ్చు</translation>
-<translation id="2435137177546457207">Google Chrome, ChromeOS Flexల అదనపు నియమాలు</translation>
+<translation id="2435137177546457207">Cobalt, ChromeOS Flexల అదనపు నియమాలు</translation>
 <translation id="2435248616906486374">నెట్‌వర్క్ డిస్‌కనెక్ట్ అయింది</translation>
 <translation id="2435457462613246316">పాస్‌వర్డ్‌ను చూపించు</translation>
 <translation id="2436385001956947090">లింక్‌ను కాపీ చేయండి</translation>
@@ -3714,7 +3714,7 @@
 <translation id="3798632811625902122">బ్లూటూత్ పరికరం <ph name="DEVICE" />‌ను పెయిర్ చేయడానికి అనుమతి కావాలి.</translation>
 <translation id="3798670284305777884">స్పీకర్ (అంతర్గతం)</translation>
 <translation id="3799128412641261490">స్విచ్ యాక్సెస్ సెట్టింగ్‌లు</translation>
-<translation id="3800828618615365228">Google Chrome, ChromeOS అదనపు నియమాలు</translation>
+<translation id="3800828618615365228">Cobalt, ChromeOS అదనపు నియమాలు</translation>
 <translation id="3802486193901166966">ఈ ఎక్స్‌టెన్షన్‌కు ప్రత్యేక అనుమతులు ఏవీ అవసరం లేదు, అలాగే అదనపు సైట్ యాక్సెస్ కూడా లేదు</translation>
 <translation id="380329542618494757">పేరు</translation>
 <translation id="3803345858388753269">వీడియో క్వాలిటీ</translation>
@@ -3735,7 +3735,7 @@
 <translation id="3810973564298564668">మేనేజ్ చేయండి</translation>
 <translation id="381202950560906753">మరొక దానిని జోడించండి</translation>
 <translation id="3812525830114410218">ప్రమాణపత్రం చెల్లదు</translation>
-<translation id="3813296892522778813">మీరు వెతుకుతున్నది మీకు కనిపించకపోతే <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome సహాయం<ph name="END_LINK_CHROMIUM" />కు వెళ్లండి</translation>
+<translation id="3813296892522778813">మీరు వెతుకుతున్నది మీకు కనిపించకపోతే <ph name="BEGIN_LINK_CHROMIUM" />Cobalt సహాయం<ph name="END_LINK_CHROMIUM" />కు వెళ్లండి</translation>
 <translation id="3813358687923336574">పేజీలను అనువాదం చేయడానికి, త్వరిత సమాధానాల కోసం ఉపయోగించిన భాష</translation>
 <translation id="3813458570141926987">మీ ఇటీవలి బ్రౌజింగ్ హిస్టరీ ఆధారంగా Chrome అంచనా వేసిన టాపిక్‌ల యొక్క లిస్ట్</translation>
 <translation id="3814529970604306954">పాఠశాల ఖాతా</translation>
@@ -4161,7 +4161,7 @@
 <translation id="4132969033912447558"><ph name="FILE_NAME" />‌ను కొనసాగించండి</translation>
 <translation id="4133076602192971179">మీ పాస్‌వర్డ్‌ను మార్చడానికి యాప్‌ను తెరవండి</translation>
 <translation id="4134838386867070505">నాలుగు దశల్లో మొదటిది: సమస్యను వివరించండి</translation>
-<translation id="4135746311382563554">Google Chrome, ChromeOS అదనపు సర్వీసు నిబంధనలు</translation>
+<translation id="4135746311382563554">Cobalt, ChromeOS అదనపు సర్వీసు నిబంధనలు</translation>
 <translation id="4136203100490971508">సూర్యోదయ సమయానికి రాత్రి కాంతి ఆటోమేటిక్‌గా ఆఫ్ అవుతుంది</translation>
 <translation id="41365691917097717">దీనిని కొనసాగించడం వలన Android యాప్‌లను రూపొందించడానికి, పరీక్షించడానికి ADB డీబగ్గింగ్ ఎనేబుల్ అవుతుంది. ఈ చర్య వలన Google ద్వారా ధృవీకరించబడని Android యాప్‌ల ఇన్‌స్టాలేషన్ అనుమతించబడుతుందని, దీనిని డిజేబుల్ చేయడానికి ఫ్యాక్టరీ రీసెట్ చేయాల్సి ఉంటుందని గుర్తుంచుకోండి.</translation>
 <translation id="4137923333452716643">మీరు రీడింగ్ మోడ్‌లో తెరవాలనుకుంటున్న టెక్స్ట్‌ను హైలైట్ చేయండి</translation>
@@ -7138,7 +7138,7 @@
 <translation id="6511607461419653612">మీ Chromebookను రీస్టార్ట్ చేసి, మళ్ళీ ట్రై చేయండి</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" />‌ను తొలగించడం గురించి ఆలోచించండి, తద్వారా ఈ పరికరాన్ని ఉపయోగించే ఇతర వ్యక్తులు మీ పాస్‌వర్డ్‌లను చూడలేరు</translation>
 <translation id="6512759338201777379"><ph name="SUBJECT" />‌కు సంబంధించి, <ph name="MOOD" /> మూడ్‌తో <ph name="INDEX" />వ ఇమేజ్ జెనరేట్ చేయబడింది.</translation>
-<translation id="6513247462497316522">మీరు మరొక నెట్‌వర్క్‌కు కనెక్ట్ అయ్యి ఉండకపోతే, Google Chrome మొబైల్ డేటాను ఉపయోగిస్తుంది.</translation>
+<translation id="6513247462497316522">మీరు మరొక నెట్‌వర్క్‌కు కనెక్ట్ అయ్యి ఉండకపోతే, Cobalt మొబైల్ డేటాను ఉపయోగిస్తుంది.</translation>
 <translation id="6514010653036109809">అందుబాటులో ఉన్న పరికరం:</translation>
 <translation id="6514565641373682518">ఈ పేజీ మీ మౌస్ కర్సర్‌ను నిలిపివేసింది.</translation>
 <translation id="6517227424170598783">"<ph name="SHORTCUT_NAME" /> - <ph name="APP_NAME" />" షార్ట్‌కట్‌ను తీసివేయాలా?</translation>
@@ -9812,7 +9812,7 @@
 <translation id="8554899698005018844">భాష లేదు</translation>
 <translation id="855604308879080518">ఈ Chromebookలోని USB పరికరాలను యాక్సెస్ చేయడానికి Android యాప్‌లకు అనుమతినివ్వండి. మీరు USB పరికరాన్ని ప్లగ్-ఇన్ చేసిన ప్రతిసారి అనుమతి కోసం రిక్వెస్ట్ పంపబడుతుంది. ఒక్కో Android యాప్ అదనపు అనుమతుల కోసం అడుగుతుంది.</translation>
 <translation id="8557022314818157177">మీ వేలిముద్ర క్యాప్చర్ అయ్యేవరకు, మీ సెక్యూరిటీ కీని తాకుతూ ఉండండి</translation>
-<translation id="8557180006508471423">మీ Macలో లొకేషన్ సర్వీస్‌లలో "Google Chrome"ను ఆన్ చేయండి</translation>
+<translation id="8557180006508471423">మీ Macలో లొకేషన్ సర్వీస్‌లలో "Cobalt"ను ఆన్ చేయండి</translation>
 <translation id="8557856025359704738">తర్వాతి డౌన్‌లోడ్ <ph name="NEXT_DATE_DOWNLOAD" />న జరుగుతుంది.</translation>
 <translation id="8558281414737757274">Google ఖాతా పాస్‌వర్డ్</translation>
 <translation id="8559858985063901027">పాస్-కీలు</translation>

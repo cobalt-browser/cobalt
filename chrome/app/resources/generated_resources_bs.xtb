@@ -895,7 +895,7 @@ da li    proksi server funkcionira. Ako smatrate da ne trebate koristiti
 <translation id="1651008383952180276">Morate dvaput unijeti isti pristupni izraz</translation>
 <translation id="1651609627703324721">Ova kartica prikazuje VR sadržaj u virtuelnim naočalama</translation>
 <translation id="1652326691684645429">Omogući Dijeljenje u blizini</translation>
-<translation id="1652862280638399816">Da koristite Upravitelj lozinki s macOS Keychainom, ponovo pokrenite Chromium i dozvolite pristup Keychainu. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
+<translation id="1652862280638399816">Da koristite Upravitelj lozinki s macOS Keychainom, ponovo pokrenite Cobalt i dozvolite pristup Keychainu. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
 <translation id="1653958716132599769">Grupisanje povezanih kartica</translation>
 <translation id="1654580009054503925">Nije dozvoljeno prikazivanje zahtjeva</translation>
 <translation id="1656528038316521561">Neprozirnost pozadine</translation>
@@ -1947,7 +1947,7 @@ Postavkama ovog računa možete upravljati instaliranjem aplikacije Family Link 
 <translation id="2434449159125086437">Nije moguće postaviti štampač. Provjerite konfiguraciju i pokušajte ponovo.</translation>
 <translation id="2434758125294431199">Odaberite ko može dijeliti s vama</translation>
 <translation id="2434915728183570229">Sada možete pregledati aplikacije telefona</translation>
-<translation id="2435137177546457207">Dodatni uslovi za Google Chrome i ChromeOS Flex</translation>
+<translation id="2435137177546457207">Dodatni uslovi za Cobalt i ChromeOS Flex</translation>
 <translation id="2435248616906486374">Mrežna veza je prekinuta</translation>
 <translation id="2435457462613246316">Prikaži lozinku</translation>
 <translation id="2436385001956947090">Kopiraj &amp;link</translation>
@@ -2884,7 +2884,7 @@ Domena <ph name="DOMAIN" /> zahtijeva da pametna kartica ostane umetnuta.</trans
 <translation id="3151562827395986343">Obrišite historiju, kolačiće, keš memoriju i drugo</translation>
 <translation id="3151786313568798007">Orijentacija</translation>
 <translation id="3152356229013609796">Pregledajte, odbacite i odgovorite na obavještenja telefona</translation>
-<translation id="3155163173539279776">Ponovo pokreni Chromium</translation>
+<translation id="3155163173539279776">Ponovo pokreni Cobalt</translation>
 <translation id="3157387275655328056">Dodaj na Listu za čitanje</translation>
 <translation id="3157931365184549694">Vrati</translation>
 <translation id="3158033540161634471">Postavite otisak prsta</translation>
@@ -3676,7 +3676,7 @@ Domena <ph name="DOMAIN" /> zahtijeva da pametna kartica ostane umetnuta.</trans
 <translation id="3771290962915251154">Ova postavka je onemogućena jer je uključen roditeljski nadzor</translation>
 <translation id="3771294271822695279">Video fajlovi</translation>
 <translation id="3771851622616482156">Odjavit ćete se s ove web lokacije, uključujući otvorene kartice</translation>
-<translation id="3772046291955677288">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Google Chrome i ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="3772046291955677288">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Cobalt i ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="3774059845329307709">Serijski broj</translation>
 <translation id="3774166835015494435">Nedavne fotografije i obavještenja</translation>
 <translation id="3775432569830822555">Potvrda SSL servera</translation>
@@ -3715,7 +3715,7 @@ Domena <ph name="DOMAIN" /> zahtijeva da pametna kartica ostane umetnuta.</trans
 <translation id="3798632811625902122">Bluetooth uređaj <ph name="DEVICE" /> traži odobrenje za uparivanje.</translation>
 <translation id="3798670284305777884">Zvučnik (interni)</translation>
 <translation id="3799128412641261490">Postavke Pristupa pomoću prekidača</translation>
-<translation id="3800828618615365228">Dodatni uslovi za Google Chrome i ChromeOS</translation>
+<translation id="3800828618615365228">Dodatni uslovi za Cobalt i ChromeOS</translation>
 <translation id="3802486193901166966">Za ovu ekstenziju nisu potrebna posebna odobrenja i ne sadržava pristup za dodatnu web lokaciju</translation>
 <translation id="380329542618494757">Ime</translation>
 <translation id="3803345858388753269">Kvalitet videozapisa</translation>
@@ -3736,7 +3736,7 @@ Domena <ph name="DOMAIN" /> zahtijeva da pametna kartica ostane umetnuta.</trans
 <translation id="3810973564298564668">Upravljaj</translation>
 <translation id="381202950560906753">Dodaj još jedan</translation>
 <translation id="3812525830114410218">Pogrešna potvrda</translation>
-<translation id="3813296892522778813">Ako ne možete pronaći ono što tražite, idite na <ph name="BEGIN_LINK_CHROMIUM" />Google Chrome Pomoć<ph name="END_LINK_CHROMIUM" />.</translation>
+<translation id="3813296892522778813">Ako ne možete pronaći ono što tražite, idite na <ph name="BEGIN_LINK_CHROMIUM" />Cobalt Pomoć<ph name="END_LINK_CHROMIUM" />.</translation>
 <translation id="3813358687923336574">Jezik koji se koristi za prijevod stranica i Brze odgovore</translation>
 <translation id="3813458570141926987">Lista tema koje je procijenio Chrome na osnovu nedavne historije pregledanja</translation>
 <translation id="3814529970604306954">Školski račun</translation>
@@ -3766,7 +3766,7 @@ One mogu uključivati informacije o instaliranom softveru, fajlovima, preglednik
 <translation id="3826440694796503677">Vaš administrator je onemogućio dodavanje više Google računa</translation>
 <translation id="3827774300009121996">&amp;Cijeli ekran</translation>
 <translation id="3828029223314399057">Pretraži oznake</translation>
-<translation id="3828953470056652895">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Google Chrome i ChromeOS<ph name="END_LINK2" /> i <ph name="BEGIN_LINK3" />Uslove korištenja usluge Play<ph name="END_LINK3" />.</translation>
+<translation id="3828953470056652895">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Cobalt i ChromeOS<ph name="END_LINK2" /> i <ph name="BEGIN_LINK3" />Uslove korištenja usluge Play<ph name="END_LINK3" />.</translation>
 <translation id="3829530269338026191"><ph name="WINDOW_TITLE" /> – veliko korištenje memorije – <ph name="MEMORY_VALUE" /></translation>
 <translation id="3829765597456725595">SMB dijeljenje fajlova</translation>
 <translation id="3830470485672984938">Koristite drugi pristupni ključ</translation>
@@ -4162,7 +4162,7 @@ One mogu uključivati informacije o instaliranom softveru, fajlovima, preglednik
 <translation id="4132969033912447558">Nastavljanje preuzimanja fajla <ph name="FILE_NAME" /></translation>
 <translation id="4133076602192971179">Otvorite aplikaciju da promijenite lozinku</translation>
 <translation id="4134838386867070505">1. korak od 4: opišite problem</translation>
-<translation id="4135746311382563554">Dodatni uslovi korištenja usluge za Google Chrome i Chrome OS</translation>
+<translation id="4135746311382563554">Dodatni uslovi korištenja usluge za Cobalt i Chrome OS</translation>
 <translation id="4136203100490971508">Noćno svjetlo će se automatski isključiti u svitanje</translation>
 <translation id="41365691917097717">Ako nastavite, omogućit ćete otklanjanje grešaka putem ADB-a za kreiranje i testiranje Android aplikacija. Imajte na umu da ova radnja omogućava instaliranje Android aplikacija koje Google nije potvrdio. Da onemogućite, vratite na fabričke postavke.</translation>
 <translation id="4137923333452716643">Istaknite tekst koji želite otvoriti u načinu rada za čitanje</translation>
@@ -5158,7 +5158,7 @@ Koristite Ctrl + Alt + Smanjivanje osvjetljenja da umanjite.</translation>
 <translation id="4918134162946436591">Prikaži preklapanje sa savjetom</translation>
 <translation id="4918762404810341788">Kopiraj i otvori</translation>
 <translation id="4921348630401250116">Pretvaranje teksta u govor</translation>
-<translation id="4922104989726031751">Da koristite Upravitelj lozinki sa svojim operativnim sistemom, ponovo pokrenite Chromium i dozvolite pristup upravitelju lozinki računara. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
+<translation id="4922104989726031751">Da koristite Upravitelj lozinki sa svojim operativnim sistemom, ponovo pokrenite Cobalt i dozvolite pristup upravitelju lozinki računara. Kartice će se ponovo otvoriti nakon ponovnog pokretanja.</translation>
 <translation id="492299503953721473">Ukloni Android aplikacije</translation>
 <translation id="492363500327720082">Deinstaliranje aplikacije <ph name="APP_NAME" />...</translation>
 <translation id="4924002401726507608">Pošaljite povratne informacije</translation>
@@ -7139,7 +7139,7 @@ Domena <ph name="DOMAIN" /> zahtijeva da pametna kartica ostane umetnuta.</trans
 <translation id="6511607461419653612">Ponovo pokrenite Chromebook i pokušajte ponovo.</translation>
 <translation id="6511827214781912955">Razmislite o tom da izbrišete fajl <ph name="FILENAME" /> da drugi koji koriste ovaj uređaj ne mogu vidjeti vaše lozinke</translation>
 <translation id="6512759338201777379"><ph name="INDEX" />. generirana slika; predmet: <ph name="SUBJECT" />; raspoloženje: <ph name="MOOD" />.</translation>
-<translation id="6513247462497316522">Ako niste povezani na drugu mrežu, Google Chrome će koristiti prijenos podataka na mobilnoj mreži.</translation>
+<translation id="6513247462497316522">Ako niste povezani na drugu mrežu, Cobalt će koristiti prijenos podataka na mobilnoj mreži.</translation>
 <translation id="6514010653036109809">Dostupni uređaj:</translation>
 <translation id="6514565641373682518">Ova stranica je onemogućila kursor miša.</translation>
 <translation id="6517227424170598783">Ukloniti prečicu "<ph name="SHORTCUT_NAME" /> – <ph name="APP_NAME" />"?</translation>
@@ -7440,7 +7440,7 @@ Imate još # ugroženih lozinki. Googleov Upravitelj lozinki preporučuje da odm
 <translation id="674632704103926902">Omogući prevlačenje dodirom</translation>
 <translation id="67465227497040338">Prikazivanje lozinke za domenu <ph name="DOMAIN" /></translation>
 <translation id="6748465660675848252">Možete nastaviti, ali samo vaši sinhronizirani podaci i postavke će se vratiti. Svi lokalni podaci će se izgubiti.</translation>
-<translation id="6748980958975836188">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Google Chrome i ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="6748980958975836188">Pročitao/la sam i pristajem na <ph name="BEGIN_LINK1" />Googleove Uslove korištenja usluge<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />dodatne Uslove korištenja usluge Cobalt i ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="6749473226660745022">Fotografije</translation>
 <translation id="6750757184909117990">Onemogući mobilnu mrežu</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (anonimno)</translation>
@@ -9821,7 +9821,7 @@ Fajl ključa: <ph name="KEY_FILE" />
 <translation id="8554899698005018844">Nema jezika</translation>
 <translation id="855604308879080518">Omogućite Android aplikacijama da pristupaju USB uređajima na ovom Chromebooku. Tražit će se odobrenje svaki put kada priključite USB uređaj. Zasebne Android aplikacije će tražiti dodatna odobrenja.</translation>
 <translation id="8557022314818157177">Nastavite dodirivati sigurnosni ključ dok se otisak prsta ne snimi</translation>
-<translation id="8557180006508471423">Uključite "Google Chrome" u uslugama lokacije na Mac računaru</translation>
+<translation id="8557180006508471423">Uključite "Cobalt" u uslugama lokacije na Mac računaru</translation>
 <translation id="8557856025359704738">Sljedeće preuzimanje je dana <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8558281414737757274">Lozinka za Google račun</translation>
 <translation id="8559858985063901027">Pristupni ključevi</translation>

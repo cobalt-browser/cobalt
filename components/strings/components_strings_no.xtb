@@ -9,7 +9,7 @@
 <translation id="1011206368273183593">Klargjør filer</translation>
 <translation id="1015730422737071372">Oppgi flere detaljer</translation>
 <translation id="1019413721762100891">Av</translation>
-<translation id="1021753677514347426">Dette problemet oppstår på grunn av et sertifikat du eller noen andre har installert på enheten. Det er kjent at sertifikatet brukes til nettverksavlytting og -overvåking, og Chromium stoler ikke på det. Selv om det finnes legitime bruksområder for overvåking, f.eks. på skole- eller bedriftsnettverk, vil Chromium sørge for at du er klar over at det foregår, selv om du ikke kan stoppe det. Overvåking kan skje i alle nettlesere og applikasjoner som bruker nettet.</translation>
+<translation id="1021753677514347426">Dette problemet oppstår på grunn av et sertifikat du eller noen andre har installert på enheten. Det er kjent at sertifikatet brukes til nettverksavlytting og -overvåking, og Cobalt stoler ikke på det. Selv om det finnes legitime bruksområder for overvåking, f.eks. på skole- eller bedriftsnettverk, vil Cobalt sørge for at du er klar over at det foregår, selv om du ikke kan stoppe det. Overvåking kan skje i alle nettlesere og applikasjoner som bruker nettet.</translation>
 <translation id="1024111578869940408">Noen ganger etterligner angripere nettsteder ved å gjøre endringer i nettadressen som er vanskelige å se.</translation>
 <translation id="1024913885641459127">Produktanmeldelser og prissammenligninger</translation>
 <translation id="1028781062521375153">Se detaljer</translation>
@@ -317,7 +317,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1567040042588613346">Denne regelen fungerer som den skal, men den samme verdien er angitt et annet sted og overstyres av denne regelen.</translation>
 <translation id="1567405528131216114">Legg til <ph name="TOPIC" /></translation>
 <translation id="1569487616857761740">Oppgi utløpsdato</translation>
-<translation id="1569694109004336106">Google Chrome prøver å slå på Windows Hello for utfylling av passord.</translation>
+<translation id="1569694109004336106">Cobalt prøver å slå på Windows Hello for utfylling av passord.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> tommer</translation>
 <translation id="1574714699824202614">Bekrefter betalingsmåten</translation>
 <translation id="1576277203042721907">Shopping-statistikk</translation>
@@ -360,7 +360,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1645368109819982629">Protokollen støttes ikke</translation>
 <translation id="1650602712345345441">Administrer Chrome-innstillingene dine</translation>
 <translation id="1652415888492971589">JIS B8</translation>
-<translation id="1652862280638399816">For å bruke Passordlagring med macOS-nøkkelring, start Chromium på nytt og gi tilgang til Nøkkelring. Fanene dine åpnes på nytt når du starter på nytt.</translation>
+<translation id="1652862280638399816">For å bruke Passordlagring med macOS-nøkkelring, start Cobalt på nytt og gi tilgang til Nøkkelring. Fanene dine åpnes på nytt når du starter på nytt.</translation>
 <translation id="1656024727720460136">Chrome har forenklet denne siden for å gjøre den lettere å lese. Chrome hentet den opprinnelige siden via en sikker forbindelse.</translation>
 <translation id="1656489000284462475">Henting</translation>
 <translation id="1658111267661135323">TV og video</translation>
@@ -430,7 +430,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="1762779605905950734">Gatenavn</translation>
 <translation id="1763864636252898013">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av enhetens operativsystem. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
 <translation id="1768211456781949159"><ph name="BEGIN_LINK" />Prøv å kjøre Windows Nettverksdiagnose<ph name="END_LINK" />.</translation>
-<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Finn ut mer om Inkognito i Chromium<ph name="END_LINK" /></translation>
+<translation id="1774592222195216949"><ph name="BEGIN_LINK" />Finn ut mer om Inkognito i Cobalt<ph name="END_LINK" /></translation>
 <translation id="1777422078676229054">Foto (arkiv)</translation>
 <translation id="1778646502362731194">JIS B0</translation>
 <translation id="1791429645902722292">Google Smart Lock</translation>
@@ -509,7 +509,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="194174710521904357">Du har midlertidig tillatt dette nettstedet å bruke informasjonskapsler fra tredjeparter, noe som innebærer mindre surfebeskyttelse, men øker sannsynligheten for at funksjonene på nettstedet fungerer som forventet.</translation>
 <translation id="1942498996464084801">Bøker og litteratur</translation>
 <translation id="1943994668912612445">Design</translation>
-<translation id="1945968466830820669">Du kan miste tilgangen til organisasjonskontoen din eller bli utsatt for identitetstyveri. Chromium anbefaler at du endrer passordet ditt nå.</translation>
+<translation id="1945968466830820669">Du kan miste tilgangen til organisasjonskontoen din eller bli utsatt for identitetstyveri. Cobalt anbefaler at du endrer passordet ditt nå.</translation>
 <translation id="1946849748901605102">12 x 15 tommer</translation>
 <translation id="1947454675006758438">Stift oppe til høyre</translation>
 <translation id="1953729392594614704">Hvis du blokkerer <ph name="TOPIC" />, blokkeres også alle relaterte emner, selv om emnet er aktivt</translation>
@@ -588,7 +588,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2083256696566019397">Tillat for alle besøk</translation>
 <translation id="2085876078937250610">Lagre …</translation>
 <translation id="2091887806945687916">Lyd</translation>
-<translation id="2093982008204312032">Google Chrome prøver å slå av Windows Hello for utfylling av passord.</translation>
+<translation id="2093982008204312032">Cobalt prøver å slå av Windows Hello for utfylling av passord.</translation>
 <translation id="2094505752054353250">Domenene samsvarer ikke</translation>
 <translation id="2094704029599359040">Versjonsinformasjon</translation>
 <translation id="2099652385553570808">Tre stifter venstre</translation>
@@ -758,7 +758,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="239429038616798445">Denne leveringsmetoden er ikke tilgjengelig. Prøv en annen metode.</translation>
 <translation id="2395840535409704129">Vannsport</translation>
 <translation id="2396249848217231973">&amp;Angre slettingen</translation>
-<translation id="2399868464369312507">Google Chrome prøver å redigere betalingsmåter.</translation>
+<translation id="2399868464369312507">Cobalt prøver å redigere betalingsmåter.</translation>
 <translation id="2400600116338235695">Kan be om å få koble til serielle porter</translation>
 <translation id="2404884497378469141">Prøv å kopiere filene på nytt</translation>
 <translation id="2413155254802890957">Gamle</translation>
@@ -1026,7 +1026,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="2979424420072875974">Skriveressurser</translation>
 <translation id="2980742331521553164">Verifiseringskoden for dette kortet blir kryptert og lagret i Google-kontoen din for raskere betaling</translation>
 <translation id="2983666748527428214">Åpne en inkognitofane</translation>
-<translation id="2985306909656435243">Hvis du slår på dette alternativet, lagrer Chromium en kopi av kortet ditt på denne enheten, slik at det går raskere å fylle ut skjemaer.</translation>
+<translation id="2985306909656435243">Hvis du slår på dette alternativet, lagrer Cobalt en kopi av kortet ditt på denne enheten, slik at det går raskere å fylle ut skjemaer.</translation>
 <translation id="2985398929374701810">Angi en gyldig adresse</translation>
 <translation id="2987034854559945715">Ingen samsvarende funksjoner</translation>
 <translation id="2988216301273604645">Chrome begrenser mengden informasjon nettsteder kan bruke til å spore deg mens du surfer. Du kan endre innstillingene for å velge ditt eget beskyttelsesnivå.</translation>
@@ -1108,7 +1108,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3154506275960390542">Denne siden inneholder et skjema som kanskje ikke sendes på en sikker måte. Data du sender, kan bli sett av andre mens de overføres, eller de kan endres av en angriper slik at tjeneren mottar noe annet enn det du sender.</translation>
 <translation id="3154987252551138431">Noe gikk galt under bruk av nærdeling</translation>
 <translation id="315504272643575312">Kontoen din administreres av <ph name="MANAGER" />.</translation>
-<translation id="3155163173539279776">Start Chromium på nytt</translation>
+<translation id="3155163173539279776">Start Cobalt på nytt</translation>
 <translation id="3157931365184549694">Gjenopprett</translation>
 <translation id="3158539265159265653">Plate</translation>
 <translation id="3162559335345991374">Det kan hende at Wifi-nettverket du bruker, krever at du besøker en påloggingsside.</translation>
@@ -1162,7 +1162,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="324180406144491771">«<ph name="HOST_NAME" />»-linker er blokkert</translation>
 <translation id="3252772880526154546">Arkitektur</translation>
 <translation id="3254301855501243548">18 x 22 tommer</translation>
-<translation id="3255926992597692024">Chromium prøver å endre innstillingene for utfylling av betalingsmåter.</translation>
+<translation id="3255926992597692024">Cobalt prøver å endre innstillingene for utfylling av betalingsmåter.</translation>
 <translation id="3259648571731540213"><ph name="CREATE_GOOGLE_CALENDAR_EVENT_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å opprette en ny hendelse i Google Kalender raskt</translation>
 <translation id="3261488570342242926">Finn ut mer om virtuelle kort</translation>
 <translation id="3262698603497362968">Kjøpsalternativer</translation>
@@ -1249,7 +1249,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="3423742043356668186">Systemspesifisert</translation>
 <translation id="3427092606871434483">Tillat (standard)</translation>
 <translation id="3427342743765426898">&amp;Endre likevel</translation>
-<translation id="342781501876943858">Chromium anbefaler at du tilbakestiller passordet ditt hvis du også har brukt det på andre nettsteder.</translation>
+<translation id="342781501876943858">Cobalt anbefaler at du tilbakestiller passordet ditt hvis du også har brukt det på andre nettsteder.</translation>
 <translation id="3428151540071562330">Én eller flere av URI-ene for DnsOverHttpsTemplates-tjenermaler er ugyldige og blir ikke brukt.</translation>
 <translation id="3428789896412418755">Gruppert logg</translation>
 <translation id="3431216045099978607">Trykk på |<ph name="ACCELERATOR" />| for å avslutte fullskjerm og se nedlastingen.</translation>
@@ -1437,7 +1437,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="374325029554577103">Treningsteknologi</translation>
 <translation id="3744111561329211289">Bakgrunnssynkronisering</translation>
 <translation id="3744212718085287312">Vil du gjøre det sikrere med et virtuelt kort neste gang?</translation>
-<translation id="3744899669254331632">Du kan ikke gå til <ph name="SITE" /> akkurat nå, fordi nettstedet sendte kryptert legitimasjon som Chromium ikke kan behandle. Nettverksfeil og -angrep er vanligvis forbigående, så siden kommer sikkert til å virke senere.</translation>
+<translation id="3744899669254331632">Du kan ikke gå til <ph name="SITE" /> akkurat nå, fordi nettstedet sendte kryptert legitimasjon som Cobalt ikke kan behandle. Nettverksfeil og -angrep er vanligvis forbigående, så siden kommer sikkert til å virke senere.</translation>
 <translation id="3745599309295009257">Teksten din, samt innholdet på og nettadressen til siden du skriver på, blir sendt til Google, gjennomgått av mennesker og brukt til å forbedre denne funksjonen. Unngå å oppgi personopplysninger (som medisinsk eller økonomisk informasjon) eller å bruke dette verktøyet på nettsteder som inneholder privat eller sensitiv informasjon.</translation>
 <translation id="3748009735914587286">Metall (høyglans)</translation>
 <translation id="3748148204939282805">Angripere på <ph name="BEGIN_BOLD" /><ph name="SITE" /><ph name="END_BOLD" /> kan lure deg til å gjøre farlige ting, deriblant å installere programvare eller oppgi personopplysninger (for eksempel passord, telefonnumre og kredittkortinformasjon). <ph name="BEGIN_LEARN_MORE_LINK" />Finn ut mer<ph name="END_LEARN_MORE_LINK" /></translation>
@@ -1571,7 +1571,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4047351652147966654">18 x 24 tommer</translation>
 <translation id="404831776305217138">Oppdateringsnettadressen for utvidelsen med ID-en «<ph name="EXTENSION_ID" />» er ugyldig eller bruker en protokoll som ikke støttes. Disse protokollene støttes: <ph name="HTTP_SCHEME" />, <ph name="HTTPS_SCHEME" /> og <ph name="FILE_SCHEME" />.</translation>
 <translation id="4050392779074832022">Du kan bruke den i alle Google-produkter</translation>
-<translation id="4050599136622776556">Chromium prøver å redigere betalingsmåter.</translation>
+<translation id="4050599136622776556">Cobalt prøver å redigere betalingsmåter.</translation>
 <translation id="405399507749852140">Få varsler hvis prisen settes ned på noe nettsted</translation>
 <translation id="4056223980640387499">Sepia</translation>
 <translation id="4059523390906550209">Finn ut mer om beskyttelse av sensitive data</translation>
@@ -1844,7 +1844,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4557573143631562971">Boligforsikring</translation>
 <translation id="4558551763791394412">Prøv å slå av utvidelsene dine.</translation>
 <translation id="4566017918361049074">Utendørs</translation>
-<translation id="4567686777917670400">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor Chromium. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+<translation id="4567686777917670400">Administratoren kan endre nettleseroppsettet eksternt. Aktiviteten på denne enheten kan også administreres utenfor Cobalt. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
 <translation id="4569155249847375786">Bekreftet</translation>
 <translation id="457875822857220463">Levering</translation>
 <translation id="4579699065574932398">Bankvirksomhet</translation>
@@ -1874,7 +1874,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4631881646528206880">Registrering med virtuelt kort</translation>
 <translation id="4635278307999235413">Sender data til administrasjonskonsollen</translation>
 <translation id="4636930964841734540">Info</translation>
-<translation id="4638670630777875591">Inkognito i Chromium</translation>
+<translation id="4638670630777875591">Inkognito i Cobalt</translation>
 <translation id="464342062220857295">Søkefunksjoner</translation>
 <translation id="4644670975240021822">Motsatt rekkefølge – forsiden ned</translation>
 <translation id="4646534391647090355">Gå dit nå</translation>
@@ -1919,7 +1919,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4732860731866514038">Laster ned språkpakke for <ph name="LANGUAGE" /> … <ph name="PERCENT" /> %</translation>
 <translation id="4733082559415072992"><ph name="URL" /> ber om å bruke posisjonen til enheten din</translation>
 <translation id="473414950835101501">Bruk kameraene dine</translation>
-<translation id="4736825316280949806">Start Chromium på nytt</translation>
+<translation id="4736825316280949806">Start Cobalt på nytt</translation>
 <translation id="4736934858538408121">Virtuelt kort</translation>
 <translation id="473775607612524610">Oppdater</translation>
 <translation id="4738601419177586157">Søkeforslag for <ph name="TEXT" /></translation>
@@ -1936,7 +1936,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4756388243121344051">&amp;Logg</translation>
 <translation id="4756501505996488486">PRC 16K</translation>
 <translation id="4757022425116568383">Passnøkkel fra Chrome-profilen din</translation>
-<translation id="4757993714154412917">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chromium anbefaler at du sikrer kontoene dine ved å sjekke de lagrede passordene dine.</translation>
+<translation id="4757993714154412917">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Cobalt anbefaler at du sikrer kontoene dine ved å sjekke de lagrede passordene dine.</translation>
 <translation id="4758311279753947758">Legg til kontaktinformasjon</translation>
 <translation id="4761326898079498987">Gjennomgå for å få mer informasjon</translation>
 <translation id="4761869838909035636">Kjør Chrome-sikkerhetssjekk</translation>
@@ -2023,7 +2023,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="4918221908152712722">Installer <ph name="APP_NAME" /> (ingen nedlasting nødvendig)</translation>
 <translation id="4920457992177678649">Ferieboliger og korte opphold</translation>
 <translation id="4920710383559189047">Omslag</translation>
-<translation id="4922104989726031751">For å bruke Passordlagring med operativsystemet ditt, start Chromium på nytt og gi tilgang til passordlagringen på datamaskinen. Fanene dine åpnes på nytt når du starter på nytt.</translation>
+<translation id="4922104989726031751">For å bruke Passordlagring med operativsystemet ditt, start Cobalt på nytt og gi tilgang til passordlagringen på datamaskinen. Fanene dine åpnes på nytt når du starter på nytt.</translation>
 <translation id="4923459931733593730">Betaling</translation>
 <translation id="4926049483395192435">Må angis.</translation>
 <translation id="4926159001844873046">På <ph name="SITE" /> står det</translation>
@@ -2108,7 +2108,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5087580092889165836">Legg til et kort</translation>
 <translation id="5088142053160410913">Melding til operatøren</translation>
 <translation id="5093232627742069661">Z-fals</translation>
-<translation id="5094747076828555589">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av Chromium. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
+<translation id="5094747076828555589">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Sikkerhetssertifikatet til tjeneren er ikke klarert av Cobalt. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
 <translation id="5097099694988056070">enhetsstatistikk, som prosessor- og minnebruk</translation>
 <translation id="5097468150760963273">27 x 39 tommer</translation>
 <translation id="5097501891273180634">A2</translation>
@@ -2135,7 +2135,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5137761395480718572">Denne appen ber om tillatelse til å installere wifi-legitimasjon. Etter konfigurering kobles <ph name="DEVICE_TYPE" /> automatisk til deltakende wifi-nettverk. For å fjerne denne legitimasjonen, avinstaller appen. <ph name="LEARN_MORE" /></translation>
 <translation id="5138014172396933048">Virtuelt kort er ikke tilgjengelig akkurat nå – kontakt banken</translation>
 <translation id="5138227688689900538">Vis færre</translation>
-<translation id="5143309888746105072">Chromium blokkerer nettsteder fra å bruke informasjonskapsler fra tredjeparter til å spore deg når du surfer.
+<translation id="5143309888746105072">Cobalt blokkerer nettsteder fra å bruke informasjonskapsler fra tredjeparter til å spore deg når du surfer.
             <ph name="NEW_LINE" />Hvis funksjoner på nettstedet ikke fungerer, kan du <ph name="START_LINK" />prøve å tillate informasjonskapsler fra tredjeparter midlertidig<ph name="END_LINK" />.</translation>
 <translation id="5145883236150621069">Feilkode i responsen for enhetsinnstillinger</translation>
 <translation id="5146995429444047494">Varsler for <ph name="ORIGIN" /> er blokkert</translation>
@@ -2273,7 +2273,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="5425082381151187189">Hjemme- og interiørdekor</translation>
 <translation id="5426179911063097041"><ph name="SITE" /> vil sende deg varsler</translation>
 <translation id="5430298929874300616">Fjern bokmerke</translation>
-<translation id="5434798570900738152">Chromium <ph name="BEGIN_EMPHASIS" />lagrer ikke<ph name="END_EMPHASIS" />
+<translation id="5434798570900738152">Cobalt <ph name="BEGIN_EMPHASIS" />lagrer ikke<ph name="END_EMPHASIS" />
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />nettleserloggen din
             <ph name="LIST_ITEM" />informasjonskapsler og nettstedsdata
@@ -2648,7 +2648,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6160391204859821737">Slå på funksjonen for annonsepersonvern</translation>
 <translation id="6165508094623778733">Finn ut mer</translation>
 <translation id="6167577165590485365">Forrige forsøk på henting:</translation>
-<translation id="617256461084925519">Google Chrome prøver å bekrefte at det er deg, så den kan fylle ut betalingsopplysningene dine.</translation>
+<translation id="617256461084925519">Cobalt prøver å bekrefte at det er deg, så den kan fylle ut betalingsopplysningene dine.</translation>
 <translation id="6176387967264100435">Denne prisen er høy</translation>
 <translation id="6177128806592000436">Tilkoblingen til dette nettstedet er ikke sikker</translation>
 <translation id="6177531123306197852">C2-konvolutt</translation>
@@ -2668,7 +2668,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6215936431492593050">Metall (sateng)</translation>
 <translation id="6217950634729714357">Møbler til kjøkken og spisestue</translation>
 <translation id="6218305986815100395">Kan ikke slå på virtuelt kort</translation>
-<translation id="6218753634732582820">Vil du fjerne adressen fra Chromium?</translation>
+<translation id="6218753634732582820">Vil du fjerne adressen fra Cobalt?</translation>
 <translation id="622039917539443112">Parallellfals</translation>
 <translation id="6221311046884916259">Vil du lagre dette kortet i Google-kontoen din?</translation>
 <translation id="6221345481584921695">Google Safe Browsing oppdaget nylig <ph name="BEGIN_LINK" />skadelig programvare<ph name="END_LINK" /> på <ph name="SITE" />. Nettsteder som vanligvis er trygge, kan noen ganger være infisert med skadelig programvare. Det skadelige innholdet kommer fra <ph name="SUBRESOURCE_HOST" />, som er en kjent distributør av skadelig programvare.</translation>
@@ -2740,7 +2740,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6348220984832452017">Aktive variasjoner</translation>
 <translation id="6349101878882523185">Installer <ph name="APP_NAME" /></translation>
 <translation id="6353505687280762741">{COUNT,plural, =0{Ingen}=1{1 passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}=2{2 passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}other{# passord (for <ph name="DOMAIN_LIST" /> – synkronisert)}}</translation>
-<translation id="6355392890578844978">Denne nettleseren administreres ikke av et selskap eller en annen organisasjon. Aktiviteten på denne enheten kan bli administrert utenfor Chromium. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
+<translation id="6355392890578844978">Denne nettleseren administreres ikke av et selskap eller en annen organisasjon. Aktiviteten på denne enheten kan bli administrert utenfor Cobalt. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
 <translation id="6358088212770985041">redigere betalingsmåter</translation>
 <translation id="6358450015545214790">Hva innebærer dette?</translation>
 <translation id="6360213755783740931">Finn ut mer om beskyttelse mot skadelig programvare</translation>
@@ -2782,7 +2782,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6410264514553301377">Skriv inn utløpsdatoen og verifiseringskoden for <ph name="CREDIT_CARD" /></translation>
 <translation id="6411107829285739505">A4x8</translation>
 <translation id="6414010576370319452">Hud- og neglepleie</translation>
-<translation id="6415778972515849510">Chromium kan hjelpe deg med å beskytte Google-kontoen din og endre passordet ditt.</translation>
+<translation id="6415778972515849510">Cobalt kan hjelpe deg med å beskytte Google-kontoen din og endre passordet ditt.</translation>
 <translation id="6416877227920300343">EDP</translation>
 <translation id="641811520997304166">Lønningstjenester</translation>
 <translation id="6424600253695044005">Cloud Storage</translation>
@@ -2908,7 +2908,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6665553082534466207">Tre hull høyre</translation>
 <translation id="6668389483194953109">Fant en papirstørrelse med navnet «custom», men «custom_size»-egenskapen er tom eller ugyldig.</translation>
 <translation id="6671169470640320959">Billån</translation>
-<translation id="6671697161687535275">Vil du fjerne forslaget fra Chromium?</translation>
+<translation id="6671697161687535275">Vil du fjerne forslaget fra Cobalt?</translation>
 <translation id="6677351035258626477">Hurtigmat</translation>
 <translation id="6681790815630918386">Verifiseringskoden er lagret</translation>
 <translation id="6683022854667115063">Hodetelefoner</translation>
@@ -3021,7 +3021,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6897140037006041989">Brukeragent</translation>
 <translation id="6898699227549475383">Organisasjon (O)</translation>
 <translation id="6907458757809079309">Trening</translation>
-<translation id="6908168784986658395">Når du lukker alle inkognitofaner i Chromium, blir aktiviteten din på de aktuelle fanene fjernet fra enheten:
+<translation id="6908168784986658395">Når du lukker alle inkognitofaner i Cobalt, blir aktiviteten din på de aktuelle fanene fjernet fra enheten:
           <ph name="BEGIN_LIST" />
             <ph name="LIST_ITEM" />Nettleseraktivitet<ph name="END_LIST_ITEM" />
             <ph name="LIST_ITEM" />Søkelogg<ph name="END_LIST_ITEM" />
@@ -3069,7 +3069,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="6973988895180423160">3,5 x 5 tommer</translation>
 <translation id="6978121630131642226">Søkemotorer</translation>
 <translation id="6978236010531171013">Del likevel</translation>
-<translation id="6978722349058177832">Hvis du deler denne enheten, kan Chromium be deg om en bekreftelse hver gang du betaler med autofyll</translation>
+<translation id="6978722349058177832">Hvis du deler denne enheten, kan Cobalt be deg om en bekreftelse hver gang du betaler med autofyll</translation>
 <translation id="6979158407327259162">Google Disk</translation>
 <translation id="6979440798594660689">Kutt lyden (standard)</translation>
 <translation id="6987806006823772670">Konvolutt (belagt)</translation>
@@ -3233,7 +3233,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7308436126008021607">bakgrunnssynkronisering</translation>
 <translation id="7310392214323165548">Enheten startes på nytt veldig snart</translation>
 <translation id="7311244614769792472">Fant ingen resultater</translation>
-<translation id="7311837626618954149">Chromium blokkerer nettsteder fra å bruke informasjonskapsler fra tredjeparter til å spore deg når du surfer.</translation>
+<translation id="7311837626618954149">Cobalt blokkerer nettsteder fra å bruke informasjonskapsler fra tredjeparter til å spore deg når du surfer.</translation>
 <translation id="7319430975418800333">A3</translation>
 <translation id="7320336641823683070">Tilkoblingshjelp</translation>
 <translation id="7323804146520582233">Skjul «<ph name="SECTION" />»-delen</translation>
@@ -3306,7 +3306,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7425878584435172632">Visuell kunst og design</translation>
 <translation id="7427079287360774240">Språkstudier</translation>
 <translation id="7429429656042611765">Executive</translation>
-<translation id="7432774160230062882">Bekreft at det er deg, slik at Chromium kan fylle ut betalingsopplysningene dine.</translation>
+<translation id="7432774160230062882">Bekreft at det er deg, slik at Cobalt kan fylle ut betalingsopplysningene dine.</translation>
 <translation id="7437289804838430631">Legg til kontaktinformasjon</translation>
 <translation id="7438338505272634288">Angripere på nettstedet du prøver å besøke, kan lure deg til å installere skadelig programvare som påvirker måten du surfer på – for eksempel ved å endre startsiden eller vise deg ekstra annonser på nettstedene du besøker. Chrome anbefaler på det sterkeste at du går tilbake til trygg grunn for å unngå skade. <ph name="BEGIN_LEARN_MORE_LINK" />Finn ut mer<ph name="END_LEARN_MORE_LINK" /></translation>
 <translation id="7440140511386898319">Utforsk uten nett</translation>
@@ -3383,7 +3383,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7564049878696755256">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. Chrome anbefaler at du endrer passordet ditt nå.</translation>
 <translation id="7564667064360547717">Skjorter og topper</translation>
 <translation id="7567204685887185387">Denne tjeneren kunne ikke bevise at den er <ph name="DOMAIN" />. Tjenerens sikkerhetssertifikat kan ha blitt utstedt på uredelig vis. Dette kan være forårsaket av en feilkonfigurering eller en angriper som avskjærer tilkoblingen din.</translation>
-<translation id="7568616151991626879">Google Chrome prøver å fylle ut passordet ditt på <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Cobalt prøver å fylle ut passordet ditt på <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569952961197462199">Vil du fjerne kredittkortet fra Chrome?</translation>
 <translation id="7569983096843329377">Svart</translation>
@@ -3426,7 +3426,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="7631527008834753063">Konkurranseprogrammer på TV</translation>
 <translation id="7633909222644580952">Ytelsesdata og programstopprapporter</translation>
 <translation id="7636346903338549690">Nettsteder som har lov til å bruke informasjonskapsler fra tredjeparter</translation>
-<translation id="7637571805876720304">Vil du fjerne kredittkortet fra Chromium?</translation>
+<translation id="7637571805876720304">Vil du fjerne kredittkortet fra Cobalt?</translation>
 <translation id="7637586430889951925">{COUNT,plural, =0{Ingen}=1{1 passord i kontoen (for <ph name="DOMAIN_LIST" />)}other{# passord i kontoen (for <ph name="DOMAIN_LIST" />)}}</translation>
 <translation id="7638605456503525968">Serielle porter</translation>
 <translation id="7639968568612851608">Mørk grå</translation>
@@ -3647,7 +3647,7 @@ I motsatt fall blir dette blokkert av personverninnstillingene. Dette gjør at i
 <translation id="8061691770921837575">Sminke og kosmetikk</translation>
 <translation id="8063875539456488183">Lagre og spor prisen</translation>
 <translation id="8066225060526005217">Administreres av innstillinger for informasjonskapsler</translation>
-<translation id="8067872629359326442">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Chromium kan hjelpe deg. For å bytte passord og varsle Google om at kontoen din kanskje er i fare, klikk på Beskytt konto.</translation>
+<translation id="8067872629359326442">Du har nettopp skrevet inn passordet ditt på et villedende nettsted. Cobalt kan hjelpe deg. For å bytte passord og varsle Google om at kontoen din kanskje er i fare, klikk på Beskytt konto.</translation>
 <translation id="8070439594494267500">Appikon</translation>
 <translation id="8070495475341517754">Sightseeingturer</translation>
 <translation id="8073647227500388356">Autonome kjøretøy</translation>
@@ -3906,7 +3906,7 @@ Mer informasjon:
 <translation id="8542014550340843547">Tre stifter bunn</translation>
 <translation id="8542617028204211143">SRA0</translation>
 <translation id="8543181531796978784">Du kan <ph name="BEGIN_ERROR_LINK" />rapportere et påvisningsproblem<ph name="END_ERROR_LINK" /> eller, hvis du forstår sikkerhetsrisikoen, <ph name="BEGIN_LINK" />gå til dette usikre nettstedet<ph name="END_LINK" />.</translation>
-<translation id="8544217240017914508">Google Chrome prøver å endre innstillingene for utfylling av betalingsmåter.</translation>
+<translation id="8544217240017914508">Cobalt prøver å endre innstillingene for utfylling av betalingsmåter.</translation>
 <translation id="8544303911974837265">Polyester</translation>
 <translation id="854548366864113872">Alternativ med høy pris</translation>
 <translation id="8546254312340305428">Oppgi årsaken til opplastingen (obligatorisk)</translation>
@@ -3923,7 +3923,7 @@ Mer informasjon:
 <translation id="8558347880669160417">Kamera og mikrofon er tillatt denne gangen</translation>
 <translation id="8559762987265718583">En privat tilkobling til <ph name="BEGIN_BOLD" /><ph name="DOMAIN" /><ph name="END_BOLD" /> kunne ikke etableres fordi datoen og klokkeslettet (<ph name="DATE_AND_TIME" />) er feil på enheten.</translation>
 <translation id="8564182942834072828">Separate dokumenter / ukollaterte eksemplarer</translation>
-<translation id="8564985650692024650">Chromium anbefaler at du tilbakestiller passordet ditt for <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> hvis du også har brukt det på andre nettsteder.</translation>
+<translation id="8564985650692024650">Cobalt anbefaler at du tilbakestiller passordet ditt for <ph name="BEGIN_BOLD" /><ph name="ORG_NAME" /><ph name="END_BOLD" /> hvis du også har brukt det på andre nettsteder.</translation>
 <translation id="8570895683659698018">Hobby og fritid</translation>
 <translation id="8574841453995331336">Kjøleskap og frysere</translation>
 <translation id="8577192028579836704">Alle alternativer koster vanligvis <ph name="TYPICAL_PRICE" /></translation>
@@ -3997,7 +3997,7 @@ Mer informasjon:
 <translation id="8736059027199600831">30 x 40 tommer</translation>
 <translation id="8737134861345396036"><ph name="LAUNCH_INCOGNITO_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å åpne et nytt inkognitovindu for privat surfing</translation>
 <translation id="8737685506611670901">åpne linker til <ph name="PROTOCOL" /> i stedet for <ph name="REPLACED_HANDLER_TITLE" /></translation>
-<translation id="8738058698779197622">Klokken din må være riktig stilt for at du skal kunne opprette en sikker forbindelse. Sertifikatene som nettsteder bruker til å identifisere seg med, er nemlig bare gyldige i en viss tid. Siden enhetens klokke er feil, kan ikke Chromium kontrollere disse sertifikatene.</translation>
+<translation id="8738058698779197622">Klokken din må være riktig stilt for at du skal kunne opprette en sikker forbindelse. Sertifikatene som nettsteder bruker til å identifisere seg med, er nemlig bare gyldige i en viss tid. Siden enhetens klokke er feil, kan ikke Cobalt kontrollere disse sertifikatene.</translation>
 <translation id="8740359287975076522">&lt;abbr id="dnsDefinition"&gt;DNS-adressen&lt;/abbr&gt; til <ph name="HOST_NAME" /> ble ikke funnet. Problemet diagnostiseres.</translation>
 <translation id="8742371904523228557"><ph name="ONE_TIME_CODE" /> er koden din for <ph name="ORIGIN" /></translation>
 <translation id="874918643257405732">Bokmerk denne fanen</translation>
@@ -4024,7 +4024,7 @@ Mer informasjon:
 <translation id="8785658048882205566">Motorsykler</translation>
 <translation id="8790007591277257123">&amp;Slett likevel</translation>
 <translation id="8792272652220298572">Plast (glans)</translation>
-<translation id="8792621596287649091">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. Chromium anbefaler at du endrer passordet ditt nå.</translation>
+<translation id="8792621596287649091">Du kan miste tilgangen til <ph name="ORG_NAME" />-kontoen din eller bli utsatt for identitetstyveri. Cobalt anbefaler at du endrer passordet ditt nå.</translation>
 <translation id="8792626944327216835">mikrofon</translation>
 <translation id="8793655568873652685"><ph name="ENROLLMENT_DOMAIN" /> har slått på Chrome Enterprise Connectors i nettleseren din. Disse koblingene har tilgang til noen av dataene dine.</translation>
 <translation id="8798099450830957504">Standard</translation>
@@ -4174,7 +4174,7 @@ Mer informasjon:
 <translation id="9095388113577226029">Flere språk</translation>
 <translation id="9096425087209440047"><ph name="SET_CHROME_AS_DEFAULT_BROWSER_FOCUSED_FRIENDLY_MATCH_TEXT" /> – trykk på Tab og deretter på Enter for å angi Chrome som systemets standardnettleser i iOS-innstillingene</translation>
 <translation id="9101630580131696064">Skuff 1</translation>
-<translation id="9103872766612412690"><ph name="SITE" /> bruker vanligvis kryptering for å beskytte informasjonen din. Da Chromium prøvde å koble til <ph name="SITE" /> denne gangen, sendte nettstedet tilbake uvanlig og feil legitimasjon. Dette kan skje hvis en angriper prøver å utgi seg for å være <ph name="SITE" />, eller hvis en Wifi-påloggingsskjerm har avbrutt tilkoblingen. Informasjonen din er likevel sikker fordi Chromium stoppet tilkoblingen før det ble utvekslet noen data.</translation>
+<translation id="9103872766612412690"><ph name="SITE" /> bruker vanligvis kryptering for å beskytte informasjonen din. Da Cobalt prøvde å koble til <ph name="SITE" /> denne gangen, sendte nettstedet tilbake uvanlig og feil legitimasjon. Dette kan skje hvis en angriper prøver å utgi seg for å være <ph name="SITE" />, eller hvis en Wifi-påloggingsskjerm har avbrutt tilkoblingen. Informasjonen din er likevel sikker fordi Cobalt stoppet tilkoblingen før det ble utvekslet noen data.</translation>
 <translation id="9107467864910557787">Nettleseren administreres av <ph name="MANAGER" /></translation>
 <translation id="91108059142052966">En administratorregel deaktiverer skjermdeling med <ph name="APPLICATION_TITLE" /> når konfidensielt innhold er synlig</translation>
 <translation id="9114524666733003316">Bekrefter kortet …</translation>
@@ -4242,7 +4242,7 @@ Mer informasjon:
 <translation id="93020190163435405">Praktikantstillinger</translation>
 <translation id="933712198907837967">Diners Club</translation>
 <translation id="934634059306213385">Vil du tillate at <ph name="APP_NAME" />-appen konfigurerer wifi-nettverk?</translation>
-<translation id="936602727769022409">Du kan miste tilgangen til Google-kontoen din. Chromium anbefaler at du endrer passordet ditt nå. Du blir bedt om å logge på.</translation>
+<translation id="936602727769022409">Du kan miste tilgangen til Google-kontoen din. Cobalt anbefaler at du endrer passordet ditt nå. Du blir bedt om å logge på.</translation>
 <translation id="937804173274050966"><ph name="BEGIN_BOLD" />Disse dataene brukes:<ph name="END_BOLD" /> Annonseemnene dine er basert på den nylige nettleserloggen din, som er en liste over nettsteder du har besøkt med Chrome på denne enheten.</translation>
 <translation id="937885410143139026">Data sendt til administrasjonskonsollen</translation>
 <translation id="939736085109172342">Ny mappe</translation>

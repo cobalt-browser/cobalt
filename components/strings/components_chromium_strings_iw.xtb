@@ -2,10 +2,10 @@
 <!DOCTYPE translationbundle>
 <translationbundle lang="iw">
 <translation id="130631256467250065">השינויים ייכנסו לתוקף בפעם הבאה שהמכשיר יופעל מחדש.</translation>
-<translation id="275588974610408078">‏דיווח על התרסקויות אינו זמין ב-Chromium.</translation>
-<translation id="3064346599913645280">‏זהו דף מאובטח של Chromium</translation>
+<translation id="275588974610408078">‏דיווח על התרסקויות אינו זמין ב-Cobalt.</translation>
+<translation id="3064346599913645280">‏זהו דף מאובטח של Cobalt</translation>
 <translation id="3255926992597692024">‏Chromium מנסה לשנות את ההגדרות למילוי אמצעי התשלום.</translation>
-<translation id="358997566136285270">‏לוגו של Chromium</translation>
+<translation id="358997566136285270">‏לוגו של Cobalt</translation>
 <translation id="4050599136622776556">‏Chromium מנסה לערוך את אמצעי התשלום.</translation>
 <translation id="4365115785552740256">‏Chromium קיים הודות לפרויקט הקוד הפתוח של <ph name="BEGIN_LINK_CHROMIUM" /> Chromium‏<ph name="END_LINK_CHROMIUM" /> ו<ph name="BEGIN_LINK_OSS" />תוכנות קוד פתוח<ph name="END_LINK_OSS" /> אחרות.</translation>
 <translation id="4559775032954821361">‏יש לעבור אל
@@ -18,8 +18,8 @@
           ‏&gt;
           הגדרות LAN
           ולבטל את הבחירה באפשרות "שימוש בשרת proxy עבור רשת LAN‏".</translation>
-<translation id="4622039161600275920">‏הדף הזה נחסם על ידי Chromium</translation>
-<translation id="48558539577516920">‏שינוי הגדרות חומת האש או האנטי-וירוס כדי לאפשר ל-Chromium
+<translation id="4622039161600275920">‏הדף הזה נחסם על ידי Cobalt</translation>
+<translation id="48558539577516920">‏שינוי הגדרות חומת האש או האנטי-וירוס כדי לאפשר ל-Cobalt
           לגשת לרשת.</translation>
 <translation id="580822234363523061">‏יש לעבור אל
           תפריט Chromium‏ &gt;
@@ -31,9 +31,9 @@
           ולבדוק שהתצורה שלך מוגדרת לאפשרות "ללא שרת proxy‏" או "ישיר".</translation>
 <translation id="6549378540556750549">‏Chromium קיים גם הודות ל<ph name="BEGIN_LINK_OSS" />תוכנת קוד פתוח<ph name="END_LINK_OSS" /> אחרת.</translation>
 <translation id="6613594504749178791">‏השינויים שביצעת ייכנסו לתוקף בפעם הבאה שתפעיל מחדש את Chromium‏.</translation>
-<translation id="7681937895330411637">‏Chromium קיים הודות לפרויקט הקוד הפתוח של <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" />.</translation>
+<translation id="7681937895330411637">‏Chromium קיים הודות לפרויקט הקוד הפתוח של <ph name="BEGIN_LINK_CHROMIUM" />Cobalt<ph name="END_LINK_CHROMIUM" />.</translation>
 <translation id="7861509383340276692">‏יש להיכנס אל
-        תפריט Chromium &gt;
+        תפריט Cobalt &gt;
         <ph name="SETTINGS_TITLE" />
         &gt;
         <ph name="ADVANCED_TITLE" />
@@ -44,5 +44,5 @@
           'יישומים' &gt; 'העדפות מערכת' &gt; 'רשת' &gt; 'מתקדם' &gt; שרתי Proxy'
           ולבטל את הבחירה בשרתי proxy שנבחרו.</translation>
 <translation id="8597726643333341451">‏זהו דף מאובטח של Chrome for Testing</translation>
-<translation id="8684913864886094367">‏כיבוי Chromium לא בוצע כהלכה.</translation>
+<translation id="8684913864886094367">‏כיבוי Cobalt לא בוצע כהלכה.</translation>
 </translationbundle>
