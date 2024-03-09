@@ -428,7 +428,7 @@ Cobalt ayarlarınızı kurtaramıyor.</translation>
 <translation id="8550334526674375523">Bu iş profili, kişisel profilinizden tamamen ayrıdır.</translation>
 <translation id="8555465886620020932">Hizmet hatası: <ph name="SERVICE_ERROR" />.</translation>
 <translation id="8568283329061645092">Cobalt, Google Hesabınızla oturum açtığınızda şifrelerinizi kontrol edebilir</translation>
-<translation id="8586442755830160949">Telif Hakkı <ph name="YEAR" /> The Cobalt Authors. Tüm hakları saklıdır.</translation>
+<translation id="8586442755830160949">Telif Hakkı <ph name="YEAR" /> The Chromium Authors, jpb. Tüm hakları saklıdır.</translation>
 <translation id="858822505990366713">Cobalt'unuzu Özelleştirin</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Bu verileri kullanma şeklimiz:<ph name="END_BOLD" /> Siteler, ilgi alanlarınız hakkındaki bilgileri Cobalt'da saklayabilir. Örneğin, maraton ayakkabısı satın almak için ziyaret ettiğiniz bir site, maraton koşmayı ilgi alanınız olarak tanımlayabilir. Daha sonra bir yarışa kaydolmak için farklı bir siteyi ziyaret ettiğinizde o site ilgi alanlarınıza dayalı olarak size koşu ayakkabısı reklamı gösterebilir.</translation>
 <translation id="8619360774459241877">Cobalt başlatılıyor...</translation>
@@ -470,5 +470,5 @@ Cobalt ayarlarınızı kurtaramıyor.</translation>
 <translation id="965162752251293939">Cobalt'u kim kullanıyor?</translation>
 <translation id="967427899662692980">Cobalt'un en güçlü güvenlik özelliğinden faydalanın</translation>
 <translation id="983803489796659991">Güncelleme sunucusunda uygulamanın karma verisi bulunmadığından yükleme işlemi başarısız oldu.</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

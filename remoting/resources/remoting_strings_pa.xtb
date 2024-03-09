@@ -152,7 +152,7 @@
 <translation id="7693372326588366043">ਹੋਸਟਾਂ ਦੀ ਸੂਚੀ ਰਿਫ੍ਰੈਸ਼ ਕਰੋ</translation>
 <translation id="7714222945760997814">ਇਸ ਦੀ ਰਿਪੋਰਟ ਕਰੋ</translation>
 <translation id="7868137160098754906">ਕਿਰਪਾ ਕਰਕੇ ਰਿਮੋਟ ਕੰਪਿਊਟਰ ਲਈ ਆਪਣਾ ਪਿੰਨ ਦਾਖਲ ਕਰੋ।</translation>
-<translation id="7881455334687220899">Copyright 2024 The Cobalt Authors. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।</translation>
+<translation id="7881455334687220899">Copyright 2024 The Chromium Authors, jpb. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।</translation>
 <translation id="7895403300744144251">ਰਿਮੋਟ ਕੰਪਿਊਟਰ ਦੀਆਂ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦੀਆਂ ਹਨ।</translation>
 <translation id="7936528439960309876">ਸੱਜੇ ਪਾਸੇ ਲਿਜਾਓ</translation>
 <translation id="7970576581263377361">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ Cobalt 'ਤੇ ਦੁਬਾਰਾ ਸਾਈਨ-ਇਨ ਕਰੋ।</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> ਨੂੰ 'ਸਕ੍ਰੀਨ ਰਿਕਾਰਡਿੰਗ' ਇਜਾਜ਼ਤ ਦਿਓ</translation>
 <translation id="9213184081240281106">ਕ੍ਰੀਡੈਂਸ਼ੀਅਲ ਹੋਸਟ ਸੰਰੂਪਣ।</translation>
 <translation id="981121421437150478">ਆਫ਼ਲਾਈਨ</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ਪਿਛਲੀ ਵਾਰ ਆਨਲਾਈਨ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

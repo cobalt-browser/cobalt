@@ -426,7 +426,7 @@
 <translation id="8550334526674375523">Этот рабочий профиль никак не связан с вашим личным профилем.</translation>
 <translation id="8555465886620020932">Ошибка службы: <ph name="SERVICE_ERROR" />.</translation>
 <translation id="8568283329061645092">Cobalt проверит ваши пароли, когда вы войдете в аккаунт Google.</translation>
-<translation id="8586442755830160949">© The Cobalt Authors, <ph name="YEAR" /> . Все права защищены.</translation>
+<translation id="8586442755830160949">© The Chromium Authors, jpb, <ph name="YEAR" /> . Все права защищены.</translation>
 <translation id="858822505990366713">Настроить Cobalt</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Как мы используем эти данные.<ph name="END_BOLD" /> Сайты могут хранить в Cobalt информацию о ваших интересах. Например, вы перешли на сайт, чтобы купить беговые кроссовки. Он определит, что вам интересны марафоны. Когда вы перейдете на другой сайт, чтобы зарегистрироваться на забег, то увидите рекламу беговых кроссовок.</translation>
 <translation id="8619360774459241877">Запуск Cobalt...</translation>

@@ -383,7 +383,7 @@
         </if>  <!-- is_android or is_ios -->
 
         <message desc="Error displayed if authentication fails. This can be caused by stale credentials, in which logging out of the web-app and retrying can fix the problem." name="IDS_ERROR_AUTHENTICATION_FAILED" formatter_data="android_java">
-          Authentication failed. Please sign in to Chromium again.
+          Authentication failed. Please sign in to Cobalt again.
         </message>
         <message desc="Message displayed when the client or host has disconnected." name="IDS_MESSAGE_SESSION_FINISHED">
           Your Chromoting session has ended.
@@ -392,10 +392,10 @@
           Chromoting
         </message>
         <message name="IDS_COMPANY_NAME" desc="The company name specified in the version information of each Chromoting Host executable.">
-          The Chromium Authors
+          The Chromium Authors, jpb
         </message>
         <message name="IDS_COPYRIGHT" desc="The copyright message specified in the version information of each Chromoting Host executable. It should be updated every year.">
-          Copyright 2024 The Chromium Authors. All Rights Reserved.
+          Copyright 2024 The Chromium Authors, jpb. All Rights Reserved.
         </message>
         <message name="IDS_DISPLAY_SERVICE_NAME" desc="The name of the Windows service installed by Chromoting.">
           Chromoting Service

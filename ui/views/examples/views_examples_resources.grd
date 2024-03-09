@@ -104,7 +104,7 @@
         Thank you! We received the following response: <ph name="USER_FEEDBACK">$1<ex>I like it.</ex></ph>
       </message>
       <message translateable="false" name="IDS_COLORED_DIALOG_TITLE">
-        Send Feedback to Chromium
+        Send Feedback to Cobalt
       </message>
       <message translateable="false" name="IDS_COLORED_DIALOG_TEXTFIELD_PLACEHOLDER">
         Please type your quick feedback here...

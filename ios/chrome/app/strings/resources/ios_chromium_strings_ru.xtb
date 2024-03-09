@@ -278,7 +278,7 @@
 <translation id="8409374867500149834">Теперь Cobalt надежно защищает вас от вредоносных сайтов.</translation>
 <translation id="8458950033462118672">Чтобы автоматически открывать ссылки в Cobalt, сделайте его браузером по умолчанию</translation>
 <translation id="858114650497379505">Вы можете использовать пароли, сохраненные в Менеджере паролей, для других приложений на своем устройстве iPhone.</translation>
-<translation id="8586442755830160949">© The Cobalt Authors, <ph name="YEAR" /> . Все права защищены.</translation>
+<translation id="8586442755830160949">© The Chromium Authors, jpb, <ph name="YEAR" /> . Все права защищены.</translation>
 <translation id="8618440443578628179">Шифрование кодовой фразой не применяется к способам оплаты и адресам из Google Pay.
 
 Чтобы это изменить, <ph name="BEGIN_LINK" />удалите данные Cobalt из аккаунта<ph name="END_LINK" />.</translation>

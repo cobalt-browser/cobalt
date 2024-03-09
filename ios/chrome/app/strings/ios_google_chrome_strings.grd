@@ -417,10 +417,10 @@ Things to consider:
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_SYNC_CHROME_DATA" desc="Turns off and on all the sync data (like bookmarks, history and others). [iOS only]">
         Sync Your Chrome Data
       </message>
-      <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_KEEP_USING_YOUR_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to keep using your Chromium data in your Google account. [iOS only]">
+      <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_KEEP_USING_YOUR_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to keep using your Cobalt data in your Google account. [iOS only]">
         Keep using the Chrome data in your Google Account
       </message>
-      <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_MAKE_SURE_YOU_CAN_ALWAYS_USE_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to making sure your can always use Chromium data in your Google account. [iOS only]">
+      <message name="IDS_IOS_IDENTITY_ERROR_INFOBAR_MAKE_SURE_YOU_CAN_ALWAYS_USE_CHROME_DATA_MESSAGE" desc="The error message in the identity error info bar related to making sure your can always use Cobalt data in your Google account. [iOS only]">
         Make sure you can always use the Chrome data in your Google Account
       </message>
       <message name="IDS_IOS_INCOGNITO_INTERSTITIAL_OPEN_IN_CHROME" desc="Button to open a link from an external app in a regular tab rather than in Incognito mode. [iOS only]">
@@ -943,7 +943,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
       <message name="IDS_IOS_SET_UP_LIST_NOTIFICATIONS_SHORT_DESCRIPTION" desc="Short description for the Set Up List item that encourages the user to enable Chrome notifications.">
         Keep up with content and helpful Chrome tips.
       </message>
-      <message name="IDS_IOS_SET_UP_LIST_TIPS_TITLE" desc="Title for the Set Up List (a variation that mentions Tips) - a list of tasks the user might want to complete when first using Chromium.">
+      <message name="IDS_IOS_SET_UP_LIST_TIPS_TITLE" desc="Title for the Set Up List (a variation that mentions Tips) - a list of tasks the user might want to complete when first using Cobalt.">
         Chrome Tips
       </message>
       <message name="IDS_IOS_SET_UP_LIST_TITLE" desc="Title for the Set Up List - a list of tasks the user might want to complete when first using Chrome.">

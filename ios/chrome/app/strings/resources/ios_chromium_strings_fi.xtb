@@ -278,7 +278,7 @@ Salattua dataa voi lukea vain tunnuslauseen avulla. Tunnuslausetta ei lähetetä
 <translation id="8409374867500149834">Käytössäsi on Chromiumin vahvin suojaus haitallisia verkkosivustoja vastaan</translation>
 <translation id="8458950033462118672">Voit avata linkkejä Chromiumissa automaattisesti tekemällä siitä oletusselainsovelluksesi.</translation>
 <translation id="858114650497379505">Voit käyttää Salasanojen ylläpitoon tallennettuja salasanoja muissa iPhonesi sovelluksissa.</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Cobalt Authors. Kaikki oikeudet pidätetään.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors, jpb. Kaikki oikeudet pidätetään.</translation>
 <translation id="8618440443578628179">Tunnuslauseella ei salata Google Payn maksutapoja ja osoitteita.
 
 Jos haluat muuttaa tätä asetusta, <ph name="BEGIN_LINK" />tyhjennä tilin Cobalt-data<ph name="END_LINK" />.</translation>
@@ -315,5 +315,5 @@ Datasi salattiin tunnuslauseella <ph name="TIME" />. Lisää se, niin voit käyt
 <translation id="921174536258924340">Cobalt ei voinut tarkistaa kaikkia salasanoja. Yritä uudelleen huomenna tai <ph name="BEGIN_LINK" />tarkista salasanat Google-tililtä<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Käytä Chromiumia automaattisesti, kun napautat linkkejä viesteissä, dokumenteissa ja muissa sovelluksissa.</translation>
 <translation id="981812233959540767">Pelaa Chromiumin Dino-peliä</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

@@ -846,7 +846,7 @@ Het veld <ph name="PROXY_SERVER_MODE_PROXY_SETTINGS_FIELD" /> is beëindigd ten 
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />: De velden <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> en <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> worden gebruikt.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />: De velden <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> en <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> worden gebruikt.
 
-      Opmerking: Voor gedetailleerdere voorbeelden ga je naar The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Opmerking: Voor gedetailleerdere voorbeelden ga je naar The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1700811900332333712">Geef het apparaat toestemming om Powerwash te activeren</translation>
 <translation id="1705215165572785706">Toetsen op de bovenste rij gebruiken als mediatoetsen, maar de gebruiker toestaan dit te wijzigen</translation>
 <translation id="1708496595873025510">De beperking voor het ophalen van de seed voor varianten instellen</translation>
@@ -942,7 +942,7 @@ In <ph name="MS_WIN_NAME" /> is dit beleid alleen beschikbaar voor instanties di
 
        Stel dit beleid niet in als je een andere modus hebt geselecteerd om proxybeleid in te stellen.
 
-       Opmerking: Voor gedetailleerdere voorbeelden ga je naar The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Opmerking: Voor gedetailleerdere voorbeelden ga je naar The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1767673020408652620">App-aanbevelingen aanzetten voor de nulstatus van het zoekvak</translation>
 <translation id="1768225118528727376">Het recht voor vensterbeheer toestaan voor deze sites</translation>
 <translation id="1770071413238151235">12-uurs klok</translation>
@@ -1152,7 +1152,7 @@ Als je het beleid niet toepast, sluit <ph name="PRODUCT_NAME" /> het tabblad nad
      </translation>
 <translation id="1919802376548418720">Gebruik KDC-beleid om gegevens te delegeren.</translation>
 <translation id="1920046221095339924">Beheerde sessie op apparaat toestaan</translation>
-<translation id="1920772397574801429">Als je het beleid instelt, wordt het accounttype opgegeven van de accounts die worden geleverd door de Android-verificatie-app die <ph name="HTTP_NEGOTIATE" />-verificatie ondersteunt (zoals Kerberos-verificatie). Deze informatie is beschikbaar via de leverancier van de verificatie-app. Ga naar The Cobalt Projects (https://goo.gl/hajyfN) voor meer informatie.
+<translation id="1920772397574801429">Als je het beleid instelt, wordt het accounttype opgegeven van de accounts die worden geleverd door de Android-verificatie-app die <ph name="HTTP_NEGOTIATE" />-verificatie ondersteunt (zoals Kerberos-verificatie). Deze informatie is beschikbaar via de leverancier van de verificatie-app. Ga naar The Chromium Projects (https://goo.gl/hajyfN) voor meer informatie.
 
       Als je het beleid niet instelt, wordt <ph name="HTTP_NEGOTIATE" />-verificatie uitgezet op Android.</translation>
 <translation id="1923704782248889851">Dicteren aanzetten</translation>
@@ -6811,7 +6811,7 @@ Als je ervoor kiest het volgende te gebruiken:
 
       Als je het beleid niet instelt, kunnen gebruikers de proxyinstellingen kiezen.
 
-      Opmerking: Voor gedetailleerde voorbeelden ga je naar The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Opmerking: Voor gedetailleerde voorbeelden ga je naar The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="6559643481486165125">Niet vragen om opnieuw te verifiëren</translation>
 <translation id="656130159911161669">ChromeOS-updates negeren de versie die is gedefinieerd in het manifest van de kiosk-app</translation>
 <translation id="6561396069801924653">Toegankelijkheidsopties tonen in het systeemvakmenu</translation>
@@ -7395,7 +7395,7 @@ Als je het beleid niet instelt, is dit functioneel gelijk aan het beleid instell
 
        Stel dit beleid niet in als je een andere modus hebt geselecteerd om proxybeleid in te stellen.
 
-       Opmerking: Voor gedetailleerde voorbeelden ga je naar The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Opmerking: Voor gedetailleerde voorbeelden ga je naar The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7001915679435065291">Als je het beleid instelt op 1, mogen alle websites afbeeldingen tonen. Als je het beleid instelt op 2, wordt de weergave van afbeeldingen geblokkeerd.
 
 Als je het beleid niet instelt, is de weergave van afbeeldingen toegestaan maar kunnen gebruikers deze instelling wijzigen.</translation>
@@ -8254,7 +8254,7 @@ Als je dit beleid niet instelt, wordt het pdf-weergaveprogramma gekozen door de 
 
        Stel dit beleid niet in als je een andere modus hebt geselecteerd om proxybeleid in te stellen.
 
-      Opmerking: Voor gedetailleerde voorbeelden ga je naar The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Opmerking: Voor gedetailleerde voorbeelden ga je naar The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7716587310609820801">Als je het beleid instelt, kun je een lijst met URL-patronen instellen van de sites die geen meldingen mogen weergeven.
 
       Als je het beleid niet instelt, is <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> (indien ingesteld) van toepassing op alle sites. Zo niet, dan gelden de persoonlijke instellingen van de gebruiker.

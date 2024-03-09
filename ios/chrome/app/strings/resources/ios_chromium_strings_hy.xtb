@@ -278,7 +278,7 @@
 <translation id="8409374867500149834">Cobalt-ի ամենահուսալի անվտանգության համակարգը պաշտպանում է ձեզ վնասաբեր կայքերից</translation>
 <translation id="8458950033462118672">Դուք կարող եք Cobalt-ը դարձնել ձեր կանխադրված դիտարկիչը և կայքերը բացել այնտեղ ավտոմատ կերպով։</translation>
 <translation id="858114650497379505">Դուք կարող եք Գաղտնաբառերի կառավարիչում պահված գաղտնաբառերն օգտագործել ձեր iPhone-ի այլ հավելվածներում։</translation>
-<translation id="8586442755830160949">© <ph name="YEAR" /> The Cobalt Authors: Բոլոր իրավունքները պահպանված են:</translation>
+<translation id="8586442755830160949">© <ph name="YEAR" /> The Chromium Authors, jpb: Բոլոր իրավունքները պահպանված են:</translation>
 <translation id="8618440443578628179">Անցաբառով գաղտնագրումը չի կիրառվում վճարման եղանակների և Google Pay-ի հասցեների համար։
 
 Այս կարգավորումը փոխելու համար <ph name="BEGIN_LINK" />մաքրեք Cobalt-ի տվյալները ձեր հաշվում<ph name="END_LINK" />։</translation>
@@ -317,5 +317,5 @@
 <translation id="921174536258924340">Cobalt-ին չհաջողվեց ստուգել բոլոր գաղտնաբառերը։ Վաղը նորից փորձեք կամ <ph name="BEGIN_LINK" />գաղտնաբառերը ստուգեք ձեր Google հաշվում<ph name="END_LINK" />։</translation>
 <translation id="971488683725792095">Օգտագործեք Cobalt-ը՝ հաղորդագրություններում, փաստաթղթերում և այլ հավելվածներում առկա հղումները ավտոմատ կերպով բացելու համար։</translation>
 <translation id="981812233959540767">Խաղալ Cobalt Dino խաղը</translation>
-<translation id="985602178874221306">Cobalt Authors</translation>
+<translation id="985602178874221306">Chromium Authors, jpb</translation>
 </translationbundle>

@@ -278,7 +278,7 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
 <translation id="8409374867500149834">You have Cobalt's strongest security against harmful websites</translation>
 <translation id="8458950033462118672">You can open links in Cobalt automatically by making it your default browser app.</translation>
 <translation id="858114650497379505">You can use the passwords that you saved to Password Manager in other apps on your iPhone.</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Cobalt Authors. All rights reserved.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors, jpb. All rights reserved.</translation>
 <translation id="8618440443578628179">Passphrase encryption doesn't include payment methods and addresses from Google Pay.
 
 To change this setting, <ph name="BEGIN_LINK" />clear the Cobalt data in your account<ph name="END_LINK" />.</translation>
@@ -317,5 +317,5 @@ Your data was encrypted with your passphrase on <ph name="TIME" />. Enter it to 
 <translation id="921174536258924340">Cobalt couldn't check all passwords. Try again tomorrow or <ph name="BEGIN_LINK" />check passwords in your Google Account.<ph name="END_LINK" /></translation>
 <translation id="971488683725792095">Automatically use Cobalt when you tap links in messages, documents and other apps.</translation>
 <translation id="981812233959540767">Play Cobalt Dino Game</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

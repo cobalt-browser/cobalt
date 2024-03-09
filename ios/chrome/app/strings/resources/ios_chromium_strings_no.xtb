@@ -278,7 +278,7 @@ Bare personer som har passordfrasen din, kan lese de krypterte dataene. Passordf
 <translation id="8409374867500149834">Du har den sterkeste sikkerheten i Cobalt mot skadelige nettsteder</translation>
 <translation id="8458950033462118672">Du kan åpne linker i Cobalt automatisk ved å angi Cobalt som standard nettleserapp.</translation>
 <translation id="858114650497379505">Du kan bruke passordene du har lagret i Passordlagring, i andre apper på iPhonen din.</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> – The Cobalt Authors. Med enerett.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> – The Chromium Authors, jpb. Med enerett.</translation>
 <translation id="8618440443578628179">Kryptering med passordfrase inkluderer ikke betalingsmåter og adresser fra Google Pay.
 
 For å endre denne innstillingen, <ph name="BEGIN_LINK" />slett Cobalt-dataene i kontoen din<ph name="END_LINK" />.</translation>
@@ -317,5 +317,5 @@ Dataene dine ble kryptert med passordfrasen din <ph name="TIME" />. Skriv den in
 <translation id="921174536258924340">Cobalt kunne ikke sjekke alle passordene. Prøv på nytt i morgen, eller <ph name="BEGIN_LINK" />sjekk passordene i Google-kontoen din<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Bruk Cobalt automatisk når du trykker på linker i meldinger, dokumenter og andre apper.</translation>
 <translation id="981812233959540767">Spill Cobalt Dino-spillet</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

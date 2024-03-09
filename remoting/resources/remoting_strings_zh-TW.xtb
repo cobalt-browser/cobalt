@@ -152,7 +152,7 @@
 <translation id="7693372326588366043">重新整理主機清單</translation>
 <translation id="7714222945760997814">回報這個問題</translation>
 <translation id="7868137160098754906">請為遠端電腦輸入你的 PIN。</translation>
-<translation id="7881455334687220899">版權所有 2024 The Cobalt Authors。保留所有權利。</translation>
+<translation id="7881455334687220899">版權所有 2024 The Chromium Authors, jpb。保留所有權利。</translation>
 <translation id="7895403300744144251">遠端電腦的安全性政策禁止從您的帳戶連線。</translation>
 <translation id="7936528439960309876">靠右固定</translation>
 <translation id="7970576581263377361">驗證失敗，請重新登入 Cobalt。</translation>
@@ -191,6 +191,6 @@
 <translation id="9187628920394877737">將「螢幕畫面錄製」權限授予 <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">主機設定無效。</translation>
 <translation id="981121421437150478">離線</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (上次上線時間：<ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

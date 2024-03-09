@@ -858,7 +858,7 @@ Se a política for definida como falsa ou não for definida, nenhum evento será
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />, os campos <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> serão usados;
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />, os campos <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> serão usados.
 
-      Observação: para ver mais exemplos detalhados, acesse The Cobalt Projects em https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett (link em inglês).</translation>
+      Observação: para ver mais exemplos detalhados, acesse The Chromium Projects em https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett (link em inglês).</translation>
 <translation id="1700811900332333712">Permitir que o dispositivo solicite um Powerwash</translation>
 <translation id="1705215165572785706">Tratar teclas da linha superior como teclas de mídia, mas permitir que o usuário faça mudanças</translation>
 <translation id="1708496595873025510">Definir a restrição para busca do termo-semente "Variações"</translation>
@@ -978,7 +978,7 @@ No <ph name="MS_WIN_NAME" />, essa política só está disponível em instância
 
        Não defina esta política se você tiver selecionado qualquer outro modo para políticas de configuração de proxy.
 
-       Observação: para ver mais exemplos detalhados, acesse The Cobalt Projects em https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett (link em inglês).</translation>
+       Observação: para ver mais exemplos detalhados, acesse The Chromium Projects em https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett (link em inglês).</translation>
 <translation id="1767673020408652620">Ativar recomendações de app no estado inicial da caixa de pesquisa</translation>
 <translation id="1768225118528727376">Permitir o gerenciamento de janelas nesses sites</translation>
 <translation id="1770071413238151235">Formato de relógio de 12 horas</translation>
@@ -1190,7 +1190,7 @@ Se a política for definida como desativada, o <ph name="PRODUCT_NAME" /> fechar
      </translation>
 <translation id="1919802376548418720">Usar a política KDC para delegar credenciais.</translation>
 <translation id="1920046221095339924">Permite sessão gerenciada no dispositivo</translation>
-<translation id="1920772397574801429">Definir a política especifica o tipo de conta fornecido pelo app de autenticação do Android compatível com a autenticação <ph name="HTTP_NEGOTIATE" /> (como Kerberos). Essas informações devem estar disponíveis junto ao fornecedor do app de autenticação. Para saber detalhes, consulte a página The Cobalt Projects (https://goo.gl/hajyfN)
+<translation id="1920772397574801429">Definir a política especifica o tipo de conta fornecido pelo app de autenticação do Android compatível com a autenticação <ph name="HTTP_NEGOTIATE" /> (como Kerberos). Essas informações devem estar disponíveis junto ao fornecedor do app de autenticação. Para saber detalhes, consulte a página The Chromium Projects (https://goo.gl/hajyfN)
 
       Deixar a política sem definição desativa a autenticação <ph name="HTTP_NEGOTIATE" /> no Android.</translation>
 <translation id="1923704782248889851">Ativar ditado</translation>
@@ -7097,7 +7097,7 @@ Se deixada sem definição, a frequência padrão de 15 minutos será usada.</tr
 
       Se a política não for definida, os usuários poderão escolher as configurações de proxy.
 
-      Observação: para ver exemplos detalhados, acesse The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
+      Observação: para ver exemplos detalhados, acesse The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
 <translation id="6559643481486165125">Não pedir que os usuários façam a autenticação de novo</translation>
 <translation id="656130159911161669">As atualizações do ChromeOS ignoram a versão definida no manifesto do app de quiosque</translation>
 <translation id="6561396069801924653">Mostrar opções de acessibilidade no menu da bandeja do sistema</translation>
@@ -7698,7 +7698,7 @@ Se a política não for definida, isso será funcionalmente equivalente a defini
 
        Não defina esta política se você tiver selecionado qualquer outro modo para políticas de configuração de proxy.
 
-       Observação: para ver exemplos detalhados, acesse The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
+       Observação: para ver exemplos detalhados, acesse The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
 <translation id="7001915679435065291">Se a política for definida como 1, todos os sites mostrarão imagens. Se ela for definida como 2, as imagens não vão aparecer.
 
 Se não for definida, as imagens serão permitidas, mas os usuários poderão mudar essa configuração.</translation>
@@ -8570,7 +8570,7 @@ Quando ela for deixada sem definição, o renderizador de PDF será escolhido pe
 
        Não defina esta política se você tiver selecionado qualquer outro modo para políticas de configuração de proxy.
 
-      Observação: para ver exemplos detalhados, acesse The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
+      Observação: para ver exemplos detalhados, acesse The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett, link em inglês).</translation>
 <translation id="7716587310609820801">Se a política for definida, será possível configurar uma lista de padrões de URL que especifica os sites que não podem mostrar notificações.
 
       Se a política não tiver definição, <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> será aplicada a todos os sites, se estiver definida. Caso contrário, a configuração pessoal do usuário será aplicada.

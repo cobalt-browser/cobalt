@@ -430,7 +430,7 @@ Cobalt non è in grado di recuperare le impostazioni.</translation>
 <translation id="8550334526674375523">Questo profilo di lavoro è completamente separato dal tuo profilo personale.</translation>
 <translation id="8555465886620020932">Errore del servizio: <ph name="SERVICE_ERROR" /></translation>
 <translation id="8568283329061645092">Cobalt può controllare le tue password quando accedi con il tuo Account Google</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Cobalt Authors. Tutti i diritti riservati.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors, jpb. Tutti i diritti riservati.</translation>
 <translation id="858822505990366713">Personalizza Cobalt</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Come utilizziamo questi dati:<ph name="END_BOLD" /> i siti possono memorizzare su Cobalt informazioni relative ai tuoi interessi. Ad esempio, se visiti un sito per acquistare scarpe per una maratona, il sito potrebbe definire come tuo interesse le maratone. Se in un secondo momento visiti un altro sito per registrarti a una gara, il sito può mostrarti un annuncio relativo a scarpe da corsa in base ai tuoi interessi.</translation>
 <translation id="8619360774459241877">Avvio di Cobalt...</translation>
@@ -472,5 +472,5 @@ Cobalt non è in grado di recuperare le impostazioni.</translation>
 <translation id="965162752251293939">Chi usa Cobalt?</translation>
 <translation id="967427899662692980">Usa la funzionalità di sicurezza più efficace di Cobalt</translation>
 <translation id="983803489796659991">Installazione non riuscita perché il server di aggiornamento non dispone di dati di hashing per l'applicazione.</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

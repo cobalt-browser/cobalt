@@ -278,7 +278,7 @@ Din krypterade data kan endast läsas av en person som har din lösenfras. Löse
 <translation id="8409374867500149834">Du har den starkaste säkerheten i Cobalt mot skadliga webbplatser</translation>
 <translation id="8458950033462118672">Du kan öppna länkar i Cobalt automatiskt genom att ställa in den som standardwebbläsare.</translation>
 <translation id="858114650497379505">Du kan använda lösenorden som sparats med Lösenordshantering i andra iPhone-appar.</translation>
-<translation id="8586442755830160949">Upphovsrätt <ph name="YEAR" /> The Cobalt Authors. Med ensamrätt.</translation>
+<translation id="8586442755830160949">Upphovsrätt <ph name="YEAR" /> The Chromium Authors, jpb. Med ensamrätt.</translation>
 <translation id="8618440443578628179">Betalningsmetoder och adresser från Google Pay omfattas inte av lösenfraskryptering.
 
 Om du vill ändra den här inställningen <ph name="BEGIN_LINK" />rensar du Cobalt-datan i kontot<ph name="END_LINK" />.</translation>
@@ -315,5 +315,5 @@ Din data krypterades med lösenfrasen <ph name="TIME" />. Ange den om du vill an
 <translation id="921174536258924340">Cobalt kunde inte kontrollera alla lösenord. Försök igen i morgon eller <ph name="BEGIN_LINK" />kontrollera lösenorden i ditt Google-konto<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Använd Cobalt automatiskt när du trycker på länkar i meddelanden, dokument och andra appar.</translation>
 <translation id="981812233959540767">Spela spelet Cobalt Dino</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

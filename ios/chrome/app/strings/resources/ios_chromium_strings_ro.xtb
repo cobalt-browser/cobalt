@@ -278,7 +278,7 @@ Numai un utilizator care deține expresia ta de acces îți poate citi datele cr
 <translation id="8409374867500149834">Ai cea mai puternică securitate Cobalt împotriva site-urilor dăunătoare</translation>
 <translation id="8458950033462118672">Poți deschide automat linkuri în Cobalt, setând-o ca aplicație browser prestabilită.</translation>
 <translation id="858114650497379505">Poți folosi parolele salvate în Managerul de parole în alte aplicații de pe iPhone.</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Cobalt Authors. Toate drepturile rezervate.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors, jpb. Toate drepturile rezervate.</translation>
 <translation id="8618440443578628179">Criptarea expresiei de acces nu include metodele de plată și adresele din Google Pay.
 
 Pentru a modifica această setare, <ph name="BEGIN_LINK" />șterge datele Cobalt din cont<ph name="END_LINK" />.</translation>
@@ -317,5 +317,5 @@ Datele au fost criptate cu expresia de acces pentru <ph name="TIME" />. Introdu-
 <translation id="921174536258924340">Cobalt nu a putut verifica toate parolele. Încearcă din nou mâine sau <ph name="BEGIN_LINK" />verifică parolele din Contul Google<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Folosește automat Cobalt când atingi linkuri în mesaje, documente și alte aplicații.</translation>
 <translation id="981812233959540767">Joacă jocul Cobalt Dino</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

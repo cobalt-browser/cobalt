@@ -430,7 +430,7 @@ Cobalt 无法恢复您的设置。</translation>
 <translation id="8550334526674375523">此工作资料与您的个人资料是完全分开的。</translation>
 <translation id="8555465886620020932">发生了服务错误：<ph name="SERVICE_ERROR" />。</translation>
 <translation id="8568283329061645092">您需要先登录 Google 账号才能使用 Cobalt 的密码检查功能。</translation>
-<translation id="8586442755830160949">版权所有<ph name="YEAR" /> The Cobalt Authors。保留所有权利。</translation>
+<translation id="8586442755830160949">版权所有<ph name="YEAR" /> The Chromium Authors, jpb。保留所有权利。</translation>
 <translation id="858822505990366713">自定义 Cobalt</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />我们会如何使用这些数据<ph name="END_BOLD" />：网站可以将您的兴趣信息存储在 Cobalt 中。例如，如果您访问某个网站购买马拉松跑鞋，系统可能会根据该网站推测您对跑马拉松感兴趣。之后，如果您访问其他网站报名参加比赛，相应网站就可以根据您的兴趣向您展示跑鞋广告。</translation>
 <translation id="8619360774459241877">正在启动 Cobalt…</translation>
@@ -472,5 +472,5 @@ Cobalt 无法恢复您的设置。</translation>
 <translation id="965162752251293939">谁在使用 Cobalt？</translation>
 <translation id="967427899662692980">获享 Cobalt 的最强安全保护</translation>
 <translation id="983803489796659991">更新服务器没有应用的任何哈希数据，因此安装失败。</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

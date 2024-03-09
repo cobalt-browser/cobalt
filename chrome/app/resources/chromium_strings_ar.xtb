@@ -429,7 +429,7 @@
 <translation id="8550334526674375523">هذا الملف الشخصي للعمل منفصِل تمامًا عن ملفك الشخصي.</translation>
 <translation id="8555465886620020932">حدث خطأ في الخدمة: <ph name="SERVICE_ERROR" />.</translation>
 <translation id="8568283329061645092">‏لا يستطيع Cobalt التحقّق من كلمات المرور إلا عند تسجيل الدخول باستخدام حسابك على Google.</translation>
-<translation id="8586442755830160949">‏حقوق الطبع والنشر لعام <ph name="YEAR" /> لصالح The Cobalt Authors. جميع الحقوق محفوظة.</translation>
+<translation id="8586442755830160949">‏حقوق الطبع والنشر لعام <ph name="YEAR" /> لصالح The Chromium Authors, jpb. جميع الحقوق محفوظة.</translation>
 <translation id="858822505990366713">‏تخصيص Cobalt</translation>
 <translation id="8608079656141766906">‏<ph name="BEGIN_BOLD" />آلية استخدامنا لهذه البيانات:<ph name="END_BOLD" /> يمكن أن تخزّن المواقع الإلكترونية معلومات عن اهتماماتك في متصفّح Cobalt. على سبيل المثال، إذا انتقلت إلى موقع إلكتروني لشراء حذاء لاستخدامه في سباق ماراثون، قد يحدّد هذا الموقع الإلكتروني حسب تقديره أنك مهتم بسباقات الماراثون. وبعد ذلك، إذا انتقلت إلى موقع إلكتروني آخر للتسجيل في سباق ماراثون، يمكن أن يعرض لك هذا الموقع الإلكتروني إعلانًا عن الأحذية المخصّصة للجري بناءً على اهتماماتك.</translation>
 <translation id="8619360774459241877">‏جارٍ إطلاق Cobalt...</translation>
@@ -471,5 +471,5 @@
 <translation id="965162752251293939">‏مَن يستخدم Cobalt؟</translation>
 <translation id="967427899662692980">‏الحصول على أعلى مستوى من الأمان في متصفِّح Cobalt</translation>
 <translation id="983803489796659991">تعذَّر تثبيت التطبيق لعدم وجود أي بيانات تجزئة للتطبيق في خادم التحديث.</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

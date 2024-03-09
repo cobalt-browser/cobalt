@@ -845,7 +845,7 @@ Se il criterio viene impostato su False o se non viene configurato, non viene re
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />, vengono utilizzati i campi <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />, vengono utilizzati i campi <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
 
-      Nota: per esempi più dettagliati, consulta la pagina The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+      Nota: per esempi più dettagliati, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="1700811900332333712">Consenti al dispositivo di richiedere il powerwash</translation>
 <translation id="1705215165572785706">Imposta i tasti della fila superiore come tasti multimediali, ma consenti la modifica da parte degli utenti</translation>
 <translation id="1708496595873025510">Imposta la limitazione sul recupero del numero di inizializzazione delle varianti</translation>
@@ -956,7 +956,7 @@ Su <ph name="MS_WIN_NAME" />, questo criterio è disponibile soltanto per le ist
 
        Non impostare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-       Nota: per esempi più dettagliati, consulta la pagina The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+       Nota: per esempi più dettagliati, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="1767673020408652620">Attiva consigli di app a stato nullo della casella di ricerca</translation>
 <translation id="1768225118528727376">Concedi l'autorizzazione per la gestione delle finestre su questi siti</translation>
 <translation id="1770071413238151235">Formato dell'orologio di 12 ore</translation>
@@ -6930,7 +6930,7 @@ Se il criterio non viene configurato, viene applicata la frequenza predefinita d
 
       Se il criterio non viene configurato, gli utenti possono scegliere le impostazioni del proxy.
 
-      Nota: per esempi approfonditi, consulta la pagina The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: per esempi approfonditi, consulta la pagina The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="6559643481486165125">Non richiedere una nuova autorizzazione</translation>
 <translation id="656130159911161669">Gli aggiornamenti di ChromeOS ignorano la versione definita nel file manifest dell'app kiosk</translation>
 <translation id="6561396069801924653">Mostra le opzioni di accessibilità nel menu della barra delle applicazioni di sistema</translation>
@@ -7523,7 +7523,7 @@ Se il criterio non viene configurato, in pratica equivale a impostarlo su "<ph n
 
        Non configurare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-       Nota: per esempi approfonditi, consulta la pagina The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+       Nota: per esempi approfonditi, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="7001915679435065291">Se il criterio viene impostato su 1, tutti i siti web possono mostrare immagini. Se il criterio viene impostato su 2, la visualizzazione delle immagini viene negata.
 
 Se non viene configurato, le immagini sono consentite, ma gli utenti possono cambiare l'impostazione.</translation>
@@ -8381,7 +8381,7 @@ Se questo criterio non viene impostato, il renderer del PDF viene scelto dal bro
 
        Non configurare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-      Nota: per esempi approfonditi, consulta la pagina The Cobalt Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+      Nota: per esempi approfonditi, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="7716587310609820801">Se il criterio viene configurato, puoi impostare un elenco di pattern URL che specificano i siti che non possono mostrare notifiche.
 
       Se il criterio non viene configurato, <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> si applica per tutti i siti, se impostato. In caso contrario, viene applicata l'impostazione personale dell'utente.

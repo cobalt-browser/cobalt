@@ -278,7 +278,7 @@ Sadece parolanıza sahip olan kişiler şifrelenmiş verilerinizi okuyabilir. Pa
 <translation id="8409374867500149834">Zararlı web sitelerine karşı Cobalt'un en güçlü güvenlik avantajına sahipsiniz</translation>
 <translation id="8458950033462118672">Varsayılan tarayıcı uygulamanız yaparak bağlantıları Cobalt'da otomatik bir şekilde açabilirsiniz.</translation>
 <translation id="858114650497379505">Şifre Yöneticisi'ne kaydettiğiniz şifreleri iPhone'unuzdaki diğer uygulamalarda kullanabilirsiniz.</translation>
-<translation id="8586442755830160949">Telif Hakkı <ph name="YEAR" /> The Cobalt Authors. Tüm hakları saklıdır.</translation>
+<translation id="8586442755830160949">Telif Hakkı <ph name="YEAR" /> The Chromium Authors, jpb. Tüm hakları saklıdır.</translation>
 <translation id="8618440443578628179">Parolayla şifreleme, Google Pay'deki ödeme yöntemlerini ve adresleri kapsamaz.
 
 Bu ayarı değiştirmek için <ph name="BEGIN_LINK" />hesabınızdaki Cobalt verilerini temizleyin<ph name="END_LINK" />.</translation>
@@ -317,5 +317,5 @@ Verileriniz <ph name="TIME" /> tarihinde parolanızla şifrelendi. Cobalt verile
 <translation id="921174536258924340">Cobalt, şifrelerin tümünü kontrol edemedi. Yarın tekrar deneyin veya <ph name="BEGIN_LINK" />Google Hesabınızdaki şifreleri kontrol edin<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Mesajlardaki, dokümanlardaki ve diğer uygulamalardaki bağlantılara dokunduğunuzda otomatik olarak Cobalt'u kullanabilirsiniz.</translation>
 <translation id="981812233959540767">Cobalt Dinozor oyununu oyna</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

@@ -430,7 +430,7 @@ Cobalt ei saa teie seadeid taastada.</translation>
 <translation id="8550334526674375523">See tööprofiil on teie isiklikust profiilist täielikult eraldi.</translation>
 <translation id="8555465886620020932">Teenuse viga: <ph name="SERVICE_ERROR" />.</translation>
 <translation id="8568283329061645092">Cobalt saab teie paroole kontrollida siis, kui logite sisse oma Google'i kontoga</translation>
-<translation id="8586442755830160949">Autoriõigus <ph name="YEAR" /> The Cobalt Authors. Kõik õigused on kaitstud.</translation>
+<translation id="8586442755830160949">Autoriõigus <ph name="YEAR" /> The Chromium Authors, jpb. Kõik õigused on kaitstud.</translation>
 <translation id="858822505990366713">Kohanda minu Chromiumit</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Kuidas neid andmeid kasutame?<ph name="END_BOLD" /> Saidid võivad talletada Chromiumissse teavet teie huvide kohta. Näiteks kui külastate saiti, et osta maratoni jooksmiseks jalatseid, võib sait määratleda teie huviks maratonijooksu. Kui külastate hiljem jooksule registreerumiseks muud saiti, võib see sait näidata teile teie huvide alusel jooksujalatsite reklaami.</translation>
 <translation id="8619360774459241877">Chromiumi käivitamine …</translation>
@@ -472,5 +472,5 @@ Cobalt ei saa teie seadeid taastada.</translation>
 <translation id="965162752251293939">Kes kasutab Chromiumi?</translation>
 <translation id="967427899662692980">Hankige Chromiumi parimad turbefunktsioonid</translation>
 <translation id="983803489796659991">Installimine ebaõnnestus, kuna värskendusserveril pole rakenduse kohta räsiandmeid.</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

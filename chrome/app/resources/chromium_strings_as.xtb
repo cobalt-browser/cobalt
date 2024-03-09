@@ -433,7 +433,7 @@ Chromiumএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="8550334526674375523">এই কৰ্মস্থানৰ প্ৰ’ফাইলটো আপোনাৰ ব্যক্তিগত প্ৰ’ফাইলৰ পৰা সম্পূৰ্ণৰূপে পৃথক।</translation>
 <translation id="8555465886620020932">ছাৰ্ভাৰ সম্পৰ্কীয় আসোঁৱাহ: <ph name="SERVICE_ERROR" />।</translation>
 <translation id="8568283329061645092">আপুনি নিজৰ Google একাউণ্টটোৰ জৰিয়তে ছাইন ইন কৰোঁতে Chromiumএ আপোনাৰ পাছৱর্ডসমূহ পৰীক্ষা কৰিব পাৰে</translation>
-<translation id="8586442755830160949">স্বত্ত্বাধিকাৰ <ph name="YEAR" /> The Cobalt Authors. সর্বস্বত্ব সংৰক্ষিত।</translation>
+<translation id="8586442755830160949">স্বত্ত্বাধিকাৰ <ph name="YEAR" /> The Chromium Authors, jpb. সর্বস্বত্ব সংৰক্ষিত।</translation>
 <translation id="858822505990366713">আপোনাৰ Cobalt কাষ্টমাইজ কৰক</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />আমি এই ডেটা কেনেকৈ ব্যৱহাৰ কৰোঁ:<ph name="END_BOLD" /> ছাইটে আপোনাৰ আগ্ৰহৰ বিষয়ে তথ্য Chromiumৰ জৰিয়তে ষ্ট’ৰ কৰিব পাৰে। উদাহৰণস্বৰূপে, আপুনি মাৰাথানৰ বাবে জোতা কিনিবলৈ কোনো ছাইটলৈ যায়, ছাইটটোৱে আপোনাৰ মাৰাথান দৌৰাটো আপোনাৰ আগ্ৰহ হিচাপে নিৰ্ধাৰণ কৰিব পাৰে। পাছত, যদি আপুনি দৌৰ প্ৰতিযোগিতাৰ বাবে পঞ্জীয়ন কৰিবলৈ অন্য এটা ছাইটলৈ যায়, সেই ছাইটটোৱে আপোনাৰ আগ্ৰহৰ ভিত্তিত আপোনাক দৌৰিবলৈ ব্যৱহাৰ কৰা জোতাৰ এটা বিজ্ঞাপন দেখুৱাব পাৰে।</translation>
 <translation id="8619360774459241877">Cobalt লঞ্চ কৰি থকা হৈছে...</translation>
@@ -475,5 +475,5 @@ Chromiumএ আপোনাৰ ছেটিংসমূহ পুনৰুদ্
 <translation id="965162752251293939">Cobalt কোনে ব্যৱহাৰ কৰি আছে?</translation>
 <translation id="967427899662692980">Chromiumৰ আটাইতকৈ বৰ্ধিত সুৰক্ষাৰ সুবিধা লাভ কৰক</translation>
 <translation id="983803489796659991">এপ্লিকেশ্বনটোৰ বাবে আপডে’ট ছাৰ্ভাৰৰ কোনো হেশ্ব ডেটা নথকাৰ বাবে ইনষ্টলেশ্বন কৰিব পৰা নগ’ল।</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

@@ -862,7 +862,7 @@ Si la estableces como falsa o no la estableces, no se capturará ningún evento.
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />: se usarán los campos <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />: se usarán los campos <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
 
-      Nota: Para obtener más ejemplos detallados, visita The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Para obtener más ejemplos detallados, visita The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1700811900332333712">Permite que el dispositivo solicite Powerwash</translation>
 <translation id="1705215165572785706">Tratar las teclas de la fila superior como teclas multimedia, pero permitir que el usuario las modifique</translation>
 <translation id="1708496595873025510">Establece la restricción en la obtención del valor de inicialización de las variaciones.</translation>
@@ -982,7 +982,7 @@ En <ph name="MS_WIN_NAME" />, esta política solo está disponible en instancias
 
        No debes configurar esta política si seleccionaste otro modo para configurar políticas de proxy.
 
-       Nota: Para obtener más ejemplos detallados, visita The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Nota: Para obtener más ejemplos detallados, visita The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="1767673020408652620">Habilitar las recomendaciones de apps cuando el cuadro de búsqueda se encuentra sin estado</translation>
 <translation id="1768225118528727376">Otorgar el permiso de Administración de ventanas a estos sitios</translation>
 <translation id="1770071413238151235">Formato de reloj de 12 horas</translation>
@@ -7109,7 +7109,7 @@ Si no estableces la política, se aplicará la tasa predeterminada de 15 minutos
 
       Si no estableces la política, los usuarios podrán elegir la configuración de proxy.
 
-      Nota: Para obtener ejemplos detallados, visita The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Para obtener ejemplos detallados, visita The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="6559643481486165125">No solicitar una nueva autenticación</translation>
 <translation id="656130159911161669">Ignorar las actualizaciones de ChromeOS con la versión definida en el manifiesto de la app de kiosco</translation>
 <translation id="6561396069801924653">Mostrar opciones de accesibilidad en el menú de la bandeja del sistema</translation>
@@ -7711,7 +7711,7 @@ Si no estableces la política, su función será equivalente a establecerla como
 
        No debes configurar esta política si seleccionaste otro modo para configurar políticas de proxy.
 
-       Nota: Para obtener ejemplos detallados, visita The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Nota: Para obtener ejemplos detallados, visita The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7001915679435065291">Si estableces la política en 1, todos los sitios web podrán mostrar imágenes. Si la estableces en 2, no se podrán mostrar imágenes.
 
 Si no la estableces, se podrán mostrar imágenes, pero los usuarios podrán cambiar esta configuración.</translation>
@@ -8581,7 +8581,7 @@ Si no estableces esta política, el navegador elegirá el renderizador de PDF.</
 
        No debes configurar esta política si seleccionaste otro modo para configurar políticas de proxy.
 
-      Nota: Para obtener ejemplos detallados, visita The Cobalt Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Para obtener ejemplos detallados, visita The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7716587310609820801">Si estableces la política, podrás especificar una lista de patrones de URL que indiquen los sitios que no pueden mostrar notificaciones.
 
       Si no estableces la política, se aplicará <ph name="DEFAULT_NOTIFICATIONS_SETTING_POLICY_NAME" /> para todos los sitios, en caso de haberse establecido. De lo contrario se aplicará la configuración personal del usuario.

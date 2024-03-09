@@ -433,7 +433,7 @@ Cobalt kan inte återställa dina inställningar.</translation>
 <translation id="8550334526674375523">Jobbprofilen hålls helt åtskild från din privata profil.</translation>
 <translation id="8555465886620020932">Tjänstfel: <ph name="SERVICE_ERROR" />.</translation>
 <translation id="8568283329061645092">Cobalt kan kontrollera dina lösenord när du loggar in med Google-kontot</translation>
-<translation id="8586442755830160949">Upphovsrätt <ph name="YEAR" /> The Cobalt Authors. Med ensamrätt.</translation>
+<translation id="8586442755830160949">Upphovsrätt <ph name="YEAR" /> The Chromium Authors, jpb. Med ensamrätt.</translation>
 <translation id="858822505990366713">Anpassa Cobalt</translation>
 <translation id="8608079656141766906"><ph name="BEGIN_BOLD" />Så här använder vi denna data:<ph name="END_BOLD" /> Webbplatser kan lagra information om dina intressen i Cobalt. Om du till exempel besöker en webbplats för att köpa skor till ett maraton kanske webbplatsen anger att du är intresserad av att springa maraton. Om du sedan besöker en annan webbplats för att registrera dig för ett lopp kan webbplatsen visa en annons för löparskor utifrån dina intressen.</translation>
 <translation id="8619360774459241877">Cobalt startas …</translation>
@@ -475,5 +475,5 @@ Cobalt kan inte återställa dina inställningar.</translation>
 <translation id="965162752251293939">Vem ska använda Cobalt?</translation>
 <translation id="967427899662692980">Få det bästa skyddet i Cobalt</translation>
 <translation id="983803489796659991">Installationen misslyckades eftersom uppdateringsservern inte har någon hashdata för appen.</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

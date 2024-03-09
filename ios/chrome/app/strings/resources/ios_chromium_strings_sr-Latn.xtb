@@ -315,5 +315,5 @@ Podaci su šifrovani pomoću pristupne fraze <ph name="TIME" />. Unesite je da 
 <translation id="921174536258924340">Cobalt nije uspeo da proveri sve lozinke. Probajte ponovo sutra ili <ph name="BEGIN_LINK" />proverite lozinke na Google nalogu.<ph name="END_LINK" /></translation>
 <translation id="971488683725792095">Automatski koristite Cobalt kada dodirnete linkove u porukama, dokumentima i drugim aplikacijama.</translation>
 <translation id="981812233959540767">Igrajte igru Cobalt dinosaurus</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

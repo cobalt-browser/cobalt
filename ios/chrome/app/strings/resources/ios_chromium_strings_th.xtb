@@ -278,7 +278,7 @@
 <translation id="8409374867500149834">คุณได้รับการดูแลอย่างเข้มงวดที่สุดของ Cobalt ให้ปลอดภัยจากเว็บไซต์ที่เป็นอันตราย</translation>
 <translation id="8458950033462118672">คุณเปิดลิงก์ใน Cobalt โดยอัตโนมัติได้ด้วยการตั้งเป็นแอปเบราว์เซอร์เริ่มต้น</translation>
 <translation id="858114650497379505">คุณใช้รหัสผ่านที่บันทึกอยู่ในเครื่องมือจัดการรหัสผ่านในแอปอื่นๆ บน iPhone ได้</translation>
-<translation id="8586442755830160949">ลิขสิทธิ์ <ph name="YEAR" /> The Cobalt Authors สงวนลิขสิทธิ์</translation>
+<translation id="8586442755830160949">ลิขสิทธิ์ <ph name="YEAR" /> The Chromium Authors, jpb สงวนลิขสิทธิ์</translation>
 <translation id="8618440443578628179">การเข้ารหัสด้วยรหัสผ่านไม่รวมถึงวิธีการชำระเงินและที่อยู่จาก Google Pay
 
 หากต้องการเปลี่ยนการตั้งค่านี้ ให้<ph name="BEGIN_LINK" />ล้างข้อมูล Cobalt ในบัญชี<ph name="END_LINK" /></translation>
@@ -317,5 +317,5 @@
 <translation id="921174536258924340">Cobalt ตรวจสอบรหัสผ่านได้ไม่ครบทั้งหมด โปรดลองอีกครั้งในวันพรุ่งนี้หรือ<ph name="BEGIN_LINK" />ตรวจสอบรหัสผ่านในบัญชี Google<ph name="END_LINK" /></translation>
 <translation id="971488683725792095">ใช้ Cobalt โดยอัตโนมัติเมื่อคุณแตะลิงก์ในข้อความ เอกสาร และแอปอื่นๆ</translation>
 <translation id="981812233959540767">เล่นเกมไดโนเสาร์ของ Cobalt</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

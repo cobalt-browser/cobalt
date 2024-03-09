@@ -278,7 +278,7 @@
 <translation id="8409374867500149834">আপোনাৰ ওচৰত ক্ষতিকাৰক ৱেবছাইটৰ বিৰুদ্ধে Chromiumৰ আটাইতকৈ শক্তিশালী সুৰক্ষা ব্যৱস্থা আছে</translation>
 <translation id="8458950033462118672">আপুনি Chromiumক আপোনাৰ ডিফ’ল্ট ব্ৰাউজাৰ এপ্‌ বনাই তাত স্বয়ংক্ৰিয়ভাৱে লিংকসমূহ খুলিব পাৰে।</translation>
 <translation id="858114650497379505">আপুনি অন্য এপত পাছৱৰ্ড পৰিচালকত ছেভ কৰি থোৱা পাছৱৰ্ডসমূহ নিজৰ iPhoneত ব্যৱহাৰ কৰিব পাৰে।</translation>
-<translation id="8586442755830160949">স্বত্ত্বাধিকাৰ <ph name="YEAR" /> The Cobalt Authors. সর্বস্বত্ব সংৰক্ষিত।</translation>
+<translation id="8586442755830160949">স্বত্ত্বাধিকাৰ <ph name="YEAR" /> The Chromium Authors, jpb. সর্বস্বত্ব সংৰক্ষিত।</translation>
 <translation id="8618440443578628179">পাছফ্ৰে’জ এনক্ৰিপশ্বনত Google Payৰ পৰিশোধ পদ্ধতি আৰু ঠিকনাসমূহ অন্তৰ্ভুক্ত নহয়।
 
 এই ছেটিংটো সলনি কৰিবলৈ, <ph name="BEGIN_LINK" />আপোনাৰ একাউণ্টৰ Chromiumৰ ডেটা মচক<ph name="END_LINK" />।</translation>
@@ -315,5 +315,5 @@
 <translation id="921174536258924340">Chromiumএ সকলো পাছৱৰ্ড পৰীক্ষা কৰিব নোৱাৰিলে। কাইলৈ পুনৰ চেষ্টা কৰক অথবা <ph name="BEGIN_LINK" />আপোনাৰ Google একাউণ্টত পাছৱর্ডসমূহ পৰীক্ষা কৰক।<ph name="END_LINK" /></translation>
 <translation id="971488683725792095">আপুনি বাৰ্তা, নথি আৰু অন্য এপ্‌সমূহত থকা কোনো লিংক টিপিলে স্বয়ংক্ৰিয়ভাৱে Cobalt ব্যৱহাৰ কৰক।</translation>
 <translation id="981812233959540767">Cobalt Dino গে’মটো খেলক</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

@@ -4,7 +4,7 @@
 templates and will be translated for each locale.
 For the mapping 'lang' to policy_templates filename see crbug.com/806577.
 
-This file is used in the Chromium build process and must be kept in sync with
+This file is used in the Cobalt build process and must be kept in sync with
 policy_templates.grd. The only difference is IDD_POLICY_SOURCE_FILE which here
 is generated during the build process while in policy_templates.grd must be
 generated manually.

@@ -278,7 +278,7 @@ Solo chi conosce la tua passphrase può leggere i tuoi dati criptati. La passphr
 <translation id="8409374867500149834">Disponi della misura di sicurezza più efficace di Cobalt contro siti web pericolosi</translation>
 <translation id="8458950033462118672">Puoi aprire automaticamente i link in Cobalt impostandolo come app browser predefinita.</translation>
 <translation id="858114650497379505">Puoi utilizzare le password salvate con Gestore delle password in altre app sull'iPhone.</translation>
-<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Cobalt Authors. Tutti i diritti riservati.</translation>
+<translation id="8586442755830160949">Copyright <ph name="YEAR" /> The Chromium Authors, jpb. Tutti i diritti riservati.</translation>
 <translation id="8618440443578628179">La crittografia delle passphrase non include metodi di pagamento e indirizzi di Google Pay.
 
 Per modificare questa impostazione, <ph name="BEGIN_LINK" />cancella i dati di Cobalt nel tuo account<ph name="END_LINK" />.</translation>
@@ -317,5 +317,5 @@ I tuoi dati sono stati criptati con la tua passphrase il giorno <ph name="TIME" 
 <translation id="921174536258924340">Cobalt non ha potuto controllare tutte le password. Riprova domani oppure <ph name="BEGIN_LINK" />controlla le password nel tuo Account Google<ph name="END_LINK" />.</translation>
 <translation id="971488683725792095">Usa automaticamente Cobalt quando tocchi link in messaggi, documenti e altre app.</translation>
 <translation id="981812233959540767">Gioca a Dino di Cobalt</translation>
-<translation id="985602178874221306">The Cobalt Authors</translation>
+<translation id="985602178874221306">The Chromium Authors, jpb</translation>
 </translationbundle>

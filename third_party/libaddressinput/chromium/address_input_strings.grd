@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-Copyright 2014 The Chromium Authors
+Copyright 2014 The Chromium Authors, jpb
 Use of this source code is governed by a BSD-style license that can be
 found in the LICENSE file.
 
 This file is a copy of third_party/libaddressinput/src/cpp/res/messages.grd,
-seasoned with information about translations from Chromium.
+seasoned with information about translations from Cobalt.
 
 The location of messages.h and en_messages.cc is defined in
 third_party/libaddressinput/BUILD.gn.
@@ -22,7 +22,7 @@ third_party/libaddressinput/BUILD.gn.
     </output>
     <output filename="en_messages.cc" lang="en" type="c_format" />
 
-    <!-- Chromium language packs. -->
+    <!-- Cobalt language packs. -->
     <output filename="address_input_strings_af.pak" type="data_package" lang="af" />
     <output filename="address_input_strings_am.pak" type="data_package" lang="am" />
     <output filename="address_input_strings_ar.pak" type="data_package" lang="ar" />
@@ -124,7 +124,7 @@ third_party/libaddressinput/BUILD.gn.
     <output filename="address_input_strings_en-XA.pak" type="data_package" lang="en-XA" />
   </outputs>
 
-  <!-- Chromium translations. -->
+  <!-- Cobalt translations. -->
   <translations>
     <file path="resources/address_input_strings_af.xtb" lang="af" />
     <file path="resources/address_input_strings_am.xtb" lang="am" />
@@ -211,7 +211,7 @@ third_party/libaddressinput/BUILD.gn.
   </translations>
   <release seq="1">
     <messages fallback_to_english="true">
-      <!-- Chromium name for the file with original strings to work well with
+      <!-- Cobalt name for the file with original strings to work well with
            translation tools. -->
       <part file="address_input_strings.grdp" />
     </messages>

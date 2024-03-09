@@ -1078,7 +1078,7 @@ See your search engine’s instructions for deleting your search history, if app
         Content Settings
       </message>
       <message name="IDS_IOS_CONTENT_SUGGESTIONS_ACCESSIBILITY_LABEL_SUGGESTION" desc="The accessibility label of a suggestion. Summarizes fields in the reading list entry (title, publisher informations, status and informations). Read by Text-to-Speech.">
-        <ph name="TITLE"><ex>Learn about the new Chromium Projects</ex>$1</ph>, <ph name="PUBLISHER_INFORMATION"><ex>The Chromium organization</ex>$2</ph>, <ph name="PUBLICATION_DATE"><ex>January 1 2017</ex>$3</ph>
+        <ph name="TITLE"><ex>Learn about the new Chromium Projects</ex>$1</ph>, <ph name="PUBLISHER_INFORMATION"><ex>The Cobalt organization</ex>$2</ph>, <ph name="PUBLICATION_DATE"><ex>January 1 2017</ex>$3</ph>
       </message>
       <message name="IDS_IOS_CONTENT_SUGGESTIONS_BOOKMARKS" desc="The Bookmarks title on the new tab page [Length: 10em]">
         Bookmarks
@@ -2318,10 +2318,10 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_MANAGED_SYNC_TITLE" desc="The title of the Sync with a managed account dialog (alternative to IDS_IOS_MANAGED_SIGNIN_TITLE). Is only used when the User Policy feature is enabled using the --enable-user-policy-for-ios flag. [40em][iOS only]">
         Sync With Managed Account
       </message>
-      <message name="IDS_IOS_MANAGE_DATA_IN_YOUR_ACCOUNT_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Chromium sync' web page where the user can control all their data data from sync.">
+      <message name="IDS_IOS_MANAGE_DATA_IN_YOUR_ACCOUNT_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Cobalt sync' web page where the user can control all their data data from sync.">
         Review your account data
       </message>
-      <message name="IDS_IOS_MANAGE_SYNC_DATA_FROM_CHROME_SYNC_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Chromium sync' web page where the user can control all their data data from sync.">
+      <message name="IDS_IOS_MANAGE_SYNC_DATA_FROM_CHROME_SYNC_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Cobalt sync' web page where the user can control all their data data from sync.">
         Review your synced data
       </message>
       <message name="IDS_IOS_MANAGE_SYNC_ENCRYPTION" desc="Title for the cell to open the encryption dialog.">
@@ -2499,7 +2499,7 @@ See your search engine’s instructions for deleting your search history, if app
         Go to Settings…
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_CONFIRMATION_MESSAGE" desc="The snackbar message that confirms that notifications have been turned on.">
-        <ph name="FEATURE_NAME">$1<ex>Chromium Tips</ex></ph> notifications turned on
+        <ph name="FEATURE_NAME">$1<ex>Cobalt Tips</ex></ph> notifications turned on
       </message>
       <message name="IDS_IOS_NOTIFICATIONS_MANAGE_SETTINGS" desc="The label for a button that takes the user to the app's Notifications Settings page.">
         Manage
@@ -3768,10 +3768,10 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         Edit
       </message>
       <message name="IDS_IOS_READING_LIST_ENTRY_ACCESSIBILITY_LABEL" desc="Accessibility label for a reading list entry. Summarizes fields in the reading list entry (title, status and url). Read by Text To Speech. Similar to IDS_IOS_READING_LIST_ENTRY_WITH_UPLOAD_STATE_ACCESSIBILITY_LABEL">
-        <ph name="TITLE"><ex>Chromium - The Chromium Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
+        <ph name="TITLE"><ex>Cobalt - The Chromium Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
       </message>
       <message name="IDS_IOS_READING_LIST_ENTRY_WITH_UPLOAD_STATE_ACCESSIBILITY_LABEL" desc="Accessibility label for a reading list entry. Summarizes fields in the reading list entry (title, status, upload state and url). Read by Text To Speech. Similar to IDS_IOS_READING_LIST_ENTRY_ACCESSIBILITY_LABEL">
-        <ph name="TITLE"><ex>Chromium - The Chromium Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, Only on this device, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
+        <ph name="TITLE"><ex>Cobalt - The Chromium Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, Only on this device, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
       </message>
       <message name="IDS_IOS_READING_LIST_JUST_NOW" desc="String indicating that an event (adding item, distillation) happened less than one minute ago. [Length: 25em]">
         Just now
@@ -4524,7 +4524,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         Expand list
       </message>
       <message name="IDS_IOS_SET_UP_LIST_HIDE_MODULE_CONTEXT_MENU_DESCRIPTION" desc="Description for the long-press context menu for the Set Up List module.">
-          Hide "<ph name="TITLE">$1<ex>Get the most out of Chromium</ex></ph>"
+          Hide "<ph name="TITLE">$1<ex>Get the most out of Cobalt</ex></ph>"
       </message>
       <message name="IDS_IOS_SET_UP_LIST_MENU" desc="Accessibility label for the Set Up List menu button.">
         Options
@@ -5213,10 +5213,10 @@ While in Incognito, sites can't use cookies to see your browsing activity across
       <message name="IDS_IOS_TANGIBLE_SYNC_DATA_TYPE_HISTORY" desc="This string appears as an item in a list of sync data types on a full-page screen that asks users if they want to turn on sync. Translate 'history' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c3162. Translate 'and more' so that it conveys that there are additional similar items that are not listed. [iOS only][CHAR_LIMIT=30]">
         History and more
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_DISCLAIMER" desc="This string appears in the footer on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The first sentence informs the user where they can go to change their mind or to customize what Chrome/Chromium data types they choose to sync (a user's Chrome/Chromium data includes their bookmarks, passwords, history, settings, and more). The second sentence informs the user that if they choose to sync, then their history may be used to personalize Search and other services. Translate 'history' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c3162. [iOS only][CHAR_LIMIT=200].">
+      <message name="IDS_IOS_TANGIBLE_SYNC_DISCLAIMER" desc="This string appears in the footer on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The first sentence informs the user where they can go to change their mind or to customize what Chrome/Cobalt data types they choose to sync (a user's Chrome/Cobalt data includes their bookmarks, passwords, history, settings, and more). The second sentence informs the user that if they choose to sync, then their history may be used to personalize Search and other services. Translate 'history' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c3162. [iOS only][CHAR_LIMIT=200].">
         You can always choose what to sync in <ph name="BEGIN_LINK">BEGIN_LINK</ph>settings<ph name="END_LINK">END_LINK</ph>. Google may personalize Search and other services based on your history.
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_BACK_UP" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can back up their Chrome/Chromium data and use it on all their computers, phones, and other devices; a user's Chrome/Chromium data includes their bookmarks, passwords, history, settings, and more. The word 'stuff' can be translated as 'data' or similar if there is no natural translation of 'stuff'. Maintain the level of formality that your language generally uses in the Chrome/Chromium app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
+      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_BACK_UP" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can back up their Chrome/Cobalt data and use it on all their computers, phones, and other devices; a user's Chrome/Cobalt data includes their bookmarks, passwords, history, settings, and more. The word 'stuff' can be translated as 'data' or similar if there is no natural translation of 'stuff'. Maintain the level of formality that your language generally uses in the Chrome/Cobalt app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
         Back up your stuff and use it on any device.
       </message>
       <message name="IDS_IOS_TANGIBLE_SYNC_TITLE_TURN_ON_SYNC" desc="This string appears as a heading on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=35]">
@@ -5232,7 +5232,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         Zoom Out
       </message>
       <message name="IDS_IOS_TIPS_NOTIFICATIONS_CONTEXT_MENU_ITEM" desc="Title of context menu item for the Set Up List to enable notifications.">
-        Turn on Notifications for <ph name="FEATURE_NAME">$1<ex>Chromium Tips</ex></ph>
+        Turn on Notifications for <ph name="FEATURE_NAME">$1<ex>Cobalt Tips</ex></ph>
       </message>
       <message name="IDS_IOS_TOGGLE_SETTING_MANAGED_ACCESSIBILITY_HINT" desc="Action hint for any managed switch in settings. This is spoken by VoiceOver. [iOS only]">
         This setting is managed, double tap for more information
