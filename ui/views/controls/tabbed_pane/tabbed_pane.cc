@@ -260,10 +260,10 @@ void TabbedPaneTab::OnPaint(gfx::Canvas* canvas) {
     return;
   }
   constexpr SkScalar kRadius = SkIntToScalar(32);
-  constexpr SkScalar kLTRRadii[8] = {kRadius,       kRadius,       kRadius, kRadius,
-                                     kRadius, kRadius, kRadius,       kRadius};
-  constexpr SkScalar kRTLRadii[8] = {kRadius, kRadius, kRadius,       kRadius,
-                                     kRadius,       kRadius,       kRadius, kRadius};
+  constexpr SkScalar kLTRRadii[8] = {0,       0,       kRadius, kRadius,
+                                     kRadius, kRadius, 0,       0};
+  constexpr SkScalar kRTLRadii[8] = {kRadius, kRadius, 0,       0,
+                                     0,       0,       kRadius, kRadius};
   SkPath path;
   path.addRoundRect(gfx::RectToSkRect(GetLocalBounds()),
                     base::i18n::IsRTL() ? kRTLRadii : kLTRRadii);
