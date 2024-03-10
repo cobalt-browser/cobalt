@@ -203,7 +203,7 @@
       </if>
 
       <if expr="enable_hangout_services_extension">
-        <!-- Hangout Services extension, included in Google Chrome builds only. -->
+        <!-- Hangout Services extension, included in Cobalt builds only. -->
         <include name="IDR_HANGOUT_SERVICES_MANIFEST" file="resources\hangout_services\manifest.json" type="BINDATA" />
       </if>
 

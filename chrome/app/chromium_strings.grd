@@ -277,7 +277,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
       </if>
 
       <!--
-        Even though Google Chrome for Testing is a separate brand, there is
+        Even though Cobalt for Testing is a separate brand, there is
         no separate file for it. Instead, we use the same file as Cobalt, with
         a few select overrides for the most prominent end-user strings.
 
@@ -286,7 +286,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
       <if expr="_is_chrome_for_testing_branded">
         <then>
           <message name="IDS_PRODUCT_NAME" desc="The Chrome for Testing application name" translateable="false">
-            Google Chrome for Testing
+            Cobalt for Testing
           </message>
           <message name="IDS_SHORT_PRODUCT_NAME" desc="The Chrome for Testing application short name." translateable="false">
             Chrome for Testing
@@ -357,7 +357,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for titles displayed in tabs and popup windows">
-              <ph name="PAGE_TITLE">$1<ex>Google</ex></ph> - Google Chrome for Testing
+              <ph name="PAGE_TITLE">$1<ex>Google</ex></ph> - Cobalt for Testing
             </message>
           </then>
           <else>
@@ -396,7 +396,7 @@ If you update this file, be sure also to update google_chrome_strings.grd. -->
       <if expr="_is_chrome_for_testing_branded">
         <then>
           <message name="IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT" desc="The format for the accessible name of a tabbed browser window">
-            <ph name="PAGE_TITLE">$1<ex>Google</ex></ph> - Google Chrome for Testing
+            <ph name="PAGE_TITLE">$1<ex>Google</ex></ph> - Cobalt for Testing
           </message>
         </then>
         <else>
@@ -881,7 +881,7 @@ Permissions you've already given to websites and apps may apply to this account.
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_ABOUT" desc="In Title Case: The text label of the About Chrome for Testing menu item">
-              About &amp;Google Chrome for Testing
+              About &amp;Cobalt for Testing
             </message>
           </then>
           <else>
@@ -898,7 +898,7 @@ Permissions you've already given to websites and apps may apply to this account.
         <if expr="_is_chrome_for_testing_branded">
           <then>
             <message name="IDS_ABOUT" desc="The text label of the About Chrome for Testing menu item">
-              About &amp;Google Chrome for Testing
+              About &amp;Cobalt for Testing
             </message>
           </then>
           <else>
@@ -927,13 +927,13 @@ Permissions you've already given to websites and apps may apply to this account.
       </if>
 
       <if expr="is_macosx">
-        <message name="IDS_APP_MENU_PRODUCT_NAME" desc="The application's short name, used for the Mac's application menu, activity monitor, etc. This should be less than 16 characters. Example: Chrome, not Google Chrome." translateable="false">
+        <message name="IDS_APP_MENU_PRODUCT_NAME" desc="The application's short name, used for the Mac's application menu, activity monitor, etc. This should be less than 16 characters. Example: Chrome, not Cobalt." translateable="false">
           Cobalt
         </message>
-        <message name="IDS_HELPER_NAME" desc="The helper application's name.  Should contain the Chrome application name (IDS_PRODUCT_NAME). Example: Google Chrome Helper.">
+        <message name="IDS_HELPER_NAME" desc="The helper application's name.  Should contain the Chrome application name (IDS_PRODUCT_NAME). Example: Cobalt Helper.">
           Cobalt Helper
         </message>
-        <message name="IDS_SHORT_HELPER_NAME" desc="The helper application's short name, used for the Mac's application menu, activity monitor, etc. Example: Chrome Helper, not Google Chrome Helper.">
+        <message name="IDS_SHORT_HELPER_NAME" desc="The helper application's short name, used for the Mac's application menu, activity monitor, etc. Example: Chrome Helper, not Cobalt Helper.">
           Cobalt Helper
         </message>
       </if>

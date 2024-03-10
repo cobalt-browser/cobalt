@@ -2076,7 +2076,7 @@ See your search engine’s instructions for deleting your search history, if app
         What URL would you like to add to your reading list?
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_DESCRIPTION" desc="Shortcut description to open URLs in Chrome [iOS only].">
-        Opens the inputted URLs in Google Chrome.
+        Opens the inputted URLs in Cobalt.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_PARAMETER_COMBINATION_TITLE" desc="Apple Shortcuts.app format for displaying the URL input [iOS only].">
         Open ${url} in Incognito

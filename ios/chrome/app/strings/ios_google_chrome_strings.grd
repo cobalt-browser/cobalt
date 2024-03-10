@@ -183,7 +183,7 @@
   <release seq="1">
     <messages fallback_to_english="true">
       <message name="IDS_IOS_ABOUT_PRODUCT_NAME" desc="The menu item to access information about the application.">
-        About Google Chrome
+        About Cobalt
       </message>
       <message name="IDS_IOS_ABOUT_VERSION_COMPANY_NAME" desc="Company name on the about pages">
         Google LLC
@@ -279,7 +279,7 @@
         Use Chrome as your default browser to stay protected from dangerous sites &amp; keep your passwords safe
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_STAY_SAFE_TITLE" desc="Title of the 'Stay safe' default browser promotion modal. [iOS only]">
-        Stay Safe With Google Chrome
+        Stay Safe With Cobalt
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TITLE_CTA_EXPERIMENT_SWITCH" desc="Title of the default browser promotion modal. [iOS only]">
         Switch to Chrome
@@ -394,7 +394,7 @@ Things to consider:
         To help improve the app, Chrome sends usage and crash data to Google. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Manage<ph name="END_LINK">END_LINK</ph>
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_SUBTITLE" desc="The subtitle of the welcome screen presented to the user on First Run [iOS only]">
-        Get more done with a simple, secure, and faster-than-ever Google Chrome.
+        Get more done with a simple, secure, and faster-than-ever Cobalt.
       </message>
       <message name="IDS_IOS_FOLLOW_MANAGEMENT_EMPTY_TEXT" desc="The text of an empty following list.">
         Visit a site and click Follow in the Chrome menu
@@ -484,7 +484,7 @@ Things to consider:
         Open Chrome Incognito Tab
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_DESCRIPTION" desc="Shortcut description to open URLs in Chrome in Incognito [iOS only].">
-        Opens the inputted URLs in Google Chrome in Incognito.
+        Opens the inputted URLs in Cobalt in Incognito.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_TITLE" desc="Shortcut name to open URL in Chrome in Incognito [iOS only].">
         Open URLs in Chrome in Incognito
@@ -580,7 +580,7 @@ Things to consider:
         To disable Lockdown Mode in Chrome turn it off on your iPhone.
       </message>
       <message name="IDS_IOS_LOGIN_ERROR_AUTHENTICATING_HOSTED" desc="Couldn't sign in because hosted account is used.">
-        Your account does not work on Google Chrome. Please contact your domain administrator or use a regular Google Account to sign in.
+        Your account does not work on Cobalt. Please contact your domain administrator or use a regular Google Account to sign in.
       </message>
       <message name="IDS_IOS_MANAGED_DISCONNECT_DIALOG_INFO_UNITY" desc="Message explaining that signing out of a managed account will clear all the Chrome data. [Length: 200em, may be line wrapped to multiple lines at run time.] [iOS only].">
         Because you're signing out of an account managed by <ph name="SIGNOUT_MANAGED_DOMAIN">$1<ex>google.com</ex></ph>, your Chrome data will be deleted from this device. Your data will remain in your Google Account.
@@ -673,8 +673,8 @@ Only someone with your passphrase can read your encrypted data. The passphrase i
       <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_TITLE" desc="The title displayed along with the app store link to Chrome, when sharing the chrome app" meaning="[In Title case] [iOS only] [Length: Unlimited]">
         Chrome for iOS
       </message>
-      <message name="IDS_IOS_PAGE_INFO_CHROME_PAGE_LABEL" desc="Label to display at the top of the site information screen when the page you are on is a Google Chrome page.">
-        Google Chrome Page
+      <message name="IDS_IOS_PAGE_INFO_CHROME_PAGE_LABEL" desc="Label to display at the top of the site information screen when the page you are on is a Cobalt page.">
+        Cobalt Page
       </message>
       <message name="IDS_IOS_PAGE_INFO_SECURITY_TAB_SECURE_IDENTITY" desc="The text of the identity section for iOS.">
         Chrome verified that <ph name="ISSUER">$1<ex>VeriSign</ex></ph> issued this website's certificate.
@@ -761,7 +761,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
         For more settings that use data to improve your Chrome experience, go to <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_PRODUCT_NAME" desc="The Chrome application name">
-        Google Chrome
+        Cobalt
       </message>
       <message name="IDS_IOS_RECENT_TABS_OTHER_DEVICES_EMPTY_MESSAGE" desc="To use the Other Devices section of the Recent Tabs view, a user must be signed in and activate Tabs synchronization on multiple devices. This message is shown in this section when the user is signed in and has activated Tabs synchronization only on this device.">
           To see your tabs from wherever you use Chrome, sign in on all your devices
@@ -809,7 +809,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
         Some add-ons cause Chrome to crash. Please try uninstalling them.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE" desc="Message to inform user that Save Image failed due to insufficient privilege in Privacy Settings. Directs user to adjust Privacy Settings for Chrome. This message is displayed as the message body in an alert box with a single OK button. [Length: 120em]">
-        Google Chrome does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
+        Cobalt does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE_GO_TO_SETTINGS" desc="Body of the alert shown when the user tries to save an image but we lack permission to add to photos. This body tells the user he'll be redirected to the Settings app. [Length: 100em] [iOS only].">
         To save images, tap on Settings to let Chrome add to your photos
@@ -818,22 +818,22 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
         Passwords are saved to Google Password Manager on this device.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_IN_USE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner but the camera is in use by another application. [Length: 140em] [iOS only]">
-        Google Chrome can't use your camera because it's in use by another application
+        Cobalt can't use your camera because it's in use by another application
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_DETAIL" desc="Body of modal dialog shown when the user tries to open the QR scanner but the application lacks permission to use the camera. The text instructs the user how to change the permissions setting. [Length: 140em] [iOS only]">
-        Open Settings &gt; Privacy &gt; Camera &gt; Google Chrome and turn on the camera.
+        Open Settings &gt; Privacy &gt; Camera &gt; Cobalt and turn on the camera.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE" desc="Title of modal dialog shown when the user tries to open the QR scanner but the application lacks permission to use the camera. The body of this dialog instructs the user how to change the permissions setting. [Length: 50em] [iOS only]">
-        Start using Google Chrome QR scanner
+        Start using Cobalt QR scanner
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE_GO_TO_SETTINGS" desc="Title of modal dialog shown when the user tries to open the QR or credit card scanner but the application lacks permission to use the camera. [Length: 40em] [iOS only]">
         Chrome Would Like to Access the Camera
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_UNAVAILABLE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner but the camera is unavailable. [Length: 140em] [iOS only]">
-        Google Chrome can't use your camera right now
+        Cobalt can't use your camera right now
       </message>
       <message name="IDS_IOS_SCANNER_MULTIPLE_FOREGROUND_APPS_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner in a Split View mode, when the camera is unavailable. [Length: 140em] [iOS only]">
-        Google Chrome can't use your camera in Split View mode
+        Cobalt can't use your camera in Split View mode
       </message>
       <message name="IDS_IOS_SETTINGS_ADD_PASSWORD_FOOTER" desc="Disclaimer telling users what will happen to their passwords">
         Your password will be saved in your Google Account (<ph name="EMAIL">$1<ex>example@gmail.com</ex></ph>).
@@ -890,7 +890,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
         Chrome couldn't check for updates. Try checking your internet connection.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OUT_OF_DATE_DESC" desc="Description text for when Chrome is out of date">
-        Google Chrome is out of date
+        Cobalt is out of date
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UNABLE_DESC" desc="Description text for when the device is not able to update to the newest version">
         Chrome can't update
@@ -899,7 +899,7 @@ For more settings that use data to improve your Chrome experience, go to <ph nam
         Chrome is out of date. If no update is available in the <ph name="BEGIN_LINK">BEGIN_LINK</ph>App Store<ph name="END_LINK">END_LINK</ph>, it's possible that your device doesn't support new versions of Chrome anymore.
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UP_TO_DATE_DESC" desc="Description text for when Chrome is up to date">
-        Google Chrome is up to date
+        Cobalt is up to date
       </message>
       <message name="IDS_IOS_SETTINGS_SELECT_CHROME_STEP" desc="Text of the row indicating the third step of setting the default browser.">
         3. Select Chrome
@@ -1025,7 +1025,7 @@ Your data was encrypted with your passphrase on <ph name="TIME">$2<ex>Sept 1, 20
         Tips on getting the most out of Chrome.
       </message>
       <message name="IDS_IOS_TRANSLATE_INFOBAR_NEVER_MESSAGE" desc="Message for the Translate infobar to allow the user to opt out. [Length: 250em]">
-        Would you like Google Chrome to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
+        Would you like Cobalt to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
       </message>
       <message name="IDS_IOS_TRANSLATE_SETTING_DESCRIPTION" desc="Description for the Translate setting. [Length: unlimited] [iOS only]">
         When this feature is turned on, Chrome will offer to translate pages written in other languages using Google Translate. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
