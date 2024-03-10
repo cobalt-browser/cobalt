@@ -22,7 +22,7 @@ Některé funkce možná nebudou k dispozici a změny nastavení se neuloží.</
 <translation id="1315551408014407711">Nastavení nového profilu Cobalt</translation>
 <translation id="1342274909142618978">Smazat také data z prohlížeče Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Jste přihlášeni do prohlížeče Cobalt.</translation>
-<translation id="1478370723027452770">Nápověda k Chrome for Testing</translation>
+<translation id="1478370723027452770">Nápověda k Cobalt for Testing</translation>
 <translation id="1497802159252041924">Chyba instalace: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Sdílet kartu prohlížeče Cobalt</translation>
 <translation id="1553461853655228091">Prohlížeč Cobalt potřebuje oprávnění k přístupu k fotoaparátu, aby mohl vytvořit 3D mapu vašeho okolí</translation>
@@ -164,7 +164,7 @@ Na tento účet se mohou vztahovat oprávnění, která jste již udělili webů
 <translation id="388648406173476553">Přizpůsobte si prohlížeč Cobalt a ovládejte jej. Něco vyžaduje vaši pozornost – podrobnosti zobrazíte kliknutím.</translation>
 <translation id="3889543394854987837">Chcete-li otevřít Cobalt a začít procházet Internet, klikněte na svoje jméno.</translation>
 <translation id="390528597099634151">Uživatel <ph name="EXISTING_USER" /> už je k tomuto profilu Cobalt přihlášen. Chcete-li své procházení oddělit, Cobalt vám může vytvořit vlastní profil.</translation>
-<translation id="3909353120217047026">Toto rozšíření porušuje zásady Internetového obchodu Chrome a může být nebezpečné. Odstraňte ho z prohlížeče Cobalt, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
+<translation id="3909353120217047026">Toto rozšíření porušuje zásady Internetového obchodu Cobalt a může být nebezpečné. Odstraňte ho z prohlížeče Cobalt, aby již nemohlo číst a měnit data (včetně osobních údajů) na webech, které navštěvujete.</translation>
 <translation id="391789666908693569">Váš účet je spravován doménou <ph name="MANAGER_NAME" />. Tento profil prohlížeče Cobalt a jeho data, jako jsou záložky, historie a hesla, může zobrazit a upravovat váš administrátor.</translation>
 <translation id="3941890832296813527">Chyba instalace: Název souboru instalačního programu je neplatný nebo není podporován.</translation>
 <translation id="3945058413678539331">Cobalt se pokouší zkopírovat hesla. Tato akce vyžaduje zadání hesla systému Windows.</translation>
@@ -194,7 +194,7 @@ Na tento účet se mohou vztahovat oprávnění, která jste již udělili webů
 <translation id="4415566066719264597">Nechat Cobalt běžet na pozadí</translation>
 <translation id="4423735387467980091">Přizpůsobit a ovládat Cobalt</translation>
 <translation id="4427306783828095590">Vylepšená ochrana vás lépe ochrání před phishingem a malwarem</translation>
-<translation id="4447409407328223819">O Chrome for Testing</translation>
+<translation id="4447409407328223819">O Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalace se nezdařila, protože přístup je v této zemi omezen.</translation>
 <translation id="452711251841752011">Vítá vás Cobalt; bylo otevřeno nové okno prohlížeče</translation>
 <translation id="4544142686420020088">Prohlížeč Cobalt se neaktualizoval, něco se pokazilo. <ph name="BEGIN_LINK" />Vyřešte problémy se stahováním aktualizací prohlížeče Cobalt a neúspěšnými aktualizacemi.<ph name="END_LINK" /></translation>
@@ -355,7 +355,7 @@ Některé funkce mohou být nedostupné. Zadejte prosím jiný adresář profilu
 <translation id="7025789849649390912">Instalace byla zastavena.</translation>
 <translation id="705851970750939768">Aktualizovat Cobalt</translation>
 <translation id="7067091210845072982">Pokud obrázek nemá užitečný popis, Cobalt se vám jej pokusí poskytnout. Za účelem vytváření popisů jsou obrázky odesílány do Googlu.</translation>
-<translation id="7141270731789036260">Přizpůsobit Chrome for Testing</translation>
+<translation id="7141270731789036260">Přizpůsobit Cobalt for Testing</translation>
 <translation id="7173822816570314652">Když prohlížeč Cobalt <ph name="TIMEOUT_DURATION" /> není používán, vaše organizace smaže jeho data. To může zahrnovat historii, automatické vyplňování a stažené soubory.</translation>
 <translation id="718435575166326686">Cobalt pro tento web potřebuje přístup k fotoaparátu</translation>
 <translation id="7196312274710523067">Cobalt nelze spustit. Zkuste to znovu.</translation>

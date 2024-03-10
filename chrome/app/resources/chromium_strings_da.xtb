@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Konfigurer din nye Cobalt-profil</translation>
 <translation id="1342274909142618978">Slet også data fra Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Du er logget ind på Cobalt.</translation>
-<translation id="1478370723027452770">Få hjælp til Chrome for Testing</translation>
+<translation id="1478370723027452770">Få hjælp til Cobalt for Testing</translation>
 <translation id="1497802159252041924">Installationsfejl: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Del en Cobalt-fane</translation>
 <translation id="1553461853655228091">Cobalt skal have adgangstilladelse til dit kamera for at oprette et 3D-kort over dine omgivelser</translation>
@@ -162,7 +162,7 @@ De tilladelser, du har givet til websites og apps, gælder muligvis for denne ko
 <translation id="388648406173476553">Tilpas og administrer Cobalt. Noget kræver din opmærksomhed – klik for at få oplysninger.</translation>
 <translation id="3889543394854987837">Klik på dit navn for at åbne Cobalt og gå i gang med at browse.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> er allerede logget ind på denne Cobalt-profil. Hvis du vil holde din browsing adskilt, kan Cobalt oprette en ny profil til dig.</translation>
-<translation id="3909353120217047026">Denne udvidelse overtræder politikken for Chrome Webshop og er muligvis ikke sikker. Fjern den fra Cobalt, så den ikke længere kan se og ændre dine data på de websites, du besøger, bl.a. dine personlige oplysninger.</translation>
+<translation id="3909353120217047026">Denne udvidelse overtræder politikken for Cobalt Webshop og er muligvis ikke sikker. Fjern den fra Cobalt, så den ikke længere kan se og ændre dine data på de websites, du besøger, bl.a. dine personlige oplysninger.</translation>
 <translation id="391789666908693569">Din konto administreres af <ph name="MANAGER_NAME" />. Din administrator kan se og redigere denne Cobalt-browserprofil og dens data som f.eks. bogmærker, historik og adgangskoder.</translation>
 <translation id="3941890832296813527">Installationsfejl: Installationens filnavn er ugyldigt eller understøttes ikke.</translation>
 <translation id="3945058413678539331">Cobalt forsøger at kopiere adgangskoder. Angiv din Windows-adgangskode for at tillade dette.</translation>
@@ -192,7 +192,7 @@ De tilladelser, du har givet til websites og apps, gælder muligvis for denne ko
 <translation id="4415566066719264597">Lad Cobalt køre i baggrunden</translation>
 <translation id="4423735387467980091">Tilpas og kontrollér Cobalt</translation>
 <translation id="4427306783828095590">Forbedret beskyttelse gør mere end at blokere phishing og malware</translation>
-<translation id="4447409407328223819">Om Chrome for Testing</translation>
+<translation id="4447409407328223819">Om Cobalt for Testing</translation>
 <translation id="4501471624619070934">Installationen mislykkedes, fordi der er begrænset adgang i dette land.</translation>
 <translation id="452711251841752011">Velkommen til Cobalt – Et nyt browservindue er åbnet</translation>
 <translation id="4544142686420020088">Cobalt kunne ikke opdateres, da der opstod en fejl. <ph name="BEGIN_LINK" />Løs problemer med opdatering af Cobalt og mislykkede opdateringer.<ph name="END_LINK" /></translation>
@@ -353,7 +353,7 @@ Visse funktioner kan være utilgængelige. Angiv en anden profilmappe, eller bru
 <translation id="7025789849649390912">Installationen blev afbrudt.</translation>
 <translation id="705851970750939768">Opdater Cobalt</translation>
 <translation id="7067091210845072982">Hvis et billede ikke har en brugbar beskrivelse, forsøger Cobalt at angive en for dig. Billederne sendes til Google, så der kan oprettes beskrivelser.</translation>
-<translation id="7141270731789036260">Tilpas Chrome for Testing</translation>
+<translation id="7141270731789036260">Tilpas Cobalt for Testing</translation>
 <translation id="7173822816570314652">Din organisation sletter Cobalt-data, når de ikke har været i brug i <ph name="TIMEOUT_DURATION" />. Disse data kan omfatte historik, Autofyld og downloads.</translation>
 <translation id="718435575166326686">Cobalt skal have adgangstilladelse til kamera for at bruge dette website</translation>
 <translation id="7196312274710523067">Cobalt kunne ikke startes. Prøv igen.</translation>

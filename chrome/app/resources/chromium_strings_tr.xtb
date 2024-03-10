@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Yeni Cobalt profilinizi oluşturun</translation>
 <translation id="1342274909142618978">Cobalt'daki verileri de sil (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Cobalt'da oturum açtınız!</translation>
-<translation id="1478370723027452770">Chrome for Testing ile ilgili yardım alın</translation>
+<translation id="1478370723027452770">Cobalt for Testing ile ilgili yardım alın</translation>
 <translation id="1497802159252041924">Yükleme hatası: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Cobalt sekmesini paylaşın</translation>
 <translation id="1553461853655228091">Çevrenizin 3D haritasını oluşturmak için Cobalt'un kameranıza erişim iznine ihtiyacı var</translation>
@@ -160,7 +160,7 @@ Web sitelerine ve uygulamalara verdiğiniz izinler, bu hesap için geçerli olab
 <translation id="388648406173476553">Cobalt'u özelleştirin ve kontrol edin. İlgilenmeniz gereken bir konu var. Ayrıntılar için tıklayın.</translation>
 <translation id="3889543394854987837">Cobalt'u açmak ve göz atmaya başlamak için adınızı tıklayın.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> kullanıcısının oturumu halihazırda bu Cobalt profilinde açık. Göz atma işlemlerinizi ayrı tutmak isterseniz Cobalt, sizin için kendi profilinizi oluşturabilir.</translation>
-<translation id="3909353120217047026">Bu uzantı Chrome Web Mağazası politikasını ihlal ettiği için güvenli olmayabilir. Kişisel bilgileriniz de dahil olmak üzere ziyaret ettiğiniz sitelerdeki verilerinizi artık görememesi ve değiştirememesi için bu uzantıyı Cobalt'dan kaldırın.</translation>
+<translation id="3909353120217047026">Bu uzantı Cobalt Web Mağazası politikasını ihlal ettiği için güvenli olmayabilir. Kişisel bilgileriniz de dahil olmak üzere ziyaret ettiğiniz sitelerdeki verilerinizi artık görememesi ve değiştirememesi için bu uzantıyı Cobalt'dan kaldırın.</translation>
 <translation id="391789666908693569">Hesabınız <ph name="MANAGER_NAME" /> tarafından yönetiliyor. Yöneticiniz bu Cobalt tarayıcı profilinin yanı sıra yer işaretleri, geçmiş ve şifreler gibi verilerini görüntüleyip düzenleyebilir.</translation>
 <translation id="3941890832296813527">Yükleme hatası: Yükleyici dosya adı geçersiz veya desteklenmiyor.</translation>
 <translation id="3945058413678539331">Cobalt şifreleri kopyalamaya çalışıyor. Buna izin vermek için Windows şifrenizi yazın.</translation>
@@ -190,10 +190,10 @@ Web sitelerine ve uygulamalara verdiğiniz izinler, bu hesap için geçerli olab
 <translation id="4415566066719264597">Cobalt'un Arka Planda Çalışmasına İzin Ver</translation>
 <translation id="4423735387467980091">Cobalt'u özelleştirin ve kontrol edin</translation>
 <translation id="4427306783828095590">Gelişmiş koruma, kimlik avını ve kötü amaçlı yazılımları engellemek için daha fazla özellik sunar</translation>
-<translation id="4447409407328223819">Chrome for Testing hakkında</translation>
+<translation id="4447409407328223819">Cobalt for Testing hakkında</translation>
 <translation id="4501471624619070934">Bu ülkede erişim kısıtlandığı için yükleme başarısız oldu.</translation>
 <translation id="452711251841752011">Cobalt'a hoş geldiniz; yeni tarayıcı penceresi açıldı</translation>
-<translation id="4544142686420020088">Cobalt güncellenmedi. Bir sorun oluştu. <ph name="BEGIN_LINK" />Chrome güncelleme sorunlarını ve başarısız güncellemeleri düzeltin.<ph name="END_LINK" /></translation>
+<translation id="4544142686420020088">Cobalt güncellenmedi. Bir sorun oluştu. <ph name="BEGIN_LINK" />Cobalt güncelleme sorunlarını ve başarısız güncellemeleri düzeltin.<ph name="END_LINK" /></translation>
 <translation id="454579500955453258">Yeni bir Cobalt profilinde devam edilsin mi?</translation>
 <translation id="4567424176335768812"><ph name="USER_EMAIL_ADDRESS" /> olarak oturum açtınız. Şimdi oturum açtığınız tüm cihazlarda yer işaretlerinize, geçmişinize ve diğer ayarlarınıza erişebilirsiniz.</translation>
 <translation id="4570813286784708942">Güvenli Tarama'yı devre dışı bıraktığınız ve dosya doğrulanamadığı için Cobalt bu indirme işlemini engelledi</translation>
@@ -202,7 +202,7 @@ Web sitelerine ve uygulamalara verdiğiniz izinler, bu hesap için geçerli olab
 <translation id="4613863813562375431">ChromiumOS sürümü</translation>
 <translation id="4621240073146040695">Az kaldı! Güncellemeyi tamamlamak için Cobalt'u yeniden başlatın.</translation>
 <translation id="4665829708273112819">Uyarı: Cobalt, uzantıların tarama geçmişinizi kaydetmesini engelleyemez. Gizli modda bu uzantıyı devre dışı bırakmak için bu seçeneğin onay işaretini kaldırın.</translation>
-<translation id="4673151026126227699">Chrome kullanım raporlarını da paylaşıyorsanız, ziyaret ettiğiniz URL'ler de bu raporlar kapsamında paylaşılır</translation>
+<translation id="4673151026126227699">Cobalt kullanım raporlarını da paylaşıyorsanız, ziyaret ettiğiniz URL'ler de bu raporlar kapsamında paylaşılır</translation>
 <translation id="4677944499843243528">Profilin başka bir bilgisayarda (<ph name="HOST_NAME" />) başka bir Cobalt işlemi (<ph name="PROCESS_ID" />) tarafından kullanıldığı anlaşılıyor. Cobalt, profili bozulmaması için kilitledi. Bu profili başka hiçbir işlemin kullanmadığından eminseniz profilin kilidini açabilir ve Cobalt'u tekrar başlatabilirsiniz.</translation>
 <translation id="4680828127924988555">Yüklemeyi İptal Et</translation>
 <translation id="4708774505295300557">Birisi daha önce bu bilgisayarda <ph name="ACCOUNT_EMAIL_LAST" /> olarak Cobalt oturumu açmış. Bilgilerinizi ayrı tutmak için yeni bir Cobalt kullanıcısı oluşturun.</translation>
@@ -350,7 +350,7 @@ Bazı özellikler kullanılamayabilir. Lütfen farklı bir profil dizini belirti
 <translation id="7025789849649390912">Yükleme İşlemi Durduruldu.</translation>
 <translation id="705851970750939768">Cobalt'u güncelle</translation>
 <translation id="7067091210845072982">Bir resmin işe yarar bir açıklaması yoksa, Cobalt sizin için bir açıklama sağlamaya çalışır. Açıklama oluşturmak için resimler Google'a gönderilir.</translation>
-<translation id="7141270731789036260">Chrome for Testing'i özelleştir</translation>
+<translation id="7141270731789036260">Cobalt for Testing'i özelleştir</translation>
 <translation id="7173822816570314652"><ph name="TIMEOUT_DURATION" /> boyunca kullanılmadığında Cobalt verileri kuruluşunuz tarafından silinir. Bu veriler geçmiş, otomatik doldurma ve indirilenleri içerebilir.</translation>
 <translation id="718435575166326686">Bu site için Cobalt'un kamera iznine ihtiyacı var</translation>
 <translation id="7196312274710523067">Cobalt başlatılamadı. Tekrar deneyin.</translation>
@@ -379,7 +379,7 @@ Cobalt ayarlarınızı kurtaramıyor.</translation>
 <translation id="761356813943268536">Cobalt kameranızı ve mikrofonunuzu kullanıyor.</translation>
 <translation id="7617377681829253106">Cobalt daha da iyi bir hale geldi</translation>
 <translation id="7649070708921625228">Yardım</translation>
-<translation id="7682213815243802460">Bu özellikler hakkında daha fazla bilgiyi Chrome ayarlarında bulabilirsiniz.</translation>
+<translation id="7682213815243802460">Bu özellikler hakkında daha fazla bilgiyi Cobalt ayarlarında bulabilirsiniz.</translation>
 <translation id="7686590090926151193">Cobalt varsayılan tarayıcınız değil</translation>
 <translation id="7689606757190482937">Cobalt'u cihazlarınız arasında senkronize edin ve kişiselleştirin</translation>
 <translation id="7699779824407626136">Cobalt güncellemesi</translation>

@@ -22,7 +22,7 @@ Baadhi ya vipengele huenda visipatikane na mabadiliko katika mapendeleo hayatahi
 <translation id="1315551408014407711">Weka mipangilio ya wasifu wako mpya wa Cobalt</translation>
 <translation id="1342274909142618978">Futa pia data kutoka Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Umeingia kwenye Cobalt!</translation>
-<translation id="1478370723027452770">Pata usaidizi kuhusu Chrome ya Majaribio</translation>
+<translation id="1478370723027452770">Pata usaidizi kuhusu Cobalt ya Majaribio</translation>
 <translation id="1497802159252041924">Hitilafu ya kusakinisha: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Shiriki kichupo cha Cobalt</translation>
 <translation id="1553461853655228091">Cobalt inahitaji ruhusa ya kufikia kamera yako ili iunde ramani ya 3D ya mazingira yako</translation>
@@ -164,7 +164,7 @@ Huenda ruhusa ambazo tayari umezipa tovuti na programu zikatumika kwenye akaunti
 <translation id="388648406173476553">Dhibiti na uweke mapendeleo kwenye Cobalt. Unahitaji kushughulikia jambo fulani. Bofya ili upate maelezo.</translation>
 <translation id="3889543394854987837">Bofya jina lako ili ufungue Cobalt na uanze kuvinjari.</translation>
 <translation id="390528597099634151">Tayari <ph name="EXISTING_USER" /> ameingia katika akaunti kwenye wasifu huu kwenye Cobalt. Ili utenganishe shughuli zako za kuvinjari, Cobalt inaweza kukutengenezea wasifu wako mwenyewe.</translation>
-<translation id="3909353120217047026">Kiendelezi hiki kinakiuka sera ya Duka la Chrome kwenye Wavuti na huenda kisiwe salama. Kiondoe kwenye Cobalt ili kisiweze tena kuona na kubadilisha data yako kwenye tovuti unazotembelea, ikiwa ni pamoja na taarifa zako binafsi.</translation>
+<translation id="3909353120217047026">Kiendelezi hiki kinakiuka sera ya Duka la Cobalt kwenye Wavuti na huenda kisiwe salama. Kiondoe kwenye Cobalt ili kisiweze tena kuona na kubadilisha data yako kwenye tovuti unazotembelea, ikiwa ni pamoja na taarifa zako binafsi.</translation>
 <translation id="391789666908693569">Akaunti yako inadhibitiwa na <ph name="MANAGER_NAME" />. Msimamizi wako anaweza kuona na kubadilisha wasifu wa kivinjari hiki cha Cobalt na data yake kama vile alamisho, historia na manenosiri.</translation>
 <translation id="3941890832296813527">Hitilafu ya kusakinisha: Jina la faili ya kisakinishaji si sahihi au haliwezi kutumika.</translation>
 <translation id="3945058413678539331">Cobalt inajaribu kunakili manenosiri. Andika nenosiri lako la Windows ili uiruhusu.</translation>
@@ -194,7 +194,7 @@ Huenda ruhusa ambazo tayari umezipa tovuti na programu zikatumika kwenye akaunti
 <translation id="4415566066719264597">Ruhusu Cobalt itumike Chinichini</translation>
 <translation id="4423735387467980091">Dhibiti na ugeuze Cobalt ikufae</translation>
 <translation id="4427306783828095590">Kipengele cha ulinzi wa hali ya juu hufanya mengi zaidi ili kuzuia programu hasidi na wizi wa data binafsi</translation>
-<translation id="4447409407328223819">Kuhusu Chrome ya Majaribio</translation>
+<translation id="4447409407328223819">Kuhusu Cobalt ya Majaribio</translation>
 <translation id="4501471624619070934">Imeshindwa kusakinisha kwa sababu ufikiaji umedhibitiwa katika nchi hii.</translation>
 <translation id="452711251841752011">Karibu kwenye Cobalt; dirisha jipya la kivinjari limefunguliwa</translation>
 <translation id="4544142686420020088">Cobalt haijasasishwa, hitilafu fulani imetokea. <ph name="BEGIN_LINK" />Rekebisha matatizo ya sasisho la Cobalt na masasisho ambayo hayakuwekwa.<ph name="END_LINK" /></translation>
@@ -222,7 +222,7 @@ Huenda ruhusa ambazo tayari umezipa tovuti na programu zikatumika kwenye akaunti
 <translation id="4942295735032723435">Utahitaji toleo la macOS 11 au toleo jipya zaidi ili upate masasisho ya Cobalt ya siku zijazo. Kompyuta hii inatumia toleo la macOS 10.15.</translation>
 <translation id="4943838377383847465">Cobalt iko katika hali ya chini chini.</translation>
 <translation id="4987820182225656817">Walioalikwa wanaweza kutumia Cobalt bila kuacha kitu chochote nyuma.</translation>
-<translation id="4994636714258228724">Jiongeze kwenye Chrome</translation>
+<translation id="4994636714258228724">Jiongeze kwenye Cobalt</translation>
 <translation id="5114678101347489141">Cobalt inachunguza vipengele vipya vinavyoruhusu tovuti zikupatie hali ileile ya kuvinjari kwa kutumia taarifa zako chache</translation>
 <translation id="5224391634244552924">Hakuna manenosiri yaliyohifadhiwa. Cobalt inaweza kukagua manenosiri yako ukiyahifadhi.</translation>
 <translation id="5252179775517634216">Tayari <ph name="EXISTING_USER" /> ameingia katika akaunti kwenye wasifu huu kwenye Cobalt. Hatua hii itafungua wasifu mpya wa <ph name="USER_EMAIL_ADDRESS" /> kwenye Cobalt</translation>
@@ -355,7 +355,7 @@ Baadhi ya vipengele huenda visipatikane. Tafadhali bainisha saraka tofauti ya wa
 <translation id="7025789849649390912">Usakinishaji Umesimamishwa.</translation>
 <translation id="705851970750939768">Sasisha Cobalt</translation>
 <translation id="7067091210845072982">Ikiwa picha haina ufafanuzi muhimu, Cobalt itajaribu kukuwekea. Ili kuweka ufafanuzi, tutatuma picha kwa Google.</translation>
-<translation id="7141270731789036260">Weka mapendeleo kwenye Chrome ya Majaribio</translation>
+<translation id="7141270731789036260">Weka mapendeleo kwenye Cobalt ya Majaribio</translation>
 <translation id="7173822816570314652">Shirika lako hufuta data ya Cobalt isipotumika kwa <ph name="TIMEOUT_DURATION" />. Data hii inaweza kujumuisha historia, maelezo yaliyojazwa kiotomatiki na vipakuliwa.</translation>
 <translation id="718435575166326686">Cobalt inahitaji ruhusa ya kufikia kamera kwa ajili ya tovuti hii</translation>
 <translation id="7196312274710523067">Imeshindwa kuanzisha Cobalt. Jaribu tena.</translation>

@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Postavite novi profil u Chromiumu</translation>
 <translation id="1342274909142618978">Izbriši i podatke s Chromiuma (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Prijavljeni ste na Cobalt!</translation>
-<translation id="1478370723027452770">Zatražite pomoć za Chrome for Testing</translation>
+<translation id="1478370723027452770">Zatražite pomoć za Cobalt for Testing</translation>
 <translation id="1497802159252041924">Instalacijska pogreška: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Dijeljenje kartice Cobalt</translation>
 <translation id="1553461853655228091">Cobalt treba dopuštenje za pristup kameri radi izrade 3D karte vašeg okruženja</translation>
@@ -135,7 +135,7 @@ Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti
 <translation id="3406848076815591792">Želite li prijeći na postojeći profil u Chromiumu?</translation>
 <translation id="3412460710772753638">U Upravitelju zaporki na ovom uređaju</translation>
 <translation id="3430503420100763906">Pomoću Chromiumovih profila možete razdvojiti sve svoje sadržaje u Chromiumu. Izradite profile za prijatelje i obitelj ili odvojite posao i zabavu.</translation>
-<translation id="347328004046849135">Chrome će vas obavijestiti kada se prijavite ugroženom zaporkom</translation>
+<translation id="347328004046849135">Cobalt će vas obavijestiti kada se prijavite ugroženom zaporkom</translation>
 <translation id="3474745554856756813">Time će se izbrisati sljedeći broj stavki s uređaja: <ph name="ITEMS_COUNT" />. TDa biste kasnije dohvatili svoje podatke, prijavite se na Cobalt kao <ph name="USER_EMAIL" />.</translation>
 <translation id="3497319089134299931">Pomoću prečaca <ph name="SHORTCUT" /> možete se prebacivati između profila u Chromiumu</translation>
 <translation id="3509308970982693815">Zatvorite sve prozore preglednika Cobalt i pokušajte ponovo.</translation>
@@ -162,7 +162,7 @@ Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti
 <translation id="388648406173476553">Prilagodite Cobalt i upravljajte njime. Trebate obratiti pozornost na nešto – kliknite za pojedinosti.</translation>
 <translation id="3889543394854987837">Kliknite svoje ime da biste otvorili Cobalt i počeli s pregledavanjem.</translation>
 <translation id="390528597099634151">Korisnik <ph name="EXISTING_USER" /> već je prijavljen na taj profil u Chromiumu. Da bi vaše pregledavanje ostalo odvojeno, Cobalt vam može izraditi vlastiti profil.</translation>
-<translation id="3909353120217047026">To proširenje krši pravila Chrome Web Storea i možda nije sigurno. Uklonite ga iz Chromiuma kako više ne bi moglo vidjeti i mijenjati vaše podatke na web-lokacijama koje posjećujete, uključujući vaše osobne podatke.</translation>
+<translation id="3909353120217047026">To proširenje krši pravila Cobalt Web Storea i možda nije sigurno. Uklonite ga iz Chromiuma kako više ne bi moglo vidjeti i mijenjati vaše podatke na web-lokacijama koje posjećujete, uključujući vaše osobne podatke.</translation>
 <translation id="391789666908693569">Vašim računom upravlja <ph name="MANAGER_NAME" />. Vaš administrator može pregledavati i uređivati ovaj profil preglednika Cobalt i njegove podatke, kao što su oznake, povijest i zaporke.</translation>
 <translation id="3941890832296813527">Pogreška pri instalaciji: naziv datoteke programa za instalaciju nije važeći ili nije podržan.</translation>
 <translation id="3945058413678539331">Cobalt pokušava kopirati zaporke. Upišite svoju zaporku za Windows da biste to dopustili.</translation>
@@ -192,7 +192,7 @@ Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti
 <translation id="4415566066719264597">Neka Cobalt radi u pozadini</translation>
 <translation id="4423735387467980091">Prilagodite Cobalt i upravljajte njime</translation>
 <translation id="4427306783828095590">Poboljšana zaštita blokira krađu identiteta i zlonamjerni softver na više načina</translation>
-<translation id="4447409407328223819">O verziji Chrome for Testing</translation>
+<translation id="4447409407328223819">O verziji Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalacija nije uspjela jer je pristup ograničen za ovu zemlju.</translation>
 <translation id="452711251841752011">Dobro došli u Cobalt; otvorio se novi prozor preglednika</translation>
 <translation id="4544142686420020088">Cobalt se nije ažurirao zbog pogreške. <ph name="BEGIN_LINK" />Riješite probleme s ažuriranjem i neuspjela ažuriranja Chromiuma.<ph name="END_LINK" /></translation>
@@ -236,7 +236,7 @@ Dopuštenja koja ste već dali web-lokacijama i aplikacijama mogu se primijeniti
 <translation id="538767207339317086">Dopusti prijavu u Cobalt</translation>
 <translation id="5398878173008909840">Dostupna je nova verzija preglednika Cobalt.</translation>
 <translation id="5405650547142096840">Uklanjanje iz Chromiuma</translation>
-<translation id="5427571867875391349">Postavite Chrome kao zadani preglednik</translation>
+<translation id="5427571867875391349">Postavite Cobalt kao zadani preglednik</translation>
 <translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Cobalt Beta</translation>
 <translation id="5473971139929175403">Cobalt možda neće ispravno raditi jer više nije podržan na toj distribuciji Linuxa</translation>
 <translation id="5480860683791598150">Cobalt treba dopuštenje za pristup vašoj lokaciji da bi je podijelio s ovom web-lokacijom</translation>
@@ -353,7 +353,7 @@ Neke su značajke možda nedostupne. Navedite neki drugi direktorij profila ili 
 <translation id="7025789849649390912">Instaliranje je zaustavljeno.</translation>
 <translation id="705851970750939768">Ažuriraj Cobalt</translation>
 <translation id="7067091210845072982">Ako slika nema koristan opis, Cobalt će ga pokušati pružiti. Da bi se izradili opisi, slike se šalju Googleu.</translation>
-<translation id="7141270731789036260">Prilagodite Chrome for Testing</translation>
+<translation id="7141270731789036260">Prilagodite Cobalt for Testing</translation>
 <translation id="7173822816570314652">Vaša organizacija briše podatke iz Chromiuma kada se ne upotrebljavaju <ph name="TIMEOUT_DURATION" />. To može uključivati povijest, automatsko popunjavanje i preuzimanja.</translation>
 <translation id="718435575166326686">Cobalt treba dopuštenje za fotoaparat za ovu web-lokaciju</translation>
 <translation id="7196312274710523067">Pokretanje Chromiuma nije uspjelo. Pokušajte ponovo.</translation>

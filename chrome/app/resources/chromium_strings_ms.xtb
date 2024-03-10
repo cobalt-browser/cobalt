@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Sediakan profil Cobalt baharu anda</translation>
 <translation id="1342274909142618978">Padamkan juga data daripada Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Anda log masuk ke Cobalt!</translation>
-<translation id="1478370723027452770">Dapatkan bantuan tentang Chrome for Testing</translation>
+<translation id="1478370723027452770">Dapatkan bantuan tentang Cobalt for Testing</translation>
 <translation id="1497802159252041924">Ralat pemasangan: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Kongsi tab Cobalt</translation>
 <translation id="1553461853655228091">Cobalt memerlukan kebenaran untuk mengakses kamera anda untuk membuat peta 3D persekitaran anda</translation>
@@ -162,7 +162,7 @@ Kebenaran yang telah anda berikan kepada laman web dan apl mungkin dikenakan pad
 <translation id="388648406173476553">Sesuaikan dan kawal Cobalt. Perhatian anda diperlukan - klik untuk mendapatkan butiran.</translation>
 <translation id="3889543394854987837">Klik nama anda untuk membuka Cobalt dan mula menyemak imbas.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> telah pun dilog masuk ke profil Cobalt ini. Untuk menjadikan penyemakan imbas anda terpisah, Cobalt boleh membuat profil anda sendiri untuk anda.</translation>
-<translation id="3909353120217047026">Sambungan ini melanggar dasar Gedung Web Chrome dan mungkin tidak selamat. Alih keluar sambungan ini daripada Cobalt supaya sambungan ini tidak dapat melihat dan mengubah data anda pada laman yang anda lawati lagi, termasuk maklumat peribadi anda.</translation>
+<translation id="3909353120217047026">Sambungan ini melanggar dasar Gedung Web Cobalt dan mungkin tidak selamat. Alih keluar sambungan ini daripada Cobalt supaya sambungan ini tidak dapat melihat dan mengubah data anda pada laman yang anda lawati lagi, termasuk maklumat peribadi anda.</translation>
 <translation id="391789666908693569">Akaun anda diurus oleh <ph name="MANAGER_NAME" />. Pentadbir anda boleh melihat dan mengedit profil penyemak imbas Cobalt ini dan datanya seperti penanda halaman, sejarah dan kata laluan.</translation>
 <translation id="3941890832296813527">Ralat pemasangan: Nama fail pemasang tidak sah atau tidak disokong.</translation>
 <translation id="3945058413678539331">Cobalt cuba menyalin kata laluan. Taip kata laluan Windows anda untuk membenarkan penyalinan.</translation>
@@ -192,7 +192,7 @@ Kebenaran yang telah anda berikan kepada laman web dan apl mungkin dikenakan pad
 <translation id="4415566066719264597">Benarkan Cobalt Dijalankan dalam Latar Belakang</translation>
 <translation id="4423735387467980091">Sesuaikan dan kawal Cobalt</translation>
 <translation id="4427306783828095590">Perlindungan yang dipertingkatkan melakukan pelbagai lagi perkara untuk menyekat pancingan data dan perisian hasad</translation>
-<translation id="4447409407328223819">Perihal Chrome for Testing</translation>
+<translation id="4447409407328223819">Perihal Cobalt for Testing</translation>
 <translation id="4501471624619070934">Pemasangan gagal kerana akses disekat di negara ini.</translation>
 <translation id="452711251841752011">Selamat datang ke Cobalt; tetingkap penyemak imbas baharu dibuka</translation>
 <translation id="4544142686420020088">Cobalt tidak dikemas kini, kesilapan telah berlaku. <ph name="BEGIN_LINK" />Selesaikan masalah kemas kini dan kegagalan kemas kini Cobalt.<ph name="END_LINK" /></translation>
@@ -353,7 +353,7 @@ Beberapa ciri mungkin tidak tersedia. Sila nyatakan direktori profil yang berbez
 <translation id="7025789849649390912">Pemasangan Dihentikan.</translation>
 <translation id="705851970750939768">Kemas kini Cobalt</translation>
 <translation id="7067091210845072982">Jika imej tiada perihalan yang berguna, Cobalt akan cuba memberikan perihalan untuk anda. Untuk membuat perihalan, imej dihantar kepada Google.</translation>
-<translation id="7141270731789036260">Sesuaikan Chrome for Testing</translation>
+<translation id="7141270731789036260">Sesuaikan Cobalt for Testing</translation>
 <translation id="7173822816570314652">Organisasi anda memadamkan data Cobalt apabila data tersebut tidak digunakan selama <ph name="TIMEOUT_DURATION" />. Pemadaman ini termasuk sejarah, autolengkap dan muat turun.</translation>
 <translation id="718435575166326686">Cobalt memerlukan kebenaran kamera untuk laman ini</translation>
 <translation id="7196312274710523067">Tidak dapat melancarkan Cobalt. Cuba lagi.</translation>
@@ -399,7 +399,7 @@ Cobalt tidak dapat mengembalikan tetapan anda.</translation>
 <translation id="7877292582355102282"><ph name="BEGIN_BOLD" />Cara anda boleh mengurus data anda:<ph name="END_BOLD" /> Untuk melindungi privasi anda, kami memadamkan minat anda yang disimpan melebihi 4 minggu secara automatik. Semasa anda terus menyemak imbas, minat itu mungkin muncul semula dalam senarai. Anda juga boleh mengalih keluar minat yang anda tidak mahu dipertimbangkan Cobalt.</translation>
 <translation id="7937630085815544518">Anda telah log masuk ke Cobalt sebagai <ph name="USER_EMAIL_ADDRESS" />. Sila gunakan akaun yang sama untuk log masuk lagi.</translation>
 <translation id="7975919845073681630">Ini adalah pemasangan kedua Cobalt dan tidak boleh dijadikan penyemak imbas lalai anda.</translation>
-<translation id="7997934263947464652">Sambungan, apl dan tema daripada sumber yang tidak diketahui boleh membahayakan peranti anda. Chrome mengesyorkan agar memasang fail daripada <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> sahaja</translation>
+<translation id="7997934263947464652">Sambungan, apl dan tema daripada sumber yang tidak diketahui boleh membahayakan peranti anda. Cobalt mengesyorkan agar memasang fail daripada <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> sahaja</translation>
 <translation id="8013436988911883588">Sebaik sahaja Cobalt mendapat akses, laman web akan dapat meminta akses daripada anda.</translation>
 <translation id="80471789339884597">Terima kasih kerana memasang. Anda perlu memulakan semula semua penyemak imbas anda sebelum menggunakan <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8086881907087796310">Pemasangan gagal kerana komputer anda tidak menepati keperluan perkakasan minimum.</translation>

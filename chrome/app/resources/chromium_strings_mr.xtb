@@ -21,7 +21,7 @@
 <translation id="1315551408014407711">तुमची नवीन Cobalt प्रोफाइल सेट करा</translation>
 <translation id="1342274909142618978">तसेच Cobalt मधून डेटा हटवा (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">तुम्ही Cobalt मध्ये साइन इन केले आहे!</translation>
-<translation id="1478370723027452770">Chrome for Testing शी संबंधित मदत मिळवा</translation>
+<translation id="1478370723027452770">Cobalt for Testing शी संबंधित मदत मिळवा</translation>
 <translation id="1497802159252041924">इंस्टॉलसंबंधित एरर: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Cobalt टॅब शेअर करा</translation>
 <translation id="1553461853655228091">तुमच्या आसपासचा 3D नकाशा तयार करण्यासाठी Cobalt ला तुमचा कॅमेरा अ‍ॅक्सेस करण्याची परवानगी हवी आहे</translation>
@@ -163,7 +163,7 @@
 <translation id="388648406173476553">Cobalt कस्टमाइझ करा आणि नियंत्रित करा. एका गोष्टीवर तुम्ही लक्ष द्यायला हवे - तपशिलांसाठी क्लिक करा.</translation>
 <translation id="3889543394854987837">Cobalt उघडण्यासाठी तुमचे नाव क्लिक करा आणि ब्राउझिंग सुरू करा.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> यांनी आधीपासून या Cobalt प्रोफाइलमध्ये साइन इन केलेले आहे. तुमचे ब्राउझिंग स्वतंत्र ठेवण्यासाठी, Cobalt तुमच्याकरिता तुमची स्वतःची प्रोफाइल तयार करू शकते.</translation>
-<translation id="3909353120217047026">हे एक्स्टेंशन Chrome वेब स्टोअर च्या धोरणाचे उल्लंघन करते आणि ते असुरक्षित असू शकते. ते Cobalt वरून काढून टाका, जेणेकरून ते तुमच्या वैयक्तिक माहितीच्या समावेशासह तुम्ही भेट देत असलेल्या साइटवरील तुमचा डेटा आता पाहू आणि बदलू शकत नाही.</translation>
+<translation id="3909353120217047026">हे एक्स्टेंशन Cobalt वेब स्टोअर च्या धोरणाचे उल्लंघन करते आणि ते असुरक्षित असू शकते. ते Cobalt वरून काढून टाका, जेणेकरून ते तुमच्या वैयक्तिक माहितीच्या समावेशासह तुम्ही भेट देत असलेल्या साइटवरील तुमचा डेटा आता पाहू आणि बदलू शकत नाही.</translation>
 <translation id="391789666908693569">तुमचे खाते <ph name="MANAGER_NAME" /> द्वारे व्यवस्थापित केले जाते. तुमचा अ‍ॅडमिनिस्ट्रेटर ही Cobalt ब्राउझर प्रोफाइल आणि त्यातील डेटा, जसे की बुकमार्क, इतिहास आणि पासवर्ड पाहू व संपादित करू शकतो.</translation>
 <translation id="3941890832296813527">इंस्टॉलसंबंधित एरर: इंस्टॉलर फाइल नाव चुकीचे आहे किंवा त्यास सपोर्ट नाही.</translation>
 <translation id="3945058413678539331">Cobalt पासवर्ड कॉपी करण्याचा प्रयत्‍न करत आहे. हे करू देण्यासाठी तुमचा Windows पासवर्ड टाइप करा.</translation>
@@ -193,7 +193,7 @@
 <translation id="4415566066719264597">Cobalt बॅकग्राउंडमध्ये सुरू द्या</translation>
 <translation id="4423735387467980091">Cobalt कस्टमाइझ करा आणि नियंत्रित करा</translation>
 <translation id="4427306783828095590">वर्धित सुरक्षितता फिशिंग आणि मालवेअर अधिक चांगल्यारितीने ब्लॉक करते</translation>
-<translation id="4447409407328223819">Chrome for Testing विषयी</translation>
+<translation id="4447409407328223819">Cobalt for Testing विषयी</translation>
 <translation id="4501471624619070934">या देशामध्ये अ‍ॅक्सेस प्रतिबंधित असल्यामुळे इंस्टॉलेशन अयशस्वी झाले.</translation>
 <translation id="452711251841752011">Cobalt मध्ये स्वागत आहे; नवीन ब्राउझर विंडो उघडली</translation>
 <translation id="4544142686420020088">Cobalt अपडेट झाले नाही, काहीतरी चूक झाली. <ph name="BEGIN_LINK" />Cobalt अपडेट समस्या आणि अयशस्वी झालेल्या अपडेटचे निराकरण करा.<ph name="END_LINK" /></translation>
@@ -354,7 +354,7 @@
 <translation id="7025789849649390912">इंस्टॉलेशन थांबवले</translation>
 <translation id="705851970750939768">Cobalt अपडेट करा</translation>
 <translation id="7067091210845072982">इमेजचे उपयोगी वर्णन नसल्यास, Cobalt तुमच्यासाठी ते देण्याचा प्रयत्न करेल. वर्णने तयार करण्यासाठी, इमेज Google ला पाठवल्या जातात.</translation>
-<translation id="7141270731789036260">Chrome for Testing कस्टमाइझ करा</translation>
+<translation id="7141270731789036260">Cobalt for Testing कस्टमाइझ करा</translation>
 <translation id="7173822816570314652"><ph name="TIMEOUT_DURATION" /> कालावधीसाठी Cobalt डेटा वापरला जात नाही, तेव्हा तुमची संस्था तो हटवते. यात इतिहास, ऑटोफिल आणि डाउनलोड यांचा समावेश असू शकतो.</translation>
 <translation id="718435575166326686">Cobalt ला या साइटसाठी कॅमेराची परवानगी आवश्यक आहे</translation>
 <translation id="7196312274710523067">Cobalt लाँच करता आले नाही. पुन्हा प्रयत्न करा.</translation>
@@ -472,7 +472,7 @@ Cobalt तुमची सेटिंग्ज रिकव्हर करू 
 <translation id="93478295209880648">Cobalt ला आता Windows XP किंवा Windows Vista चा सपोर्ट नसल्यामुळे ते आता कदाचित अचूकपणे काम करणार नाही</translation>
 <translation id="942598560705308788">Cobalt द्वारे व्यवस्थापित केलेली सर्टिफिकेट</translation>
 <translation id="965162752251293939">Cobalt कोण वापरत आहे?</translation>
-<translation id="967427899662692980">Chrome ची सर्वात मजबूत सुरक्षा मिळवा</translation>
+<translation id="967427899662692980">Cobalt ची सर्वात मजबूत सुरक्षा मिळवा</translation>
 <translation id="983803489796659991">अपडेट सर्व्हरकडे अ‍ॅप्लिकेशनसाठी कोणताही हॅश डेटा नसल्यामुळे, इंस्टॉलेशन यशस्वी झाले नाही.</translation>
 <translation id="985602178874221306">Cobalt लेखक</translation>
 </translationbundle>

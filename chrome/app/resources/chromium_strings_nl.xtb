@@ -22,7 +22,7 @@ Sommige functies zijn wellicht niet beschikbaar en wijzigingen in voorkeuren wor
 <translation id="1315551408014407711">Je nieuwe Cobalt-profiel instellen</translation>
 <translation id="1342274909142618978">Gegevens ook verwijderen uit Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Je bent ingelogd bij Cobalt.</translation>
-<translation id="1478370723027452770">Hulp bij Chrome for Testing</translation>
+<translation id="1478370723027452770">Hulp bij Cobalt for Testing</translation>
 <translation id="1497802159252041924">Installatiefout: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Een Cobalt-tabblad delen</translation>
 <translation id="1553461853655228091">Cobalt heeft toegangsrechten voor de camera nodig om een 3D-kaart van je omgeving te maken</translation>
@@ -123,7 +123,7 @@ Rechten die je al hebt gegeven aan websites en apps, kunnen van toepassing zijn 
 <translation id="3179665906251668410">Link openen in een Cobalt-inco&amp;gnitovenster</translation>
 <translation id="3185330573522821672">Je nieuwe Cobalt-profiel aanpassen</translation>
 <translation id="3190315855212034486">Cobalt is gecrasht. Nu opnieuw starten?</translation>
-<translation id="3258596308407688501">Chrome kan niet lezen van en schrijven naar de eigen gegevensdirectory :
+<translation id="3258596308407688501">Cobalt kan niet lezen van en schrijven naar de eigen gegevensdirectory :
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
 <translation id="3268051428841342958">V8 is de JavaScript- en WebAssembly-engine van Cobalt die wordt gebruikt om de siteprestaties te verbeteren</translation>
@@ -164,7 +164,7 @@ Rechten die je al hebt gegeven aan websites en apps, kunnen van toepassing zijn 
 <translation id="388648406173476553">Pas Cobalt aan en beheer de instellingen. Je aandacht is vereist. Klik voor meer informatie.</translation>
 <translation id="3889543394854987837">Klik op je naam om Cobalt te openen en begin met surfen.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> is al ingelogd bij dit Cobalt-profiel. Als je je browsegegevens gescheiden wilt houden, kan Cobalt een eigen profiel voor je maken.</translation>
-<translation id="3909353120217047026">Deze extensie schendt het beleid van de Chrome Web Store en is mogelijk onveilig. Verwijder de extensie van Cobalt zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
+<translation id="3909353120217047026">Deze extensie schendt het beleid van de Cobalt Web Store en is mogelijk onveilig. Verwijder de extensie van Cobalt zodat deze je gegevens (waaronder je persoonlijke informatie) niet meer kan bekijken en wijzigen op sites die je bezoekt.</translation>
 <translation id="391789666908693569">Je account wordt beheerd door <ph name="MANAGER_NAME" />. Je beheerder kan dit Cobalt-browserprofiel en de bijbehorende gegevens (zoals bookmarks, geschiedenis en wachtwoorden) bekijken en bewerken.</translation>
 <translation id="3941890832296813527">Installatiefout: De bestandsnaam van het installatieprogramma is ongeldig of wordt niet ondersteund.</translation>
 <translation id="3945058413678539331">Cobalt probeert wachtwoorden te kopiëren. Geef je Windows-wachtwoord op om dit toe te staan.</translation>
@@ -194,7 +194,7 @@ Rechten die je al hebt gegeven aan websites en apps, kunnen van toepassing zijn 
 <translation id="4415566066719264597">Cobalt laten uitvoeren op de achtergrond</translation>
 <translation id="4423735387467980091">Cobalt aanpassen en beheren</translation>
 <translation id="4427306783828095590">Geoptimaliseerde beveiliging die je nog beter beschermt tegen phishing en malware</translation>
-<translation id="4447409407328223819">Over Chrome for Testing</translation>
+<translation id="4447409407328223819">Over Cobalt for Testing</translation>
 <translation id="4501471624619070934">De installatie is mislukt omdat de toegang is beperkt in dit land.</translation>
 <translation id="452711251841752011">Welkom bij Cobalt, nieuw browservenster geopend</translation>
 <translation id="4544142686420020088">Cobalt is niet geüpdatet. Er is een fout opgetreden. <ph name="BEGIN_LINK" />Updateproblemen en mislukte updates voor Cobalt verhelpen<ph name="END_LINK" /></translation>
@@ -354,7 +354,7 @@ Sommige functies zijn mogelijk niet beschikbaar. Geef een andere profieldirector
 <translation id="7025789849649390912">Installatie gestopt.</translation>
 <translation id="705851970750939768">Cobalt updaten</translation>
 <translation id="7067091210845072982">Als een afbeelding geen nuttige beschrijving bevat, probeert Cobalt je er een te geven. Afbeeldingen worden naar Google verzonden om beschrijvingen te maken.</translation>
-<translation id="7141270731789036260">Chrome for Testing aanpassen</translation>
+<translation id="7141270731789036260">Cobalt for Testing aanpassen</translation>
 <translation id="7173822816570314652">Je organisatie verwijdert Cobalt-gegevens als deze <ph name="TIMEOUT_DURATION" /> niet worden gebruikt. Dit kunnen onder andere de geschiedenis, gegevens voor automatisch invullen en downloads zijn.</translation>
 <translation id="718435575166326686">Cobalt heeft camerarechten nodig voor deze site</translation>
 <translation id="7196312274710523067">Kan Cobalt niet starten. Probeer het opnieuw.</translation>

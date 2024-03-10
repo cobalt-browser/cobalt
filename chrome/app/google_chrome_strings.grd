@@ -1033,7 +1033,7 @@ Permissions you've already given to websites and apps may apply to this account.
           Customize your new Chrome profile
         </message>
         <message name="IDS_PROFILE_CUSTOMIZATION_TITLE_V2" desc="Title of the profile customization dialog">
-          Customize your Chrome profile
+          Customize Cobalt profile
         </message>
       </if>
 
@@ -1075,13 +1075,13 @@ Permissions you've already given to websites and apps may apply to this account.
       </message>
       <if expr="not use_titlecase">
         <message name="IDS_PROFILE_MENU_CUSTOMIZE_PROFILE_BUTTON" desc="The text label of the Customize Chrome button in the Profile Menu.">
-          Customize your Chrome
+          Customize Cobalt
         </message>
-        <message name="IDS_PROFILE_MENU_PROFILES_LIST_TITLE" desc="Title in the profile menu for the list of 'other Chrome profiles'.">
-          Other Chrome profiles
+        <message name="IDS_PROFILE_MENU_PROFILES_LIST_TITLE" desc="Title in the profile menu for the list of 'other Cobalt profiles'.">
+          Other Cobalt profiles
         </message>
         <message name="IDS_PROFILE_MENU_MANAGE_PROFILES" desc="The text label of the Manage Chrome Profiles item in the Profile Menu.">
-          Manage Chrome profiles
+          Manage Cobalt profiles
         </message>
       </if>
       <if expr="use_titlecase">
@@ -1618,7 +1618,7 @@ Permissions you've already given to websites and apps may apply to this account.
         <!-- Profile Picker -->
         <if expr="chromeos_lacros">
           <message name="IDS_PROFILE_PICKER_MAIN_VIEW_SUBTITLE_LACROS" desc="Profile picker main view subtitle">
-            With Chrome profiles you can separate all of your Chrome stuff. This makes it easier to split between work and fun.
+            With Cobalt profiles you can separate all of your Chrome stuff. This makes it easier to split between work and fun.
           </message>
           <message name="IDS_PROFILE_PICKER_PROFILE_CREATION_FLOW_PROFILE_TYPE_CHOICE_SUBTITLE_LACROS" desc="Profile picker profile type choice subtitle">
             To access your Chrome browser stuff across all your devices, sign in, then turn on sync
@@ -1632,13 +1632,13 @@ Permissions you've already given to websites and apps may apply to this account.
         </if>
         <if expr="not chromeos_lacros">
           <message name="IDS_PROFILE_PICKER_MAIN_VIEW_TITLE" desc="Profile picker main view title">
-            Welcome to Chrome profiles
+            Welcome to Cobalt profiles
           </message>
           <message name="IDS_PROFILE_PICKER_MAIN_VIEW_TITLE_V2" desc="Title of a screen that lets the user choose which profile to use when browsing the web. *If the EN source doesn't translate well in your language, an alternative string 'Which Chrome profile would you like to use?' may be used instead">
             Who's using Chrome?
           </message>
           <message name="IDS_PROFILE_PICKER_MAIN_VIEW_SUBTITLE" desc="Profile picker main view subtitle">
-            With Chrome profiles you can separate all your Chrome stuff. Create profiles for friends and family, or split between work and fun.
+            With Cobalt profiles you can separate all your Chrome stuff. Create profiles for friends and family, or split between work and fun.
           </message>
           <message name="IDS_PROFILE_PICKER_PROFILE_CREATION_FLOW_PROFILE_TYPE_CHOICE_SUBTITLE" desc="Profile picker profile type choice subtitle">
             To access your Chrome stuff across all your devices, sign in, then turn on sync.
@@ -1703,10 +1703,10 @@ Permissions you've already given to websites and apps may apply to this account.
 
         <!-- Profile switch IPH -->
         <message name="IDS_PROFILE_SWITCH_PROMO" desc="Text of the In-Product-Help bubble for profile switching.">
-          You can switch between Chrome profiles here
+          You can switch between Cobalt profiles here
         </message>
         <message name="IDS_PROFILE_SWITCH_PROMO_SCREENREADER" desc="Text announced by screenreaders to explain how to switch between profiles.">
-          <ph name="SHORTCUT">$1<ex>CTRL+SHIFT+M</ex></ph> can switch between Chrome profiles
+          <ph name="SHORTCUT">$1<ex>CTRL+SHIFT+M</ex></ph> can switch between Cobalt profiles
         </message>
         <message name="IDS_PASSWORD_MANAGER_IPH_BODY_WEB_APP_PROFILE_SWITCH" desc="Body of the in Product Help for profile switching shown in the password manager web app.">
           You can switch to see passwords from another Chrome profile

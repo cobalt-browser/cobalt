@@ -22,7 +22,7 @@ Kai kurios funkcijos gali būti nepasiekiamos ir nuostatų pakeitimai nebus išs
 <translation id="1315551408014407711">Nustatykite naują „Cobalt“ profilį</translation>
 <translation id="1342274909142618978">Taip pat ištrinti duomenis iš „Cobalt“ (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Esate prisijungę prie „Cobalt“.</translation>
-<translation id="1478370723027452770">Gauti pagalbos dėl „Chrome for Testing“</translation>
+<translation id="1478370723027452770">Gauti pagalbos dėl „Cobalt for Testing“</translation>
 <translation id="1497802159252041924">Diegimo klaida: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">„Cobalt“ skirtuko bendrinimas</translation>
 <translation id="1553461853655228091">„Cobalt“ reikia leidimo naudoti fotoaparatą jūsų aplinkos 3D žemėlapiui kurti</translation>
@@ -164,7 +164,7 @@ Leidimai, kuriuos jau esate suteikę svetainėms ir programoms, gali būti taiko
 <translation id="388648406173476553">Tinkinkite ir valdykite „Cobalt“. Reikia atkreipti dėmesį – spustelėkite ir peržiūrėkite išsamią informaciją.</translation>
 <translation id="3889543394854987837">Spustelėkite savo vardą, kad atidarytumėte „Cobalt“ ir pradėtumėte naršyti.</translation>
 <translation id="390528597099634151">Naudotojas (<ph name="EXISTING_USER" />) jau yra prisijungęs prie šio „Cobalt“ profilio. Kad naršytumėte atskirai, „Cobalt“ gali sukurti jums atskirą profilį.</translation>
-<translation id="3909353120217047026">Šis plėtinys pažeidžia „Chrome“ internetinės parduotuvės politiką ir gali būti nesaugus. Pašalinkite jį iš „Cobalt“, kad jis nebematytų ir negalėtų pakeisti jūsų duomenų svetainėse, kuriose lankotės, įskaitant jūsų asmens informaciją.</translation>
+<translation id="3909353120217047026">Šis plėtinys pažeidžia „Cobalt“ internetinės parduotuvės politiką ir gali būti nesaugus. Pašalinkite jį iš „Cobalt“, kad jis nebematytų ir negalėtų pakeisti jūsų duomenų svetainėse, kuriose lankotės, įskaitant jūsų asmens informaciją.</translation>
 <translation id="391789666908693569">Jūsų paskyrą tvarko <ph name="MANAGER_NAME" />. Jūsų administratorius gali matyti ir redaguoti šį „Cobalt“ naršyklės profilį bei jo duomenis, pvz., žymes, istoriją ir slaptažodžius.</translation>
 <translation id="3941890832296813527">Diegimo klaida: diegimo programos failo pavadinimas netinkamas arba nepalaikomas.</translation>
 <translation id="3945058413678539331">„Cobalt“ bando kopijuoti slaptažodžius. Įveskite „Windows“ slaptažodį, kad tai leistumėte.</translation>
@@ -194,7 +194,7 @@ Leidimai, kuriuos jau esate suteikę svetainėms ir programoms, gali būti taiko
 <translation id="4415566066719264597">„Cobalt“ leidimas fone</translation>
 <translation id="4423735387467980091">Tinkinkite ir valdykite „Cobalt“</translation>
 <translation id="4427306783828095590">Naudojant sustiprintą apsaugą pasitelkiama papildomų priemonių sukčiavimui ir kenkėjiškoms programoms užblokuoti</translation>
-<translation id="4447409407328223819">Apie „Chrome for Testing“</translation>
+<translation id="4447409407328223819">Apie „Cobalt for Testing“</translation>
 <translation id="4501471624619070934">Diegimas nepavyko, nes šioje šalyje prieiga ribojama.</translation>
 <translation id="452711251841752011">Sveiki, tai – „Cobalt“; atidarytas naujas naršyklės langas</translation>
 <translation id="4544142686420020088">Nepavyko atnaujinti „Cobalt“, įvyko klaida. <ph name="BEGIN_LINK" />Pašalinkite „Cobalt“ naujinimo problemas ir naujinių klaidas.<ph name="END_LINK" /></translation>
@@ -355,7 +355,7 @@ Kai kurios funkcijos gali būti nepasiekiamos. Nurodykite kitą profilio katalog
 <translation id="7025789849649390912">Diegimas sustabdytas.</translation>
 <translation id="705851970750939768">Atnaujinti „Cobalt“</translation>
 <translation id="7067091210845072982">Jei nebus naudingo vaizdo aprašo, „Cobalt“ bandys jums jį pateikti. Kad būtų galima kurti aprašus, vaizdai siunčiami į sistemą „Google“.</translation>
-<translation id="7141270731789036260">Tinkinti „Chrome for Testing“</translation>
+<translation id="7141270731789036260">Tinkinti „Cobalt for Testing“</translation>
 <translation id="7173822816570314652">Organizacija ištrina „Cobalt“ duomenis, kai jie nenaudojami <ph name="TIMEOUT_DURATION" />. Tai gali būti istorija, automatinis pildymas ir atsisiuntimai.</translation>
 <translation id="718435575166326686">„Cobalt“ reikalingas fotoaparato leidimas šioje svetainėje</translation>
 <translation id="7196312274710523067">Nepavyko paleisti „Cobalt“. Bandykite dar kartą.</translation>

@@ -22,7 +22,7 @@ Ezinye izici kungenzeka zingabi khona futhi izinguquko kokuncamelayo ngeke zize 
 <translation id="1315551408014407711">Setha iphrofayela yakho entsha ye-Cobalt</translation>
 <translation id="1342274909142618978">Futhi sula idatha ku-Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Ungene ngemvume ku-Cobalt!</translation>
-<translation id="1478370723027452770">Thola usizo nge-Chrome Yokuhlola</translation>
+<translation id="1478370723027452770">Thola usizo nge-Cobalt Yokuhlola</translation>
 <translation id="1497802159252041924">Iphutha lokufaka <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Yabelana ngethebhu ye-Cobalt</translation>
 <translation id="1553461853655228091">I-Cobalt idinga imvume yokufinyelela kwikhamera yakho ukudala imephu engu-3D yendawo yakho ekuzungezile</translation>
@@ -68,7 +68,7 @@ Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akha
 <translation id="2174917724755363426">Ukufaka akuqediwe. Uqinisekile ufuna ukukhansela?</translation>
 <translation id="2185166961232948079">I-Cobalt - Inethiwekhi Yokungena ngemvume - <ph name="PAGE_TITLE" /></translation>
 <translation id="2190166659037789668">Buyekeza iphutha lokuchekha: <ph name="UPDATE_CHECK_ERROR" />.</translation>
-<translation id="2241627712206172106">Uma wabelana ngekhompyutha, abangani nomndeni bangadlulisa amehlo ngokuhlukile baphinde basethe i-Chrome ngendlela abafuna ngayo nje.</translation>
+<translation id="2241627712206172106">Uma wabelana ngekhompyutha, abangani nomndeni bangadlulisa amehlo ngokuhlukile baphinde basethe i-Cobalt ngendlela abafuna ngayo nje.</translation>
 <translation id="2313870531055795960">Kuhlola ama-URL anohlu lwamasayithi angaphephile agcinwe ku-Cobalt. Uma isayithi lizama ukuntshontsha iphasiwedi yakho, noma uma ulanda ifayela eliyingozi, i-Cobalt ingathumela nama-URL, kuhlanganise nokuthile okuqukethwe kulelo khasi, Ekuphequluleni Okuphephile.</translation>
 <translation id="2329088755516916767">Uma ivuliwe, i-Cobalt ilayisha kuqala amakhasi okwenza ukubhrawuza nokusesha kusheshe.</translation>
 <translation id="2343156876103232566">Ukuze uthumele inombolo kusukela lapha kufoni yakho ye-Android, ngena ngemvume ku-Cobalt kuwo womabili amadivayisi.</translation>
@@ -91,7 +91,7 @@ Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akha
 <translation id="259935314519650377">Yehlulekile ukufaka enqolobaneni isifaki esidawunilodiwe. Iphutha: <ph name="UNPACK_CACHING_ERROR_CODE" />.</translation>
 <translation id="264613044588233783">I-Cobalt iyashesha ukuqalisa futhi izathi ezisebenzisa i-JavaScript kufanele zisebenze njengoba ziklanyiwe (okunconywayo)</translation>
 <translation id="2648074677641340862">Iphutha le sistimu yokusebenza livele ngesikhathi sokufaka. Sicela uphinde ulande i-Cobalt.</translation>
-<translation id="2661879430930417727">Uma wabelana ngedivayisi, abangane nomndeni bangaphequlula ngokuhlukile baphinde basethe i-Chrome ngendlela abafuna ngayo</translation>
+<translation id="2661879430930417727">Uma wabelana ngedivayisi, abangane nomndeni bangaphequlula ngokuhlukile baphinde basethe i-Cobalt ngendlela abafuna ngayo</translation>
 <translation id="268602741124540128">Siyakwamukela ku-Cobalt, <ph name="ACCOUNT_FIRST_NAME" /></translation>
 <translation id="2711502716910134313">Ithebhu le-Cobalt</translation>
 <translation id="2718390899429598676">Ngokuvikela okungeziwe, i-Cobalt izobethela idatha yakho.</translation>
@@ -164,7 +164,7 @@ Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akha
 <translation id="388648406173476553">Yenza ngokwezifiso uphinde ulawule i-Cobalt. Okuthile kudinga ukuthi ukunake - chofoza ngemininingwane.</translation>
 <translation id="3889543394854987837">Chofoza igama lakho ukuze uvule i-Cobalt uphinde uqale ukudlulisa amehlo.</translation>
 <translation id="390528597099634151">U-<ph name="EXISTING_USER" /> usengene ngemvume kakade kule phrofayela ye-Cobalt. Ukuze uqhubeke nokuphequlula ngokwehlukile, i-Cobalt ingakwazi ukukudalela iphrofayela yakho.</translation>
-<translation id="3909353120217047026">Lesi sandiso sephula inqubomgomo Yesitolo sewebu se-Chrome, futhi kungenzeka singabi esiphephile. Sisuse ku-Cobalt ukuze singasakwazi ukubona nokushintsha idatha yakho kumasayithi owavakashelayo, okufaka phakathi ulwazi lwakho lomuntu siqu.</translation>
+<translation id="3909353120217047026">Lesi sandiso sephula inqubomgomo Yesitolo sewebu se-Cobalt, futhi kungenzeka singabi esiphephile. Sisuse ku-Cobalt ukuze singasakwazi ukubona nokushintsha idatha yakho kumasayithi owavakashelayo, okufaka phakathi ulwazi lwakho lomuntu siqu.</translation>
 <translation id="391789666908693569">I-akhawunti yakho iphethwe i-<ph name="MANAGER_NAME" />. Umlawuli wakho angabona futhi ahlele le phrofayela yebhrawuza ye-Cobalt nedatha yayo efana namabhukhimakhi, umlando, namaphasiwedi.</translation>
 <translation id="3941890832296813527">Iphutha lokufaka: Igama lefayela lesifaki alivumelekile noma alisekelwe.</translation>
 <translation id="3945058413678539331">I-Cobalt izama ukukopisha amaphasiwedi. Thayipha iphasiwedi yakho ye-Windows ukuze uvumele lokhu.</translation>
@@ -194,7 +194,7 @@ Izimvume ozinikezile kakade amawebhusayithi nama-app zingase zisebenze kule akha
 <translation id="4415566066719264597">Vumela i-Cobalt isebenze ngemuva</translation>
 <translation id="4423735387467980091">Yenza ngokwezifiso uphinde ulawule i-Cobalt</translation>
 <translation id="4427306783828095590">Isivikelo esithuthukisiwe senza okuningi ukuvimba ubugebengu bokweba imininingwane ebucayi kanye uhlelo olungayilungele ikhompyutha</translation>
-<translation id="4447409407328223819">Mayelana ne-Chrome Yokuhlola</translation>
+<translation id="4447409407328223819">Mayelana ne-Cobalt Yokuhlola</translation>
 <translation id="4501471624619070934">Ukufaka kuhlulekile ngoba ukufinyelela kukhawulelwe kuleli zwe.</translation>
 <translation id="452711251841752011">Siyakwamukela ku-Cobalt; iwindi elisha lesiphequluli livuliwe</translation>
 <translation id="4544142686420020088">I-Cobalt ayibuyekezekanga, kunokuthile okungahambanga kahle. <ph name="BEGIN_LINK" />Lungisa izinkinga zokubuyekaza kwe-Cobalt nezibuyekezo ezihlulekile.<ph name="END_LINK" /></translation>
@@ -355,7 +355,7 @@ Ezinye izici kungenzeka zingatholakali. Sicela ucacise umkhombandlela wephrofaye
 <translation id="7025789849649390912">Ukufaka Kumisiwe.</translation>
 <translation id="705851970750939768">Buyekeza i-Cobalt</translation>
 <translation id="7067091210845072982">Uma isithombe singanayo incazelo ephelele, i-Cobalt izozama ukukunikezela eyodwa. Ukuze udale izincazelo, izithombe zithunyelwa ku-Google.</translation>
-<translation id="7141270731789036260">Yenza i-Chrome ibe ngokwezifiso ukuze ihlolwe</translation>
+<translation id="7141270731789036260">Yenza i-Cobalt ibe ngokwezifiso ukuze ihlolwe</translation>
 <translation id="7173822816570314652">Inhlangano yakho isula idatha ye-Cobalt uma ingasetshenziswa isikhathi esingu-<ph name="TIMEOUT_DURATION" />. Lokhu kungase kuhlanganise umlando, ukugcwalisa ngokuzenzakalelayo, nokudawuniloda.</translation>
 <translation id="718435575166326686">I-Cobalt idinga imvume yekhamera kule sayithi</translation>
 <translation id="7196312274710523067">Ayikwazanga ukuqalisa i-Cobalt. Zama futhi.</translation>

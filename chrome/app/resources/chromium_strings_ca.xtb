@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Configura el teu perfil de Cobalt nou</translation>
 <translation id="1342274909142618978">Suprimeix també les dades de Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Teniu la sessió iniciada a Cobalt.</translation>
-<translation id="1478370723027452770">Obtén ajuda amb Chrome for Testing</translation>
+<translation id="1478370723027452770">Obtén ajuda amb Cobalt for Testing</translation>
 <translation id="1497802159252041924">Error d'instal·lació: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Comparteix una pestanya de Cobalt</translation>
 <translation id="1553461853655228091">Cobalt necessita permís per accedir a la càmera i poder crear un mapa 3D del teu entorn</translation>
@@ -162,7 +162,7 @@
 <translation id="388648406173476553">Personalitza i controla Cobalt. Cal la teva intervenció. Fes clic per obtenir més informació.</translation>
 <translation id="3889543394854987837">Feu clic al vostre nom per obrir Cobalt i començar a navegar.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> ja té la sessió iniciada en aquest perfil de Cobalt. Per continuar amb la teva navegació per separat, Cobalt et pot crear un perfil propi.</translation>
-<translation id="3909353120217047026">Aquesta extensió infringeix la política de Chrome Web Store i podria no ser segura. Suprimeix-la de Cobalt perquè ja no pugui veure ni canviar les teves dades als llocs web que visitis, inclosa la teva informació personal.</translation>
+<translation id="3909353120217047026">Aquesta extensió infringeix la política de Cobalt Web Store i podria no ser segura. Suprimeix-la de Cobalt perquè ja no pugui veure ni canviar les teves dades als llocs web que visitis, inclosa la teva informació personal.</translation>
 <translation id="391789666908693569"><ph name="MANAGER_NAME" /> gestiona el teu compte. L'administrador pot veure i editar aquest perfil del navegador Cobalt i les dades associades, com ara les adreces d'interès, l'historial i les contrasenyes.</translation>
 <translation id="3941890832296813527">Error d'instal·lació: el nom de fitxer de l'instal·lador no és vàlid o no s'admet.</translation>
 <translation id="3945058413678539331">Cobalt està provant de copiar les contrasenyes. Escriu la teva contrasenya de Windows per permetre-ho.</translation>
@@ -192,7 +192,7 @@
 <translation id="4415566066719264597">Permet que Cobalt s'executi en segon pla</translation>
 <translation id="4423735387467980091">Personalitza i controla Cobalt</translation>
 <translation id="4427306783828095590">La protecció millorada és més efiçaç a l'hora de bloquejar la pesca de credencials i el programari maliciós</translation>
-<translation id="4447409407328223819">Sobre Chrome for Testing</translation>
+<translation id="4447409407328223819">Sobre Cobalt for Testing</translation>
 <translation id="4501471624619070934">La instal·lació ha fallat perquè l'accés està restringit en aquest país.</translation>
 <translation id="452711251841752011">Et donem la benvinguda a Cobalt; s'ha obert una altra finestra del navegador</translation>
 <translation id="4544142686420020088">No s'ha actualitzat Cobalt. S'ha produït un error. <ph name="BEGIN_LINK" />Soluciona els problemes i errors d'actualització de Cobalt<ph name="END_LINK" />.</translation>
@@ -353,7 +353,7 @@
 <translation id="7025789849649390912">La instal·lació s'ha aturat.</translation>
 <translation id="705851970750939768">Actualitza Cobalt</translation>
 <translation id="7067091210845072982">Si una imatge no té una descripció útil, Cobalt provarà d'oferir-te'n una. Per crear les descripcions, les imatges s'envien a Google.</translation>
-<translation id="7141270731789036260">Personalitza Chrome for Testing</translation>
+<translation id="7141270731789036260">Personalitza Cobalt for Testing</translation>
 <translation id="7173822816570314652">La teva organització suprimeix les dades de Cobalt quan no s'utilitzen durant <ph name="TIMEOUT_DURATION" />. Això pot incloure l'historial, les dades d'Emplenament automàtic i les baixades.</translation>
 <translation id="718435575166326686">Cobalt necessita permís d'accés a la càmera per a aquest lloc web</translation>
 <translation id="7196312274710523067">No s'ha pogut iniciar Cobalt. Torna-ho a provar.</translation>

@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Configurează noul profil Cobalt</translation>
 <translation id="1342274909142618978">Șterge și datele din Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">V-ați conectat la Cobalt!</translation>
-<translation id="1478370723027452770">Primește ajutor pentru Chrome for Testing</translation>
+<translation id="1478370723027452770">Primește ajutor pentru Cobalt for Testing</translation>
 <translation id="1497802159252041924">Eroare la instalare: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Distribuie o filă Cobalt</translation>
 <translation id="1553461853655228091">Cobalt are nevoie de permisiunea de a accesa camera foto pentru a crea o hartă 3D a lucrurilor din jurul tău</translation>
@@ -162,7 +162,7 @@ Permisiunile pe care le-ai acordat deja site-urilor și aplicațiilor se pot apl
 <translation id="388648406173476553">Personalizează și controlează Cobalt. Ceva are nevoie de atenția ta – dă clic pentru detalii.</translation>
 <translation id="3889543394854987837">Dați clic pe numele dvs. pentru a deschide Cobalt și a începe să navigați.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> s-a conectat deja la acest profil Cobalt. Ca să separi navigarea, poți crea propriul profil în Cobalt.</translation>
-<translation id="3909353120217047026">Această extensie încalcă politica Magazinului web Chrome și ar putea fi nesigură. Elimin-o din Cobalt ca să nu mai poată vedea și modifica datele tale de pe site-urile pe care le accesezi, inclusiv informațiile cu caracter personal.</translation>
+<translation id="3909353120217047026">Această extensie încalcă politica Magazinului web Cobalt și ar putea fi nesigură. Elimin-o din Cobalt ca să nu mai poată vedea și modifica datele tale de pe site-urile pe care le accesezi, inclusiv informațiile cu caracter personal.</translation>
 <translation id="391789666908693569">Contul tău este gestionat de <ph name="MANAGER_NAME" />. Administratorul poate să vadă și să editeze acest profil și datele asociate din browserul Cobalt, cum ar fi marcajele, istoricul și parolele.</translation>
 <translation id="3941890832296813527">Eroare la instalare: numele de fișier al programului de instalare nu este valid sau acceptat.</translation>
 <translation id="3945058413678539331">Cobalt încearcă să copieze parolele. Pentru a permite acest lucru, introdu parola pentru Windows.</translation>
@@ -192,7 +192,7 @@ Permisiunile pe care le-ai acordat deja site-urilor și aplicațiilor se pot apl
 <translation id="4415566066719264597">Permite Cobalt să ruleze în fundal</translation>
 <translation id="4423735387467980091">Personalizați și controlați Cobalt</translation>
 <translation id="4427306783828095590">Protecția îmbunătățită face mai multe pentru blocarea phishingului și a programelor malware</translation>
-<translation id="4447409407328223819">Despre Chrome for Testing</translation>
+<translation id="4447409407328223819">Despre Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalarea nu a reușit deoarece accesul este restricționat în această țară.</translation>
 <translation id="452711251841752011">Bun venit la Cobalt; fereastră de browser nouă deschisă</translation>
 <translation id="4544142686420020088">Cobalt nu s-a actualizat. A apărut o eroare. <ph name="BEGIN_LINK" />Remediază problemele de actualizare și actualizările nereușite în Cobalt.<ph name="END_LINK" /></translation>
@@ -352,7 +352,7 @@ Este posibil ca unele funcții să nu fie disponibile. Specificați un director 
 <translation id="7025789849649390912">Instalare oprită.</translation>
 <translation id="705851970750939768">Actualizează Cobalt</translation>
 <translation id="7067091210845072982">Dacă o imagine nu are o descriere utilă, Cobalt va încerca să o completeze. Pentru a crea descrieri, imaginile sunt trimise la Google.</translation>
-<translation id="7141270731789036260">Personalizează Chrome for Testing</translation>
+<translation id="7141270731789036260">Personalizează Cobalt for Testing</translation>
 <translation id="7173822816570314652">Organizația ta șterge datele Cobalt dacă nu sunt folosite timp de <ph name="TIMEOUT_DURATION" />. Aici pot fi incluse istoricul, completările automate și descărcările.</translation>
 <translation id="718435575166326686">Cobalt are nevoie de acces la cameră pentru acest site</translation>
 <translation id="7196312274710523067">Cobalt nu a putut fi lansat. Încearcă din nou.</translation>

@@ -22,7 +22,7 @@ Neke funkcije su možda nedostupne i promene podešavanja neće biti sačuvane.
 <translation id="1315551408014407711">Podesite nov Cobalt profil</translation>
 <translation id="1342274909142618978">Izbriši i podatke iz Cobalt-a (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Prijavljeni ste na Cobalt!</translation>
-<translation id="1478370723027452770">Potražite pomoć za verziju Chrome for Testing</translation>
+<translation id="1478370723027452770">Potražite pomoć za verziju Cobalt for Testing</translation>
 <translation id="1497802159252041924">Greška pri instalaciji: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Delite Cobalt karticu</translation>
 <translation id="1553461853655228091">Cobalt traži dozvolu da pristupi kameri da bi napravio 3D mapu okruženja</translation>
@@ -164,7 +164,7 @@ Dozvole koje ste već dali veb-sajtovima i aplikacijama mogu da važe za ovaj n
 <translation id="388648406173476553">Prilagodite i kontrolišite Cobalt. Treba da obratite pažnju na nešto – kliknite za više detalja.</translation>
 <translation id="3889543394854987837">Kliknite na ime da biste otvorili Cobalt i počnite da pregledate.</translation>
 <translation id="390528597099634151">Korisnik <ph name="EXISTING_USER" /> je već prijavljen na ovaj Cobalt profil. Da bi vam pregledanje bilo razdvojeno, Cobalt može da napravi zaseban profil za vas.</translation>
-<translation id="3909353120217047026">Ovaj dodatak krši smernice Chrome veb-prodavnice i možda nije bezbedan. Uklonite ga iz Cobalt-a da više ne bi mogao da vidi i menja podatke na sajtovima koje posećujete, uključujući lične podatke.</translation>
+<translation id="3909353120217047026">Ovaj dodatak krši smernice Cobalt veb-prodavnice i možda nije bezbedan. Uklonite ga iz Cobalt-a da više ne bi mogao da vidi i menja podatke na sajtovima koje posećujete, uključujući lične podatke.</translation>
 <translation id="391789666908693569">Vašim nalogom upravlja <ph name="MANAGER_NAME" />. Administrator može da vidi i menja ovaj profil u Cobalt pregledaču i njegove podatke, poput obeleživača, istorije i lozinki.</translation>
 <translation id="3941890832296813527">Greška pri instalaciji: Naziv fajla programa za instalaciju je nevažeći ili nije podržan.</translation>
 <translation id="3945058413678539331">Cobalt pokušava da kopira lozinke. Unesite lozinku za Windows da biste to omogućili.</translation>
@@ -194,7 +194,7 @@ Dozvole koje ste već dali veb-sajtovima i aplikacijama mogu da važe za ovaj n
 <translation id="4415566066719264597">Neka Cobalt radi u pozadini</translation>
 <translation id="4423735387467980091">Prilagodite i kontrolišite Cobalt</translation>
 <translation id="4427306783828095590">Poboljšana zaštita nudi više mogućnosti za blokiranje „pecanja“ i malvera</translation>
-<translation id="4447409407328223819">O verziji Chrome for Testing</translation>
+<translation id="4447409407328223819">O verziji Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalacija nije uspela jer je pristup u ovoj zemlji ograničen.</translation>
 <translation id="452711251841752011">Dobro došli u Cobalt; otvoren je novi prozor pregledača</translation>
 <translation id="4544142686420020088">Cobalt se nije ažurirao. Došlo je do greške. <ph name="BEGIN_LINK" />Otklonite probleme sa ažuriranjem Cobalt-a i neuspela ažuriranja.<ph name="END_LINK" /></translation>
@@ -355,7 +355,7 @@ Neke funkcije će možda biti nedostupne. Navedite drugi direktorijum profila i
 <translation id="7025789849649390912">Instalacija je prekinuta.</translation>
 <translation id="705851970750939768">Ažuriraj Cobalt</translation>
 <translation id="7067091210845072982">Ako slika nema koristan opis, Cobalt će probati da vam ga pruži. Slike se šalju Google-u radi pravljenja opisa.</translation>
-<translation id="7141270731789036260">Prilagodite Chrome for Testing</translation>
+<translation id="7141270731789036260">Prilagodite Cobalt for Testing</translation>
 <translation id="7173822816570314652">Organizacija briše Cobalt podatke kada se ne koriste <ph name="TIMEOUT_DURATION" />. To može da obuhvata istoriju, automatsko popunjavanje i preuzimanja.</translation>
 <translation id="718435575166326686">Cobalt-u treba dozvola za kameru za ovaj sajt</translation>
 <translation id="7196312274710523067">Nije moguće pokrenuti Cobalt. Pokušajte ponovo.</translation>

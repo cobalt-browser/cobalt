@@ -22,7 +22,7 @@
 <translation id="1315551408014407711">আপোনাৰ নতুন Cobalt প্ৰ'ফাইল ছেট আপ কৰক</translation>
 <translation id="1342274909142618978">লগতে Cobalt (<ph name="URL" />)ৰ পৰা ডেটা মচক</translation>
 <translation id="1414495520565016063">আপুনি Chromiumত ছাইন ইন হৈ আছে!</translation>
-<translation id="1478370723027452770">Chrome for Testingৰ জৰিয়তে সহায় লাভ কৰক</translation>
+<translation id="1478370723027452770">Cobalt for Testingৰ জৰিয়তে সহায় লাভ কৰক</translation>
 <translation id="1497802159252041924">ইনষ্টল কৰোঁতে হোৱা আসোঁৱাহ: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Cobalt টেব এটা শ্বেয়াৰ কৰক</translation>
 <translation id="1553461853655228091">আপোনাৰ চৌপাশৰ এখন 3D মেপ সৃষ্টি কৰিবলৈ Chromiumক আপোনাৰ কেমেৰা এক্সেছ কৰাৰ অনুমতিৰ প্ৰয়োজন</translation>
@@ -164,7 +164,7 @@
 <translation id="388648406173476553">Cobalt কাষ্টমাইজ আৰু নিয়ন্ত্ৰণ কৰক। এই বিষয়ত আপুনি মনোযোগ দিয়াৰ প্ৰয়োজন - সবিশেষৰ বাবে ক্লিক কৰক।</translation>
 <translation id="3889543394854987837">Cobalt খুলিবলৈ আপোনাৰ নামত ক্লিক কৰক আৰু ব্ৰাউজিং আৰম্ভ কৰক।</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" />এ এই Cobalt প্ৰ'ফাইলটোত ইতিমধ্যে ছাইন ইন কৰিছে। আপোনাৰ ব্ৰাউজিং পৃথক কৰি ৰাখিবলৈ Chromiumএ আপোনাৰ বাবে আপোনাৰ নিজৰ প্ৰ'ফাইল সৃষ্টি কৰি পাৰে।</translation>
-<translation id="3909353120217047026">এই এক্সটেনশ্ননটোৱে Chrome Web Storeৰ নীতি উলংঘা কৰে আৰু ই অসুৰক্ষিত হ’ব পাৰে। এইটো Chromiumৰ পৰা আঁতৰাই পেলাওক যাতে ই আপুনি চোৱা ছাইটসমূহত আপোনাৰ ব্যক্তিগত তথ্যকে ধৰি আপোনাৰ ডেটা আৰু চাব আৰু সলনি কৰিব নোৱাৰে।</translation>
+<translation id="3909353120217047026">এই এক্সটেনশ্ননটোৱে Cobalt Web Storeৰ নীতি উলংঘা কৰে আৰু ই অসুৰক্ষিত হ’ব পাৰে। এইটো Chromiumৰ পৰা আঁতৰাই পেলাওক যাতে ই আপুনি চোৱা ছাইটসমূহত আপোনাৰ ব্যক্তিগত তথ্যকে ধৰি আপোনাৰ ডেটা আৰু চাব আৰু সলনি কৰিব নোৱাৰে।</translation>
 <translation id="391789666908693569">আপোনাৰ একাউণ্টটো <ph name="MANAGER_NAME" />এ পৰিচালনা কৰে। আপোনাৰ প্ৰশাসকে এই Cobalt ব্ৰাউজাৰৰ প্ৰ’ফাইলটো আৰু বুকমাৰ্ক, ইতিহাস আৰু পাছৱৰ্ডৰ দৰে ইয়াৰ ডেটা চাব আৰু সম্পাদনা কৰিব পাৰে।</translation>
 <translation id="3941890832296813527">ইনষ্টল কৰোঁতে আসোঁৱাহ হৈছে: ইনষ্টলাৰৰ ফাইলৰ নামটো অমান্য অথবা অসমৰ্থিত।</translation>
 <translation id="3945058413678539331">Chromiumএ পাছৱর্ডসমূহ প্ৰতিলিপি কৰিবলৈ চেষ্টা কৰি আছে। ইয়াৰ অনুমতি দিবলৈ আপোনাৰ Windowsৰ পাছৱৰ্ডটো টাইপ কৰক।</translation>
@@ -194,7 +194,7 @@
 <translation id="4415566066719264597">Chromiumক নেপথ্যত চলিবলৈ দিয়ক</translation>
 <translation id="4423735387467980091">Cobalt কাষ্টমাইজ আৰু নিয়ন্ত্ৰণ কৰক</translation>
 <translation id="4427306783828095590">বৰ্ধিত সুৰক্ষাৰ সুবিধাটোৱে ফিশ্বিং আৰু মালৱেৰ অৱৰোধ কৰিবলৈ অধিক কাৰ্য কৰে</translation>
-<translation id="4447409407328223819">Chrome for Testingৰ বিষয়ে</translation>
+<translation id="4447409407328223819">Cobalt for Testingৰ বিষয়ে</translation>
 <translation id="4501471624619070934">এই দেশখনত এক্সেছ প্ৰতিবন্ধিত হোৱাৰ বাবে ইনষ্টল কৰাটো বিফল হৈছে।</translation>
 <translation id="452711251841752011">Chromiumলৈ স্বাগতম; নতুন ব্ৰাউজাৰৰ ৱিণ্ড’ খোলা হৈছে</translation>
 <translation id="4544142686420020088">Cobalt আপডে'ট হোৱা নাই, কিবা ভুল হৈছে। <ph name="BEGIN_LINK" />Chromiumৰ আপডে'ট সম্পর্কীয় সমস্যাবোৰ আৰু বিফল হোৱা আপডে'টসমূহ সমাধান কৰক।<ph name="END_LINK" /></translation>
@@ -355,7 +355,7 @@
 <translation id="7025789849649390912">ইনষ্টল কৰাটো বন্ধ হৈছে।</translation>
 <translation id="705851970750939768">Cobalt আপডে’ট কৰক</translation>
 <translation id="7067091210845072982">যদি কোনো প্ৰতিচ্ছবিত উপযোগী বিৱৰণ নাই তেন্তে Chromiumএ আপোনাক সেয়া প্ৰদান কৰিবলৈ চেষ্টা কৰিব। বিৱৰণ সৃষ্টি কৰিবলৈ প্ৰতিচ্ছবি Googleলৈ প্ৰেৰণ কৰা হয়।</translation>
-<translation id="7141270731789036260">Chrome for Testing কাষ্টমাইজ কৰক</translation>
+<translation id="7141270731789036260">Cobalt for Testing কাষ্টমাইজ কৰক</translation>
 <translation id="7173822816570314652">Chromiumৰ ডেটা <ph name="TIMEOUT_DURATION" />ৰ বাবে ব্যৱহাৰ নকৰিলে আপোনাৰ প্ৰতিষ্ঠানে সেইবোৰ মচে। ইয়াৰ ভিতৰত ইতিহাস, স্বয়ংক্ৰিয়ভাৱে পূৰ হোৱাৰ সুবিধা আৰু ডাউনল’ড অন্তৰ্ভুক্ত হ’ব পাৰে।</translation>
 <translation id="718435575166326686">Chromiumক এই ছাইটটোৰ বাবে কেমেৰাৰ অনুমতিৰ আৱশ্যক</translation>
 <translation id="7196312274710523067">Cobalt লন্স কৰিব পৰা নগ’ল। পুনৰ চেষ্টা কৰক।</translation>

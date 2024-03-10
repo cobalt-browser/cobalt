@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Siapkan profil Cobalt baru Anda</translation>
 <translation id="1342274909142618978">Hapus juga data dari Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Anda sudah masuk ke Cobalt!</translation>
-<translation id="1478370723027452770">Dapatkan bantuan untuk Chrome for Testing</translation>
+<translation id="1478370723027452770">Dapatkan bantuan untuk Cobalt for Testing</translation>
 <translation id="1497802159252041924">Error saat penginstalan: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Bagikan tab Cobalt</translation>
 <translation id="1553461853655228091">Cobalt memerlukan izin untuk mengakses kamera guna membuat peta 3D untuk area di sekeliling Anda.</translation>
@@ -162,7 +162,7 @@ Izin yang telah Anda berikan ke situs dan aplikasi dapat berlaku untuk akun ini.
 <translation id="388648406173476553">Sesuaikan dan kontrol Cobalt. Ada sesuatu yang memerlukan perhatian Anda - klik untuk melihat detailnya.</translation>
 <translation id="3889543394854987837">Klik nama Anda untuk membuka Cobalt dan mulai menjelajah.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> telah login ke profil Cobalt ini. Agar penjelajahan Anda tetap terpisah, Cobalt dapat membuat profil tersendiri untuk Anda.</translation>
-<translation id="3909353120217047026">Ekstensi ini melanggar kebijakan Chrome Web Store dan mungkin tidak aman. Hapus dari Cobalt agar ekstensi ini tidak dapat lagi melihat dan mengubah data Anda di situs yang Anda kunjungi, termasuk info pribadi Anda.</translation>
+<translation id="3909353120217047026">Ekstensi ini melanggar kebijakan Cobalt Web Store dan mungkin tidak aman. Hapus dari Cobalt agar ekstensi ini tidak dapat lagi melihat dan mengubah data Anda di situs yang Anda kunjungi, termasuk info pribadi Anda.</translation>
 <translation id="391789666908693569">Akun Anda dikelola oleh <ph name="MANAGER_NAME" />. Administrator dapat melihat dan mengedit profil browser Cobalt ini beserta datanya seperti bookmark, histori, dan sandi.</translation>
 <translation id="3941890832296813527">Error penginstalan: Nama file penginstal tidak valid atau tidak didukung.</translation>
 <translation id="3945058413678539331">Cobalt mencoba menyalin sandi. Ketik sandi Windows Anda untuk mengizinkannya.</translation>
@@ -192,10 +192,10 @@ Izin yang telah Anda berikan ke situs dan aplikasi dapat berlaku untuk akun ini.
 <translation id="4415566066719264597">Jalankan Cobalt di Background</translation>
 <translation id="4423735387467980091">Menyesuaikan dan mengontrol Cobalt</translation>
 <translation id="4427306783828095590">Perlindungan yang ditingkatkan akan memblokir phishing dan malware dengan lebih optimal</translation>
-<translation id="4447409407328223819">Tentang Chrome for Testing</translation>
+<translation id="4447409407328223819">Tentang Cobalt for Testing</translation>
 <translation id="4501471624619070934">Penginstalan gagal karena akses dibatasi untuk negara ini.</translation>
 <translation id="452711251841752011">Selamat datang di Cobalt; jendela browser baru terbuka</translation>
-<translation id="4544142686420020088">Cobalt tidak dapat diupdate, terjadi error. <ph name="BEGIN_LINK" />Perbaiki masalah update Chrome dan update yang gagal.<ph name="END_LINK" /></translation>
+<translation id="4544142686420020088">Cobalt tidak dapat diupdate, terjadi error. <ph name="BEGIN_LINK" />Perbaiki masalah update Cobalt dan update yang gagal.<ph name="END_LINK" /></translation>
 <translation id="454579500955453258">Lanjutkan di profil Cobalt baru?</translation>
 <translation id="4567424176335768812">Anda login sebagai <ph name="USER_EMAIL_ADDRESS" />. Kini Anda dapat mengakses bookmark, histori, dan setelan lainnya pada seluruh perangkat yang Anda masuki.</translation>
 <translation id="4570813286784708942">Cobalt memblokir download ini karena Anda menonaktifkan Safe Browsing dan file tidak dapat diverifikasi</translation>
@@ -353,7 +353,7 @@ Sebagian fitur mungkin tidak tersedia. Tentukan direktori profil yang berbeda at
 <translation id="7025789849649390912">Penginstalan Terhenti.</translation>
 <translation id="705851970750939768">Perbarui Cobalt</translation>
 <translation id="7067091210845072982">Jika gambar tidak memiliki deskripsi yang berguna, Cobalt akan mencoba memberikan deskripsi untuk Anda. Untuk membuat deskripsi, gambar akan dikirim ke Google.</translation>
-<translation id="7141270731789036260">Sesuaikan Chrome for Testing</translation>
+<translation id="7141270731789036260">Sesuaikan Cobalt for Testing</translation>
 <translation id="7173822816570314652">Organisasi Anda akan menghapus data Cobalt jika tidak digunakan selama <ph name="TIMEOUT_DURATION" />. Data ini dapat mencakup histori, isi otomatis, dan download.</translation>
 <translation id="718435575166326686">Cobalt memerlukan izin kamera untuk situs ini</translation>
 <translation id="7196312274710523067">Tidak dapat meluncurkan Cobalt. Harap coba lagi.</translation>

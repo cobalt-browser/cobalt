@@ -22,7 +22,7 @@ Vissa funktioner kanske inte är tillgängliga och ändringar i inställningarna
 <translation id="1315551408014407711">Konfigurera din nya profil i Cobalt</translation>
 <translation id="1342274909142618978">Radera även data från Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Du är inloggad i Cobalt.</translation>
-<translation id="1478370723027452770">Få hjälp med Chrome for Testing</translation>
+<translation id="1478370723027452770">Få hjälp med Cobalt for Testing</translation>
 <translation id="1497802159252041924">Installationsfel: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Dela en flik i Cobalt</translation>
 <translation id="1553461853655228091">Du behöver ge Cobalt behörighet att använda kameran om du vill skapa en 3D-karta över dina omgivningar</translation>
@@ -164,7 +164,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="388648406173476553">Anpassa och kontrollera Cobalt. Någonting behöver ses över. Klicka här för mer information.</translation>
 <translation id="3889543394854987837">Öppna Cobalt genom att klicka på ditt namn och börja surfa.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> är redan inloggad på den här Cobalt-profilen. Du kan hålla isär webbinformationen genom att skapa en egen profil i Cobalt.</translation>
-<translation id="3909353120217047026">Det här tillägget strider mot policyn för Chrome Web Store och kan vara osäkert. Ta bort det från Cobalt så att det inte längre kan se och ändra data, inklusive dina personliga uppgifter, på webbplatser du besöker.</translation>
+<translation id="3909353120217047026">Det här tillägget strider mot policyn för Cobalt Web Store och kan vara osäkert. Ta bort det från Cobalt så att det inte längre kan se och ändra data, inklusive dina personliga uppgifter, på webbplatser du besöker.</translation>
 <translation id="391789666908693569">Kontot hanteras av <ph name="MANAGER_NAME" />. Administratören kan se och redigera den här Cobalt-profilen och tillhörande data som bokmärken, historik och lösenord.</translation>
 <translation id="3941890832296813527">Installationsfel: Installationens filnamn är ogiltigt eller stöds inte.</translation>
 <translation id="3945058413678539331">Skriv ditt Windows-lösenord om du tillåter att lösenorden i Cobalt kopieras.</translation>
@@ -194,7 +194,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="4415566066719264597">Låt Cobalt köras i bakgrunden</translation>
 <translation id="4423735387467980091">Anpassa och kontrollera Cobalt</translation>
 <translation id="4427306783828095590">Förbättrat skydd är bättre på att blockera nätfiske och skadlig programvara</translation>
-<translation id="4447409407328223819">Om Chrome for Testing</translation>
+<translation id="4447409407328223819">Om Cobalt for Testing</translation>
 <translation id="4501471624619070934">Installationen misslyckades eftersom åtkomsten är begränsad i det här landet.</translation>
 <translation id="452711251841752011">Välkommen till Cobalt, ett nytt webbläsarfönster har öppnats</translation>
 <translation id="4544142686420020088">Ett fel uppstod och Cobalt uppdaterades inte. <ph name="BEGIN_LINK" />Åtgärda uppdateringsproblem och misslyckade uppdateringar i Cobalt<ph name="END_LINK" />.</translation>
@@ -209,7 +209,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="4673151026126227699">Om du även delar Cobalt-användningsrapporter ingår webbadresserna du besöker i dessa rapporter</translation>
 <translation id="4677944499843243528">Profilen verkar användas av en annan Cobalt-process (<ph name="PROCESS_ID" />) på en annan dator (<ph name="HOST_NAME" />). Profilen har låsts så att den inte används på otillåtet sätt. Om du är säker på att profilen inte används i några andra processer låser du upp profilen och startar om Cobalt.</translation>
 <translation id="4680828127924988555">Avbryt installationen</translation>
-<translation id="4708774505295300557">Någon har tidigare loggat in i Chrome som <ph name="ACCOUNT_EMAIL_LAST" /> på den här datorn. Skapa en ny Cobalt-användare så att dina uppgifter hålls separat.</translation>
+<translation id="4708774505295300557">Någon har tidigare loggat in i Cobalt som <ph name="ACCOUNT_EMAIL_LAST" /> på den här datorn. Skapa en ny Cobalt-användare så att dina uppgifter hålls separat.</translation>
 <translation id="4724676981607797757">Installationen misslyckades på grund av ett protokollfel som inte stöds.</translation>
 <translation id="4746050847053251315">Vill du avsluta Cobalt ändå?</translation>
 <translation id="4748217263233248895">En särskild säkerhetsuppdatering för Cobalt installerades precis. Starta om webbläsaren nu. Flikarna återställs efteråt.</translation>
@@ -355,7 +355,7 @@ Vissa funktioner är kanske inte tillgängliga. Ange en annan profilkatalog elle
 <translation id="7025789849649390912">Installationen avbröts.</translation>
 <translation id="705851970750939768">Uppdatera Cobalt</translation>
 <translation id="7067091210845072982">Om en bild inte har någon användbar beskrivning görs ett försök att beskriva den åt dig i Cobalt. Bilderna skickas till Google så att beskrivningen kan genereras.</translation>
-<translation id="7141270731789036260">Anpassa Chrome för testning</translation>
+<translation id="7141270731789036260">Anpassa Cobalt för testning</translation>
 <translation id="7173822816570314652">Organisationen raderar Cobalt-data när den inte har använts på <ph name="TIMEOUT_DURATION" />. Detta kan innefatta historik, autofyll och nedladdningar.</translation>
 <translation id="718435575166326686">Du behöver ge Cobalt kamerabehörighet för den här webbplatsen</translation>
 <translation id="7196312274710523067">Det gick inte att starta Cobalt. Försök igen.</translation>

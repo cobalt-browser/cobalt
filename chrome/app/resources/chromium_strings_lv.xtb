@@ -20,7 +20,7 @@
 <translation id="1315551408014407711">Jaunā Cobalt profila iestatīšana</translation>
 <translation id="1342274909142618978">Dzēst arī datus no pārlūka Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Esat pierakstījies operētājsistēmā Cobalt!</translation>
-<translation id="1478370723027452770">Saņemt palīdzību saistībā ar Chrome for Testing</translation>
+<translation id="1478370723027452770">Saņemt palīdzību saistībā ar Cobalt for Testing</translation>
 <translation id="1497802159252041924">Instalēšanas kļūda: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Cobalt cilnes kopīgošana</translation>
 <translation id="1553461853655228091">Pārlūkam Cobalt ir nepieciešama atļauja piekļūt jūsu kamerai, lai varētu izveidot jūsu apkārtnes 3D karti</translation>
@@ -162,7 +162,7 @@ Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un liet
 <translation id="388648406173476553">Pielāgojiet un kontrolējiet pārlūkprogrammu Cobalt. Ir nepieciešama jūsu uzmanība. Noklikšķiniet, lai skatītu plašāku informāciju.</translation>
 <translation id="3889543394854987837">Noklikšķiniet uz sava vārda, lai atvērtu Cobalt un sāktu pārlūkošanu.</translation>
 <translation id="390528597099634151">Lietotājs <ph name="EXISTING_USER" /> jau ir pierakstījies šajā Cobalt profilā. Lai atdalītu pārlūkošanu, pārlūkā Cobalt varat sev izveidot atsevišķu profilu.</translation>
-<translation id="3909353120217047026">Šis paplašinājums pārkāpj Chrome interneta veikala politiku, un, iespējams, tas nav drošs. Noņemiet to no pārlūka Cobalt, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
+<translation id="3909353120217047026">Šis paplašinājums pārkāpj Cobalt interneta veikala politiku, un, iespējams, tas nav drošs. Noņemiet to no pārlūka Cobalt, lai tas jūsu apmeklētajās vietnēs vairs nevarētu skatīt un mainīt jūsu datus, tostarp jūsu personas informāciju.</translation>
 <translation id="391789666908693569">Jūsu kontu pārvalda <ph name="MANAGER_NAME" />. Administrators var skatīt un rediģēt šo Cobalt profilu un tā datus, piemēram, grāmatzīmes, vēsturi un paroles.</translation>
 <translation id="3941890832296813527">Instalēšanas kļūda: instalēšanas programmas faila nosaukums nav derīgs vai netiek atbalstīts.</translation>
 <translation id="3945058413678539331">Cobalt mēģina nokopēt paroles. Lai to atļautu, ierakstiet savu Windows paroli.</translation>
@@ -192,7 +192,7 @@ Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un liet
 <translation id="4415566066719264597">Ļaut pārlūkam Cobalt darboties fonā</translation>
 <translation id="4423735387467980091">Pielāgot un kontrolēt Cobalt</translation>
 <translation id="4427306783828095590">Uzlabotā aizsardzība labāk bloķē pikšķerēšanas mēģinājumus un ļaunprātīgu programmatūru</translation>
-<translation id="4447409407328223819">Par Chrome for Testing</translation>
+<translation id="4447409407328223819">Par Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalēšana neizdevās, jo šajā valstī piekļuve ir ierobežota.</translation>
 <translation id="452711251841752011">Laipni lūdzam pārlūkā Cobalt (tika atvērts jauns pārlūka logs)!</translation>
 <translation id="4544142686420020088">Pārlūkprogramma Cobalt netika atjaunināta. Radās problēma. <ph name="BEGIN_LINK" />Novērsiet Cobalt atjaunināšanas problēmas.<ph name="END_LINK" /></translation>
@@ -294,7 +294,7 @@ Uz šo kontu var attiekties atļaujas, ko esat jau piešķīris vietnēm un liet
 <translation id="6281746429495226318">Pielāgot Cobalt profilu</translation>
 <translation id="6290827346642914212">Cobalt profila nosaukšana</translation>
 <translation id="6295779123002464101">Fails <ph name="FILE_NAME" /> var būt bīstams, tādēļ Cobalt to bloķēja.</translation>
-<translation id="6309712487085796862">Chrome saitē tiek izmantota kamera.</translation>
+<translation id="6309712487085796862">Cobalt saitē tiek izmantota kamera.</translation>
 <translation id="632355235628111698">Pārlūkā Cobalt tika bloķēts šis fails, jo tas ir bīstams.</translation>
 <translation id="6327105987658262776">Atjauninājums nav pieejams.</translation>
 <translation id="6333502561965082103">Tiek veikta cita darbība pārlūkā Cobalt. Lūdzu, vēlāk mēģiniet vēlreiz.</translation>
@@ -352,7 +352,7 @@ Dažas funkcijas var nebūt pieejamas. Norādiet citu profila direktoriju vai iz
 <translation id="7025789849649390912">Instalēšana apturēta.</translation>
 <translation id="705851970750939768">Atjaunināt Cobalt</translation>
 <translation id="7067091210845072982">Ja attēlam nav vērtīga apraksta, pārlūks Cobalt mēģinās jums tādu nodrošināt. Lai izveidotu aprakstus, attēli tiek nosūtīti uzņēmumam Google.</translation>
-<translation id="7141270731789036260">Pielāgot versiju Chrome for Testing</translation>
+<translation id="7141270731789036260">Pielāgot versiju Cobalt for Testing</translation>
 <translation id="7173822816570314652">Jūsu organizācija dzēš Cobalt datus, ja šis pārlūks <ph name="TIMEOUT_DURATION" /> netiek izmantots. Tie var ietvert vēsturi, automātiskās aizpildes datus un lejupielādes.</translation>
 <translation id="718435575166326686">Pārlūkam Cobalt ir nepieciešama atļauja izmantot kameru šajā vietnē.</translation>
 <translation id="7196312274710523067">Neizdevās palaist Cobalt. Mēģiniet vēlreiz.</translation>

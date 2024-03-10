@@ -22,7 +22,7 @@
 <translation id="1315551408014407711">Configura o teu novo perfil de Cobalt</translation>
 <translation id="1342274909142618978">Eliminar tamén datos de Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Iniciaches sesión en Cobalt.</translation>
-<translation id="1478370723027452770">Recibir axuda con Chrome for Testing</translation>
+<translation id="1478370723027452770">Recibir axuda con Cobalt for Testing</translation>
 <translation id="1497802159252041924">Erro de instalación: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Compartir unha pestana de Cobalt</translation>
 <translation id="1553461853655228091">Cobalt necesita permiso para acceder á cámara co fin de crear un mapa 3D do que te rodea</translation>
@@ -164,7 +164,7 @@ Pódense aplicar a esta conta os permisos que xa lles concedeses aos sitios web 
 <translation id="388648406173476553">Personaliza e controla Cobalt. Algo precisa a túa atención. Fai clic para obter información.</translation>
 <translation id="3889543394854987837">Fai clic no teu nome para abrir Cobalt e comezar a navegar.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> xa ten a sesión iniciada neste perfil de Cobalt. Se queres xestionar a túa navegación cun perfil independente e de teu, Cobalt pode crearche un.</translation>
-<translation id="3909353120217047026">Esta extensión infrinxe a política de Chrome Web Store e podería non ser segura. Quítaa de Cobalt para que non poida ver nin cambiar os teus datos (como a túa información persoal) nos sitios que visites.</translation>
+<translation id="3909353120217047026">Esta extensión infrinxe a política de Cobalt Web Store e podería non ser segura. Quítaa de Cobalt para que non poida ver nin cambiar os teus datos (como a túa información persoal) nos sitios que visites.</translation>
 <translation id="391789666908693569"><ph name="MANAGER_NAME" /> xestiona a túa conta. O teu administrador pode consultar e editar este perfil do navegador Cobalt e os seus datos (por exemplo, os marcadores, o historial ou os contrasinais).</translation>
 <translation id="3941890832296813527">Erro de instalación: O nome de ficheiro do instalador non é válido ou non se admite.</translation>
 <translation id="3945058413678539331">Cobalt está tentando copiar os contrasinais. Escribe o teu contrasinal de Windows para permitir esta acción.</translation>
@@ -194,7 +194,7 @@ Pódense aplicar a esta conta os permisos que xa lles concedeses aos sitios web 
 <translation id="4415566066719264597">Deixar que Cobalt se execute en segundo plano</translation>
 <translation id="4423735387467980091">Personaliza e controla Cobalt</translation>
 <translation id="4427306783828095590">A protección mellorada é máis eficaz á hora de bloquear o phishing e o software malicioso</translation>
-<translation id="4447409407328223819">Sobre Chrome for Testing</translation>
+<translation id="4447409407328223819">Sobre Cobalt for Testing</translation>
 <translation id="4501471624619070934">Produciuse un erro durante a instalación porque o acceso está restrinxido neste país.</translation>
 <translation id="452711251841752011">Dámosche a benvida a Cobalt. Abriuse unha nova ventá do navegador</translation>
 <translation id="4544142686420020088">Cobalt non se actualizou, xa que se produciu un erro. <ph name="BEGIN_LINK" />Soluciona os problemas de actualización de Cobalt e as actualizacións que non se puidesen realizar<ph name="END_LINK" />.</translation>
@@ -354,7 +354,7 @@ Pódense aplicar a esta conta os permisos que xa lles concedeses aos sitios web 
 <translation id="7025789849649390912">Detívose a instalación.</translation>
 <translation id="705851970750939768">Actualizar Cobalt</translation>
 <translation id="7067091210845072982">Se unha imaxe non ten unha descrición útil, Cobalt tentará proporcionarche unha. Para crear descricións, envíanse imaxes a Google.</translation>
-<translation id="7141270731789036260">Personalizar Chrome for Testing</translation>
+<translation id="7141270731789036260">Personalizar Cobalt for Testing</translation>
 <translation id="7173822816570314652">A túa organización elimina os datos de Cobalt cando non se usa durante <ph name="TIMEOUT_DURATION" />. Entre esa información, poden incluírse o historial, os datos da función de autocompletar e as descargas.</translation>
 <translation id="718435575166326686">Cobalt necesita permiso de acceso á cámara para este sitio</translation>
 <translation id="7196312274710523067">Non se puido iniciar Cobalt. Téntao de novo.</translation>

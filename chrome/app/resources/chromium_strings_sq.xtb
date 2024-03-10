@@ -22,7 +22,7 @@ Disa funksione mund të mos ofrohen dhe ndryshimet në preferenca nuk do të ruh
 <translation id="1315551408014407711">Konfiguro profilin tënd të ri të Cobalt</translation>
 <translation id="1342274909142618978">Fshi po ashtu të dhënat nga Cobalt (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Je i identifikuar në Cobalt!</translation>
-<translation id="1478370723027452770">Merr ndihmë për Chrome for Testing</translation>
+<translation id="1478370723027452770">Merr ndihmë për Cobalt for Testing</translation>
 <translation id="1497802159252041924">Gabim gjatë instalimit: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Ndaj një skedë të Cobalt</translation>
 <translation id="1553461853655228091">Cobalt ka nevojë për leje për t'u qasur te kamera jote për të krijuar një hartë 3D të ambientit tënd rrethues</translation>
@@ -164,7 +164,7 @@ Lejet që u ke dhënë sajteve të uebit dhe aplikacioneve mund të zbatohen pë
 <translation id="388648406173476553">Personalizo dhe kontrollo Cobalt. Diçka ka nevojë për vëmendjen tënde - kliko për detaje.</translation>
 <translation id="3889543394854987837">Kliko emrin tënd për të hapur Cobalt dhe fillo shfletimin.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> është i identifikuar tashmë në këtë profil të Cobalt. Për ta mbajtur shfletimin tënd të ndarë, Cobalt mund të krijojë profilin tënd personal për ty.</translation>
-<translation id="3909353120217047026">Kjo shtesë shkel politikën e "Dyqanit të uebit të Chrome" dhe mund të mos jetë e sigurt. Hiqe atë nga Cobalt që të mos arrijë të shikojë dhe të ndryshojë më të dhënat e tua në sajtin që viziton ti, duke përfshirë informacionet e tua personale.</translation>
+<translation id="3909353120217047026">Kjo shtesë shkel politikën e "Dyqanit të uebit të Cobalt" dhe mund të mos jetë e sigurt. Hiqe atë nga Cobalt që të mos arrijë të shikojë dhe të ndryshojë më të dhënat e tua në sajtin që viziton ti, duke përfshirë informacionet e tua personale.</translation>
 <translation id="391789666908693569">Llogaria jote menaxhohet nga <ph name="MANAGER_NAME" />. Administratori yt mund ta shikojë dhe ta modifikojë këtë profil të shfletuesit Cobalt dhe të dhënat e tij, si p.sh. faqeshënuesit, historikun dhe fjalëkalimet.</translation>
 <translation id="3941890832296813527">Gabim gjatë instalimit: Emri i skedarit të instaluesit është i pavlefshëm ose nuk mbështetet.</translation>
 <translation id="3945058413678539331">Cobalt po përpiqet të kopjojë fjalëkalimet. Shkruaj fjalëkalimin tënd të Windows për ta lejuar këtë.</translation>
@@ -194,7 +194,7 @@ Lejet që u ke dhënë sajteve të uebit dhe aplikacioneve mund të zbatohen pë
 <translation id="4415566066719264597">Lejo që Cobalt të ekzekutohet në sfond</translation>
 <translation id="4423735387467980091">Personalizo dhe kontrollo Cobalt</translation>
 <translation id="4427306783828095590">Mbrojtja e përmirësuar bën edhe më shumë për bllokimin e mashtrimeve dhe softuerëve keqdashës</translation>
-<translation id="4447409407328223819">Rreth Chrome for Testing</translation>
+<translation id="4447409407328223819">Rreth Cobalt for Testing</translation>
 <translation id="4501471624619070934">Instalimi nuk u krye sepse qasja është e kufizuar në këtë shtet.</translation>
 <translation id="452711251841752011">Mirë se erdhe në Cobalt. U hap një dritare e re e shfletuesit</translation>
 <translation id="4544142686420020088">Cobalt nuk u përditësua. Ndodhi një gabim. <ph name="BEGIN_LINK" />Rregullo problemet e përditësimit të Cobalt dhe përditësimet e dështuara.<ph name="END_LINK" /></translation>
@@ -354,7 +354,7 @@ Disa funksione mund të mos ofrohen. Specifiko një direktori tjetër profili os
 <translation id="7025789849649390912">Instalimi ndaloi.</translation>
 <translation id="705851970750939768">Përditëso Cobalt</translation>
 <translation id="7067091210845072982">Nëse një imazh nuk ka një përshkrim të dobishëm, Cobalt do të përpiqet të të japë një përshkrim. Për të krijuar përshkrime, imazhet dërgohen te Google.</translation>
-<translation id="7141270731789036260">Personalizo Chrome for Testing</translation>
+<translation id="7141270731789036260">Personalizo Cobalt for Testing</translation>
 <translation id="7173822816570314652">Organizata jote i fshin të dhënat e Cobalt kur ato nuk përdoren për <ph name="TIMEOUT_DURATION" />. Kjo mund të përfshijë historikun, plotësimin automatik dhe shkarkimet.</translation>
 <translation id="718435575166326686">Cobalt ka nevojë për lejen e kamerës për këtë sajt</translation>
 <translation id="7196312274710523067">Cobalt nuk mund të hapej. Provo përsëri.</translation>

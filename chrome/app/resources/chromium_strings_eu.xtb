@@ -22,7 +22,7 @@ Eginbide batzuk agian dira erabilgarri egongo eta hobespenei egindako aldaketak 
 <translation id="1315551408014407711">Konfiguratu Cobalt-eko profil berria</translation>
 <translation id="1342274909142618978">Ezabatu datuak Cobalt-etik ere bai (<ph name="URL" />)</translation>
 <translation id="1414495520565016063">Cobalt-en saioa hasi duzu.</translation>
-<translation id="1478370723027452770">Lortu Chrome for Testing-en inguruko laguntza</translation>
+<translation id="1478370723027452770">Lortu Cobalt for Testing-en inguruko laguntza</translation>
 <translation id="1497802159252041924">Instalazio-errorea: <ph name="INSTALL_ERROR" /></translation>
 <translation id="1524282610922162960">Partekatu Cobalt-eko fitxa bat</translation>
 <translation id="1553461853655228091">Cobalt-ek kamera erabiltzeko baimena behar du, ingurunearen hiru dimentsioko mapa bat sortzeko</translation>
@@ -164,7 +164,7 @@ Baliteke webguneei eta aplikazioei emandako baimenak kontu honi aplikatzea. Goog
 <translation id="388648406173476553">Pertsonalizatu eta kontrolatu Cobalt. Zure arreta behar duen zerbait dago. Sakatu informazio gehiago ikusteko.</translation>
 <translation id="3889543394854987837">Cobalt irekitzeko eta arakatzen hasteko, egin klik zure izenean.</translation>
 <translation id="390528597099634151"><ph name="EXISTING_USER" /> erabiltzaileak Cobalt-eko profil honetan hasi du saioa dagoeneko. Arakatze-datuak bereizita edukitzeko, Cobalt-ek profil bat sor dezake zuretzat.</translation>
-<translation id="3909353120217047026">Luzapenak Chrome Web Store-ren gidalerroak urratzen ditu, eta agian ez da segurua. Ken ezazu Cobalt-etik, bisitatzen dituzun webguneetan zure datuak ikusi eta aldatu ezin izan ditzan, informazio pertsonala barne.</translation>
+<translation id="3909353120217047026">Luzapenak Cobalt Web Store-ren gidalerroak urratzen ditu, eta agian ez da segurua. Ken ezazu Cobalt-etik, bisitatzen dituzun webguneetan zure datuak ikusi eta aldatu ezin izan ditzan, informazio pertsonala barne.</translation>
 <translation id="391789666908693569"><ph name="MANAGER_NAME" /> administratzaileak kudeatzen du kontua. Cobalt arakatzaileko profil hau eta profil honetako datuak (esaterako, laster-markak, historia eta pasahitzak) ikusi eta edita ditzake administratzaileak.</translation>
 <translation id="3941890832296813527">Instalazio-errorea: instalatzailearen fitxategi-izenak ez du balio edo ez da onartzen.</translation>
 <translation id="3945058413678539331">Pasahitzak kopiatzen saiatzen ari da Cobalt. Hori baimentzeko, idatzi Windows-eko pasahitza.</translation>
@@ -194,7 +194,7 @@ Baliteke webguneei eta aplikazioei emandako baimenak kontu honi aplikatzea. Goog
 <translation id="4415566066719264597">Onartu Cobalt atzeko planoan abiaraztea</translation>
 <translation id="4423735387467980091">Pertsonalizatu eta kontrolatu Cobalt</translation>
 <translation id="4427306783828095590">Babes handiagoa eskaintzen du phishingaren eta malwarearen aurka</translation>
-<translation id="4447409407328223819">Chrome for Testing-i buruz</translation>
+<translation id="4447409407328223819">Cobalt for Testing-i buruz</translation>
 <translation id="4501471624619070934">Ezin izan da instalatu, herrialde honetan sarbidea murriztuta dagoelako.</translation>
 <translation id="452711251841752011">Ongi etorri Cobalt-era; beste leiho bat ireki da arakatzailean</translation>
 <translation id="4544142686420020088">Cobalt ez da eguneratu arazoren bat izan delako. <ph name="BEGIN_LINK" />Konpondu Cobalt eguneratzeko arazoak eta huts egindako eguneratzeak.<ph name="END_LINK" /></translation>
@@ -354,7 +354,7 @@ Baliteke eginbide batzuk erabilgarri ez egotea. Adierazi beste profil-direktorio
 <translation id="7025789849649390912">Gelditu da instalazioa.</translation>
 <translation id="705851970750939768">Eguneratu Cobalt</translation>
 <translation id="7067091210845072982">Irudiren batek ez badu azalpen lagungarririk, halako bat lortzen ahaleginduko da Cobalt. Azalpen horiek sortzeko, irudiak Google-ri bidaltzen zaizkio.</translation>
-<translation id="7141270731789036260">Pertsonalizatu Chrome for Testing</translation>
+<translation id="7141270731789036260">Pertsonalizatu Cobalt for Testing</translation>
 <translation id="7173822816570314652">Erakundeak Cobalt-eko datuak ezabatzen ditu <ph name="TIMEOUT_DURATION" />z erabiltzen ez denean. Arakatze-datuen barnean daude historia, automatikoki betetako datuak eta deskargak.</translation>
 <translation id="718435575166326686">Cobalt-ek kamera erabiltzeko baimena behar du webgune honetan</translation>
 <translation id="7196312274710523067">Ezin izan da exekutatu Cobalt. Saiatu berriro.</translation>
