@@ -312,7 +312,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling Skia
   # and whatever else without interference from each other.
-  'skia_revision': '8feb4b6a4aa6a64e709f69afa0613527292c73d4',
+  'skia_revision': 'e6b884229d2dcef8f81c411fc6862c5844524e15',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling V8
   # and whatever else without interference from each other.
@@ -328,7 +328,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling PDFium
   # and whatever else without interference from each other.
-  'pdfium_revision': '4b608cc6995d1abb5d7e2480de9abe35bc3799be',
+  'pdfium_revision': 'bfa3a7cf2cf68c8fcbb4ac7f2cfd45b37185cf0e',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling BoringSSL
   # and whatever else without interference from each other.
@@ -363,7 +363,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling freetype
   # and whatever else without interference from each other.
-  'freetype_revision': '17545d4bf72175a8ea8020dcbd4d462234d2b5d0',
+  'freetype_revision': 'f42ce25563b73fed0123d18a2556b9ba01d2c76b',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling freetype
   # and whatever else without interference from each other.
@@ -427,7 +427,7 @@ vars = {
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling feed
   # and whatever else without interference from each other.
-  'dawn_revision': '917c4a299ac53b8d793da405211825172120b98e',
+  'dawn_revision': 'aedac998b8483e5b818aec3b912eca8b6c803326',
   # Three lines of non-changing comments so that
   # the commit queue can handle CLs rolling feed
   # and whatever else without interference from each other.
@@ -506,7 +506,7 @@ vars = {
   'libcxx_revision':       '80307e66e74bae927fb8709a549859e777e3bf0b',
 
   # GN CIPD package version.
-  'gn_version': 'git_revision:88e8054aff7bd0cb2295c7d9361d2be0b7355f27',
+  'gn_version': 'git_revision:dd0927eb34bba823ec2bcea32079c091909881d2',
 
   # ninja CIPD package version.
   # https://chrome-infra-packages.appspot.com/p/infra/3pp/tools/ninja
@@ -827,12 +827,12 @@ deps = {
 
   'src/clank': {
     'url': Var('chrome_git') + '/clank/internal/apps.git' + '@' +
-    '94accc3114d90c6807df2973049c2b42fc4caeb6',
+    '26d5862431afc78505426a0e36cc1fddc4a7029b',
     'condition': 'checkout_android and checkout_src_internal',
   },
 
   'src/docs/website': {
-    'url': Var('chromium_git') + '/website.git' + '@' + 'bf762130b1e39f762f9db5c3b636d952a4962467',
+    'url': Var('chromium_git') + '/website.git' + '@' + 'a309fe7733ed859a3215a7446565bec89a9e2127',
   },
 
   'src/ios/third_party/earl_grey2/src': {
@@ -989,7 +989,7 @@ deps = {
     'packages': [
       {
           'package': 'chromium/third_party/androidx',
-          'version': 'rwv1GhHVFcPvHsccw165eQh88b6tk-JGp1FWCcD8b48C',
+          'version': 'AbnS7EcR3dnywbexS21WLvY9jj97-O5Laj1QmFVhKVsC',
       },
     ],
     'condition': 'checkout_android',
@@ -1205,7 +1205,7 @@ deps = {
     Var('chromium_git') + '/devtools/devtools-frontend' + '@' + Var('devtools_frontend_revision'),
 
   'src/third_party/devtools-frontend-internal': {
-      'url': Var('chrome_git') + '/devtools/devtools-internal.git' + '@' + 'd3aa83eb01180a5970d2116108c3087175bebe41',
+      'url': Var('chrome_git') + '/devtools/devtools-internal.git' + '@' + 'f90b7326dc09e9c3a2a0265c72b38e68f37aa4ad',
     'condition': 'checkout_src_internal',
   },
 
@@ -1665,7 +1665,7 @@ deps = {
     Var('pdfium_git') + '/pdfium.git' + '@' +  Var('pdfium_revision'),
 
   'src/third_party/perfetto':
-    Var('android_git') + '/platform/external/perfetto.git' + '@' + 'ec9b4403764655c7ab28d0a9e011a9d86b855e89',
+    Var('android_git') + '/platform/external/perfetto.git' + '@' + 'fb357715d4fb8227553cd9742e3d029c21da6d80',
 
   'src/third_party/perl': {
       'url': Var('chromium_git') + '/chromium/deps/perl.git' + '@' + '8ef97ff3b7332e38e61b347a2fbed425a4617151',
@@ -1847,10 +1847,10 @@ deps = {
     Var('chromium_git') + '/external/khronosgroup/webgl.git' + '@' + 'f4bf599a8b575df685c31d9c4729a70a04e377ed',
 
   'src/third_party/webgpu-cts/src':
-    Var('chromium_git') + '/external/github.com/gpuweb/cts.git' + '@' + '98673cc24786be6c10dd8908e0b0b4ed27625c6a',
+    Var('chromium_git') + '/external/github.com/gpuweb/cts.git' + '@' + 'f71a8343c3b4ea23eddf0cf35b9957a0b45b0cf3',
 
   'src/third_party/webrtc':
-    Var('webrtc_git') + '/src.git' + '@' + '17e358096ef31c75bb6bc6586a9b5946e2f52aee',
+    Var('webrtc_git') + '/src.git' + '@' + '0268a05fd04d345f96082caf9b20e1949e3290bb',
 
   # Wuffs' canonical repository is at github.com/google/wuffs, but we use
   # Skia's mirror of Wuffs, the same as in upstream Skia's DEPS file.
@@ -1973,7 +1973,7 @@ deps = {
     'packages': [
       {
         'package': 'chromeos_internal/apps/help_app/app',
-        'version': 'DM3voMv0YjydfnBz_Po89uGkVBb-5FyKJtfCehtp5EcC',
+        'version': 'ydtwfHOsVZOktExnR0LVAAzF5XGu2TxQ009hR4ep2fcC',
       },
     ],
     'condition': 'checkout_chromeos and checkout_src_internal',
@@ -1984,7 +1984,7 @@ deps = {
     'packages': [
       {
         'package': 'chromeos_internal/apps/media_app/app',
-        'version': 'aQGnlElXpARDVJqbNQhqp4OwRnKP6dNNcV0UfoG_BDgC',
+        'version': '42zk-N983bPLjVD5-de59KR6ha-yOSnRO30CYMzRjTQC',
       },
     ],
     'condition': 'checkout_chromeos and checkout_src_internal',
@@ -2017,7 +2017,7 @@ deps = {
     'packages': [
       {
         'package': 'chromeos_internal/apps/projector_app/app',
-        'version': 'W8wcIb4iPSQTFa99hvFZSSo575m70GTZMsBU85FA8mYC',
+        'version': 'S1pOLxk_3yoSyzzUfSdgQ0vvMmRLfG6yaKad41RPda0C',
       },
     ],
     'condition': 'checkout_chromeos and checkout_src_internal',
@@ -4096,7 +4096,7 @@ deps = {
 
   'src/ios_internal':  {
       'url': Var('chrome_git') + '/chrome/ios_internal.git' + '@' +
-        '2ada37c6ee8092f9886208e958ed1baacab8450b',
+        'd78d540fa9f71fd5ec09bb286f44fe9dbe498fff',
       'condition': 'checkout_ios and checkout_src_internal',
   },
 
