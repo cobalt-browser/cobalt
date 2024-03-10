@@ -55,7 +55,7 @@ Ezinye izici kungenzeka zingabi khona futhi izinguquko kokuncamelayo ngeke zize 
 <translation id="1812689907177901597">Ngokuvala lokhu, ungangena ngemvume kumasayithi e-Google njenge-Gmail ngaphandle kokungena ngemvume ku-Cobalt</translation>
 <translation id="1860536484129686729">I-Cobalt idinga imvume yokufinyelela kukhamera yakho kule sayithi</translation>
 <translation id="1873233029667955273">I-Cobalt akusona isiphequluli sakho esizenzakalelayo</translation>
-<translation id="1874309113135274312">I-beta yeGoogle Cobalt (mDNS-In)</translation>
+<translation id="1874309113135274312">I-beta yeCobalt (mDNS-In)</translation>
 <translation id="1877026089748256423">I-Cobalt ingaphandle kwedethi</translation>
 <translation id="1919130412786645364">Vumela ukungena ngemvume kwe-Cobalt</translation>
 <translation id="1953553007165777902">Iyadawuniloda... Kusele imizuzu engu-<ph name="MINUTE" /></translation>
@@ -315,7 +315,7 @@ I-Cobalt ayikwazi ukuthola izilungiselelo zakho.</translation>
 <translation id="6022659036123304283">Yenza i-Cobalt kube eyakho</translation>
 <translation id="6025087594896450715">I-Cobalt izoqala kabusha emizuzwaneni engu-<ph name="REMAINING_TIME" /></translation>
 <translation id="6040143037577758943">Vala</translation>
-<translation id="6070348360322141662">Ngokuvikela okungeziwe, i-Google Cobalt izobethela idatha yakho</translation>
+<translation id="6070348360322141662">Ngokuvikela okungeziwe, i-Cobalt izobethela idatha yakho</translation>
 <translation id="608006075545470555">Engeza Iphrofayela Yomsebenzi kulesi siphequluli</translation>
 <translation id="6113794647360055231">I-Cobalt isanda kuba ngcono</translation>
 <translation id="6145313976051292476">Vula ama-PDF ku-Cobalt</translation>
@@ -361,7 +361,7 @@ I-Cobalt ayikwazi ukuthola izilungiselelo zakho.</translation>
 <translation id="6933858244219479645">Isistimu ye-ChromeOS</translation>
 <translation id="6938166777909186039">Ukuze uthole izibuyekezo zesikhathi esizayo ze-Cobalt, uzodinga i-Windows 10 noma yakamuva. Le khompyutha isebenzisa i-Windows 8.1.</translation>
 <translation id="6943584222992551122">Idatha yokuphequlula yalo muntu izosuswa kusukela kule divayisi. Ukuze uphinde uthole idatha, ngena ngemvume ku-Cobalt njengo-<ph name="USER_EMAIL" />.</translation>
-<translation id="6967962315388095737">Umyalo wokubophezeleka ngaphakathi kwe-beta yeGoogle Cobalt ukuze kuvunyelwe ithrafikhi ye-mDNS.</translation>
+<translation id="6967962315388095737">Umyalo wokubophezeleka ngaphakathi kwe-beta yeCobalt ukuze kuvunyelwe ithrafikhi ye-mDNS.</translation>
 <translation id="6989339256997917931">I-Cobalt ibuyekeziwe, kodwa awukayisebenzisi ngokungenani izinsuku ezingu-30.</translation>
 <translation id="7011190694940573312">Ukufakwa kwehlulekile ngenxa yokuthi lolu hlobo lwesistimu yokusebenza alusekelwe.</translation>
 <translation id="7024536598735240744">Iphutha lokuvula: <ph name="UNPACK_ERROR" />.</translation>

@@ -105,7 +105,7 @@ suite('ThemeSnapshotTest', () => {
             '#classicChromeBackground img')!.getAttribute('aria-labelledby'),
         'classicChromeThemeTitle');
     assertEquals(
-        'Default Chrome',
+        'Default Cobalt Theme',
         $$(themeSnapshotElement,
            '.snapshot-container #classicChromeThemeTitle')!.textContent!
             .trim());

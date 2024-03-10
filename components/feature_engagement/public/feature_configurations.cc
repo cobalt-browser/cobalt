@@ -479,7 +479,7 @@ std::optional<FeatureConfig> GetClientSideFeatureConfig(
     config->valid = true;
     config->availability = Comparator(ANY, 0);
     config->session_rate = Comparator(ANY, 0);
-    // Used to increase the usage of Customize Chrome for users who have opened
+    // Used to increase the usage of Customize Cobalt for users who have opened
     // it 0 times in the last 360 days.
     config->used =
         EventConfig("customize_chrome_opened", Comparator(EQUAL, 0), 360, 360);

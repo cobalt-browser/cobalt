@@ -1008,7 +1008,7 @@ Permissions you've already given to websites and apps may apply to this account.
       <if expr="_is_chrome_for_testing_branded">
         <then>
           <message name="IDS_NTP_CUSTOMIZE_BUTTON_LABEL" desc="Label for button on the New Tab Page that opens dialog to customize Chrome for Testing browser.">
-            Customize Chrome for Testing
+            Customize Cobalt for Testing
           </message>
         </then>
         <else>

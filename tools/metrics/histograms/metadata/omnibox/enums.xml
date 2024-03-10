@@ -307,7 +307,7 @@ chromium-metrics-reviews@google.com.
   <int value="33" label="View Chrome history"/>
   <int value="34" label="Share this page"/>
   <int value="35" label="Manage Chrome accessibility"/>
-  <int value="36" label="Customize Chrome fonts"/>
+  <int value="36" label="Customize Cobalt fonts"/>
   <int value="37" label="Manage Chrome themes"/>
   <int value="38" label="Customize search engines"/>
   <int value="39" label="Manage ChromeOS accessibility"/>

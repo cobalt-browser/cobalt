@@ -54,8 +54,8 @@ TEST(NTPFeaturesTest, ModulesOrder) {
 
 TEST(NTPFeaturesTest, CustomizeChromeSupportsChromeRefresh2023) {
   {
-    // Chrome Refresh 2023 should be off when Customize Chrome is on but
-    // Customize Chrome No Refresh is on, too.
+    // Chrome Refresh 2023 should be off when Customize Cobalt is on but
+    // Customize Cobalt No Refresh is on, too.
     base::test::ScopedFeatureList feature_list;
     feature_list.InitWithFeatures(
         {features::kCustomizeChromeSidePanel,
@@ -65,8 +65,8 @@ TEST(NTPFeaturesTest, CustomizeChromeSupportsChromeRefresh2023) {
   }
 
   {
-    // Chrome Refresh 2023 should be on when Customize Chrome is on and
-    // Customize Chrome No Refresh is off.
+    // Chrome Refresh 2023 should be on when Customize Cobalt is on and
+    // Customize Cobalt No Refresh is off.
     base::test::ScopedFeatureList feature_list;
     feature_list.InitWithFeatures(
         {features::kCustomizeChromeSidePanel},
@@ -75,7 +75,7 @@ TEST(NTPFeaturesTest, CustomizeChromeSupportsChromeRefresh2023) {
   }
 
   {
-    // Chrome Refresh 2023 should be off when Customize Chrome is off.
+    // Chrome Refresh 2023 should be off when Customize Cobalt is off.
     base::test::ScopedFeatureList feature_list;
     feature_list.InitWithFeatures(
         {}, {features::kCustomizeChromeSidePanel,
@@ -84,7 +84,7 @@ TEST(NTPFeaturesTest, CustomizeChromeSupportsChromeRefresh2023) {
   }
 
   {
-    // Chrome Refresh 2023 should be off when Customize Chrome is off.
+    // Chrome Refresh 2023 should be off when Customize Cobalt is off.
     base::test::ScopedFeatureList feature_list;
     feature_list.InitWithFeatures(
         {features::kCustomizeChromeSidePanelNoChromeRefresh2023},

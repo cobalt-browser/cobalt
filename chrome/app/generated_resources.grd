@@ -1346,7 +1346,7 @@ are declared in tools/grit/grit_rule.gni.
           <message name="IDS_SEARCH_TABS" desc="The text label of the Search Tabs... menu item">
           Search tabs...
           </message>
-          <message name="IDS_CUSTOMIZE_CHROME" desc="The text label of the Customize Chrome menu item">
+          <message name="IDS_CUSTOMIZE_CHROME" desc="The text label of the Customize Cobalt menu item">
             C&amp;ustomize your Chrome
           </message>
           <message name="IDS_CLOSE_PROFILE" desc="The text label of the Close profile menu item with one or more windows currently opened [ICU Syntax]">
@@ -1495,7 +1495,7 @@ are declared in tools/grit/grit_rule.gni.
           <message name="IDS_SEARCH_TABS" desc="In Title Case:The text label of the Search Tabs... menu item">
           Search Tabs...
           </message>
-          <message name="IDS_CUSTOMIZE_CHROME" desc="In Title Case: The text label of the Customize Chrome menu item">
+          <message name="IDS_CUSTOMIZE_CHROME" desc="In Title Case: The text label of the Customize Cobalt menu item">
             C&amp;ustomize Your Chrome
           </message>
           <message name="IDS_CLOSE_PROFILE" desc="In Title Case: The text label of the Close profile menu item with one or more windows currently opened [ICU Syntax]">
@@ -7748,10 +7748,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_NTP_DOODLE_SHARE_DIALOG_LINK_LABEL" desc="The text label for the share link text area on the doodle sharing dialog.">
         Doodle Link
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_APPEARANCE_LABEL" desc="The label for the option to edit appearance in the Customize Chrome side panel.">
+      <message name="IDS_NTP_CUSTOMIZE_APPEARANCE_LABEL" desc="The label for the option to edit appearance in the Customize Cobalt side panel.">
         Appearance
       </message>
-      <message name="IDS_NTP_CUSTOMIZE_THEMES_HEADER" desc="The header for the page that lists theme categories in the Customize Chrome side panel.">
+      <message name="IDS_NTP_CUSTOMIZE_THEMES_HEADER" desc="The header for the page that lists theme categories in the Customize Cobalt side panel.">
         Themes
       </message>
       <message name="IDS_NTP_CUSTOMIZE_MENU_BACKGROUND_LABEL" desc="The label for the backgrounds option in the customization menu on the New Tab Page.">
@@ -7770,16 +7770,16 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Color and theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_NO_BACKGROUND_LABEL" desc="The label for the 'Default Chrome' tile in the customization menu on the New Tab Page">
-        Default Chrome
+        Default Cobalt Theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_COLORS_LABEL" desc="The label for the 'Chrome Colors' tile in the New Tab Page customize chrome side panel, which lists themes of colored default chrome.">
-        Chrome Colors
+        Cobalt Colors
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_CHANGE_THEME_LABEL" desc="The label for the action button for changing Chrome theme in the New Tab Page customize chrome side panel.">
         Change theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_RESET_TO_CLASSIC_CHROME_LABEL" desc="The label for the button for resetting theme back to default chrome in the New Tab Page customize chrome side panel.">
-        Reset to Default Chrome
+        Reset to Default Theme
       </message>
       <message name="IDS_NTP_CUSTOMIZE_CHROME_FOLLOW_THEME_LABEL" desc="The label for the toggle to use the system color scheme instead of that from the browser.">
         Follow device colors
@@ -8012,10 +8012,10 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_NTP_WALLPAPER_SEARCH_GENERIC_ERROR_TITLE" desc="The title of the generic error displayed when wallpaper search fails.">
         Something went wrong.
       </message>
-      <message name="IDS_NTP_WALLPAPER_SEARCH_TILE_LABEL" desc="Label for the wallpaper search tile in Customize Chrome Side Panel." >
+      <message name="IDS_NTP_WALLPAPER_SEARCH_TILE_LABEL" desc="Label for the wallpaper search tile in Customize Cobalt Side Panel." >
         Create with AI
       </message>
-      <message name="IDS_NTP_WALLPAPER_SEARCH_PAGE_HEADER" desc="Header for the wallpaper search page of Customize Chrome Side Panel." >
+      <message name="IDS_NTP_WALLPAPER_SEARCH_PAGE_HEADER" desc="Header for the wallpaper search page of Customize Cobalt Side Panel." >
         Create theme with AI
       </message>
       <message name="IDS_NTP_WALLPAPER_SEARCH_HISTORY_HEADER" desc="Header for the wallpaper search section for showing past themes." >
@@ -8195,13 +8195,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing suggested recipes based on your recent Search activity for recipes.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_RECIPE_EXTENDED_INFO" desc="Text shown in the body of the info dialog of the recipe module for Recipes V1.1.">
         You’re seeing recipes based on your recent Search activity for recipes.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_RECIPE_TASKS_SENTENCE" desc="Name of the recipe tasks module in sentence case shown in various UIs.">
         Recipe ideas
@@ -8252,7 +8252,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing carts that help you easily get back to items you left in shopping carts across the web.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_CART_ITEM_COUNT_SINGULAR" desc="Item count displayed on chrome cart module when there is a single item in a cart.">
         <ph name="ITEM_COUNT_ONE">$1<ex>1</ex></ph> item
@@ -8294,7 +8294,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing suggested files to help you easily get back to your most recent activity in Google Drive.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_PHOTOS_TITLE" desc="Title shown in the header of the photos module.">
         From your Google Photos
@@ -8321,7 +8321,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing photo and video highlights from your Google Photos library. You can control what shows up in your highlights at <ph name="BEGIN_LINK">&lt;a href="https://photos.google.com/settings?referrer=CHROME_NTP" target="_blank"&gt;</ph>photos.google.com/settings<ph name="END_LINK">&lt;/a&gt;</ph>.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings for this card from the card menu or see more options in Customize Chrome.
+        You can manage settings for this card from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_PHOTOS_MEMORIES_EXPLORE" desc="Text to encourage users to explore Google Photos in the new tab page.">
         Explore more of your memories in Google Photos
@@ -8463,7 +8463,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Pick cards that keep you updated on things that matter to you
       </message>
       <message name="IDS_NTP_MODULES_FIRST_RUN_EXPERIENCE_BODY_LINE_2" desc="Line 2 of Modular NTP Desktop v1 First Run Experience's body.">
-        See all card options in <ph name="BEGIN_LINK">&lt;a is="action-link" id="customizeChromeLink" tabIndex=0 on-click="onCustomizeModuleFre_"&gt;</ph>Customize Chrome<ph name="END_LINK">&lt;/a&gt;</ph>
+        See all card options in <ph name="BEGIN_LINK">&lt;a is="action-link" id="customizeChromeLink" tabIndex=0 on-click="onCustomizeModuleFre_"&gt;</ph>Customize Cobalt<ph name="END_LINK">&lt;/a&gt;</ph>
       </message>
       <message name="IDS_NTP_MODULES_FIRST_RUN_EXPERIENCE_OPT_IN" desc="Opt in button for Modular NTP Desktop v1 First Run Experience.">
         Got it
@@ -8493,13 +8493,13 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing pages you've visited and suggested searches to help you easily get back to your most recent activity.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_HISTORY_CLUSTERS_WITH_DISCOUNT_INFO" desc="Text shown in the body of the info dialog of the history clusters module when the cluster has available discount.">
         You’re seeing suggested searches and shopping discounts that might interest you based on your recent activity.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from this card anytime or see more options in Customize Chrome.
+        You can manage settings from this card anytime or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_HISTORY_CLUSTERS_SENTENCE2" desc="Variant of the name of the History Clusters module in sentence case shown in various UIs.">
         Journeys
@@ -8538,7 +8538,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         You’re seeing tabs from other devices to help you easily get back to your most recent activity.
         <ph name="BREAK">&lt;br&gt;</ph>
         <ph name="BREAK">&lt;br&gt;</ph>
-        You can manage settings from the card menu or see more options in Customize Chrome.
+        You can manage settings from the card menu or see more options in Customize Cobalt.
       </message>
       <message name="IDS_NTP_MODULES_TAB_RESUMPTION_SENTENCE" desc="Name of the tabs in the Tab Resumption module in sentence case shown in various UIs.">
         Tabs
@@ -8715,8 +8715,8 @@ Keep your key file in a safe place. You will need it to create new versions of y
       <message name="IDS_SIDE_PANEL_COMPANION_ERROR_PAGE_SECOND_LINE" desc="Text shown on the side panel for the companion feature when there is a network or other navigation error. The text suggests trying again later.">
         Please try again later
       </message>
-      <message name="IDS_SIDE_PANEL_CUSTOMIZE_CHROME_TITLE" desc="The name of the Customize Chrome feature in the side panel combo box.">
-        Customize Chrome
+      <message name="IDS_SIDE_PANEL_CUSTOMIZE_CHROME_TITLE" desc="The name of the Customize Cobalt feature in the side panel combo box.">
+        Customize Cobalt
       </message>
       <message name="IDS_SIDE_PANEL_TOOLBAR_BUTTON_CXMENU_UNPIN" desc="The label of the context menu item for unpinning a side panel toolbar button.">
         Unpin
@@ -9833,7 +9833,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Try using the side panel for bookmarks, journeys, and more
       </message>
 
-      <!-- Customize Chrome Refresh IPH Strings -->
+      <!-- Customize Cobalt Refresh IPH Strings -->
       <message name="IDS_IPH_CUSTOMIZE_CHROME_REFRESH_BODY" desc="The description of the body in the customize chrome refresh IPH">
         Chrome theme colors have been refreshed to work better for everyone, whether you’re in dark or light mode
       </message>
@@ -9844,9 +9844,9 @@ Keep your key file in a safe place. You will need it to create new versions of y
         Customize themes
       </message>
 
-      <!-- Customize Chrome Tutorial Strings -->
+      <!-- Customize Cobalt Tutorial Strings -->
       <message name="IDS_TUTORIAL_CUSTOMIZE_CHROME_START_TUTORIAL_IPH" desc="The description of the IPH to start the customize chrome tutorial">
-        Customize Chrome to give your browser a new look
+        Customize Cobalt to give your browser a new look
       </message>
       <message name="IDS_TUTORIAL_CUSTOMIZE_CHROME_OPEN_SIDE_PANEL" desc="The description of the 'open side panel' step in customize chrome tutorial">
         Click to customize Chrome
@@ -16345,19 +16345,19 @@ Please help our engineers fix this problem. Tell us what happened right before y
     <message name="IDS_TAB_GROUPS_SAVE_DESCRIPTION" desc="The description for the Tab Groups Save experiment.">
       Enables saving and recalling of tab groups. Right click a tab group to save it. Recall groups from the bookmarks bar.
     </message>
-    <!-- ChromeLabs Customize Chrome SidePanel-->
-    <message name="IDS_CUSTOMIZE_CHROME_SIDE_PANEL_EXPERIMENT_NAME" desc="The name for the Customize Chrome Side Panel experiment.">
-      Customize Chrome Side Panel
+    <!-- ChromeLabs Customize Cobalt SidePanel-->
+    <message name="IDS_CUSTOMIZE_CHROME_SIDE_PANEL_EXPERIMENT_NAME" desc="The name for the Customize Cobalt Side Panel experiment.">
+      Customize Cobalt Side Panel
     </message>
-    <message name="IDS_CUSTOMIZE_CHROME_SIDE_PANEL_DESCRIPTION" desc="The description for the Customize Chrome Side Panel experiment.">
-      Enables the ability to use Customize Chrome functionality from the unified side panel on the New Tab Page.
+    <message name="IDS_CUSTOMIZE_CHROME_SIDE_PANEL_DESCRIPTION" desc="The description for the Customize Cobalt Side Panel experiment.">
+      Enables the ability to use Customize Cobalt functionality from the unified side panel on the New Tab Page.
     </message>
     <!-- ChromeLabs ChromeRefresh2023-->
     <message name="IDS_CHROMEREFRESH2023_EXPERIMENT_NAME" desc="The name of the project for Chrome's desktop UI redesign.">
       Chrome Refresh 2023
     </message>
     <message name="IDS_CHROMEREFRESH2023_DESCRIPTION" desc="The description of the project for Chrome's desktop UI redesign.">
-      Enables the new desktop design. Customize Chrome Side Panel must also be enabled.
+      Enables the new desktop design. Customize Cobalt Side Panel must also be enabled.
     </message>
      <message name="IDS_CHROMEREFRESH2023_WITHOUT_OMNIBOX" desc="Indicates no omnibox design changes in Chrome's desktop UI redesign.">
       without Omnibox

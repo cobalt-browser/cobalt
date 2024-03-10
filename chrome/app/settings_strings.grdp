@@ -4402,6 +4402,6 @@
     Create themes with AI
   </message>
   <message name="IDS_SETTINGS_EXPERIMENTAL_ADVANCED_FEATURE3_SUBLABEL" desc="The secondary description for the create themes with AI feature.">
-    Creates custom themes based on the subject, mood, visual style, and color that you choose. To use this feature, open a new tab and click Customize Chrome.
+    Creates custom themes based on the subject, mood, visual style, and color that you choose. To use this feature, open a new tab and click Customize Cobalt.
   </message>
 </grit-part>

@@ -197,38 +197,38 @@ const char kCssGamutMappingDescription[] =
     "Enable experimental CSS gamut mapping implementation.";
 
 const char kCustomizeChromeColorExtractionName[] =
-    "Customize Chrome Color Extraction";
+    "Customize Cobalt Color Extraction";
 const char kCustomizeChromeColorExtractionDescription[] =
     "Enables setting theme color based on background image color when "
-    "background image is changed in New Tab Page Customize Chrome.";
+    "background image is changed in New Tab Page Customize Cobalt.";
 
 const char kCustomizeChromeSidePanelId[] = "customize-chrome-side-panel";
-const char kCustomizeChromeSidePanelName[] = "Customize Chrome Side Panel";
+const char kCustomizeChromeSidePanelName[] = "Customize Cobalt Side Panel";
 const char KCustomizeChromeSidePanelDescription[] =
-    "Enables the ability to use Customize Chrome functionality from the "
+    "Enables the ability to use Customize Cobalt functionality from the "
     "unified side panel on the New Tab Page.";
 
 const char kCustomizeChromeSidePanelExtensionsCardName[] =
-    "Customize Chrome Side Panel Extension Card";
+    "Customize Cobalt Side Panel Extension Card";
 const char kCustomizeChromeSidePanelExtensionsCardDescription[] =
-    "If enabled, shows an extension card within the Customize Chrome Side "
+    "If enabled, shows an extension card within the Customize Cobalt Side "
     "Panel for access to the Chrome Web Store extensions.";
 
 const char kCustomizeChromeWallpaperSearchName[] =
-    "Customize Chrome Wallpaper Search";
+    "Customize Cobalt Wallpaper Search";
 const char kCustomizeChromeWallpaperSearchDescription[] =
-    "Enables wallpaper search in Customize Chrome Side Panel.";
+    "Enables wallpaper search in Customize Cobalt Side Panel.";
 
 const char kCustomizeChromeWallpaperSearchButtonName[] =
-    "Customize Chrome Wallpaper Search Button";
+    "Customize Cobalt Wallpaper Search Button";
 const char kCustomizeChromeWallpaperSearchButtonDescription[] =
-    "Enables entry point on Customize Chrome Side Panel's Appearance page for "
+    "Enables entry point on Customize Cobalt Side Panel's Appearance page for "
     "Wallpaper Search.";
 
 const char kCustomizeChromeWallpaperSearchInspirationCardName[] =
-    "Customize Chrome Wallpaper Search Inspiration Card";
+    "Customize Cobalt Wallpaper Search Inspiration Card";
 const char kCustomizeChromeWallpaperSearchInspirationCardDescription[] =
-    "Shows inspiration card in Customize Chrome Side Panel Wallpaper Search. "
+    "Shows inspiration card in Customize Cobalt Side Panel Wallpaper Search. "
     "Requires #customize-chrome-wallpaper-search to be enabled too.";
 
 const char kWallpaperSearchSettingsVisibilityName[] =
@@ -816,7 +816,7 @@ const char kChromeLabsDescription[] =
 const char kChromeRefresh2023Id[] = "chrome-refresh-2023";
 const char kChromeRefresh2023Name[] = "Chrome Refresh 2023";
 const char kChromeRefresh2023Description[] =
-    "Enables the new desktop design. Customize Chrome Side Panel must also be "
+    "Enables the new desktop design. Customize Cobalt Side Panel must also be "
     "enabled.";
 
 const char kChromeWebuiRefresh2023Id[] = "chrome-webui-refresh-2023";
@@ -4858,7 +4858,7 @@ const char kMuteNotificationSnoozeActionDescription[] =
 const char kNtpAlphaBackgroundCollectionsName[] =
     "NTP Alpha Background Collections";
 const char kNtpAlphaBackgroundCollectionsDescription[] =
-    "Shows alpha NTP background collections in Customize Chrome.";
+    "Shows alpha NTP background collections in Customize Cobalt.";
 
 const char kNtpBackgroundImageErrorDetectionName[] =
     "NTP Background Image Error Detection";
@@ -5049,7 +5049,7 @@ const char kNtpSingleRowShortcutsDescription[] =
 
 const char kNtpWallpaperSearchButtonName[] = "NTP Wallpaper Search Button";
 const char kNtpWallpaperSearchButtonDescription[] =
-    "Enables entry point on New Tab Page for Customize Chrome Side Panel "
+    "Enables entry point on New Tab Page for Customize Cobalt Side Panel "
     "Wallpaper Search.";
 
 const char kNtpWallpaperSearchButtonAnimationName[] =

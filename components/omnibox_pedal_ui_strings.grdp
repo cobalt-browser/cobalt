@@ -434,7 +434,7 @@
   </message>
 
   <message name="IDS_OMNIBOX_PEDAL_MANAGE_CHROME_THEMES_HINT" desc="The button text contents to suggest pedal action, MANAGE_CHROME_THEMES">
-    Customize Chrome
+    Customize Cobalt
   </message>
   <message name="IDS_OMNIBOX_PEDAL_MANAGE_CHROME_THEMES_SUGGESTION_CONTENTS" desc="The button hover tooltip text to describe pedal action, MANAGE_CHROME_THEMES">
     Customize the look of your browser
@@ -443,7 +443,7 @@
     <ph name="MANAGE_CHROME_THEMES_FOCUSED_FRIENDLY_MATCH_TEXT">$1<ex>The Chromium Projects http://www.chromium.org bookmark</ex></ph>, Press tab then Enter to customize the look of your browser
   </message>
   <message name="IDS_ACC_OMNIBOX_PEDAL_MANAGE_CHROME_THEMES" desc="Announcement when pedal action button is focused, MANAGE_CHROME_THEMES">
-    Customize Chrome button, activate to customize the look of your browser
+    Customize Cobalt button, activate to customize the look of your browser
   </message>
 
   <message name="IDS_OMNIBOX_PEDAL_CUSTOMIZE_SEARCH_ENGINES_HINT" desc="The button text contents to suggest pedal action, CUSTOMIZE_SEARCH_ENGINES">

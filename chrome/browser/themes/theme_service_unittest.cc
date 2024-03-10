@@ -582,7 +582,7 @@ TEST_F(ThemeServiceTest, UseDefaultTheme_DisableExtensionTest) {
 
 // Test that setting theme to default resets the NTP theme as well.
 TEST_F(ThemeServiceTest, UseDefaultTheme_DisableNtpThemeTest) {
-  // Turn on Customize Chrome Side Panel.
+  // Turn on Customize Cobalt Side Panel.
   base::test::ScopedFeatureList scoped_feature_list;
   scoped_feature_list.InitAndEnableFeature(features::kCustomizeChromeSidePanel);
 

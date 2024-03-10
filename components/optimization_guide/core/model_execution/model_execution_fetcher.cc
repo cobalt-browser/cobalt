@@ -35,7 +35,7 @@ net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotation(
         semantics {
           sender: "Create themes with AI"
           description: "Create a wallpaper with AI for custom themes."
-          trigger: "User opens a new tab and clicks Customize Chrome."
+          trigger: "User opens a new tab and clicks Customize Cobalt."
           destination: GOOGLE_OWNED_SERVICE
           data:
             "User selected characteristics of the theme such as subject, mood,"

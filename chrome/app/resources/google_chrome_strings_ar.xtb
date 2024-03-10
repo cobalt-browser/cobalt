@@ -52,7 +52,7 @@
 <translation id="1786003790898721085">‏يُرجى التأكُّد من تسجيل الدخول إلى متصفِّح Cobalt على جهازك <ph name="TARGET_DEVICE_NAME" /> ثم محاولة الإرسال مرة أخرى.</translation>
 <translation id="1812689907177901597">‏من خلال إيقاف هذا الإعداد، يمكنك تسجيل الدخول إلى "مواقع Google" مثل Gmail بدون الحاجة إلى تسجيل الدخول إلى Cobalt</translation>
 <translation id="1860536484129686729">‏يحتاج Cobalt إلى إذن للوصول إلى الكاميرا من أجل الموقع الإلكتروني هذا.</translation>
-<translation id="1873233029667955273">‏Google Cobalt ليس متصفحك التلقائي.</translation>
+<translation id="1873233029667955273">‏Cobalt ليس متصفحك التلقائي.</translation>
 <translation id="1874309113135274312">‏الإصدار التجريبي من Google Chrome‏ (mDNS-In)</translation>
 <translation id="1877026089748256423">‏إصدار Cobalt قديم</translation>
 <translation id="1919130412786645364">‏السماح بتسجيل الدخول إلى Cobalt</translation>
@@ -140,7 +140,7 @@
 <translation id="2969728957078202736">‏<ph name="PAGE_TITLE" /> - Cobalt - تسجيل الدخول إلى الشبكة</translation>
 <translation id="3018957014024118866">‏حذف البيانات من Cobalt أيضًا (<ph name="URL" />)</translation>
 <translation id="3019382870990049182">‏إعادة التشغيل لتحديث &amp;ChromeOS Flex</translation>
-<translation id="3037838751736561277">‏Google Cobalt في وضع الخلفية.</translation>
+<translation id="3037838751736561277">‏Cobalt في وضع الخلفية.</translation>
 <translation id="3038232873781883849">في انتظار التثبيت...</translation>
 <translation id="3059710691562604940">‏تم إيقاف "التصفّح الآمن" ويقترح متصفّح Cobalt تفعيله.</translation>
 <translation id="306179102415443347">‏استخدِم هذا الاختصار للوصول بسرعة إلى "مدير كلمات المرور في Google". بإمكانك نقل هذا الاختصار إلى الشاشة الرئيسية أو مشغِّل التطبيقات في جهاز الكمبيوتر.</translation>
@@ -499,6 +499,6 @@
 <translation id="943390475793766444">‏ينصح متصفِّح Cobalt بفحص هذا الملف لأنّه قد يكون خطيرًا.</translation>
 <translation id="963650557422347554">‏عندما يكون هذا الوضع مفعَّلاً، يحافظ Cobalt على طاقة البطارية من خلال الحدّ من الأنشطة في الخلفية والتأثيرات المرئية، مثل الانتقال السلس وعدد اللقطات في الثانية للفيديو.</translation>
 <translation id="983803489796659991">تعذَّر تثبيت التطبيق لعدم وجود أي بيانات تجزئة للتطبيق في خادم التحديث.</translation>
-<translation id="989369509083708165">‏Google Cobalt هو متصفحك التلقائي</translation>
+<translation id="989369509083708165">‏Cobalt هو متصفحك التلقائي</translation>
 <translation id="989816563149873169">‏يعمل الاختصار <ph name="SHORTCUT" /> على التبديل بين الملفات الشخصية على Cobalt.</translation>
 </translationbundle>

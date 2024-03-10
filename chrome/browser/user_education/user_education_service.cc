@@ -15,7 +15,7 @@
 #include "components/user_education/common/user_education_features.h"
 
 const char kSidePanelCustomizeChromeTutorialId[] =
-    "Side Panel Customize Chrome Tutorial";
+    "Side Panel Customize Cobalt Tutorial";
 const char kTabGroupTutorialId[] = "Tab Group Tutorial";
 const char kSavedTabGroupTutorialId[] = "Saved Tab Group Tutorial";
 const char kSideSearchTutorialId[] = "Side Search Tutorial";

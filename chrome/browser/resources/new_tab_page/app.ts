@@ -71,7 +71,7 @@ export enum NtpElement {
 }
 
 /**
- * Customize Chrome entry points. This enum must match the numbering for
+ * Customize Cobalt entry points. This enum must match the numbering for
  * NtpCustomizeChromeEntryPoint in enums.xml. These values are persisted to
  * logs. Entries should not be renumbered, removed or reused.
  */
@@ -481,7 +481,7 @@ export class AppElement extends AppElementBase {
               }
             });
 
-    // Open Customize Chrome if there are Customize Chrome URL params.
+    // Open Customize Cobalt if there are Customize Cobalt URL params.
     if (this.showCustomize_) {
       this.setCustomizeChromeSidePanelVisible_(this.showCustomize_);
       recordCustomizeChromeOpen(NtpCustomizeChromeEntryPoint.URL);

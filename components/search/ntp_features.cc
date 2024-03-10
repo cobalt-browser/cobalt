@@ -25,29 +25,29 @@ BASE_FEATURE(kCacheOneGoogleBar,
              base::FEATURE_DISABLED_BY_DEFAULT);
 
 // If enabled, Chrome theme color will be set to match the NTP background
-// on NTP Customize Chrome background change.
+// on NTP Customize Cobalt background change.
 BASE_FEATURE(kCustomizeChromeColorExtraction,
              "CustomizeChromeColorExtraction",
              base::FEATURE_ENABLED_BY_DEFAULT);
 
-// If enabled, shows an extension card within the Customize Chrome Side
+// If enabled, shows an extension card within the Customize Cobalt Side
 // Panel for access to the Chrome Web Store extensions.
 BASE_FEATURE(kCustomizeChromeSidePanelExtensionsCard,
              "CustomizeChromeSidePanelExtensionsCard",
              base::FEATURE_DISABLED_BY_DEFAULT);
 
-// If enabled, shows wallpaper search within the Customize Chrome Side Panel.
+// If enabled, shows wallpaper search within the Customize Cobalt Side Panel.
 BASE_FEATURE(kCustomizeChromeWallpaperSearch,
              "CustomizeChromeWallpaperSearch",
              base::FEATURE_DISABLED_BY_DEFAULT);
 
-// If enabled, shows entry point on Customize Chrome Side Panel's Appearance
+// If enabled, shows entry point on Customize Cobalt Side Panel's Appearance
 // page for Wallpaper Search.";
 BASE_FEATURE(kCustomizeChromeWallpaperSearchButton,
              "CustomizeChromeWallpaperSearchButton",
              base::FEATURE_DISABLED_BY_DEFAULT);
 
-// If enabled, shows inspiration card in Customize Chrome Side Panel Wallpaper
+// If enabled, shows inspiration card in Customize Cobalt Side Panel Wallpaper
 // Search.
 BASE_FEATURE(kCustomizeChromeWallpaperSearchInspirationCard,
              "CustomizeChromeWallpaperSearchInspirationCard",
@@ -122,7 +122,7 @@ BASE_FEATURE(kRealboxUseGoogleGIcon,
              "NtpRealboxUseGoogleGIcon",
              base::FEATURE_DISABLED_BY_DEFAULT);
 
-// If enabled, alpha NTP backgrounds will show in Customize Chrome.
+// If enabled, alpha NTP backgrounds will show in Customize Cobalt.
 BASE_FEATURE(kNtpAlphaBackgroundCollections,
              "NtpAlphaBackgroundCollections",
              base::FEATURE_DISABLED_BY_DEFAULT);
@@ -412,7 +412,7 @@ BASE_FEATURE(kNtpTabResumptionModuleTimeLimit,
              "NtpTabResumptionModuleTimeLimit",
              base::FEATURE_DISABLED_BY_DEFAULT);
 
-// If enabled, shows entry point on New Tab Page for Customize Chrome Side Panel
+// If enabled, shows entry point on New Tab Page for Customize Cobalt Side Panel
 // Wallpaper Search.
 BASE_FEATURE(kNtpWallpaperSearchButton,
              "NtpWallpaperSearchButton",

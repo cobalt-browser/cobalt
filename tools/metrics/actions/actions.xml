@@ -41565,9 +41565,9 @@ should be able to be added at any place in this file.
   <suffix name="DeepScanPromptRemoval"
       label="For deep scan prompt removal feature."/>
   <suffix name="DefaultSiteView" label="For DefaultSiteView feature."/>
-  <suffix name="DesktopCustomizeChrome" label="For Customize Chrome feature."/>
+  <suffix name="DesktopCustomizeChrome" label="For Customize Cobalt feature."/>
   <suffix name="DesktopCustomizeChromeRefresh"
-      label="For Customize Chrome refresh feature."/>
+      label="For Customize Cobalt refresh feature."/>
   <suffix name="DesktopNewTabPageModulesCustomize"
       label="For Desktop NTP modules customize feature."/>
   <suffix name="DesktopPwaInstall" label="For desktop PWA install icon."/>

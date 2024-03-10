@@ -129,7 +129,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="3268051428841342958">V8 är Chromiums JavaScript- och WebAssembly-motor som används för att förbättra webbplatsens prestanda</translation>
 <translation id="3283186697780795848">Cobalt-version <ph name="PRODUCT_VERSION" /> har installerats</translation>
 <translation id="3286538390144397061">Starta om nu</translation>
-<translation id="328888136576916638">Googles API-nycklar saknas. Vissa funktioner i Google Cobalt kommer att vara inaktiverade.</translation>
+<translation id="328888136576916638">Googles API-nycklar saknas. Vissa funktioner i Cobalt kommer att vara inaktiverade.</translation>
 <translation id="3296368748942286671">Fortsätt köra bakgrundsappar när Cobalt avslutas</translation>
 <translation id="3313189106987092621">Cobalt varnar dig innan webbplatser med osäkra anslutningar läses in</translation>
 <translation id="3350761136195634146">Det finns redan en Cobalt-profil med detta konto</translation>

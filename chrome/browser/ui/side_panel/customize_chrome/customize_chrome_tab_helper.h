@@ -19,7 +19,7 @@ class CustomizeChromeTabHelper
     : public content::WebContentsUserData<CustomizeChromeTabHelper> {
  public:
   // This class delegates the responsibility for registering and deregistering
-  // the Customize Chrome side panel.
+  // the Customize Cobalt side panel.
   class Delegate {
    public:
     virtual void CreateAndRegisterEntry() = 0;

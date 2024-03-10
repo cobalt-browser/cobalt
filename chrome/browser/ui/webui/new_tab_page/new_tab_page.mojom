@@ -368,7 +368,7 @@ interface PageHandler {
 
 // WebUI-side handler for requests from the browser.
 interface Page {
-  // Sets Customize Chrome Side Panel visibility to |visible|.
+  // Sets Customize Cobalt Side Panel visibility to |visible|.
   SetCustomizeChromeSidePanelVisibility(bool visible);
   // Sets the current theme.
   SetTheme(Theme theme);

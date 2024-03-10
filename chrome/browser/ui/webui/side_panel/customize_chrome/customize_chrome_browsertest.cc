@@ -56,7 +56,7 @@ IN_PROC_BROWSER_TEST_F(CustomizeChromeSidePanelBrowserTest,
                        RegisterCustomizeChromeSidePanel) {
   auto* customize_chrome_tab_helper = GetTabHelper(browser());
 
-  // When navigating to the New Tab Page, the Customize Chrome entry should be
+  // When navigating to the New Tab Page, the Customize Cobalt entry should be
   // available
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(),
                                            GURL(chrome::kChromeUINewTabURL)));
@@ -71,7 +71,7 @@ IN_PROC_BROWSER_TEST_F(CustomizeChromeSidePanelBrowserTest,
 
 IN_PROC_BROWSER_TEST_F(CustomizeChromeSidePanelBrowserTest,
                        DeregisterCustomizeChromeSidePanel) {
-  // If the Customize Chrome side panel is open and you navigate away from the
+  // If the Customize Cobalt side panel is open and you navigate away from the
   // NTP the side panel entry should not be in the tabs' registry and the side
   // panel should not show the customize chrome entry
   auto* customize_chrome_tab_helper = GetTabHelper(browser());
@@ -88,7 +88,7 @@ IN_PROC_BROWSER_TEST_F(CustomizeChromeSidePanelBrowserTest,
 
 IN_PROC_BROWSER_TEST_F(CustomizeChromeSidePanelBrowserTest,
                        ContextualCustomizeChromeSidePanel) {
-  // The Customize Chrome side panel should be contextual, opening on one tab
+  // The Customize Cobalt side panel should be contextual, opening on one tab
   // should not open it on other tabs.
   AppendTab(browser(), GURL(chrome::kChromeUINewTabURL));
   AppendTab(browser(), GURL(chrome::kChromeUINewTabURL));

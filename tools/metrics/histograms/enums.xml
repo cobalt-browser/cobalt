@@ -2770,7 +2770,7 @@ media/base/android/media_drm_bridge.h. -->
   <int value="8" label="User selected the Chrome Refresh lab"/>
   <int value="9" label="User selected the Tab Groups Save lab"/>
   <int value="10" label="User selected the Chrome WebUI Refresh lab"/>
-  <int value="11" label="User selected the Customize Chrome Side Panel lab"/>
+  <int value="11" label="User selected the Customize Cobalt Side Panel lab"/>
 </enum>
 
 <enum name="ChromeOSHiddenUserPodsOfflineLogin">

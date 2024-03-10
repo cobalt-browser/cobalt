@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 /**
- * Customize Chrome actions. This enum must match the numbering for
+ * Customize Cobalt actions. This enum must match the numbering for
  * NTPCustomizeChromeSidePanelAction in enums.xml. These values are persisted
  * to logs. Entries should not be renumbered, removed or reused.
  *

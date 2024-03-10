@@ -75,7 +75,7 @@ void AddMaterialSidePanelColorMixer(ui::ColorProvider* provider,
   mixer[kColorSidePanelBookmarksSelectedFolderIcon] = {
       ui::kColorSysOnSurfaceSubtle};
 
-  /* Customize Chrome */
+  /* Customize Cobalt */
   mixer[kColorSidePanelCustomizeChromeClassicChromeTileBorder] = {
       ui::kColorSysTonalContainer};
   mixer[kColorSidePanelCustomizeChromeCornerNtpBorder] = {
@@ -110,7 +110,7 @@ void AddMaterialSidePanelColorMixer(ui::ColorProvider* provider,
       ui::kColorSysTonalContainer};
   mixer[kColorSidePanelCustomizeChromeWebStoreBorder] = {
       ui::kColorSysNeutralOutline};
-  /*Customize Chrome Wallpaper Search*/
+  /*Customize Cobalt Wallpaper Search*/
   mixer[kColorSidePanelWallpaperSearchErrorButtonBackground] = {
       ui::kColorSysTonalContainer};
   mixer[kColorSidePanelWallpaperSearchErrorButtonText] = {

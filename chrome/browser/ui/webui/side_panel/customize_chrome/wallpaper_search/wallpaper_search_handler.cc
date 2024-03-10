@@ -204,13 +204,13 @@ void WallpaperSearchHandler::GetDescriptors(GetDescriptorsCallback callback) {
       net::DefineNetworkTrafficAnnotation(
           "wallpaper_search_handler_descriptors_fetcher", R"(
         semantics {
-          sender: "Customize Chrome"
+          sender: "Customize Cobalt"
           description:
             "This service downloads the strings and/or images of "
-            "different search options for Customize Chrome's "
+            "different search options for Customize Cobalt's "
             "Wallpaper Search."
           trigger:
-            "Opening Customize Chrome on the Desktop NTP, "
+            "Opening Customize Cobalt on the Desktop NTP, "
             "if Google is the default search provider "
             "and the user is signed in."
           data: "Sends the locale of the user, "
@@ -267,12 +267,12 @@ void WallpaperSearchHandler::GetInspirations(GetInspirationsCallback callback) {
           "wallpaper_search_handler_inspirations_fetcher",
           R"(
         semantics {
-          sender: "Customize Chrome"
+          sender: "Customize Cobalt"
           description:
             "This service downloads example images and their descriptions "
-            "for Customize Chrome's Wallpaper Search."
+            "for Customize Cobalt's Wallpaper Search."
           trigger:
-            "Opening Customize Chrome on the Desktop NTP, "
+            "Opening Customize Cobalt on the Desktop NTP, "
             "if Google is the default search provider "
             "and the user is signed in."
           data: "Sends the locale of the user, "
@@ -435,14 +435,14 @@ void WallpaperSearchHandler::SetBackgroundToInspirationImage(
       net::DefineNetworkTrafficAnnotation(
           "wallpaper_search_handler_inspiration_image_downloader", R"(
         semantics {
-          sender: "Customize Chrome"
+          sender: "Customize Cobalt"
           description:
             "Downloads an image to customize Chrome's appearance "
             "i.e. change NTP background image and extract colors from the "
             "image to change Chrome's color."
           trigger:
             "Pressing an image under the category titled 'Inspiration' "
-            "in Customize Chrome on the Desktop NTP, "
+            "in Customize Cobalt on the Desktop NTP, "
             "if Google is the default search provider "
             "and the user is signed in."
           data: "This request does not send any user data."

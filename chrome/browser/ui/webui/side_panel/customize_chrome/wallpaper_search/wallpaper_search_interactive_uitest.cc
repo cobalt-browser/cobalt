@@ -291,10 +291,10 @@ IN_PROC_BROWSER_TEST_F(WallpaperSearchOptimizationGuideInteractiveTest,
   RunTestSequence(
       // 1. Open Wallpaper Search with the Wallpaper Search button.
       Steps(OpenNewTabPage(), OpenWallpaperSearchAt(kCustomizeChromeElementId)),
-      // 2. Close side panel with the Customize Chrome button.
+      // 2. Close side panel with the Customize Cobalt button.
       Steps(ClickElement(kNewTabPageElementId, kCustomizeChromeButton),
             WaitForHide(kCustomizeChromeSidePanelWebViewElementId)),
-      // 3. Reopen the side panel with the Customize Chrome button.
+      // 3. Reopen the side panel with the Customize Cobalt button.
       OpenCustomizeChromeAt(kReopenedCustomizeChromeElementId),
       // 4. Open the wallpaper search page by clicking the Wallpaper Search
       // button.

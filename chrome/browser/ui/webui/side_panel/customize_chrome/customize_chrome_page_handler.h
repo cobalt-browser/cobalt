@@ -36,7 +36,7 @@ class WebContents;
 class Profile;
 
 /**
- * Places where the chrome web store can be opened from in Customize Chrome.
+ * Places where the chrome web store can be opened from in Customize Cobalt.
  * This enum must match the numbering for NTPChromeWebStoreOpen in enums.xml.
  * These values are persisted to logs. Entries should not be renumbered, removed
  * or reused.

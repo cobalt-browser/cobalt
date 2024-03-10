@@ -2234,7 +2234,7 @@ inline constexpr char kNtpPromoVisible[] = "ntp.promo_visible";
 // List of ids for past wallpaper search themes.
 inline constexpr char kNtpWallpaperSearchHistory[] =
     "ntp.wallpaper_search_history";
-// Number of times the seed color has been changed via the Customize Chrome
+// Number of times the seed color has been changed via the Customize Cobalt
 // panel across NTP tabs. Incremented at most once per NTP tab.
 inline constexpr char kSeedColorChangeCount[] =
     "colorpicker.SeedColorChangeCount";

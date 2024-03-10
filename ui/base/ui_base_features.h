@@ -219,20 +219,20 @@ COMPONENT_EXPORT(UI_BASE_FEATURES) BASE_DECLARE_FEATURE(kLacrosColorManagement);
 COMPONENT_EXPORT(UI_BASE_FEATURES)
 bool IsLacrosColorManagementEnabled();
 
-// If enabled, Customize Chrome will be an option in the Unified Side Panel
+// If enabled, Customize Cobalt will be an option in the Unified Side Panel
 // when on the New Tab Page.
 COMPONENT_EXPORT(UI_BASE_FEATURES)
 BASE_DECLARE_FEATURE(kCustomizeChromeSidePanel);
 
 // If both kCustomizeChromeSidePanelNoChromeRefresh2023 and
-// kCustomizeChromeSidePanel are enabled, Customize Chrome will be an option in
+// kCustomizeChromeSidePanel are enabled, Customize Cobalt will be an option in
 // the Unified Side Panel when on the New Tab Page but Chrome Refresh 2023 will
-// be disabled. This state is useful in the Customize Chrome holdback
+// be disabled. This state is useful in the Customize Cobalt holdback
 // experiment.
 COMPONENT_EXPORT(UI_BASE_FEATURES)
 BASE_DECLARE_FEATURE(kCustomizeChromeSidePanelNoChromeRefresh2023);
 
-// Returns true if Customize Chrome is configured such that it supports Chrome
+// Returns true if Customize Cobalt is configured such that it supports Chrome
 // Refresh 2023.
 COMPONENT_EXPORT(UI_BASE_FEATURES)
 bool CustomizeChromeSupportsChromeRefresh2023();

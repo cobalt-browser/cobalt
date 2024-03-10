@@ -277,7 +277,7 @@ chromium-metrics-reviews@google.com.
 </enum>
 
 <enum name="NTPCustomizeChromeEntryPoint">
-  <int value="0" label="Customize Chrome button clicked."/>
+  <int value="0" label="Customize Cobalt button clicked."/>
   <int value="1" label="Customize module clicked."/>
   <int value="2" label="NTP URL has customize chrome parameters."/>
   <int value="3" label="Wallpaper search button clicked."/>
@@ -348,8 +348,8 @@ chromium-metrics-reviews@google.com.
   <int value="6" label="Middle Slot Promo"/>
   <int value="7" label="Module"/>
   <int value="8" label="Obsolete: Customize Dialog / Button"/>
-  <int value="9" label="Customize Chrome Button"/>
-  <int value="10" label="Customize Chrome Dialog"/>
+  <int value="9" label="Customize Cobalt Button"/>
+  <int value="10" label="Customize Cobalt Dialog"/>
   <int value="11" label="Wallpaper Search Button"/>
 </enum>
 
@@ -508,7 +508,7 @@ chromium-metrics-reviews@google.com.
   <int value="6" label="Open Password Manager"/>
   <int value="7" label="NoOp Command"/>
   <int value="8" label="Open Performance Settings"/>
-  <int value="9" label="Open New Tab Page and Start Customize Chrome Tutorial"/>
+  <int value="9" label="Open New Tab Page and Start Customize Cobalt Tutorial"/>
   <int value="10" label="Start Password Manager Tutorial"/>
   <int value="11" label="Start Saved Tab Group Tutorial"/>
   <int value="12" label="Open AI Settings"/>

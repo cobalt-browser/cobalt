@@ -352,7 +352,7 @@ chromium-metrics-reviews@google.com.
   <owner>pauladedeji@google.com</owner>
   <owner>chrome-desktop-ntp@google.com</owner>
   <summary>
-    Logs where a user opened the Chrome Web Store link from in Customize Chrome.
+    Logs where a user opened the Chrome Web Store link from in Customize Cobalt.
     Only logged on the 1P NTP. Note that even if the user has Google as their
     default search engine, Incognito and Guest mode NTPs are not considered 1P
     and don't log this histogram.
@@ -463,8 +463,8 @@ chromium-metrics-reviews@google.com.
   <owner>danpeng@google.com</owner>
   <owner>chrome-desktop-ntp@google.com</owner>
   <summary>
-    Captures calls to open Customize Chrome on the NTP. Calls can be made to
-    open Customize Chrome while it is already open. Opening Customize Chrome
+    Captures calls to open Customize Cobalt on the NTP. Calls can be made to
+    open Customize Cobalt while it is already open. Opening Customize Cobalt
     from inside the side panel is tracked by
     &quot;SidePanel.CustomizeChrome.ShowTriggered&quot;.
   </summary>
@@ -904,9 +904,9 @@ chromium-metrics-reviews@google.com.
     <variant name=".BackgroundImage"
         summary="background image set when user opens NTP"/>
     <variant name=".CollectionPreviewImage"
-        summary="collection preview image in Customize Chrome"/>
+        summary="collection preview image in Customize Cobalt"/>
     <variant name=".ThemePreviewImage"
-        summary="theme preview image in Customize Chrome"/>
+        summary="theme preview image in Customize Cobalt"/>
   </token>
 </histogram>
 
