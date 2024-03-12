@@ -19,3 +19,5 @@ Android WebView, Ash). Even if these products have multiple executables, the
 code should be in subdirectories of the product.
 
 If you found a bug, please file it at https://crbug.com/new.
+
+![Alt](https://repobeats.axiom.co/api/embed/b44b3507eb60a82a26b7108d923192e64fac7697.svg "Repobeats analytics image")
